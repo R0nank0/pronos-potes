@@ -1,0 +1,16 @@
+{
+  "id": "46",
+  "competition": "ligue1",
+  "year": "2019-2020",
+  "name": "Ligue 1 - 2019 / 2020",
+  "status": "ongoing",
+  "journees": 29,
+  "publishedJournees": 28,
+  "activeJournee": "28",
+  "totalMatches": 290,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.563Z",
+  "notes": "Saison COVID-19 - arrêtée prématurément",
+  "schema": "v2"
+}

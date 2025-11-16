@@ -1,0 +1,151 @@
+{
+  "season": "international-2011",
+  "generatedAt": "2025-11-07T15:38:42.614Z",
+  "totalRanked": 12,
+  "ranking": [
+    {
+      "userId": 119,
+      "username": "Viken",
+      "points": 75,
+      "pronostics": 26,
+      "bons1N2": 10,
+      "moyenne1N2": "2.5",
+      "exactScores": 3,
+      "tauxExactScores": "11.5",
+      "bestJournee": 3,
+      "rank": 1
+    },
+    {
+      "userId": 151,
+      "username": "Julian",
+      "points": 69,
+      "pronostics": 24,
+      "bons1N2": 10,
+      "moyenne1N2": "2.5",
+      "exactScores": 3,
+      "tauxExactScores": "12.5",
+      "bestJournee": 3,
+      "rank": 2
+    },
+    {
+      "userId": 139,
+      "username": "braor",
+      "points": 66,
+      "pronostics": 24,
+      "bons1N2": 9,
+      "moyenne1N2": "2.3",
+      "exactScores": 4,
+      "tauxExactScores": "16.7",
+      "bestJournee": 3,
+      "rank": 3
+    },
+    {
+      "userId": 160,
+      "username": "Freddy",
+      "points": 66,
+      "pronostics": 24,
+      "bons1N2": 10,
+      "moyenne1N2": "2.5",
+      "exactScores": 2,
+      "tauxExactScores": "8.3",
+      "bestJournee": 2,
+      "rank": 3
+    },
+    {
+      "userId": 63,
+      "username": "Ronanko",
+      "points": 63,
+      "pronostics": 26,
+      "bons1N2": 10,
+      "moyenne1N2": "2.5",
+      "exactScores": 1,
+      "tauxExactScores": "3.8",
+      "bestJournee": 3,
+      "rank": 5
+    },
+    {
+      "userId": 113,
+      "username": "servan roustand",
+      "points": 60,
+      "pronostics": 25,
+      "bons1N2": 8,
+      "moyenne1N2": "2.0",
+      "exactScores": 3,
+      "tauxExactScores": "12.0",
+      "bestJournee": 3,
+      "rank": 6
+    },
+    {
+      "userId": 95,
+      "username": "nanard",
+      "points": 54,
+      "pronostics": 21,
+      "bons1N2": 8,
+      "moyenne1N2": "2.0",
+      "exactScores": 1,
+      "tauxExactScores": "4.8",
+      "bestJournee": 3,
+      "rank": 7
+    },
+    {
+      "userId": 72,
+      "username": "Carlos64",
+      "points": 51,
+      "pronostics": 25,
+      "bons1N2": 8,
+      "moyenne1N2": "2.0",
+      "exactScores": 1,
+      "tauxExactScores": "4.0",
+      "bestJournee": 4,
+      "rank": 8
+    },
+    {
+      "userId": 146,
+      "username": "Neimad",
+      "points": 48,
+      "pronostics": 22,
+      "bons1N2": 7,
+      "moyenne1N2": "1.8",
+      "exactScores": 1,
+      "tauxExactScores": "4.5",
+      "bestJournee": 3,
+      "rank": 9
+    },
+    {
+      "userId": 73,
+      "username": "cyril",
+      "points": 42,
+      "pronostics": 25,
+      "bons1N2": 6,
+      "moyenne1N2": "1.5",
+      "exactScores": 1,
+      "tauxExactScores": "4.0",
+      "bestJournee": 2,
+      "rank": 10
+    },
+    {
+      "userId": 141,
+      "username": "Joquer",
+      "points": 42,
+      "pronostics": 19,
+      "bons1N2": 6,
+      "moyenne1N2": "1.5",
+      "exactScores": 1,
+      "tauxExactScores": "5.3",
+      "bestJournee": 3,
+      "rank": 10
+    },
+    {
+      "userId": 94,
+      "username": "Mirinko",
+      "points": 24,
+      "pronostics": 18,
+      "bons1N2": 3,
+      "moyenne1N2": "0.8",
+      "exactScores": 0,
+      "tauxExactScores": "0.0",
+      "bestJournee": 1,
+      "rank": 12
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9",
+  "competition": "ldc",
+  "year": "2010-2011",
+  "name": "Ligue des Champions 2010/2011",
+  "status": "ongoing",
+  "journees": 10,
+  "publishedJournees": 10,
+  "activeJournee": "10",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.557Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

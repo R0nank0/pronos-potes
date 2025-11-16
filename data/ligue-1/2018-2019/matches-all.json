@@ -1,0 +1,3810 @@
+{
+  "season": "ligue1-2018-2019",
+  "seasonId": "43",
+  "seasonName": "Ligue 1 - 2018 / 2019",
+  "totalMatches": 380,
+  "totalJournees": 38,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1001792,
+      "journee": 1,
+      "date": "2018-08-11 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Nîmes",
+      "homeScore": 3,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001793,
+      "journee": 1,
+      "date": "2018-08-11 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Guingamp",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001794,
+      "journee": 1,
+      "date": "2018-08-11 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001795,
+      "journee": 1,
+      "date": "2018-08-12 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001796,
+      "journee": 1,
+      "date": "2018-08-11 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Rennes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001797,
+      "journee": 1,
+      "date": "2018-08-11 20:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001798,
+      "journee": 1,
+      "date": "2018-08-11 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001799,
+      "journee": 1,
+      "date": "2018-08-10 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Toulouse",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001800,
+      "journee": 1,
+      "date": "2018-08-12 15:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Amiens",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001801,
+      "journee": 1,
+      "date": "2018-08-12 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Caen",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001802,
+      "journee": 2,
+      "date": "2018-08-18 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001803,
+      "journee": 2,
+      "date": "2018-08-18 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001804,
+      "journee": 2,
+      "date": "2018-08-18 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001805,
+      "journee": 2,
+      "date": "2018-08-18 17:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001806,
+      "journee": 2,
+      "date": "2018-08-19 21:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001807,
+      "journee": 2,
+      "date": "2018-08-19 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001808,
+      "journee": 2,
+      "date": "2018-08-18 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001809,
+      "journee": 2,
+      "date": "2018-08-17 20:45:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001810,
+      "journee": 2,
+      "date": "2018-08-18 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001811,
+      "journee": 2,
+      "date": "2018-08-19 17:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001812,
+      "journee": 3,
+      "date": "2018-08-25 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Reims",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001813,
+      "journee": 3,
+      "date": "2018-08-25 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001814,
+      "journee": 3,
+      "date": "2018-08-26 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001815,
+      "journee": 3,
+      "date": "2018-08-26 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Guingamp",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001816,
+      "journee": 3,
+      "date": "2018-08-25 20:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001817,
+      "journee": 3,
+      "date": "2018-08-25 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001818,
+      "journee": 3,
+      "date": "2018-08-26 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001819,
+      "journee": 3,
+      "date": "2018-08-24 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001820,
+      "journee": 3,
+      "date": "2018-08-25 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Angers",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001821,
+      "journee": 3,
+      "date": "2018-08-25 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nîmes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001822,
+      "journee": 4,
+      "date": "2018-09-01 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001823,
+      "journee": 4,
+      "date": "2018-09-02 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001824,
+      "journee": 4,
+      "date": "2018-09-02 15:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Amiens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001825,
+      "journee": 4,
+      "date": "2018-09-01 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001826,
+      "journee": 4,
+      "date": "2018-09-01 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001827,
+      "journee": 4,
+      "date": "2018-09-01 17:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001828,
+      "journee": 4,
+      "date": "2018-08-31 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001829,
+      "journee": 4,
+      "date": "2018-09-01 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001830,
+      "journee": 4,
+      "date": "2018-09-01 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001831,
+      "journee": 4,
+      "date": "2018-09-02 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001832,
+      "journee": 5,
+      "date": "2018-09-15 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001833,
+      "journee": 5,
+      "date": "2018-09-15 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001834,
+      "journee": 5,
+      "date": "2018-09-16 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001835,
+      "journee": 5,
+      "date": "2018-09-16 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nîmes",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001836,
+      "journee": 5,
+      "date": "2018-09-15 20:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001837,
+      "journee": 5,
+      "date": "2018-09-14 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001838,
+      "journee": 5,
+      "date": "2018-09-16 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Guingamp",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001839,
+      "journee": 5,
+      "date": "2018-09-14 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "St Etienne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001840,
+      "journee": 5,
+      "date": "2018-09-15 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001841,
+      "journee": 5,
+      "date": "2018-09-15 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001842,
+      "journee": 6,
+      "date": "2018-09-22 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001843,
+      "journee": 6,
+      "date": "2018-09-21 20:45:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nîmes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001844,
+      "journee": 6,
+      "date": "2018-09-22 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001845,
+      "journee": 6,
+      "date": "2018-09-23 17:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001846,
+      "journee": 6,
+      "date": "2018-09-22 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001847,
+      "journee": 6,
+      "date": "2018-09-22 20:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001848,
+      "journee": 6,
+      "date": "2018-09-23 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Marseille",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001849,
+      "journee": 6,
+      "date": "2018-09-22 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Amiens",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001850,
+      "journee": 6,
+      "date": "2018-09-22 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001851,
+      "journee": 6,
+      "date": "2018-09-23 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001852,
+      "journee": 7,
+      "date": "2018-09-26 19:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001853,
+      "journee": 7,
+      "date": "2018-09-25 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001854,
+      "journee": 7,
+      "date": "2018-09-26 19:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001855,
+      "journee": 7,
+      "date": "2018-09-25 19:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001856,
+      "journee": 7,
+      "date": "2018-09-26 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001857,
+      "journee": 7,
+      "date": "2018-09-26 19:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Guingamp",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001858,
+      "journee": 7,
+      "date": "2018-09-26 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Strasbourg",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001859,
+      "journee": 7,
+      "date": "2018-09-26 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Reims",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001860,
+      "journee": 7,
+      "date": "2018-09-26 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001861,
+      "journee": 7,
+      "date": "2018-09-25 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001862,
+      "journee": 8,
+      "date": "2018-09-29 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Guingamp",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001863,
+      "journee": 8,
+      "date": "2018-09-28 20:45:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001864,
+      "journee": 8,
+      "date": "2018-09-30 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001865,
+      "journee": 8,
+      "date": "2018-09-30 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nîmes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001866,
+      "journee": 8,
+      "date": "2018-09-29 17:15:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001867,
+      "journee": 8,
+      "date": "2018-09-29 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001868,
+      "journee": 8,
+      "date": "2018-09-29 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Dijon",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001869,
+      "journee": 8,
+      "date": "2018-09-29 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Amiens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001870,
+      "journee": 8,
+      "date": "2018-09-29 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001871,
+      "journee": 8,
+      "date": "2018-09-30 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001872,
+      "journee": 9,
+      "date": "2018-10-06 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001873,
+      "journee": 9,
+      "date": "2018-10-06 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001874,
+      "journee": 9,
+      "date": "2018-10-07 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001875,
+      "journee": 9,
+      "date": "2018-10-06 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001876,
+      "journee": 9,
+      "date": "2018-10-07 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001877,
+      "journee": 9,
+      "date": "2018-10-06 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001878,
+      "journee": 9,
+      "date": "2018-10-06 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001879,
+      "journee": 9,
+      "date": "2018-10-07 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001880,
+      "journee": 9,
+      "date": "2018-10-07 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lyon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001881,
+      "journee": 9,
+      "date": "2018-10-05 20:45:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001882,
+      "journee": 10,
+      "date": "2018-10-21 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001883,
+      "journee": 10,
+      "date": "2018-10-20 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001884,
+      "journee": 10,
+      "date": "2018-10-20 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Toulouse",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001885,
+      "journee": 10,
+      "date": "2018-10-21 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001886,
+      "journee": 10,
+      "date": "2018-10-21 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001887,
+      "journee": 10,
+      "date": "2018-10-19 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nîmes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001888,
+      "journee": 10,
+      "date": "2018-10-20 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Amiens",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001889,
+      "journee": 10,
+      "date": "2018-10-20 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001890,
+      "journee": 10,
+      "date": "2018-10-20 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Guingamp",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001891,
+      "journee": 10,
+      "date": "2018-10-20 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001892,
+      "journee": 11,
+      "date": "2018-10-27 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001893,
+      "journee": 11,
+      "date": "2018-10-27 17:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001894,
+      "journee": 11,
+      "date": "2018-10-27 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Dijon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001895,
+      "journee": 11,
+      "date": "2018-10-27 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001896,
+      "journee": 11,
+      "date": "2018-10-28 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001897,
+      "journee": 11,
+      "date": "2018-10-27 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001898,
+      "journee": 11,
+      "date": "2018-10-26 20:45:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001899,
+      "journee": 11,
+      "date": "2018-10-28 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001900,
+      "journee": 11,
+      "date": "2018-10-28 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001901,
+      "journee": 11,
+      "date": "2018-10-27 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001902,
+      "journee": 12,
+      "date": "2018-11-04 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Angers",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001903,
+      "journee": 12,
+      "date": "2018-11-03 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Nîmes",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001904,
+      "journee": 12,
+      "date": "2018-11-04 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Guingamp",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001905,
+      "journee": 12,
+      "date": "2018-11-04 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001906,
+      "journee": 12,
+      "date": "2018-11-03 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Amiens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001907,
+      "journee": 12,
+      "date": "2018-11-03 17:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001908,
+      "journee": 12,
+      "date": "2018-11-02 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001909,
+      "journee": 12,
+      "date": "2018-11-03 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001910,
+      "journee": 12,
+      "date": "2018-11-03 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001911,
+      "journee": 12,
+      "date": "2018-11-03 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001912,
+      "journee": 13,
+      "date": "2018-11-10 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001913,
+      "journee": 13,
+      "date": "2018-11-11 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001914,
+      "journee": 13,
+      "date": "2018-11-10 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001915,
+      "journee": 13,
+      "date": "2018-11-10 17:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001916,
+      "journee": 13,
+      "date": "2018-11-11 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001917,
+      "journee": 13,
+      "date": "2018-11-09 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001918,
+      "journee": 13,
+      "date": "2018-11-10 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001919,
+      "journee": 13,
+      "date": "2018-11-11 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Dijon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001920,
+      "journee": 13,
+      "date": "2018-11-11 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001921,
+      "journee": 13,
+      "date": "2018-11-10 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Amiens",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001922,
+      "journee": 14,
+      "date": "2018-11-25 21:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001923,
+      "journee": 14,
+      "date": "2018-11-24 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001924,
+      "journee": 14,
+      "date": "2018-11-24 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001925,
+      "journee": 14,
+      "date": "2018-11-25 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001926,
+      "journee": 14,
+      "date": "2018-11-25 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001927,
+      "journee": 14,
+      "date": "2018-11-23 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001928,
+      "journee": 14,
+      "date": "2018-11-24 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001929,
+      "journee": 14,
+      "date": "2018-11-24 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nîmes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001930,
+      "journee": 14,
+      "date": "2018-11-24 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001931,
+      "journee": 14,
+      "date": "2018-11-24 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Guingamp",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001932,
+      "journee": 15,
+      "date": "2018-12-01 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001933,
+      "journee": 15,
+      "date": "2018-12-01 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001934,
+      "journee": 15,
+      "date": "2018-11-30 20:45:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001935,
+      "journee": 15,
+      "date": "2018-12-01 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001936,
+      "journee": 15,
+      "date": "2018-12-02 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001937,
+      "journee": 15,
+      "date": "2018-12-01 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001938,
+      "journee": 15,
+      "date": "2018-12-01 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Amiens",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001939,
+      "journee": 15,
+      "date": "2018-12-02 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001940,
+      "journee": 15,
+      "date": "2018-12-02 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001941,
+      "journee": 15,
+      "date": "2018-12-02 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Dijon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001942,
+      "journee": 16,
+      "date": "2018-12-04 19:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001943,
+      "journee": 16,
+      "date": "2018-12-05 19:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Guingamp",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001944,
+      "journee": 16,
+      "date": "2018-12-05 19:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001945,
+      "journee": 16,
+      "date": "2018-12-05 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001946,
+      "journee": 16,
+      "date": "2018-12-04 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001947,
+      "journee": 16,
+      "date": "2018-12-04 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001948,
+      "journee": 16,
+      "date": "2018-12-05 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001949,
+      "journee": 16,
+      "date": "2018-12-05 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001950,
+      "journee": 16,
+      "date": "2018-12-05 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Nîmes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001951,
+      "journee": 16,
+      "date": "2018-12-05 19:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001952,
+      "journee": 17,
+      "date": "2019-01-15 19:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001953,
+      "journee": 17,
+      "date": "2019-01-16 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001954,
+      "journee": 17,
+      "date": "2019-01-16 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001955,
+      "journee": 17,
+      "date": "2018-12-08 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Amiens",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001956,
+      "journee": 17,
+      "date": "2018-12-09 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001957,
+      "journee": 17,
+      "date": "2019-01-16 19:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001958,
+      "journee": 17,
+      "date": "2019-02-20 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Montpellier",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001959,
+      "journee": 17,
+      "date": "2018-12-09 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001960,
+      "journee": 17,
+      "date": "2018-12-08 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Dijon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001961,
+      "journee": 17,
+      "date": "2019-01-16 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001962,
+      "journee": 18,
+      "date": "2019-01-08 19:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001963,
+      "journee": 18,
+      "date": "2019-03-12 19:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001964,
+      "journee": 18,
+      "date": "2019-01-16 19:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001965,
+      "journee": 18,
+      "date": "2019-01-08 19:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001966,
+      "journee": 18,
+      "date": "2018-12-16 15:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001967,
+      "journee": 18,
+      "date": "2018-12-16 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001968,
+      "journee": 18,
+      "date": "2019-02-05 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001969,
+      "journee": 18,
+      "date": "2018-12-16 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Monaco",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001970,
+      "journee": 18,
+      "date": "2018-12-18 19:30:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001971,
+      "journee": 18,
+      "date": "2018-12-15 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001972,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001973,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Guingamp",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001974,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Dijon",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001975,
+      "journee": 19,
+      "date": "2018-12-23 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Amiens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001976,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001977,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001978,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001979,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001980,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001981,
+      "journee": 19,
+      "date": "2018-12-22 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nîmes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001982,
+      "journee": 20,
+      "date": "2019-01-12 17:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001983,
+      "journee": 20,
+      "date": "2019-01-13 17:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001984,
+      "journee": 20,
+      "date": "2019-01-12 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001985,
+      "journee": 20,
+      "date": "2019-01-13 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001986,
+      "journee": 20,
+      "date": "2019-01-23 19:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Angers",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001987,
+      "journee": 20,
+      "date": "2019-01-12 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001988,
+      "journee": 20,
+      "date": "2019-01-13 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001989,
+      "journee": 20,
+      "date": "2019-01-11 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001990,
+      "journee": 20,
+      "date": "2019-01-11 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001991,
+      "journee": 20,
+      "date": "2019-01-13 17:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001992,
+      "journee": 21,
+      "date": "2019-01-20 17:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001993,
+      "journee": 21,
+      "date": "2019-01-19 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1001994,
+      "journee": 21,
+      "date": "2019-01-20 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001995,
+      "journee": 21,
+      "date": "2019-01-20 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001996,
+      "journee": 21,
+      "date": "2019-01-18 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Amiens",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001997,
+      "journee": 21,
+      "date": "2019-01-19 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001998,
+      "journee": 21,
+      "date": "2019-01-19 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Guingamp",
+      "homeScore": 9,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001999,
+      "journee": 21,
+      "date": "2019-01-20 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002000,
+      "journee": 21,
+      "date": "2019-01-19 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002001,
+      "journee": 21,
+      "date": "2019-01-20 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002002,
+      "journee": 22,
+      "date": "2019-01-27 17:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002003,
+      "journee": 22,
+      "date": "2019-01-26 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002004,
+      "journee": 22,
+      "date": "2019-01-26 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002005,
+      "journee": 22,
+      "date": "2019-01-30 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002006,
+      "journee": 22,
+      "date": "2019-01-27 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002007,
+      "journee": 22,
+      "date": "2019-01-26 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Nîmes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002008,
+      "journee": 22,
+      "date": "2019-01-25 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002009,
+      "journee": 22,
+      "date": "2019-01-27 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Rennes",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002010,
+      "journee": 22,
+      "date": "2019-01-26 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002011,
+      "journee": 22,
+      "date": "2019-01-27 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002012,
+      "journee": 23,
+      "date": "2019-02-02 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002013,
+      "journee": 23,
+      "date": "2019-02-02 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002014,
+      "journee": 23,
+      "date": "2019-02-13 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002015,
+      "journee": 23,
+      "date": "2019-02-20 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Guingamp",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002016,
+      "journee": 23,
+      "date": "2019-02-01 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nice",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002017,
+      "journee": 23,
+      "date": "2019-02-03 15:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002018,
+      "journee": 23,
+      "date": "2019-02-03 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002019,
+      "journee": 23,
+      "date": "2019-02-13 19:30:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002020,
+      "journee": 23,
+      "date": "2019-02-02 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002021,
+      "journee": 23,
+      "date": "2019-02-02 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Amiens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002022,
+      "journee": 24,
+      "date": "2019-02-09 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002023,
+      "journee": 24,
+      "date": "2019-02-08 20:45:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002024,
+      "journee": 24,
+      "date": "2019-02-10 17:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002025,
+      "journee": 24,
+      "date": "2019-02-10 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Nîmes",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002026,
+      "journee": 24,
+      "date": "2019-02-10 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002027,
+      "journee": 24,
+      "date": "2019-02-10 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002028,
+      "journee": 24,
+      "date": "2019-02-09 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002029,
+      "journee": 24,
+      "date": "2019-02-09 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002030,
+      "journee": 24,
+      "date": "2019-02-10 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002031,
+      "journee": 24,
+      "date": "2019-02-10 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002032,
+      "journee": 25,
+      "date": "2019-02-16 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002033,
+      "journee": 25,
+      "date": "2019-02-16 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002034,
+      "journee": 25,
+      "date": "2019-02-17 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002035,
+      "journee": 25,
+      "date": "2019-02-17 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002036,
+      "journee": 25,
+      "date": "2019-02-17 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002037,
+      "journee": 25,
+      "date": "2019-02-15 19:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Dijon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002038,
+      "journee": 25,
+      "date": "2019-02-16 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Amiens",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002039,
+      "journee": 25,
+      "date": "2019-02-15 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Guingamp",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002040,
+      "journee": 25,
+      "date": "2019-02-17 15:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002041,
+      "journee": 25,
+      "date": "2019-02-17 17:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002042,
+      "journee": 26,
+      "date": "2019-02-23 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002043,
+      "journee": 26,
+      "date": "2019-02-24 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002044,
+      "journee": 26,
+      "date": "2019-02-22 19:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002045,
+      "journee": 26,
+      "date": "2019-02-23 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002046,
+      "journee": 26,
+      "date": "2019-02-24 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002047,
+      "journee": 26,
+      "date": "2019-02-24 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002048,
+      "journee": 26,
+      "date": "2019-02-23 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nîmes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002049,
+      "journee": 26,
+      "date": "2019-02-22 20:45:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002050,
+      "journee": 26,
+      "date": "2019-02-24 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002051,
+      "journee": 26,
+      "date": "2019-02-24 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002052,
+      "journee": 27,
+      "date": "2019-03-02 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002053,
+      "journee": 27,
+      "date": "2019-03-03 15:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002054,
+      "journee": 27,
+      "date": "2019-03-05 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002055,
+      "journee": 27,
+      "date": "2019-03-03 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002056,
+      "journee": 27,
+      "date": "2019-04-09 19:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Rennes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002057,
+      "journee": 27,
+      "date": "2019-03-03 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002058,
+      "journee": 27,
+      "date": "2019-03-03 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002059,
+      "journee": 27,
+      "date": "2019-03-03 17:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Toulouse",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002060,
+      "journee": 27,
+      "date": "2019-03-02 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002061,
+      "journee": 27,
+      "date": "2019-03-02 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Amiens",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002062,
+      "journee": 28,
+      "date": "2019-03-09 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Nîmes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002063,
+      "journee": 28,
+      "date": "2019-03-09 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002064,
+      "journee": 28,
+      "date": "2019-03-10 15:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002065,
+      "journee": 28,
+      "date": "2019-03-09 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002066,
+      "journee": 28,
+      "date": "2019-04-17 19:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002067,
+      "journee": 28,
+      "date": "2019-03-10 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002068,
+      "journee": 28,
+      "date": "2019-03-10 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002069,
+      "journee": 28,
+      "date": "2019-03-09 17:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002070,
+      "journee": 28,
+      "date": "2019-03-10 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Caen",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002071,
+      "journee": 28,
+      "date": "2019-03-10 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Guingamp",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002072,
+      "journee": 29,
+      "date": "2019-03-16 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Amiens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002073,
+      "journee": 29,
+      "date": "2019-03-16 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002074,
+      "journee": 29,
+      "date": "2019-03-17 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002075,
+      "journee": 29,
+      "date": "2019-03-15 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002076,
+      "journee": 29,
+      "date": "2019-03-16 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002077,
+      "journee": 29,
+      "date": "2019-03-15 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002078,
+      "journee": 29,
+      "date": "2019-03-17 14:30:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002079,
+      "journee": 29,
+      "date": "2019-03-17 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002080,
+      "journee": 29,
+      "date": "2019-03-16 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1002081,
+      "journee": 29,
+      "date": "2019-03-17 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002082,
+      "journee": 30,
+      "date": "2019-03-31 15:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002083,
+      "journee": 30,
+      "date": "2019-03-31 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002084,
+      "journee": 30,
+      "date": "2019-04-01 20:30:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nîmes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002085,
+      "journee": 30,
+      "date": "2019-03-31 15:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002086,
+      "journee": 30,
+      "date": "2019-03-31 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002087,
+      "journee": 30,
+      "date": "2019-04-03 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Guingamp",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002088,
+      "journee": 30,
+      "date": "2019-03-30 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002089,
+      "journee": 30,
+      "date": "2019-04-03 19:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Reims",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002090,
+      "journee": 30,
+      "date": "2019-03-29 20:45:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002091,
+      "journee": 30,
+      "date": "2019-03-31 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002092,
+      "journee": 31,
+      "date": "2019-04-06 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002093,
+      "journee": 31,
+      "date": "2019-04-06 20:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Rennes",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002094,
+      "journee": 31,
+      "date": "2019-04-06 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002095,
+      "journee": 31,
+      "date": "2019-04-05 20:45:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002096,
+      "journee": 31,
+      "date": "2019-04-06 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002097,
+      "journee": 31,
+      "date": "2019-04-07 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002098,
+      "journee": 31,
+      "date": "2019-04-06 17:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002099,
+      "journee": 31,
+      "date": "2019-04-07 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002100,
+      "journee": 31,
+      "date": "2019-04-07 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002101,
+      "journee": 31,
+      "date": "2019-04-07 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002102,
+      "journee": 32,
+      "date": "2019-04-13 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002103,
+      "journee": 32,
+      "date": "2019-04-14 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002104,
+      "journee": 32,
+      "date": "2019-04-12 19:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Amiens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002105,
+      "journee": 32,
+      "date": "2019-04-12 20:45:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002106,
+      "journee": 32,
+      "date": "2019-04-14 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002107,
+      "journee": 32,
+      "date": "2019-04-14 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002108,
+      "journee": 32,
+      "date": "2019-04-13 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nîmes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002109,
+      "journee": 32,
+      "date": "2019-04-13 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Guingamp",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002110,
+      "journee": 32,
+      "date": "2019-04-13 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002111,
+      "journee": 32,
+      "date": "2019-04-14 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002112,
+      "journee": 33,
+      "date": "2019-04-19 19:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Rennes",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002113,
+      "journee": 33,
+      "date": "2019-04-20 17:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002114,
+      "journee": 33,
+      "date": "2019-04-21 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Amiens",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002115,
+      "journee": 33,
+      "date": "2019-04-20 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002116,
+      "journee": 33,
+      "date": "2019-04-20 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002117,
+      "journee": 33,
+      "date": "2019-04-19 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002118,
+      "journee": 33,
+      "date": "2019-04-21 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Monaco",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002119,
+      "journee": 33,
+      "date": "2019-04-20 20:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002120,
+      "journee": 33,
+      "date": "2019-04-21 17:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002121,
+      "journee": 33,
+      "date": "2019-04-21 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002122,
+      "journee": 34,
+      "date": "2019-04-28 15:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002123,
+      "journee": 34,
+      "date": "2019-04-28 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002124,
+      "journee": 34,
+      "date": "2019-04-28 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002125,
+      "journee": 34,
+      "date": "2019-04-26 20:45:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002126,
+      "journee": 34,
+      "date": "2019-04-28 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nîmes",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002127,
+      "journee": 34,
+      "date": "2019-04-30 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002128,
+      "journee": 34,
+      "date": "2019-04-28 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Guingamp",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002129,
+      "journee": 34,
+      "date": "2019-04-28 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002130,
+      "journee": 34,
+      "date": "2019-04-28 15:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002131,
+      "journee": 34,
+      "date": "2019-05-01 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002132,
+      "journee": 35,
+      "date": "2019-05-05 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002133,
+      "journee": 35,
+      "date": "2019-05-04 20:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002134,
+      "journee": 35,
+      "date": "2019-05-05 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Dijon",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002135,
+      "journee": 35,
+      "date": "2019-05-04 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002136,
+      "journee": 35,
+      "date": "2019-05-05 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Amiens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002137,
+      "journee": 35,
+      "date": "2019-05-05 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002138,
+      "journee": 35,
+      "date": "2019-05-04 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002139,
+      "journee": 35,
+      "date": "2019-05-03 20:45:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002140,
+      "journee": 35,
+      "date": "2019-05-04 20:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Nîmes",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002141,
+      "journee": 35,
+      "date": "2019-05-05 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002142,
+      "journee": 36,
+      "date": "2019-05-11 20:00:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002143,
+      "journee": 36,
+      "date": "2019-05-11 17:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002144,
+      "journee": 36,
+      "date": "2019-05-10 20:45:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002145,
+      "journee": 36,
+      "date": "2019-05-11 20:00:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002146,
+      "journee": 36,
+      "date": "2019-05-12 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002147,
+      "journee": 36,
+      "date": "2019-05-11 20:00:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002148,
+      "journee": 36,
+      "date": "2019-05-11 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002149,
+      "journee": 36,
+      "date": "2019-05-12 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002150,
+      "journee": 36,
+      "date": "2019-05-11 20:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Reims",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002151,
+      "journee": 36,
+      "date": "2019-05-12 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Guingamp",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002152,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Amiens",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002153,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002154,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Nîmes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002155,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002156,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Angers",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002157,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002158,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Caen",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002159,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Dijon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002160,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002161,
+      "journee": 37,
+      "date": "2019-05-18 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1002162,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Amiens",
+      "awayTeam": "Guingamp",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002163,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Angers",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002164,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Dijon",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002165,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002166,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Nîmes",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1002167,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002168,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002169,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002170,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002171,
+      "journee": 38,
+      "date": "2019-05-24 21:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    }
+  ]
+}

@@ -1,0 +1,3810 @@
+{
+  "season": "ligue1-2021-2022",
+  "seasonId": "54",
+  "seasonName": "Ligue 1 - 2021 / 2022",
+  "totalMatches": 380,
+  "totalJournees": 38,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1004847,
+      "journee": 1,
+      "date": "2021-08-08 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004848,
+      "journee": 1,
+      "date": "2021-08-07 17:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004849,
+      "journee": 1,
+      "date": "2021-08-08 17:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lille",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004850,
+      "journee": 1,
+      "date": "2021-08-06 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004851,
+      "journee": 1,
+      "date": "2021-08-08 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004852,
+      "journee": 1,
+      "date": "2021-08-08 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004853,
+      "journee": 1,
+      "date": "2021-08-08 13:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004854,
+      "journee": 1,
+      "date": "2021-08-08 15:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004855,
+      "journee": 1,
+      "date": "2021-08-08 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004856,
+      "journee": 1,
+      "date": "2021-08-07 21:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004857,
+      "journee": 2,
+      "date": "2021-08-15 13:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004858,
+      "journee": 2,
+      "date": "2021-08-15 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004859,
+      "journee": 2,
+      "date": "2021-08-15 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004860,
+      "journee": 2,
+      "date": "2021-08-15 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004861,
+      "journee": 2,
+      "date": "2021-08-14 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1004862,
+      "journee": 2,
+      "date": "2021-08-13 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004863,
+      "journee": 2,
+      "date": "2021-08-15 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004864,
+      "journee": 2,
+      "date": "2021-08-15 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004865,
+      "journee": 2,
+      "date": "2021-08-14 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Strasbourg",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004866,
+      "journee": 2,
+      "date": "2021-08-15 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004867,
+      "journee": 3,
+      "date": "2021-08-22 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004868,
+      "journee": 3,
+      "date": "2021-08-20 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1004869,
+      "journee": 3,
+      "date": "2021-08-22 13:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004870,
+      "journee": 3,
+      "date": "2021-08-22 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004871,
+      "journee": 3,
+      "date": "2021-08-21 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004872,
+      "journee": 3,
+      "date": "2021-08-22 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004873,
+      "journee": 3,
+      "date": "2021-10-27 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004874,
+      "journee": 3,
+      "date": "2021-08-22 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004875,
+      "journee": 3,
+      "date": "2021-08-21 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004876,
+      "journee": 3,
+      "date": "2021-08-22 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004877,
+      "journee": 4,
+      "date": "2021-08-29 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004878,
+      "journee": 4,
+      "date": "2021-08-29 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004879,
+      "journee": 4,
+      "date": "2021-08-29 15:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004880,
+      "journee": 4,
+      "date": "2021-08-29 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004881,
+      "journee": 4,
+      "date": "2021-08-28 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004882,
+      "journee": 4,
+      "date": "2021-08-27 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004883,
+      "journee": 4,
+      "date": "2021-08-28 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Bordeaux",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004884,
+      "journee": 4,
+      "date": "2021-08-29 20:45:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004885,
+      "journee": 4,
+      "date": "2021-08-29 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Brest",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004886,
+      "journee": 4,
+      "date": "2021-08-29 13:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004887,
+      "journee": 5,
+      "date": "2021-09-12 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004888,
+      "journee": 5,
+      "date": "2021-09-12 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004889,
+      "journee": 5,
+      "date": "2021-09-10 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004890,
+      "journee": 5,
+      "date": "2021-09-12 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Strasbourg",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004891,
+      "journee": 5,
+      "date": "2021-09-12 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Troyes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004892,
+      "journee": 5,
+      "date": "2021-09-11 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004893,
+      "journee": 5,
+      "date": "2021-09-12 13:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004894,
+      "journee": 5,
+      "date": "2021-09-12 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004895,
+      "journee": 5,
+      "date": "2021-09-11 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004896,
+      "journee": 5,
+      "date": "2021-09-12 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004897,
+      "journee": 6,
+      "date": "2021-09-19 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1004898,
+      "journee": 6,
+      "date": "2021-09-19 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004899,
+      "journee": 6,
+      "date": "2021-09-18 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004900,
+      "journee": 6,
+      "date": "2021-09-19 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004901,
+      "journee": 6,
+      "date": "2021-09-19 13:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004902,
+      "journee": 6,
+      "date": "2021-09-19 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004903,
+      "journee": 6,
+      "date": "2021-09-19 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004904,
+      "journee": 6,
+      "date": "2021-09-18 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004905,
+      "journee": 6,
+      "date": "2021-09-17 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Metz",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004906,
+      "journee": 6,
+      "date": "2021-09-19 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004907,
+      "journee": 7,
+      "date": "2021-09-22 21:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004908,
+      "journee": 7,
+      "date": "2021-09-22 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004909,
+      "journee": 7,
+      "date": "2021-09-22 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004910,
+      "journee": 7,
+      "date": "2021-09-22 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004911,
+      "journee": 7,
+      "date": "2021-09-22 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Troyes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004912,
+      "journee": 7,
+      "date": "2021-09-22 21:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004913,
+      "journee": 7,
+      "date": "2021-09-22 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004914,
+      "journee": 7,
+      "date": "2021-09-22 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004915,
+      "journee": 7,
+      "date": "2021-09-22 19:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Brest",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004916,
+      "journee": 7,
+      "date": "2021-09-22 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 6,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004917,
+      "journee": 8,
+      "date": "2021-09-26 13:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004918,
+      "journee": 8,
+      "date": "2021-09-26 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Metz",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004919,
+      "journee": 8,
+      "date": "2021-09-26 17:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004920,
+      "journee": 8,
+      "date": "2021-09-25 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004921,
+      "journee": 8,
+      "date": "2021-09-26 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004922,
+      "journee": 8,
+      "date": "2021-09-25 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004923,
+      "journee": 8,
+      "date": "2021-09-26 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004924,
+      "journee": 8,
+      "date": "2021-09-25 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004925,
+      "journee": 8,
+      "date": "2021-09-25 19:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004926,
+      "journee": 8,
+      "date": "2021-09-26 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004927,
+      "journee": 9,
+      "date": "2021-10-03 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Metz",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004928,
+      "journee": 9,
+      "date": "2021-10-01 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004929,
+      "journee": 9,
+      "date": "2021-10-03 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004930,
+      "journee": 9,
+      "date": "2021-10-03 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004931,
+      "journee": 9,
+      "date": "2021-10-03 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004932,
+      "journee": 9,
+      "date": "2021-10-02 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004933,
+      "journee": 9,
+      "date": "2021-10-03 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004934,
+      "journee": 9,
+      "date": "2021-10-02 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004935,
+      "journee": 9,
+      "date": "2021-10-03 13:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004936,
+      "journee": 9,
+      "date": "2021-10-03 20:45:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004937,
+      "journee": 10,
+      "date": "2021-10-17 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004938,
+      "journee": 10,
+      "date": "2021-10-17 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004939,
+      "journee": 10,
+      "date": "2021-10-16 17:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004940,
+      "journee": 10,
+      "date": "2021-10-16 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004941,
+      "journee": 10,
+      "date": "2021-10-17 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lorient",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004942,
+      "journee": 10,
+      "date": "2021-10-17 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004943,
+      "journee": 10,
+      "date": "2021-10-17 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004944,
+      "journee": 10,
+      "date": "2021-10-15 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004945,
+      "journee": 10,
+      "date": "2021-10-17 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "St Etienne",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004946,
+      "journee": 10,
+      "date": "2021-10-17 13:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004947,
+      "journee": 11,
+      "date": "2021-10-24 15:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Metz",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004948,
+      "journee": 11,
+      "date": "2021-10-23 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004949,
+      "journee": 11,
+      "date": "2021-10-24 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004950,
+      "journee": 11,
+      "date": "2021-10-24 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004951,
+      "journee": 11,
+      "date": "2021-10-24 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004952,
+      "journee": 11,
+      "date": "2021-10-23 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004953,
+      "journee": 11,
+      "date": "2021-10-24 13:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004954,
+      "journee": 11,
+      "date": "2021-10-24 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004955,
+      "journee": 11,
+      "date": "2021-10-24 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004956,
+      "journee": 11,
+      "date": "2021-10-22 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004957,
+      "journee": 12,
+      "date": "2021-10-31 13:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004958,
+      "journee": 12,
+      "date": "2021-10-31 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Reims",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004959,
+      "journee": 12,
+      "date": "2021-10-31 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004960,
+      "journee": 12,
+      "date": "2021-10-31 20:45:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004961,
+      "journee": 12,
+      "date": "2021-10-30 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004962,
+      "journee": 12,
+      "date": "2021-10-30 17:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004963,
+      "journee": 12,
+      "date": "2021-10-31 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004964,
+      "journee": 12,
+      "date": "2021-10-29 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004965,
+      "journee": 12,
+      "date": "2021-10-31 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lorient",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004966,
+      "journee": 12,
+      "date": "2021-10-31 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004967,
+      "journee": 13,
+      "date": "2021-11-06 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004968,
+      "journee": 13,
+      "date": "2021-11-05 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Troyes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004969,
+      "journee": 13,
+      "date": "2021-11-06 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004970,
+      "journee": 13,
+      "date": "2021-11-07 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004971,
+      "journee": 13,
+      "date": "2021-11-07 13:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004972,
+      "journee": 13,
+      "date": "2021-11-07 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004973,
+      "journee": 13,
+      "date": "2021-11-07 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004974,
+      "journee": 13,
+      "date": "2021-11-07 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004975,
+      "journee": 13,
+      "date": "2021-11-07 20:45:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lyon",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004976,
+      "journee": 13,
+      "date": "2021-11-07 15:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004977,
+      "journee": 14,
+      "date": "2021-11-21 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004978,
+      "journee": 14,
+      "date": "2021-11-21 13:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lens",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004979,
+      "journee": 14,
+      "date": "2021-11-21 17:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004980,
+      "journee": 14,
+      "date": "2022-02-01 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004981,
+      "journee": 14,
+      "date": "2021-11-21 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004982,
+      "journee": 14,
+      "date": "2021-11-19 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004983,
+      "journee": 14,
+      "date": "2021-11-20 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004984,
+      "journee": 14,
+      "date": "2021-11-20 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004985,
+      "journee": 14,
+      "date": "2021-11-21 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004986,
+      "journee": 14,
+      "date": "2021-11-21 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004987,
+      "journee": 15,
+      "date": "2021-11-28 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004988,
+      "journee": 15,
+      "date": "2021-11-26 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004989,
+      "journee": 15,
+      "date": "2021-11-27 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004990,
+      "journee": 15,
+      "date": "2021-11-28 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1004991,
+      "journee": 15,
+      "date": "2021-11-28 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004992,
+      "journee": 15,
+      "date": "2021-11-28 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004993,
+      "journee": 15,
+      "date": "2021-11-28 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004994,
+      "journee": 15,
+      "date": "2021-11-27 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1004995,
+      "journee": 15,
+      "date": "2021-11-28 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004996,
+      "journee": 15,
+      "date": "2021-11-28 13:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004997,
+      "journee": 16,
+      "date": "2021-12-01 19:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1004998,
+      "journee": 16,
+      "date": "2021-12-01 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1004999,
+      "journee": 16,
+      "date": "2021-12-01 21:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005000,
+      "journee": 16,
+      "date": "2021-12-01 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005001,
+      "journee": 16,
+      "date": "2021-12-01 19:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005002,
+      "journee": 16,
+      "date": "2021-12-01 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005003,
+      "journee": 16,
+      "date": "2021-12-01 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005004,
+      "journee": 16,
+      "date": "2021-12-01 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005005,
+      "journee": 16,
+      "date": "2021-12-01 19:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Bordeaux",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005006,
+      "journee": 16,
+      "date": "2021-12-01 19:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005007,
+      "journee": 17,
+      "date": "2021-12-05 20:45:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005008,
+      "journee": 17,
+      "date": "2021-12-04 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005009,
+      "journee": 17,
+      "date": "2021-12-04 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005010,
+      "journee": 17,
+      "date": "2021-12-05 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005011,
+      "journee": 17,
+      "date": "2021-12-04 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005012,
+      "journee": 17,
+      "date": "2021-12-05 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Metz",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005013,
+      "journee": 17,
+      "date": "2021-12-05 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005014,
+      "journee": 17,
+      "date": "2021-12-05 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005015,
+      "journee": 17,
+      "date": "2021-12-05 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005016,
+      "journee": 17,
+      "date": "2021-12-05 13:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1005017,
+      "journee": 18,
+      "date": "2021-12-12 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005018,
+      "journee": 18,
+      "date": "2021-12-11 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005019,
+      "journee": 18,
+      "date": "2021-12-12 13:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005020,
+      "journee": 18,
+      "date": "2021-12-12 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lorient",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005021,
+      "journee": 18,
+      "date": "2021-12-10 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005022,
+      "journee": 18,
+      "date": "2021-12-12 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005023,
+      "journee": 18,
+      "date": "2021-12-11 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005024,
+      "journee": 18,
+      "date": "2021-12-12 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005025,
+      "journee": 18,
+      "date": "2021-12-12 17:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005026,
+      "journee": 18,
+      "date": "2021-12-12 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005027,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005028,
+      "journee": 19,
+      "date": "2022-01-19 19:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005029,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005030,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Metz",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005031,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005032,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005033,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Angers",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005034,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005035,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005036,
+      "journee": 19,
+      "date": "2021-12-22 21:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005037,
+      "journee": 20,
+      "date": "2022-01-26 19:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005038,
+      "journee": 20,
+      "date": "2022-01-07 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005039,
+      "journee": 20,
+      "date": "2022-01-09 13:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005040,
+      "journee": 20,
+      "date": "2022-01-09 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005041,
+      "journee": 20,
+      "date": "2022-01-08 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005042,
+      "journee": 20,
+      "date": "2022-01-19 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005043,
+      "journee": 20,
+      "date": "2022-01-09 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005044,
+      "journee": 20,
+      "date": "2022-01-09 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005045,
+      "journee": 20,
+      "date": "2022-01-19 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Troyes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005046,
+      "journee": 20,
+      "date": "2022-01-09 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005047,
+      "journee": 21,
+      "date": "2022-01-16 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Angers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005048,
+      "journee": 21,
+      "date": "2022-01-16 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005049,
+      "journee": 21,
+      "date": "2022-01-16 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005050,
+      "journee": 21,
+      "date": "2022-01-14 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005051,
+      "journee": 21,
+      "date": "2022-01-15 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005052,
+      "journee": 21,
+      "date": "2022-01-16 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005053,
+      "journee": 21,
+      "date": "2022-01-16 13:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 6,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005054,
+      "journee": 21,
+      "date": "2022-01-15 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005055,
+      "journee": 21,
+      "date": "2022-01-16 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005056,
+      "journee": 21,
+      "date": "2022-01-16 17:05:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005057,
+      "journee": 22,
+      "date": "2022-01-23 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005058,
+      "journee": 22,
+      "date": "2022-01-23 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Strasbourg",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005059,
+      "journee": 22,
+      "date": "2022-01-22 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005060,
+      "journee": 22,
+      "date": "2022-01-23 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005061,
+      "journee": 22,
+      "date": "2022-01-22 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005062,
+      "journee": 22,
+      "date": "2022-01-21 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005063,
+      "journee": 22,
+      "date": "2022-01-23 13:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005064,
+      "journee": 22,
+      "date": "2022-01-23 17:05:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Monaco",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005065,
+      "journee": 22,
+      "date": "2022-01-23 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lorient",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005066,
+      "journee": 22,
+      "date": "2022-01-23 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Reims",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005067,
+      "journee": 23,
+      "date": "2022-02-06 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1005068,
+      "journee": 23,
+      "date": "2022-02-06 13:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005069,
+      "journee": 23,
+      "date": "2022-02-04 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Angers",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005070,
+      "journee": 23,
+      "date": "2022-02-05 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005071,
+      "journee": 23,
+      "date": "2022-02-06 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005072,
+      "journee": 23,
+      "date": "2022-02-06 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Bordeaux",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005073,
+      "journee": 23,
+      "date": "2022-02-06 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005074,
+      "journee": 23,
+      "date": "2022-02-05 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005075,
+      "journee": 23,
+      "date": "2022-02-06 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005076,
+      "journee": 23,
+      "date": "2022-02-06 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005077,
+      "journee": 24,
+      "date": "2022-02-13 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005078,
+      "journee": 24,
+      "date": "2022-02-13 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Troyes",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005079,
+      "journee": 24,
+      "date": "2022-02-13 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005080,
+      "journee": 24,
+      "date": "2022-02-13 17:05:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005081,
+      "journee": 24,
+      "date": "2022-02-12 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005082,
+      "journee": 24,
+      "date": "2022-02-13 20:45:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005083,
+      "journee": 24,
+      "date": "2022-02-13 13:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005084,
+      "journee": 24,
+      "date": "2022-02-12 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005085,
+      "journee": 24,
+      "date": "2022-02-13 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005086,
+      "journee": 24,
+      "date": "2022-02-11 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005087,
+      "journee": 25,
+      "date": "2022-02-20 17:05:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005088,
+      "journee": 25,
+      "date": "2022-02-19 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005089,
+      "journee": 25,
+      "date": "2022-02-18 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005090,
+      "journee": 25,
+      "date": "2022-02-20 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005091,
+      "journee": 25,
+      "date": "2022-02-20 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005092,
+      "journee": 25,
+      "date": "2022-02-19 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005093,
+      "journee": 25,
+      "date": "2022-02-20 13:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005094,
+      "journee": 25,
+      "date": "2022-02-20 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005095,
+      "journee": 25,
+      "date": "2022-02-20 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Troyes",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005096,
+      "journee": 25,
+      "date": "2022-02-20 15:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005097,
+      "journee": 26,
+      "date": "2022-02-27 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005098,
+      "journee": 26,
+      "date": "2022-02-27 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005099,
+      "journee": 26,
+      "date": "2022-02-27 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005100,
+      "journee": 26,
+      "date": "2022-02-27 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005101,
+      "journee": 26,
+      "date": "2022-02-27 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005102,
+      "journee": 26,
+      "date": "2022-02-27 13:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005103,
+      "journee": 26,
+      "date": "2022-02-25 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005104,
+      "journee": 26,
+      "date": "2022-02-26 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005105,
+      "journee": 26,
+      "date": "2022-02-26 17:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005106,
+      "journee": 26,
+      "date": "2022-02-27 17:05:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005107,
+      "journee": 27,
+      "date": "2022-03-06 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Troyes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005108,
+      "journee": 27,
+      "date": "2022-03-05 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005109,
+      "journee": 27,
+      "date": "2022-03-06 17:05:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005110,
+      "journee": 27,
+      "date": "2022-03-04 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005111,
+      "journee": 27,
+      "date": "2022-03-06 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005112,
+      "journee": 27,
+      "date": "2022-03-06 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005113,
+      "journee": 27,
+      "date": "2022-03-05 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005114,
+      "journee": 27,
+      "date": "2022-03-06 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005115,
+      "journee": 27,
+      "date": "2022-03-06 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005116,
+      "journee": 27,
+      "date": "2022-03-06 13:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Metz",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005117,
+      "journee": 28,
+      "date": "2022-03-13 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005118,
+      "journee": 28,
+      "date": "2022-03-13 20:45:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005119,
+      "journee": 28,
+      "date": "2022-03-13 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005120,
+      "journee": 28,
+      "date": "2022-03-11 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005121,
+      "journee": 28,
+      "date": "2022-03-13 17:05:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005122,
+      "journee": 28,
+      "date": "2022-03-13 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005123,
+      "journee": 28,
+      "date": "2022-03-12 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005124,
+      "journee": 28,
+      "date": "2022-03-13 13:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005125,
+      "journee": 28,
+      "date": "2022-03-13 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005126,
+      "journee": 28,
+      "date": "2022-03-12 21:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005127,
+      "journee": 29,
+      "date": "2022-03-20 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005128,
+      "journee": 29,
+      "date": "2022-03-20 15:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005129,
+      "journee": 29,
+      "date": "2022-03-19 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005130,
+      "journee": 29,
+      "date": "2022-03-20 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005131,
+      "journee": 29,
+      "date": "2022-03-20 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005132,
+      "journee": 29,
+      "date": "2022-03-20 13:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005133,
+      "journee": 29,
+      "date": "2022-03-19 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005134,
+      "journee": 29,
+      "date": "2022-03-20 17:05:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005135,
+      "journee": 29,
+      "date": "2022-03-20 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Metz",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005136,
+      "journee": 29,
+      "date": "2022-03-18 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005137,
+      "journee": 30,
+      "date": "2022-04-03 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005138,
+      "journee": 30,
+      "date": "2022-04-02 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005139,
+      "journee": 30,
+      "date": "2022-04-03 17:05:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Angers",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005140,
+      "journee": 30,
+      "date": "2022-04-03 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005141,
+      "journee": 30,
+      "date": "2022-04-03 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005142,
+      "journee": 30,
+      "date": "2022-04-02 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005143,
+      "journee": 30,
+      "date": "2022-04-03 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lorient",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005144,
+      "journee": 30,
+      "date": "2022-04-03 15:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005145,
+      "journee": 30,
+      "date": "2022-04-03 13:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005146,
+      "journee": 30,
+      "date": "2022-04-03 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005147,
+      "journee": 31,
+      "date": "2022-04-10 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005148,
+      "journee": 31,
+      "date": "2022-04-10 13:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Metz",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005149,
+      "journee": 31,
+      "date": "2022-04-10 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005150,
+      "journee": 31,
+      "date": "2022-04-09 21:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 1005151,
+      "journee": 31,
+      "date": "2022-04-10 17:05:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005152,
+      "journee": 31,
+      "date": "2022-04-08 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "St Etienne",
+      "homeScore": 6,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005153,
+      "journee": 31,
+      "date": "2022-04-10 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005154,
+      "journee": 31,
+      "date": "2022-04-10 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005155,
+      "journee": 31,
+      "date": "2022-04-09 17:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005156,
+      "journee": 31,
+      "date": "2022-04-10 19:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005157,
+      "journee": 32,
+      "date": "2022-04-16 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005158,
+      "journee": 32,
+      "date": "2022-04-17 17:05:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Bordeaux",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005159,
+      "journee": 32,
+      "date": "2022-04-17 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005160,
+      "journee": 32,
+      "date": "2022-04-17 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005161,
+      "journee": 32,
+      "date": "2022-04-17 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005162,
+      "journee": 32,
+      "date": "2022-04-17 13:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005163,
+      "journee": 32,
+      "date": "2022-04-17 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005164,
+      "journee": 32,
+      "date": "2022-04-15 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005165,
+      "journee": 32,
+      "date": "2022-04-16 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005166,
+      "journee": 32,
+      "date": "2022-04-17 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005167,
+      "journee": 33,
+      "date": "2022-04-20 21:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005168,
+      "journee": 33,
+      "date": "2022-04-20 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005169,
+      "journee": 33,
+      "date": "2022-04-20 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005170,
+      "journee": 33,
+      "date": "2022-04-20 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005171,
+      "journee": 33,
+      "date": "2022-04-20 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Metz",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005172,
+      "journee": 33,
+      "date": "2022-04-20 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005173,
+      "journee": 33,
+      "date": "2022-04-20 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005174,
+      "journee": 33,
+      "date": "2022-04-20 19:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005175,
+      "journee": 33,
+      "date": "2022-04-20 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005176,
+      "journee": 33,
+      "date": "2022-04-20 19:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005177,
+      "journee": 34,
+      "date": "2022-04-24 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005178,
+      "journee": 34,
+      "date": "2022-04-24 17:05:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005179,
+      "journee": 34,
+      "date": "2022-04-23 17:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Montpellier",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005180,
+      "journee": 34,
+      "date": "2022-04-24 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005181,
+      "journee": 34,
+      "date": "2022-04-24 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 5,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005182,
+      "journee": 34,
+      "date": "2022-04-24 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005183,
+      "journee": 34,
+      "date": "2022-04-23 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005184,
+      "journee": 34,
+      "date": "2022-04-24 20:45:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005185,
+      "journee": 34,
+      "date": "2022-04-24 13:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lorient",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005186,
+      "journee": 34,
+      "date": "2022-04-23 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005187,
+      "journee": 35,
+      "date": "2022-05-01 17:05:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005188,
+      "journee": 35,
+      "date": "2022-05-01 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005189,
+      "journee": 35,
+      "date": "2022-04-30 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005190,
+      "journee": 35,
+      "date": "2022-05-01 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005191,
+      "journee": 35,
+      "date": "2022-05-01 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005192,
+      "journee": 35,
+      "date": "2022-05-01 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Angers",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005193,
+      "journee": 35,
+      "date": "2022-05-01 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005194,
+      "journee": 35,
+      "date": "2022-04-30 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005195,
+      "journee": 35,
+      "date": "2022-04-29 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005196,
+      "journee": 35,
+      "date": "2022-05-01 13:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lille",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005197,
+      "journee": 36,
+      "date": "2022-05-08 15:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Bordeaux",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005198,
+      "journee": 36,
+      "date": "2022-05-07 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005199,
+      "journee": 36,
+      "date": "2022-05-08 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005200,
+      "journee": 36,
+      "date": "2022-05-06 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005201,
+      "journee": 36,
+      "date": "2022-05-08 17:05:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005202,
+      "journee": 36,
+      "date": "2022-05-08 13:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005203,
+      "journee": 36,
+      "date": "2022-05-11 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005204,
+      "journee": 36,
+      "date": "2022-05-11 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "St Etienne",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005205,
+      "journee": 36,
+      "date": "2022-05-08 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005206,
+      "journee": 36,
+      "date": "2022-05-08 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005207,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005208,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005209,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Angers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005210,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Brest",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005211,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005212,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005213,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005214,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005215,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005216,
+      "journee": 37,
+      "date": "2022-05-14 21:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1005217,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Angers",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005218,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1005219,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005220,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005221,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1005222,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005223,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Strasbourg",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005224,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1005225,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Metz",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1005226,
+      "journee": 38,
+      "date": "2022-05-21 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    }
+  ]
+}

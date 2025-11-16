@@ -1,0 +1,23 @@
+{
+  "competition": "ligaeuropa",
+  "name": "Liga Europa",
+  "totalSeasons": 1,
+  "seasons": [
+    {
+      "id": "65",
+      "year": "2023-2024",
+      "name": "Liga Europa - 2023 / 2024",
+      "status": "finished",
+      "competition": "ligaeuropa",
+      "dataPath": "./2023-2024/",
+      "totalJournees": 18,
+      "publishedJournees": 18,
+      "activeJournee": "18",
+      "totalMatches": 141,
+      "totalPronostics": 2300,
+      "activeUsers": 22,
+      "startDate": "2023-09-21",
+      "endDate": "2024-05-02"
+    }
+  ]
+}

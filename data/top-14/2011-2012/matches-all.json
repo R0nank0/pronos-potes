@@ -1,0 +1,1880 @@
+{
+  "season": "top14-2011-2012",
+  "seasonId": "13",
+  "seasonName": "TOP 14 - 2011/2012",
+  "totalMatches": 187,
+  "totalJournees": 27,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 11581,
+      "journee": 1,
+      "date": "2011-08-26 18:45:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 18,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11582,
+      "journee": 1,
+      "date": "2011-08-26 20:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Agen",
+      "homeScore": 19,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11583,
+      "journee": 1,
+      "date": "2011-08-26 20:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 22,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11584,
+      "journee": 1,
+      "date": "2011-08-26 20:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 41,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11585,
+      "journee": 1,
+      "date": "2011-08-26 20:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Castres",
+      "homeScore": 25,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11586,
+      "journee": 1,
+      "date": "2011-08-26 20:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 30,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11587,
+      "journee": 1,
+      "date": "2011-08-27 17:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Biarritz",
+      "homeScore": 30,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 11588,
+      "journee": 2,
+      "date": "2011-09-03 14:15:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Agen",
+      "homeScore": 9,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11589,
+      "journee": 2,
+      "date": "2011-09-03 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Bayonne",
+      "homeScore": 18,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11590,
+      "journee": 2,
+      "date": "2011-09-03 14:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Stade Français",
+      "homeScore": 35,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11591,
+      "journee": 2,
+      "date": "2011-09-04 21:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 9,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11592,
+      "journee": 2,
+      "date": "2011-09-03 14:15:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Brive",
+      "homeScore": 12,
+      "awayScore": 28,
+      "status": "finished"
+    },
+    {
+      "id": 11593,
+      "journee": 2,
+      "date": "2011-09-03 14:15:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Perpignan",
+      "homeScore": 47,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11594,
+      "journee": 2,
+      "date": "2011-09-03 16:20:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Clermont",
+      "homeScore": 0,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 11595,
+      "journee": 3,
+      "date": "2011-09-09 20:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 24,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11596,
+      "journee": 3,
+      "date": "2011-09-09 20:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Toulon",
+      "homeScore": 12,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11597,
+      "journee": 3,
+      "date": "2011-09-09 20:00:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Castres",
+      "homeScore": 18,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11598,
+      "journee": 3,
+      "date": "2011-09-09 20:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 34,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11599,
+      "journee": 3,
+      "date": "2011-09-09 20:45:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 19,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11600,
+      "journee": 3,
+      "date": "2011-09-09 20:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Brive",
+      "homeScore": 12,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11601,
+      "journee": 3,
+      "date": "2011-09-10 16:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Racing 92",
+      "homeScore": 41,
+      "awayScore": 36,
+      "status": "finished"
+    },
+    {
+      "id": 11602,
+      "journee": 4,
+      "date": "2011-09-16 20:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Toulon",
+      "homeScore": 16,
+      "awayScore": 27,
+      "status": "finished"
+    },
+    {
+      "id": 11603,
+      "journee": 4,
+      "date": "2011-09-16 20:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 12,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11604,
+      "journee": 4,
+      "date": "2011-09-16 20:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Agen",
+      "homeScore": 30,
+      "awayScore": 11,
+      "status": "finished"
+    },
+    {
+      "id": 11605,
+      "journee": 4,
+      "date": "2011-09-16 20:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Bayonne",
+      "homeScore": 33,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11606,
+      "journee": 4,
+      "date": "2011-09-16 20:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 19,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11607,
+      "journee": 4,
+      "date": "2011-09-17 16:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Clermont",
+      "homeScore": 11,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11608,
+      "journee": 4,
+      "date": "2011-09-16 20:45:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Biarritz",
+      "homeScore": 24,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11609,
+      "journee": 5,
+      "date": "2011-09-23 20:45:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 23,
+      "awayScore": 24,
+      "status": "finished"
+    },
+    {
+      "id": 11610,
+      "journee": 5,
+      "date": "2011-09-23 20:00:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Perpignan",
+      "homeScore": 24,
+      "awayScore": 29,
+      "status": "finished"
+    },
+    {
+      "id": 11611,
+      "journee": 5,
+      "date": "2011-09-23 20:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Brive",
+      "homeScore": 30,
+      "awayScore": 24,
+      "status": "finished"
+    },
+    {
+      "id": 11612,
+      "journee": 5,
+      "date": "2011-09-23 20:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Bayonne",
+      "homeScore": 19,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11613,
+      "journee": 5,
+      "date": "2011-09-23 20:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 16,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11614,
+      "journee": 5,
+      "date": "2011-09-23 20:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 25,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11615,
+      "journee": 5,
+      "date": "2011-09-24 16:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Stade Français",
+      "homeScore": 34,
+      "awayScore": 8,
+      "status": "finished"
+    },
+    {
+      "id": 11616,
+      "journee": 6,
+      "date": "2011-09-30 20:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Racing 92",
+      "homeScore": 27,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11617,
+      "journee": 6,
+      "date": "2011-09-30 20:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Biarritz",
+      "homeScore": 11,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11618,
+      "journee": 6,
+      "date": "2011-09-30 20:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Castres",
+      "homeScore": 16,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11619,
+      "journee": 6,
+      "date": "2011-09-30 20:45:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Toulon",
+      "homeScore": 19,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11620,
+      "journee": 6,
+      "date": "2011-09-30 20:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Brive",
+      "homeScore": 28,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 11621,
+      "journee": 6,
+      "date": "2011-09-30 20:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Agen",
+      "homeScore": 12,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11622,
+      "journee": 6,
+      "date": "2011-10-01 16:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Clermont",
+      "homeScore": 22,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11623,
+      "journee": 7,
+      "date": "2011-10-14 20:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 17,
+      "awayScore": 26,
+      "status": "finished"
+    },
+    {
+      "id": 11624,
+      "journee": 7,
+      "date": "2011-10-14 20:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Racing 92",
+      "homeScore": 22,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11625,
+      "journee": 7,
+      "date": "2011-10-14 20:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Biarritz",
+      "homeScore": 32,
+      "awayScore": 7,
+      "status": "finished"
+    },
+    {
+      "id": 11626,
+      "journee": 7,
+      "date": "2011-10-14 20:45:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 24,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11627,
+      "journee": 7,
+      "date": "2011-10-14 20:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Agen",
+      "homeScore": 29,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11628,
+      "journee": 7,
+      "date": "2011-10-16 16:05:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Français",
+      "homeScore": 18,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11629,
+      "journee": 7,
+      "date": "2011-10-15 16:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Perpignan",
+      "homeScore": 38,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11630,
+      "journee": 8,
+      "date": "2011-10-22 14:15:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Stade Français",
+      "homeScore": 37,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11631,
+      "journee": 8,
+      "date": "2011-10-22 14:15:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 15,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11632,
+      "journee": 8,
+      "date": "2011-10-22 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Bayonne",
+      "homeScore": 30,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11633,
+      "journee": 8,
+      "date": "2011-10-22 14:15:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Castres",
+      "homeScore": 16,
+      "awayScore": 21,
+      "status": "finished"
+    },
+    {
+      "id": 11634,
+      "journee": 8,
+      "date": "2011-10-21 20:45:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Clermont",
+      "homeScore": 3,
+      "awayScore": 39,
+      "status": "finished"
+    },
+    {
+      "id": 11635,
+      "journee": 8,
+      "date": "2011-10-22 16:15:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Toulon",
+      "homeScore": 9,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 11636,
+      "journee": 8,
+      "date": "2011-10-22 14:15:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 56,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11637,
+      "journee": 9,
+      "date": "2011-10-29 20:45:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 18,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11638,
+      "journee": 9,
+      "date": "2011-10-29 14:15:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Perpignan",
+      "homeScore": 18,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 11639,
+      "journee": 9,
+      "date": "2012-02-03 20:15:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 31,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11640,
+      "journee": 9,
+      "date": "2011-10-28 20:45:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Racing 92",
+      "homeScore": 19,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11641,
+      "journee": 9,
+      "date": "2011-10-29 14:15:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Biarritz",
+      "homeScore": 41,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11642,
+      "journee": 9,
+      "date": "2011-10-29 14:15:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Brive",
+      "homeScore": 18,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11643,
+      "journee": 9,
+      "date": "2011-10-29 16:15:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Stade Français",
+      "homeScore": 18,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11644,
+      "journee": 10,
+      "date": "2011-11-29 20:45:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Bayonne",
+      "homeScore": 21,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11645,
+      "journee": 10,
+      "date": "2011-11-05 14:15:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Castres",
+      "homeScore": 24,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11646,
+      "journee": 10,
+      "date": "2011-11-04 20:45:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Racing 92",
+      "homeScore": 12,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11647,
+      "journee": 10,
+      "date": "2011-11-30 20:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 10,
+      "awayScore": 30,
+      "status": "finished"
+    },
+    {
+      "id": 11648,
+      "journee": 10,
+      "date": "2011-11-05 16:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Clermont",
+      "homeScore": 37,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 11649,
+      "journee": 10,
+      "date": "2011-12-13 20:45:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Agen",
+      "homeScore": 34,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11650,
+      "journee": 10,
+      "date": "2011-11-05 14:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Perpignan",
+      "homeScore": 21,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 11651,
+      "journee": 11,
+      "date": "2011-11-26 20:45:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 24,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11652,
+      "journee": 11,
+      "date": "2011-11-25 20:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 15,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11653,
+      "journee": 11,
+      "date": "2011-11-26 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 9,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11654,
+      "journee": 11,
+      "date": "2011-11-26 16:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Toulon",
+      "homeScore": 22,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11655,
+      "journee": 11,
+      "date": "2011-11-26 14:15:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Clermont",
+      "homeScore": 29,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11656,
+      "journee": 11,
+      "date": "2011-11-25 20:45:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Stade Français",
+      "homeScore": 16,
+      "awayScore": 35,
+      "status": "finished"
+    },
+    {
+      "id": 11657,
+      "journee": 11,
+      "date": "2011-11-25 20:30:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Biarritz",
+      "homeScore": 28,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11658,
+      "journee": 12,
+      "date": "2011-12-04 15:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Bayonne",
+      "homeScore": 37,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11659,
+      "journee": 12,
+      "date": "2011-12-04 17:00:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 23,
+      "awayScore": 30,
+      "status": "finished"
+    },
+    {
+      "id": 11660,
+      "journee": 12,
+      "date": "2011-12-02 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Brive",
+      "homeScore": 16,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11661,
+      "journee": 12,
+      "date": "2011-12-03 14:15:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Castres",
+      "homeScore": 33,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 11662,
+      "journee": 12,
+      "date": "2011-12-04 15:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Perpignan",
+      "homeScore": 19,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11663,
+      "journee": 12,
+      "date": "2011-12-03 16:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Racing 92",
+      "homeScore": 29,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11664,
+      "journee": 12,
+      "date": "2011-12-03 14:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Toulon",
+      "homeScore": 33,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11665,
+      "journee": 13,
+      "date": "2011-12-23 19:30:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Castres",
+      "homeScore": 16,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 11666,
+      "journee": 13,
+      "date": "2011-12-23 19:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Clermont",
+      "homeScore": 6,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11667,
+      "journee": 13,
+      "date": "2011-12-23 21:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 25,
+      "awayScore": 45,
+      "status": "finished"
+    },
+    {
+      "id": 11668,
+      "journee": 13,
+      "date": "2011-12-23 19:30:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Biarritz",
+      "homeScore": 23,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11669,
+      "journee": 13,
+      "date": "2011-12-23 19:30:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 38,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11670,
+      "journee": 13,
+      "date": "2011-12-23 20:30:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Agen",
+      "homeScore": 26,
+      "awayScore": 8,
+      "status": "finished"
+    },
+    {
+      "id": 11671,
+      "journee": 13,
+      "date": "2011-12-23 19:30:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 20,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11672,
+      "journee": 14,
+      "date": "2011-12-31 14:15:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Brive",
+      "homeScore": 15,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11673,
+      "journee": 14,
+      "date": "2011-12-31 16:15:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Toulon",
+      "homeScore": 25,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11674,
+      "journee": 14,
+      "date": "2011-12-31 14:15:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Français",
+      "homeScore": 32,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11675,
+      "journee": 14,
+      "date": "2011-12-31 14:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Perpignan",
+      "homeScore": 39,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11676,
+      "journee": 14,
+      "date": "2011-12-31 14:15:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Clermont",
+      "homeScore": 6,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11677,
+      "journee": 14,
+      "date": "2011-12-31 14:05:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Racing 92",
+      "homeScore": 29,
+      "awayScore": 14,
+      "status": "finished"
+    },
+    {
+      "id": 11678,
+      "journee": 14,
+      "date": "2011-12-30 21:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Bayonne",
+      "homeScore": 30,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11679,
+      "journee": 15,
+      "date": "2012-01-06 20:45:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Biarritz",
+      "homeScore": 6,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11680,
+      "journee": 15,
+      "date": "2012-01-07 14:15:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 20,
+      "awayScore": 27,
+      "status": "finished"
+    },
+    {
+      "id": 11681,
+      "journee": 15,
+      "date": "2012-01-07 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 9,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11682,
+      "journee": 15,
+      "date": "2012-01-08 21:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Toulon",
+      "homeScore": 25,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11683,
+      "journee": 15,
+      "date": "2012-01-07 14:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Castres",
+      "homeScore": 38,
+      "awayScore": 21,
+      "status": "finished"
+    },
+    {
+      "id": 11684,
+      "journee": 15,
+      "date": "2012-01-07 16:15:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Racing 92",
+      "homeScore": 14,
+      "awayScore": 14,
+      "status": "finished"
+    },
+    {
+      "id": 11685,
+      "journee": 15,
+      "date": "2012-01-07 14:15:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 51,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11686,
+      "journee": 16,
+      "date": "2012-01-28 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Clermont",
+      "homeScore": 10,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 11687,
+      "journee": 16,
+      "date": "2012-01-28 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Perpignan",
+      "homeScore": 17,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11688,
+      "journee": 16,
+      "date": "2012-01-28 14:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Biarritz",
+      "homeScore": 29,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11689,
+      "journee": 16,
+      "date": "2012-01-28 14:15:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Agen",
+      "homeScore": 19,
+      "awayScore": 11,
+      "status": "finished"
+    },
+    {
+      "id": 11690,
+      "journee": 16,
+      "date": "2012-01-27 20:45:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Français",
+      "homeScore": 38,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11691,
+      "journee": 16,
+      "date": "2012-01-28 16:15:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 13,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11692,
+      "journee": 16,
+      "date": "2012-01-28 14:15:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Bayonne",
+      "homeScore": 50,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11693,
+      "journee": 17,
+      "date": "2012-02-24 20:45:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Castres",
+      "homeScore": 23,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11694,
+      "journee": 17,
+      "date": "2012-02-11 14:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Français",
+      "homeScore": 26,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11695,
+      "journee": 17,
+      "date": "2012-02-10 21:00:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 15,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11696,
+      "journee": 17,
+      "date": "2012-02-11 14:30:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Racing 92",
+      "homeScore": 31,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11697,
+      "journee": 17,
+      "date": "2012-02-24 19:30:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Brive",
+      "homeScore": 9,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11698,
+      "journee": 17,
+      "date": "2012-02-10 19:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Perpignan",
+      "homeScore": 22,
+      "awayScore": 11,
+      "status": "finished"
+    },
+    {
+      "id": 11699,
+      "journee": 17,
+      "date": "2012-02-11 14:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 44,
+      "awayScore": 7,
+      "status": "finished"
+    },
+    {
+      "id": 11700,
+      "journee": 18,
+      "date": "2012-02-18 14:15:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Clermont",
+      "homeScore": 22,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11701,
+      "journee": 18,
+      "date": "2012-02-18 14:15:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 26,
+      "awayScore": 30,
+      "status": "finished"
+    },
+    {
+      "id": 11702,
+      "journee": 18,
+      "date": "2012-02-18 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Castres",
+      "homeScore": 13,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11703,
+      "journee": 18,
+      "date": "2012-02-18 14:15:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Racing 92",
+      "homeScore": 22,
+      "awayScore": 33,
+      "status": "finished"
+    },
+    {
+      "id": 11704,
+      "journee": 18,
+      "date": "2012-02-18 16:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Toulon",
+      "homeScore": 19,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11705,
+      "journee": 18,
+      "date": "2012-02-17 20:45:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Biarritz",
+      "homeScore": 25,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11706,
+      "journee": 18,
+      "date": "2012-02-18 14:15:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Agen",
+      "homeScore": 21,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11707,
+      "journee": 19,
+      "date": "2012-03-03 14:15:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Perpignan",
+      "homeScore": 22,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 11708,
+      "journee": 19,
+      "date": "2012-03-03 14:15:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 38,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11709,
+      "journee": 19,
+      "date": "2012-03-03 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Stade Français",
+      "homeScore": 25,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11710,
+      "journee": 19,
+      "date": "2012-03-03 20:45:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 6,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11711,
+      "journee": 19,
+      "date": "2012-03-03 16:15:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 35,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 11712,
+      "journee": 19,
+      "date": "2012-03-03 14:15:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Bayonne",
+      "homeScore": 22,
+      "awayScore": 21,
+      "status": "finished"
+    },
+    {
+      "id": 11713,
+      "journee": 19,
+      "date": "2012-03-02 20:45:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 19,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 11714,
+      "journee": 20,
+      "date": "2012-03-10 14:15:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Clermont",
+      "homeScore": 20,
+      "awayScore": 29,
+      "status": "finished"
+    },
+    {
+      "id": 11715,
+      "journee": 20,
+      "date": "2012-03-10 14:15:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Brive",
+      "homeScore": 26,
+      "awayScore": 11,
+      "status": "finished"
+    },
+    {
+      "id": 11716,
+      "journee": 20,
+      "date": "2012-03-10 14:15:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Bayonne",
+      "homeScore": 37,
+      "awayScore": 26,
+      "status": "finished"
+    },
+    {
+      "id": 11717,
+      "journee": 20,
+      "date": "2012-03-10 14:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 40,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11718,
+      "journee": 20,
+      "date": "2012-03-10 20:30:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Toulon",
+      "homeScore": 22,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11719,
+      "journee": 20,
+      "date": "2012-03-09 20:45:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 22,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11720,
+      "journee": 20,
+      "date": "2012-03-10 13:45:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Castres",
+      "homeScore": 34,
+      "awayScore": 27,
+      "status": "finished"
+    },
+    {
+      "id": 11721,
+      "journee": 21,
+      "date": "2012-03-24 20:45:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Brive",
+      "homeScore": 19,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11722,
+      "journee": 21,
+      "date": "2012-03-23 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 18,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 11723,
+      "journee": 21,
+      "date": "2012-03-24 14:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 27,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11724,
+      "journee": 21,
+      "date": "2012-03-24 14:15:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Perpignan",
+      "homeScore": 29,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11725,
+      "journee": 21,
+      "date": "2012-03-24 14:15:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Biarritz",
+      "homeScore": 17,
+      "awayScore": 34,
+      "status": "finished"
+    },
+    {
+      "id": 11726,
+      "journee": 21,
+      "date": "2012-03-24 14:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Agen",
+      "homeScore": 53,
+      "awayScore": 27,
+      "status": "finished"
+    },
+    {
+      "id": 11727,
+      "journee": 21,
+      "date": "2012-03-24 16:15:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Racing 92",
+      "homeScore": 32,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11728,
+      "journee": 22,
+      "date": "2012-03-31 14:05:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Clermont",
+      "homeScore": 15,
+      "awayScore": 14,
+      "status": "finished"
+    },
+    {
+      "id": 11729,
+      "journee": 22,
+      "date": "2012-03-31 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Toulon",
+      "homeScore": 14,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11730,
+      "journee": 22,
+      "date": "2012-03-31 14:15:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 24,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11731,
+      "journee": 22,
+      "date": "2012-03-31 14:15:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Agen",
+      "homeScore": 44,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 11732,
+      "journee": 22,
+      "date": "2012-03-31 16:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 18,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11733,
+      "journee": 22,
+      "date": "2012-03-31 14:15:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Bayonne",
+      "homeScore": 47,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11734,
+      "journee": 22,
+      "date": "2012-03-30 20:45:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Castres",
+      "homeScore": 27,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 11735,
+      "journee": 23,
+      "date": "2012-04-14 14:15:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Toulon",
+      "homeScore": 22,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11736,
+      "journee": 23,
+      "date": "2012-04-14 16:15:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Biarritz",
+      "homeScore": 24,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11737,
+      "journee": 23,
+      "date": "2012-04-14 20:45:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 44,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11738,
+      "journee": 23,
+      "date": "2012-04-14 14:15:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Stade Français",
+      "homeScore": 25,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11739,
+      "journee": 23,
+      "date": "2012-04-14 14:15:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 43,
+      "awayScore": 12,
+      "status": "finished"
+    },
+    {
+      "id": 11740,
+      "journee": 23,
+      "date": "2012-04-13 20:45:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 25,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11741,
+      "journee": 23,
+      "date": "2012-04-14 14:15:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Brive",
+      "homeScore": 40,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11742,
+      "journee": 24,
+      "date": "2012-04-21 15:55:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Racing 92",
+      "homeScore": 22,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11743,
+      "journee": 24,
+      "date": "2012-04-21 14:15:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Agen",
+      "homeScore": 29,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 11744,
+      "journee": 24,
+      "date": "2012-04-20 20:45:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 22,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 11745,
+      "journee": 24,
+      "date": "2012-04-21 14:15:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Bayonne",
+      "homeScore": 19,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 11746,
+      "journee": 24,
+      "date": "2012-04-21 14:15:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Perpignan",
+      "homeScore": 35,
+      "awayScore": 31,
+      "status": "finished"
+    },
+    {
+      "id": 11747,
+      "journee": 24,
+      "date": "2012-04-21 17:55:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Castres",
+      "homeScore": 25,
+      "awayScore": 25,
+      "status": "finished"
+    },
+    {
+      "id": 11748,
+      "journee": 24,
+      "date": "2012-04-21 14:15:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Brive",
+      "homeScore": 30,
+      "awayScore": 21,
+      "status": "finished"
+    },
+    {
+      "id": 11749,
+      "journee": 25,
+      "date": "2012-05-05 14:15:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Agen",
+      "homeScore": 31,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 11750,
+      "journee": 25,
+      "date": "2012-05-05 14:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 9,
+      "awayScore": 23,
+      "status": "finished"
+    },
+    {
+      "id": 11751,
+      "journee": 25,
+      "date": "2012-05-05 14:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Clermont",
+      "homeScore": 30,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 11752,
+      "journee": 25,
+      "date": "2012-05-04 20:45:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Biarritz",
+      "homeScore": 21,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 11753,
+      "journee": 25,
+      "date": "2012-05-05 14:15:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 34,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11754,
+      "journee": 25,
+      "date": "2012-05-05 16:15:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Stade Français",
+      "homeScore": 19,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 11755,
+      "journee": 25,
+      "date": "2012-05-05 14:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 25,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11756,
+      "journee": 26,
+      "date": "2012-05-12 16:15:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Racing 92",
+      "homeScore": 25,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 11757,
+      "journee": 26,
+      "date": "2012-05-12 16:15:00",
+      "homeTeam": "Biarritz",
+      "awayTeam": "Stade Français",
+      "homeScore": 16,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 11758,
+      "journee": 26,
+      "date": "2012-05-12 16:15:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Perpignan",
+      "homeScore": 37,
+      "awayScore": 29,
+      "status": "finished"
+    },
+    {
+      "id": 11759,
+      "journee": 26,
+      "date": "2012-05-12 16:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Bayonne",
+      "homeScore": 31,
+      "awayScore": 29,
+      "status": "finished"
+    },
+    {
+      "id": 11760,
+      "journee": 26,
+      "date": "2012-05-12 16:15:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Brive",
+      "homeScore": 57,
+      "awayScore": 14,
+      "status": "finished"
+    },
+    {
+      "id": 11761,
+      "journee": 26,
+      "date": "2012-05-12 16:15:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Toulon",
+      "homeScore": 5,
+      "awayScore": 29,
+      "status": "finished"
+    },
+    {
+      "id": 11762,
+      "journee": 26,
+      "date": "2012-05-12 16:15:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 20,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 12714,
+      "journee": 27,
+      "date": "2012-05-25 21:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 31,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 12715,
+      "journee": 27,
+      "date": "2012-05-26 21:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Racing 92",
+      "homeScore": 17,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 12716,
+      "journee": 27,
+      "date": "2012-06-02 20:45:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Castres",
+      "homeScore": 24,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 12717,
+      "journee": 27,
+      "date": "2012-06-03 16:30:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Toulon",
+      "homeScore": 12,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 12718,
+      "journee": 27,
+      "date": "2012-06-09 18:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Toulon",
+      "homeScore": 18,
+      "awayScore": 12,
+      "status": "finished"
+    }
+  ]
+}

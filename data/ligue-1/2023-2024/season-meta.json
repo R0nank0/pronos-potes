@@ -1,0 +1,16 @@
+{
+  "id": "61",
+  "competition": "ligue1",
+  "year": "2023-2024",
+  "name": "Ligue 1 - 2023 / 2024",
+  "status": "ongoing",
+  "journees": 34,
+  "publishedJournees": 34,
+  "activeJournee": "34",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.565Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

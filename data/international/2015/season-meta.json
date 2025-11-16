@@ -1,0 +1,16 @@
+{
+  "id": "30",
+  "competition": "international",
+  "year": "2015",
+  "name": "Coupe du Monde 2015",
+  "status": "ongoing",
+  "journees": 6,
+  "publishedJournees": 6,
+  "activeJournee": "6",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.559Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

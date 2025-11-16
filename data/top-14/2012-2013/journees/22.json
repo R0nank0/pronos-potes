@@ -1,0 +1,66 @@
+{
+  "s": "top14-2012-2013",
+  "j": 22,
+  "d": "2013-03-23",
+  "tm": 7,
+  "tp": 0,
+  "m": [
+    {
+      "id": 13253,
+      "t1": "Bordeaux-Bègles",
+      "t2": "Mont de Marsan",
+      "sc1": 40,
+      "sc2": 7,
+      "pr": []
+    },
+    {
+      "id": 13254,
+      "t1": "Castres",
+      "t2": "Agen",
+      "sc1": 20,
+      "sc2": 9,
+      "pr": []
+    },
+    {
+      "id": 13255,
+      "t1": "Bayonne",
+      "t2": "Toulon",
+      "sc1": 33,
+      "sc2": 28,
+      "pr": []
+    },
+    {
+      "id": 13256,
+      "t1": "Stade Toulousain",
+      "t2": "Stade Français",
+      "sc1": 43,
+      "sc2": 16,
+      "pr": []
+    },
+    {
+      "id": 13257,
+      "t1": "Racing 92",
+      "t2": "Perpignan",
+      "sc1": 23,
+      "sc2": 19,
+      "pr": []
+    },
+    {
+      "id": 13258,
+      "t1": "Biarritz",
+      "t2": "Clermont",
+      "sc1": 32,
+      "sc2": 28,
+      "pr": []
+    },
+    {
+      "id": 13259,
+      "t1": "Grenoble Rugby",
+      "t2": "Montpellier Rugby",
+      "sc1": 9,
+      "sc2": 16,
+      "pr": []
+    }
+  ],
+  "cj": []
+}

@@ -1,0 +1,3810 @@
+{
+  "season": "ligue1-2006-2007",
+  "seasonId": "16",
+  "seasonName": "Ligue 1 - 2006/2007",
+  "totalMatches": 380,
+  "totalJournees": 38,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 12303,
+      "journee": 1,
+      "date": "2006-08-04 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12304,
+      "journee": 1,
+      "date": "2006-08-05 17:15:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12305,
+      "journee": 1,
+      "date": "2006-08-05 20:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12306,
+      "journee": 1,
+      "date": "2006-08-05 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12307,
+      "journee": 1,
+      "date": "2006-08-05 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12308,
+      "journee": 1,
+      "date": "2006-08-05 20:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12309,
+      "journee": 1,
+      "date": "2006-08-05 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12310,
+      "journee": 1,
+      "date": "2006-08-05 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12311,
+      "journee": 1,
+      "date": "2006-08-05 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12312,
+      "journee": 1,
+      "date": "2006-08-06 18:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12313,
+      "journee": 2,
+      "date": "2006-08-12 17:15:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12314,
+      "journee": 2,
+      "date": "2006-08-12 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Sedan",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12315,
+      "journee": 2,
+      "date": "2006-08-12 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12316,
+      "journee": 2,
+      "date": "2006-08-12 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12317,
+      "journee": 2,
+      "date": "2006-08-12 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12318,
+      "journee": 2,
+      "date": "2006-08-12 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12319,
+      "journee": 2,
+      "date": "2006-08-12 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12320,
+      "journee": 2,
+      "date": "2006-08-12 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12321,
+      "journee": 2,
+      "date": "2006-08-13 18:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lens",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12322,
+      "journee": 2,
+      "date": "2006-08-13 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12323,
+      "journee": 3,
+      "date": "2006-08-19 17:15:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12324,
+      "journee": 3,
+      "date": "2006-08-19 20:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12325,
+      "journee": 3,
+      "date": "2006-08-19 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12326,
+      "journee": 3,
+      "date": "2006-08-19 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12327,
+      "journee": 3,
+      "date": "2006-08-19 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12328,
+      "journee": 3,
+      "date": "2006-08-19 20:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12329,
+      "journee": 3,
+      "date": "2006-08-19 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12330,
+      "journee": 3,
+      "date": "2006-08-19 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Valenciennes",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12331,
+      "journee": 3,
+      "date": "2006-08-20 18:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12332,
+      "journee": 3,
+      "date": "2006-08-20 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12333,
+      "journee": 4,
+      "date": "2006-08-26 17:15:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 12334,
+      "journee": 4,
+      "date": "2006-08-26 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12335,
+      "journee": 4,
+      "date": "2006-08-26 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12336,
+      "journee": 4,
+      "date": "2006-08-26 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12337,
+      "journee": 4,
+      "date": "2006-08-26 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12338,
+      "journee": 4,
+      "date": "2006-08-27 18:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Sedan",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12339,
+      "journee": 4,
+      "date": "2006-08-27 18:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12340,
+      "journee": 4,
+      "date": "2006-08-27 18:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12341,
+      "journee": 4,
+      "date": "2006-08-27 18:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Rennes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12342,
+      "journee": 4,
+      "date": "2006-08-27 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12343,
+      "journee": 5,
+      "date": "2006-09-09 17:15:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12344,
+      "journee": 5,
+      "date": "2006-09-09 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12345,
+      "journee": 5,
+      "date": "2006-09-09 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12346,
+      "journee": 5,
+      "date": "2006-09-09 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12347,
+      "journee": 5,
+      "date": "2006-09-09 20:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Valenciennes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12348,
+      "journee": 5,
+      "date": "2006-09-09 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12349,
+      "journee": 5,
+      "date": "2006-09-09 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12350,
+      "journee": 5,
+      "date": "2006-09-09 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12351,
+      "journee": 5,
+      "date": "2006-09-10 18:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12352,
+      "journee": 5,
+      "date": "2006-09-10 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12353,
+      "journee": 6,
+      "date": "2006-09-16 17:15:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Le Mans",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12354,
+      "journee": 6,
+      "date": "2006-09-16 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12355,
+      "journee": 6,
+      "date": "2006-09-16 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12356,
+      "journee": 6,
+      "date": "2006-09-16 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12357,
+      "journee": 6,
+      "date": "2006-09-16 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12358,
+      "journee": 6,
+      "date": "2006-09-17 18:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12359,
+      "journee": 6,
+      "date": "2006-09-17 18:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12360,
+      "journee": 6,
+      "date": "2006-09-17 18:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12361,
+      "journee": 6,
+      "date": "2006-09-17 18:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12362,
+      "journee": 6,
+      "date": "2006-09-17 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12363,
+      "journee": 7,
+      "date": "2006-09-23 17:15:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lille",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12364,
+      "journee": 7,
+      "date": "2006-09-23 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12365,
+      "journee": 7,
+      "date": "2006-09-23 20:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12366,
+      "journee": 7,
+      "date": "2006-09-23 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Sedan",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12367,
+      "journee": 7,
+      "date": "2006-09-23 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12368,
+      "journee": 7,
+      "date": "2006-09-23 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12369,
+      "journee": 7,
+      "date": "2006-09-23 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12370,
+      "journee": 7,
+      "date": "2006-09-23 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12371,
+      "journee": 7,
+      "date": "2006-09-24 18:30:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12372,
+      "journee": 7,
+      "date": "2006-09-24 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12373,
+      "journee": 8,
+      "date": "2006-09-30 17:15:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12374,
+      "journee": 8,
+      "date": "2006-09-30 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12375,
+      "journee": 8,
+      "date": "2006-09-30 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12376,
+      "journee": 8,
+      "date": "2006-09-30 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Troyes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12377,
+      "journee": 8,
+      "date": "2006-09-30 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12378,
+      "journee": 8,
+      "date": "2006-09-30 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12379,
+      "journee": 8,
+      "date": "2006-10-01 18:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12380,
+      "journee": 8,
+      "date": "2006-10-01 18:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12381,
+      "journee": 8,
+      "date": "2006-10-01 18:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Toulouse",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12382,
+      "journee": 8,
+      "date": "2006-10-01 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12383,
+      "journee": 9,
+      "date": "2006-10-14 17:15:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12384,
+      "journee": 9,
+      "date": "2006-10-14 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12385,
+      "journee": 9,
+      "date": "2006-10-14 20:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Sedan",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12386,
+      "journee": 9,
+      "date": "2006-10-14 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12387,
+      "journee": 9,
+      "date": "2006-10-14 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12388,
+      "journee": 9,
+      "date": "2006-10-14 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12389,
+      "journee": 9,
+      "date": "2006-10-14 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Auxerre",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12390,
+      "journee": 9,
+      "date": "2006-10-14 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Valenciennes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12391,
+      "journee": 9,
+      "date": "2006-10-15 18:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12392,
+      "journee": 9,
+      "date": "2006-10-15 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12393,
+      "journee": 10,
+      "date": "2006-10-21 17:15:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12394,
+      "journee": 10,
+      "date": "2006-10-21 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12395,
+      "journee": 10,
+      "date": "2006-10-21 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12396,
+      "journee": 10,
+      "date": "2006-10-21 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12397,
+      "journee": 10,
+      "date": "2006-10-21 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12398,
+      "journee": 10,
+      "date": "2006-10-21 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12399,
+      "journee": 10,
+      "date": "2006-10-21 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Troyes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12400,
+      "journee": 10,
+      "date": "2006-10-21 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12401,
+      "journee": 10,
+      "date": "2006-10-22 17:30:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12402,
+      "journee": 10,
+      "date": "2006-10-22 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 12403,
+      "journee": 11,
+      "date": "2006-10-28 17:15:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12404,
+      "journee": 11,
+      "date": "2006-10-28 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12405,
+      "journee": 11,
+      "date": "2006-10-28 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12406,
+      "journee": 11,
+      "date": "2006-10-28 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12407,
+      "journee": 11,
+      "date": "2006-10-28 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Sedan",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12408,
+      "journee": 11,
+      "date": "2006-10-28 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12409,
+      "journee": 11,
+      "date": "2006-10-28 20:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12410,
+      "journee": 11,
+      "date": "2006-10-28 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12411,
+      "journee": 11,
+      "date": "2006-10-29 18:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12412,
+      "journee": 11,
+      "date": "2006-10-29 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12413,
+      "journee": 12,
+      "date": "2006-11-04 17:15:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12414,
+      "journee": 12,
+      "date": "2006-11-04 20:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12415,
+      "journee": 12,
+      "date": "2006-11-04 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12416,
+      "journee": 12,
+      "date": "2006-11-04 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Toulouse",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12417,
+      "journee": 12,
+      "date": "2006-11-04 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12418,
+      "journee": 12,
+      "date": "2006-11-04 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12419,
+      "journee": 12,
+      "date": "2006-11-04 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12420,
+      "journee": 12,
+      "date": "2006-11-04 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12421,
+      "journee": 12,
+      "date": "2006-11-05 18:30:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12422,
+      "journee": 12,
+      "date": "2006-11-05 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12423,
+      "journee": 13,
+      "date": "2006-11-10 20:30:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12424,
+      "journee": 13,
+      "date": "2006-11-11 17:15:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Auxerre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12425,
+      "journee": 13,
+      "date": "2006-11-11 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12426,
+      "journee": 13,
+      "date": "2006-11-11 20:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12427,
+      "journee": 13,
+      "date": "2006-11-11 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12428,
+      "journee": 13,
+      "date": "2006-11-11 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12429,
+      "journee": 13,
+      "date": "2006-11-11 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Sedan",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12430,
+      "journee": 13,
+      "date": "2006-11-11 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12431,
+      "journee": 13,
+      "date": "2006-11-12 18:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 12432,
+      "journee": 13,
+      "date": "2006-11-12 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12433,
+      "journee": 14,
+      "date": "2006-11-18 17:15:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12434,
+      "journee": 14,
+      "date": "2006-11-18 20:30:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12435,
+      "journee": 14,
+      "date": "2006-11-18 20:30:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12436,
+      "journee": 14,
+      "date": "2006-11-18 20:30:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12437,
+      "journee": 14,
+      "date": "2006-11-18 20:30:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12438,
+      "journee": 14,
+      "date": "2006-11-18 20:30:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12439,
+      "journee": 14,
+      "date": "2006-11-18 20:30:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Le Mans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12440,
+      "journee": 14,
+      "date": "2006-11-18 20:30:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12441,
+      "journee": 14,
+      "date": "2006-11-19 18:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12442,
+      "journee": 14,
+      "date": "2006-11-19 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12443,
+      "journee": 15,
+      "date": "2006-11-25 17:15:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12444,
+      "journee": 15,
+      "date": "2006-11-25 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Sedan",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12445,
+      "journee": 15,
+      "date": "2006-11-25 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12446,
+      "journee": 15,
+      "date": "2006-11-25 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12447,
+      "journee": 15,
+      "date": "2006-11-25 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12448,
+      "journee": 15,
+      "date": "2006-11-25 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12449,
+      "journee": 15,
+      "date": "2006-11-26 18:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12450,
+      "journee": 15,
+      "date": "2006-11-26 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12451,
+      "journee": 15,
+      "date": "2006-11-26 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12452,
+      "journee": 15,
+      "date": "2006-11-26 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12453,
+      "journee": 16,
+      "date": "2006-12-02 17:10:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12454,
+      "journee": 16,
+      "date": "2006-12-02 20:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12455,
+      "journee": 16,
+      "date": "2006-12-02 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12456,
+      "journee": 16,
+      "date": "2006-12-02 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12457,
+      "journee": 16,
+      "date": "2006-12-02 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12458,
+      "journee": 16,
+      "date": "2006-12-02 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Valenciennes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12459,
+      "journee": 16,
+      "date": "2006-12-02 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12460,
+      "journee": 16,
+      "date": "2006-12-03 15:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12461,
+      "journee": 16,
+      "date": "2006-12-03 18:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12462,
+      "journee": 16,
+      "date": "2006-12-03 21:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12463,
+      "journee": 17,
+      "date": "2006-12-09 17:10:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12464,
+      "journee": 17,
+      "date": "2006-12-09 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Sedan",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12465,
+      "journee": 17,
+      "date": "2006-12-09 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12466,
+      "journee": 17,
+      "date": "2006-12-09 20:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12467,
+      "journee": 17,
+      "date": "2006-12-09 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Auxerre",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12468,
+      "journee": 17,
+      "date": "2006-12-09 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12469,
+      "journee": 17,
+      "date": "2006-12-09 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Le Mans",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12470,
+      "journee": 17,
+      "date": "2006-12-09 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12471,
+      "journee": 17,
+      "date": "2006-12-10 18:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12472,
+      "journee": 17,
+      "date": "2006-12-10 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12473,
+      "journee": 18,
+      "date": "2006-12-16 17:10:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12474,
+      "journee": 18,
+      "date": "2006-12-16 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12475,
+      "journee": 18,
+      "date": "2006-12-16 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Sochaux",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12476,
+      "journee": 18,
+      "date": "2006-12-16 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Valenciennes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12477,
+      "journee": 18,
+      "date": "2006-12-16 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12478,
+      "journee": 18,
+      "date": "2006-12-16 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12479,
+      "journee": 18,
+      "date": "2006-12-16 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12480,
+      "journee": 18,
+      "date": "2006-12-17 15:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12481,
+      "journee": 18,
+      "date": "2006-12-17 18:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12482,
+      "journee": 18,
+      "date": "2006-12-17 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 12483,
+      "journee": 19,
+      "date": "2006-12-22 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12484,
+      "journee": 19,
+      "date": "2006-12-23 15:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12485,
+      "journee": 19,
+      "date": "2006-12-23 15:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12486,
+      "journee": 19,
+      "date": "2006-12-23 17:10:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12487,
+      "journee": 19,
+      "date": "2006-12-23 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12488,
+      "journee": 19,
+      "date": "2006-12-23 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12489,
+      "journee": 19,
+      "date": "2006-12-23 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 12490,
+      "journee": 19,
+      "date": "2006-12-23 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Sedan",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12491,
+      "journee": 19,
+      "date": "2006-12-23 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Le Mans",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12492,
+      "journee": 19,
+      "date": "2006-12-23 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12493,
+      "journee": 20,
+      "date": "2007-01-13 17:10:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12494,
+      "journee": 20,
+      "date": "2007-01-13 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12495,
+      "journee": 20,
+      "date": "2007-01-13 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12496,
+      "journee": 20,
+      "date": "2007-01-13 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12497,
+      "journee": 20,
+      "date": "2007-01-13 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12498,
+      "journee": 20,
+      "date": "2007-01-13 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12499,
+      "journee": 20,
+      "date": "2007-01-13 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12500,
+      "journee": 20,
+      "date": "2007-01-13 15:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12501,
+      "journee": 20,
+      "date": "2007-01-14 18:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12502,
+      "journee": 20,
+      "date": "2007-01-14 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12503,
+      "journee": 21,
+      "date": "2007-01-24 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Auxerre",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12504,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12505,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12506,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12507,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Sedan",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12508,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12509,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12510,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12511,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Le Mans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12512,
+      "journee": 21,
+      "date": "2007-01-24 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12513,
+      "journee": 22,
+      "date": "2007-01-27 17:10:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12514,
+      "journee": 22,
+      "date": "2007-01-27 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12515,
+      "journee": 22,
+      "date": "2007-01-27 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12516,
+      "journee": 22,
+      "date": "2007-01-27 20:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12517,
+      "journee": 22,
+      "date": "2007-01-27 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12518,
+      "journee": 22,
+      "date": "2007-01-27 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12519,
+      "journee": 22,
+      "date": "2007-01-27 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12520,
+      "journee": 22,
+      "date": "2007-01-27 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12521,
+      "journee": 22,
+      "date": "2007-01-28 18:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12522,
+      "journee": 22,
+      "date": "2007-01-28 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12523,
+      "journee": 23,
+      "date": "2007-02-03 17:10:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12524,
+      "journee": 23,
+      "date": "2007-02-03 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12525,
+      "journee": 23,
+      "date": "2007-02-03 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12526,
+      "journee": 23,
+      "date": "2007-02-03 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12527,
+      "journee": 23,
+      "date": "2007-02-03 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12528,
+      "journee": 23,
+      "date": "2007-02-03 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12529,
+      "journee": 23,
+      "date": "2007-02-03 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12530,
+      "journee": 23,
+      "date": "2007-02-03 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Sedan",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12531,
+      "journee": 23,
+      "date": "2007-02-04 18:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12532,
+      "journee": 23,
+      "date": "2007-02-04 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12533,
+      "journee": 24,
+      "date": "2007-02-10 17:10:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Monaco",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12534,
+      "journee": 24,
+      "date": "2007-02-10 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12535,
+      "journee": 24,
+      "date": "2007-02-10 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Sedan",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12536,
+      "journee": 24,
+      "date": "2007-02-10 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Troyes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12537,
+      "journee": 24,
+      "date": "2007-02-10 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12538,
+      "journee": 24,
+      "date": "2007-02-10 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12539,
+      "journee": 24,
+      "date": "2007-02-10 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12540,
+      "journee": 24,
+      "date": "2007-02-10 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 12541,
+      "journee": 24,
+      "date": "2007-02-11 18:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Sochaux",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12542,
+      "journee": 24,
+      "date": "2007-02-11 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12543,
+      "journee": 25,
+      "date": "2007-02-16 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12544,
+      "journee": 25,
+      "date": "2007-02-17 17:10:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12545,
+      "journee": 25,
+      "date": "2007-02-17 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12546,
+      "journee": 25,
+      "date": "2007-02-17 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12547,
+      "journee": 25,
+      "date": "2007-02-17 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12548,
+      "journee": 25,
+      "date": "2007-02-17 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12549,
+      "journee": 25,
+      "date": "2007-02-17 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12550,
+      "journee": 25,
+      "date": "2007-02-17 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12551,
+      "journee": 25,
+      "date": "2007-02-18 18:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12552,
+      "journee": 25,
+      "date": "2007-02-18 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12553,
+      "journee": 26,
+      "date": "2007-02-24 17:10:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12554,
+      "journee": 26,
+      "date": "2007-02-24 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Sochaux",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12555,
+      "journee": 26,
+      "date": "2007-02-24 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12556,
+      "journee": 26,
+      "date": "2007-02-24 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12557,
+      "journee": 26,
+      "date": "2007-02-24 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12558,
+      "journee": 26,
+      "date": "2007-02-24 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Sedan",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12559,
+      "journee": 26,
+      "date": "2007-02-24 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12560,
+      "journee": 26,
+      "date": "2007-02-25 18:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12561,
+      "journee": 26,
+      "date": "2007-02-25 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12562,
+      "journee": 26,
+      "date": "2007-02-25 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12563,
+      "journee": 27,
+      "date": "2007-03-03 17:10:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12564,
+      "journee": 27,
+      "date": "2007-03-03 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Le Mans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12565,
+      "journee": 27,
+      "date": "2007-03-03 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12566,
+      "journee": 27,
+      "date": "2007-03-03 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12567,
+      "journee": 27,
+      "date": "2007-03-03 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12568,
+      "journee": 27,
+      "date": "2007-03-03 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12569,
+      "journee": 27,
+      "date": "2007-03-03 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12570,
+      "journee": 27,
+      "date": "2007-03-03 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Troyes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12571,
+      "journee": 27,
+      "date": "2007-03-04 18:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12572,
+      "journee": 27,
+      "date": "2007-03-04 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12573,
+      "journee": 28,
+      "date": "2007-03-10 17:10:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12574,
+      "journee": 28,
+      "date": "2007-03-10 20:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12575,
+      "journee": 28,
+      "date": "2007-03-10 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12576,
+      "journee": 28,
+      "date": "2007-03-10 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12577,
+      "journee": 28,
+      "date": "2007-03-10 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12578,
+      "journee": 28,
+      "date": "2007-03-10 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12579,
+      "journee": 28,
+      "date": "2007-03-10 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12580,
+      "journee": 28,
+      "date": "2007-03-11 18:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Sedan",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12581,
+      "journee": 28,
+      "date": "2007-03-11 18:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Auxerre",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12582,
+      "journee": 28,
+      "date": "2007-03-11 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12583,
+      "journee": 29,
+      "date": "2007-03-17 17:10:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Toulouse",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12584,
+      "journee": 29,
+      "date": "2007-03-17 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12585,
+      "journee": 29,
+      "date": "2007-03-17 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12586,
+      "journee": 29,
+      "date": "2007-03-17 20:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12587,
+      "journee": 29,
+      "date": "2007-03-17 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12588,
+      "journee": 29,
+      "date": "2007-03-17 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12589,
+      "journee": 29,
+      "date": "2007-03-17 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Troyes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12590,
+      "journee": 29,
+      "date": "2007-03-17 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Le Mans",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12591,
+      "journee": 29,
+      "date": "2007-03-18 18:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12592,
+      "journee": 29,
+      "date": "2007-03-18 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12593,
+      "journee": 30,
+      "date": "2007-03-31 17:10:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12594,
+      "journee": 30,
+      "date": "2007-04-01 14:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Sedan",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12595,
+      "journee": 30,
+      "date": "2007-04-01 16:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12596,
+      "journee": 30,
+      "date": "2007-04-01 16:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12597,
+      "journee": 30,
+      "date": "2007-04-01 16:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12598,
+      "journee": 30,
+      "date": "2007-04-01 16:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12599,
+      "journee": 30,
+      "date": "2007-04-01 16:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12600,
+      "journee": 30,
+      "date": "2007-04-01 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12601,
+      "journee": 30,
+      "date": "2007-04-18 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12602,
+      "journee": 30,
+      "date": "2007-04-18 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nancy",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12603,
+      "journee": 31,
+      "date": "2007-04-08 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lille",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12604,
+      "journee": 31,
+      "date": "2007-04-08 18:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12605,
+      "journee": 31,
+      "date": "2007-04-07 20:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12606,
+      "journee": 31,
+      "date": "2007-04-07 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12607,
+      "journee": 31,
+      "date": "2007-04-07 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12608,
+      "journee": 31,
+      "date": "2007-04-07 20:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12609,
+      "journee": 31,
+      "date": "2007-04-07 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12610,
+      "journee": 31,
+      "date": "2007-04-07 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12611,
+      "journee": 31,
+      "date": "2007-04-07 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Troyes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12612,
+      "journee": 31,
+      "date": "2007-04-07 17:10:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12613,
+      "journee": 32,
+      "date": "2007-04-14 17:10:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12614,
+      "journee": 32,
+      "date": "2007-04-14 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12615,
+      "journee": 32,
+      "date": "2007-04-14 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12616,
+      "journee": 32,
+      "date": "2007-04-14 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12617,
+      "journee": 32,
+      "date": "2007-04-14 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12618,
+      "journee": 32,
+      "date": "2007-04-14 20:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12619,
+      "journee": 32,
+      "date": "2007-04-14 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12620,
+      "journee": 32,
+      "date": "2007-04-14 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12621,
+      "journee": 32,
+      "date": "2007-04-15 18:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12622,
+      "journee": 32,
+      "date": "2007-04-15 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Sedan",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12623,
+      "journee": 33,
+      "date": "2007-04-21 17:10:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nantes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12624,
+      "journee": 33,
+      "date": "2007-04-21 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Toulouse",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12625,
+      "journee": 33,
+      "date": "2007-04-21 20:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12626,
+      "journee": 33,
+      "date": "2007-04-21 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12627,
+      "journee": 33,
+      "date": "2007-04-21 20:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12628,
+      "journee": 33,
+      "date": "2007-04-21 20:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12629,
+      "journee": 33,
+      "date": "2007-04-21 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12630,
+      "journee": 33,
+      "date": "2007-04-21 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12631,
+      "journee": 33,
+      "date": "2007-04-22 18:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12632,
+      "journee": 33,
+      "date": "2007-04-22 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12633,
+      "journee": 34,
+      "date": "2007-04-28 17:10:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12634,
+      "journee": 34,
+      "date": "2007-04-28 20:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Le Mans",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12635,
+      "journee": 34,
+      "date": "2007-04-28 20:00:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Sedan",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12636,
+      "journee": 34,
+      "date": "2007-04-28 20:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Auxerre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12637,
+      "journee": 34,
+      "date": "2007-04-28 20:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12638,
+      "journee": 34,
+      "date": "2007-04-28 20:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12639,
+      "journee": 34,
+      "date": "2007-04-28 20:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12640,
+      "journee": 34,
+      "date": "2007-04-28 20:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12641,
+      "journee": 34,
+      "date": "2007-04-29 18:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12642,
+      "journee": 34,
+      "date": "2007-04-29 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Sochaux",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12643,
+      "journee": 35,
+      "date": "2007-05-05 17:10:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12644,
+      "journee": 35,
+      "date": "2007-05-05 20:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12645,
+      "journee": 35,
+      "date": "2007-05-05 20:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12646,
+      "journee": 35,
+      "date": "2007-05-05 20:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12647,
+      "journee": 35,
+      "date": "2007-05-05 20:00:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12648,
+      "journee": 35,
+      "date": "2007-05-05 20:00:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12649,
+      "journee": 35,
+      "date": "2007-05-05 20:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Troyes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12650,
+      "journee": 35,
+      "date": "2007-05-05 20:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12651,
+      "journee": 35,
+      "date": "2007-05-06 18:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12652,
+      "journee": 35,
+      "date": "2007-05-06 21:05:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12653,
+      "journee": 36,
+      "date": "2007-05-09 18:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12654,
+      "journee": 36,
+      "date": "2007-05-09 20:30:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12655,
+      "journee": 36,
+      "date": "2007-05-09 20:30:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12656,
+      "journee": 36,
+      "date": "2007-05-09 20:30:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12657,
+      "journee": 36,
+      "date": "2007-05-09 20:30:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12658,
+      "journee": 36,
+      "date": "2007-05-09 20:30:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12659,
+      "journee": 36,
+      "date": "2007-05-09 20:30:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Sedan",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12660,
+      "journee": 36,
+      "date": "2007-05-09 20:30:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12661,
+      "journee": 36,
+      "date": "2007-05-09 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12662,
+      "journee": 36,
+      "date": "2007-05-10 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Le Mans",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12663,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12664,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12665,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Sochaux",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12666,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12667,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12668,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Troyes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12669,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Sedan",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12670,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lorient",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12671,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12672,
+      "journee": 37,
+      "date": "2007-05-19 20:45:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12673,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12674,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Sedan",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12675,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Troyes",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12676,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Bordeaux",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12677,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12678,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12679,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12680,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12681,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Le Mans",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12682,
+      "journee": 38,
+      "date": "2007-05-26 20:45:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    }
+  ]
+}

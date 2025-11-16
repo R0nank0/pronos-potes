@@ -1,0 +1,16 @@
+{
+  "id": "60",
+  "competition": "international",
+  "year": "2022",
+  "name": "Coupe du Monde 2022",
+  "status": "ongoing",
+  "journees": 8,
+  "publishedJournees": 8,
+  "activeJournee": "8",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.565Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

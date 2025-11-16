@@ -1,0 +1,1449 @@
+{
+  "generated": "2025-11-05T20:59:19.634Z",
+  "totalTeams": 288,
+  "teamsWithLogo": 184,
+  "teamsWithoutLogo": 104,
+  "coverage": 63.9,
+  "teams": [
+    {
+      "id": 4,
+      "name": "Bordeaux",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/8/8f/Logo_FC_Girondins_Bordeaux_-_2021.svg"
+    },
+    {
+      "id": 5,
+      "name": "Marseille",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Olympique_Marseille_logo.svg"
+    },
+    {
+      "id": 6,
+      "name": "Lyon",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1c/Olympique_Lyonnais_logo.svg"
+    },
+    {
+      "id": 7,
+      "name": "Toulouse",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/Toulouse_FC_2018_logo.svg"
+    },
+    {
+      "id": 8,
+      "name": "Paris-SG",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg"
+    },
+    {
+      "id": 9,
+      "name": "Lille",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg"
+    },
+    {
+      "id": 10,
+      "name": "Rennes",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/Stade_Rennais_FC.svg"
+    },
+    {
+      "id": 11,
+      "name": "Sochaux",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/5/5a/Logo_FC_Sochaux_Montb%C3%A9liard_2015.svg"
+    },
+    {
+      "id": 12,
+      "name": "Le Mans",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
+    },
+    {
+      "id": 13,
+      "name": "Lens",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/RC_Lens_logo.svg"
+    },
+    {
+      "id": 14,
+      "name": "Auxerre",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/51/AJAuxerreLogo.svg"
+    },
+    {
+      "id": 15,
+      "name": "Nice",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg"
+    },
+    {
+      "id": 16,
+      "name": "Lorient",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/FC_Lorient_logo.svg"
+    },
+    {
+      "id": 17,
+      "name": "Valenciennes",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Valenciennes_FC.svg"
+    },
+    {
+      "id": 18,
+      "name": "Monaco",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cf/LogoASMonacoFC2021.svg"
+    },
+    {
+      "id": 19,
+      "name": "Nancy",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Logo_AS_Nancy_Lorraine_2018.svg"
+    },
+    {
+      "id": 20,
+      "name": "Caen",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/7/79/Logo_SM_Caen_2016.svg"
+    },
+    {
+      "id": 21,
+      "name": "St Etienne",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/25/AS_Saint-%C3%89tienne_logo.svg"
+    },
+    {
+      "id": 22,
+      "name": "Nantes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg"
+    },
+    {
+      "id": 23,
+      "name": "Le Havre",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/Le_Havre_AC_logo.svg"
+    },
+    {
+      "id": 24,
+      "name": "Grenoble",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/de/Grenoble_Foot_38_logo.svg"
+    },
+    {
+      "id": 25,
+      "name": "Suède",
+      "logo": null
+    },
+    {
+      "id": 26,
+      "name": "Biélorussie",
+      "logo": null
+    },
+    {
+      "id": 27,
+      "name": "Italie",
+      "logo": null
+    },
+    {
+      "id": 28,
+      "name": "Serbie",
+      "logo": null
+    },
+    {
+      "id": 29,
+      "name": "Espagne",
+      "logo": null
+    },
+    {
+      "id": 30,
+      "name": "Angleterre",
+      "logo": null
+    },
+    {
+      "id": 31,
+      "name": "Finlande",
+      "logo": null
+    },
+    {
+      "id": 32,
+      "name": "Allemagne",
+      "logo": null
+    },
+    {
+      "id": 33,
+      "name": "Boulogne-sur-Mer",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/US_Boulogne_crest.svg"
+    },
+    {
+      "id": 34,
+      "name": "Montpellier",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a8/Montpellier_HSC_logo.svg"
+    },
+    {
+      "id": 55,
+      "name": "N/A",
+      "logo": null
+    },
+    {
+      "id": 56,
+      "name": "Juventus Turin",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/c/c5/Logo_Juventus_FC_2020.svg"
+    },
+    {
+      "id": 57,
+      "name": "Bayern Munich",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg"
+    },
+    {
+      "id": 58,
+      "name": "Maccabi Haïfa",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Maccabi_Haifa_FC_Logo_2023.png"
+    },
+    {
+      "id": 59,
+      "name": "Besiktas",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg"
+    },
+    {
+      "id": 60,
+      "name": "Manchester United",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+    },
+    {
+      "id": 61,
+      "name": "Wolfsburg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/VfL_Wolfsburg_Logo.svg"
+    },
+    {
+      "id": 62,
+      "name": "CSKA Moscou",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/26/PFK_CSKA_Logo.svg"
+    },
+    {
+      "id": 63,
+      "name": "Zurich",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/FC_Zurich_Logo_2022.svg"
+    },
+    {
+      "id": 64,
+      "name": "Real Madrid",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg"
+    },
+    {
+      "id": 65,
+      "name": "Milan AC",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg"
+    },
+    {
+      "id": 66,
+      "name": "Chelsea",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+    },
+    {
+      "id": 67,
+      "name": "FC Porto",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg"
+    },
+    {
+      "id": 68,
+      "name": "Atletico de Madrid",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Logo_ATM_2024.svg"
+    },
+    {
+      "id": 69,
+      "name": "Nicosie APOEL",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/APOEL_%28logo_with_stars%29.svg"
+    },
+    {
+      "id": 70,
+      "name": "Fiorentina",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg"
+    },
+    {
+      "id": 71,
+      "name": "Liverpool",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ef/Logo_Liverpool_FC_2012.svg"
+    },
+    {
+      "id": 72,
+      "name": "Debrecen",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1a/Debreceni_VSC_logo.svg"
+    },
+    {
+      "id": 73,
+      "name": "Inter Milan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg"
+    },
+    {
+      "id": 74,
+      "name": "FC Barcelone",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/1d/Logo_FC_Barcelone.svg"
+    },
+    {
+      "id": 75,
+      "name": "Dynamo Kiev",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Dynamo_logo.svg"
+    },
+    {
+      "id": 76,
+      "name": "Rubin Kazan",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/32/FC_Rubin_Kazan_logo.svg"
+    },
+    {
+      "id": 77,
+      "name": "Stuttgart",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/VfB_Stuttgart_1893_Logo.svg"
+    },
+    {
+      "id": 78,
+      "name": "Glasgow Rangers",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/43/Rangers_FC.svg"
+    },
+    {
+      "id": 79,
+      "name": "Urinea Urziceni",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Unirea_Urziceni.png"
+    },
+    {
+      "id": 80,
+      "name": "Standard de Liège",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Standard_Li%C3%A8ge_logo.svg"
+    },
+    {
+      "id": 81,
+      "name": "Arsenal",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Arsenal_FC_2002.svg"
+    },
+    {
+      "id": 82,
+      "name": "Olympiakos",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/Olympiacos_FC_crest.svg"
+    },
+    {
+      "id": 83,
+      "name": "AZ Alkmaar",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/AZ_Alkmaar.svg"
+    },
+    {
+      "id": 84,
+      "name": "Seville FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg"
+    },
+    {
+      "id": 85,
+      "name": "France",
+      "logo": null
+    },
+    {
+      "id": 86,
+      "name": "Afrique du Sud",
+      "logo": null
+    },
+    {
+      "id": 87,
+      "name": "Mexique",
+      "logo": null
+    },
+    {
+      "id": 88,
+      "name": "Uruguay",
+      "logo": null
+    },
+    {
+      "id": 89,
+      "name": "Corée du Sud",
+      "logo": null
+    },
+    {
+      "id": 90,
+      "name": "Grèce",
+      "logo": null
+    },
+    {
+      "id": 91,
+      "name": "Argentine",
+      "logo": null
+    },
+    {
+      "id": 92,
+      "name": "Nigéria",
+      "logo": null
+    },
+    {
+      "id": 93,
+      "name": "Etats-Unis",
+      "logo": null
+    },
+    {
+      "id": 94,
+      "name": "Algérie",
+      "logo": null
+    },
+    {
+      "id": 95,
+      "name": "Slovénie",
+      "logo": null
+    },
+    {
+      "id": 97,
+      "name": "Ghana",
+      "logo": null
+    },
+    {
+      "id": 98,
+      "name": "Australie",
+      "logo": null
+    },
+    {
+      "id": 99,
+      "name": "Japon",
+      "logo": null
+    },
+    {
+      "id": 100,
+      "name": "Pays-Bas",
+      "logo": null
+    },
+    {
+      "id": 101,
+      "name": "Danemark",
+      "logo": null
+    },
+    {
+      "id": 102,
+      "name": "Cameroun",
+      "logo": null
+    },
+    {
+      "id": 103,
+      "name": "Paraguay",
+      "logo": null
+    },
+    {
+      "id": 104,
+      "name": "Nouvelle-Zélande",
+      "logo": null
+    },
+    {
+      "id": 105,
+      "name": "Slovaquie",
+      "logo": null
+    },
+    {
+      "id": 106,
+      "name": "Cote Ivoire",
+      "logo": null
+    },
+    {
+      "id": 107,
+      "name": "Portugal",
+      "logo": null
+    },
+    {
+      "id": 108,
+      "name": "Bresil",
+      "logo": null
+    },
+    {
+      "id": 109,
+      "name": "Corée du Nord",
+      "logo": null
+    },
+    {
+      "id": 110,
+      "name": "Honduras",
+      "logo": null
+    },
+    {
+      "id": 111,
+      "name": "Chili",
+      "logo": null
+    },
+    {
+      "id": 112,
+      "name": "Suisse",
+      "logo": null
+    },
+    {
+      "id": 113,
+      "name": "Arles Avignon",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/AC_Arl%C3%A9sien_logo.svg"
+    },
+    {
+      "id": 114,
+      "name": "Brest",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/Stade_Brestois_29_logo.svg"
+    },
+    {
+      "id": 115,
+      "name": "Werder Brême",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"
+    },
+    {
+      "id": 116,
+      "name": "Tottenham",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg"
+    },
+    {
+      "id": 117,
+      "name": "FC Twente",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e3/FC_Twente.svg"
+    },
+    {
+      "id": 118,
+      "name": "Schalke 04",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg"
+    },
+    {
+      "id": 119,
+      "name": "Benfica",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3f/Logo_SL_Benfica_%283_Stars%29.svg"
+    },
+    {
+      "id": 120,
+      "name": "Tel Aviv",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/Maccabi_Tel_Aviv.png"
+    },
+    {
+      "id": 121,
+      "name": "Bursaspor",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/Bursaspor_logo.svg"
+    },
+    {
+      "id": 122,
+      "name": "Valence FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/19/Logo_Valencia_CF_2019.svg"
+    },
+    {
+      "id": 123,
+      "name": "Panathinaïkos",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/84/Panathinaikos_F.C._logo.svg"
+    },
+    {
+      "id": 124,
+      "name": "FC Copenhague",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/26/FC_Copenhagen_logo.svg"
+    },
+    {
+      "id": 125,
+      "name": "AS Roma",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/AS_Roma_Logo_2017.svg"
+    },
+    {
+      "id": 126,
+      "name": "FC Bâle",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/e/e9/Logo_FC_Basel_2023.svg"
+    },
+    {
+      "id": 127,
+      "name": "CFR 1907 Cluj",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/7/7e/CFR_Cluj_badge.svg"
+    },
+    {
+      "id": 128,
+      "name": "Spartak Moscou",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/27/Logo_Spartak_Moscou_2013.svg"
+    },
+    {
+      "id": 129,
+      "name": "Zilina",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/MSK_Zilina_logo.svg"
+    },
+    {
+      "id": 130,
+      "name": "Ajax Amsterdam",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/01/AFC_Ajax_crest.svg"
+    },
+    {
+      "id": 131,
+      "name": "Shakhtior Donetsk",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a1/FC_Shakhtar_Donetsk.svg"
+    },
+    {
+      "id": 132,
+      "name": "Partizan Belgrade",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/ed/FK_Partizan.svg"
+    },
+    {
+      "id": 133,
+      "name": "Sporting Braga",
+      "logo": null
+    },
+    {
+      "id": 134,
+      "name": "Braga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/S.C._Braga_logo.svg"
+    },
+    {
+      "id": 135,
+      "name": "Shakhtar Donetsk",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Chakhtar_Donetsk.svg"
+    },
+    {
+      "id": 136,
+      "name": "Supporters Brestois",
+      "logo": null
+    },
+    {
+      "id": 137,
+      "name": "Supporters Arlésiens",
+      "logo": null
+    },
+    {
+      "id": 138,
+      "name": "Supporters Caennais",
+      "logo": null
+    },
+    {
+      "id": 139,
+      "name": "Bolivie",
+      "logo": null
+    },
+    {
+      "id": 140,
+      "name": "Colombie",
+      "logo": null
+    },
+    {
+      "id": 141,
+      "name": "Equateur",
+      "logo": null
+    },
+    {
+      "id": 142,
+      "name": "Costa Rica",
+      "logo": null
+    },
+    {
+      "id": 143,
+      "name": "Pérou",
+      "logo": null
+    },
+    {
+      "id": 144,
+      "name": "Venezuela",
+      "logo": null
+    },
+    {
+      "id": 145,
+      "name": "Ajaccio",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/AC_Ajaccio_logo.svg"
+    },
+    {
+      "id": 146,
+      "name": "Dijon",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Dijon_FCO_logo.svg"
+    },
+    {
+      "id": 147,
+      "name": "Evian",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e8/Thonon_Evian_Grand_Gen%C3%A8ve_FC_logo.svg"
+    },
+    {
+      "id": 148,
+      "name": "Bayonne",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/AvironBayonnaisLogo2022.svg"
+    },
+    {
+      "id": 149,
+      "name": "Stade Toulousain",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/0/01/Logo_Stade_Toulousain_Rugby.svg"
+    },
+    {
+      "id": 150,
+      "name": "Brive",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Club_athl%C3%A9tique_Brive_Corr%C3%A8ze_Limousin_logo.svg"
+    },
+    {
+      "id": 151,
+      "name": "Agen",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Sporting_Union_Agen_Lot-et-Garonne_2020.svg"
+    },
+    {
+      "id": 152,
+      "name": "Lyon Rugby",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/25/Lyon_olympique_universitaire.svg"
+    },
+    {
+      "id": 153,
+      "name": "Stade Français",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0f/Logo_Stade_fran%C3%A7ais_PR_2018.svg"
+    },
+    {
+      "id": 154,
+      "name": "Bordeaux-Bègles",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b1/UnionBordeauxBeglesLogo.svg"
+    },
+    {
+      "id": 155,
+      "name": "Perpignan",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/7/77/Logo_USA_Perpignan_2017.svg"
+    },
+    {
+      "id": 156,
+      "name": "Castres",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/Castres_olympique_badge.png"
+    },
+    {
+      "id": 157,
+      "name": "Racing 92",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Racing_92_2015.svg"
+    },
+    {
+      "id": 158,
+      "name": "Montpellier Rugby",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_Montpellier_H%C3%A9rault_rugby_2013.svg"
+    },
+    {
+      "id": 159,
+      "name": "Toulon",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_RC_Toulon_2015.svg"
+    },
+    {
+      "id": 160,
+      "name": "Biarritz",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/0/05/Logo_Biarritz_Olympique_Pays_Basque_-_2016.svg"
+    },
+    {
+      "id": 161,
+      "name": "Clermont",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/ASMClermontLogo.svg"
+    },
+    {
+      "id": 162,
+      "name": "Leverkusen",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Bayer_04_Leverkusen_%28logo%29.svg"
+    },
+    {
+      "id": 163,
+      "name": "Borussia Dortmund",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"
+    },
+    {
+      "id": 164,
+      "name": "Borisov BATE",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/66/BATE_Borisov_logo.svg"
+    },
+    {
+      "id": 165,
+      "name": "FC Oţelul Galaţi",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/ASC_Otelul_Galati_logo.svg"
+    },
+    {
+      "id": 167,
+      "name": "Dinamo Zagreb ",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg"
+    },
+    {
+      "id": 168,
+      "name": "KRC Genk ",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_KRC_Genk.png"
+    },
+    {
+      "id": 169,
+      "name": "Manchester City FC ",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg"
+    },
+    {
+      "id": 170,
+      "name": "Naples",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg"
+    },
+    {
+      "id": 171,
+      "name": "Trabzonspor",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/de/Trabzonspor_Amblem.svg"
+    },
+    {
+      "id": 172,
+      "name": "Villarreal CF ",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/Villarreal_CF_logo-en.svg"
+    },
+    {
+      "id": 173,
+      "name": "Viktoria Plzen",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e3/Viktoria_Plzen_logo.svg"
+    },
+    {
+      "id": 174,
+      "name": "Croatie",
+      "logo": null
+    },
+    {
+      "id": 175,
+      "name": "Irlande",
+      "logo": null
+    },
+    {
+      "id": 176,
+      "name": "Pologne",
+      "logo": null
+    },
+    {
+      "id": 177,
+      "name": "République Tchèque",
+      "logo": null
+    },
+    {
+      "id": 178,
+      "name": "Russie",
+      "logo": null
+    },
+    {
+      "id": 179,
+      "name": "Ukraine",
+      "logo": null
+    },
+    {
+      "id": 180,
+      "name": "Strasbourg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/80/Racing_Club_de_Strasbourg_logo.svg"
+    },
+    {
+      "id": 181,
+      "name": "Metz",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/FC_Metz_2021_Logo.svg"
+    },
+    {
+      "id": 183,
+      "name": "Sedan",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3c/Logo_CS_Sedan_Ardennes_-_2022.svg"
+    },
+    {
+      "id": 184,
+      "name": "Troyes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/ESTAC_Troyes_Logo.svg"
+    },
+    {
+      "id": 185,
+      "name": "Autriche",
+      "logo": null
+    },
+    {
+      "id": 186,
+      "name": "Roumanie",
+      "logo": null
+    },
+    {
+      "id": 187,
+      "name": "Turquie",
+      "logo": null
+    },
+    {
+      "id": 188,
+      "name": "Reims",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/19/Stade_de_Reims_logo.svg"
+    },
+    {
+      "id": 189,
+      "name": "Bastia",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/SC_Bastia_logo_2024.svg"
+    },
+    {
+      "id": 190,
+      "name": "Mont de Marsan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/LOGO_STADE_MONTOIS_RUGBY_PRO.svg"
+    },
+    {
+      "id": 191,
+      "name": "Grenoble Rugby",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/4/46/Logo_FC_Grenoble_Rugby.svg"
+    },
+    {
+      "id": 192,
+      "name": "Galatasaray",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/49/Galatasaray_SK_football_logo.png"
+    },
+    {
+      "id": 193,
+      "name": "Celtic Glasgow",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Celtic_FC_2025.svg"
+    },
+    {
+      "id": 194,
+      "name": "Nordsjälland FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/3/39/FC_Nordsj%C3%A6lland_%28logo%29.svg"
+    },
+    {
+      "id": 195,
+      "name": "Malaga",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_M%C3%A1laga_CF.svg"
+    },
+    {
+      "id": 196,
+      "name": "Anderlecht",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/c/cc/Logo_RSC_Anderlecht_2023.svg"
+    },
+    {
+      "id": 197,
+      "name": "Zénith St Petersbourg",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/FC_Zenit_Saint_Petersburg_crest.svg"
+    },
+    {
+      "id": 199,
+      "name": "Edimbourg",
+      "logo": null
+    },
+    {
+      "id": 200,
+      "name": "Saracens",
+      "logo": null
+    },
+    {
+      "id": 201,
+      "name": "Munster",
+      "logo": null
+    },
+    {
+      "id": 202,
+      "name": "Ospreys",
+      "logo": null
+    },
+    {
+      "id": 203,
+      "name": "Trevise",
+      "logo": null
+    },
+    {
+      "id": 204,
+      "name": "Leicester",
+      "logo": null
+    },
+    {
+      "id": 205,
+      "name": "Parme",
+      "logo": null
+    },
+    {
+      "id": 206,
+      "name": "Connacht",
+      "logo": null
+    },
+    {
+      "id": 207,
+      "name": "Harlequins",
+      "logo": null
+    },
+    {
+      "id": 208,
+      "name": "Ulster",
+      "logo": null
+    },
+    {
+      "id": 209,
+      "name": "Northampton",
+      "logo": null
+    },
+    {
+      "id": 210,
+      "name": "Glasgow",
+      "logo": null
+    },
+    {
+      "id": 211,
+      "name": "Llanelli",
+      "logo": null
+    },
+    {
+      "id": 212,
+      "name": "Leinster",
+      "logo": null
+    },
+    {
+      "id": 213,
+      "name": "Exeter",
+      "logo": null
+    },
+    {
+      "id": 214,
+      "name": "Sale",
+      "logo": null
+    },
+    {
+      "id": 215,
+      "name": "Cardiff Blues",
+      "logo": null
+    },
+    {
+      "id": 216,
+      "name": "Guingamp",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/En_Avant_Guingamp_logo.svg"
+    },
+    {
+      "id": 217,
+      "name": "Oyonnax",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_Oyonnax_rugby_2018.svg"
+    },
+    {
+      "id": 219,
+      "name": "Chakhtior Karaganda",
+      "logo": null
+    },
+    {
+      "id": 220,
+      "name": "Réal Sociedad",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_Real_Sociedad_2017.svg"
+    },
+    {
+      "id": 222,
+      "name": "PSV Eindhoven",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b0/Logo_PSV_Eindhoven_2024.svg"
+    },
+    {
+      "id": 223,
+      "name": "Maribor",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/NK_Maribor.svg"
+    },
+    {
+      "id": 224,
+      "name": "Pacos de Ferriera",
+      "logo": null
+    },
+    {
+      "id": 225,
+      "name": "Fenerbace",
+      "logo": null
+    },
+    {
+      "id": 226,
+      "name": "Ludogorets Razgrad",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png"
+    },
+    {
+      "id": 227,
+      "name": "PAOK Salonique",
+      "logo": null
+    },
+    {
+      "id": 228,
+      "name": "Steaua Bucarest",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/a/a7/Steaua_Bucarest.png"
+    },
+    {
+      "id": 229,
+      "name": "Legia Varsovie",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/2d/Logo_Legia_Varsovie.svg"
+    },
+    {
+      "id": 230,
+      "name": "Austria Vienne",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/4/49/Austria_Wien.svg"
+    },
+    {
+      "id": 231,
+      "name": "Suisse",
+      "logo": null
+    },
+    {
+      "id": 232,
+      "name": "Belgique",
+      "logo": null
+    },
+    {
+      "id": 233,
+      "name": "Iran",
+      "logo": null
+    },
+    {
+      "id": 234,
+      "name": "Bosnie",
+      "logo": null
+    },
+    {
+      "id": 235,
+      "name": "Stade Rochelais",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/4/44/Logo_Stade_rochelais_2016.svg"
+    },
+    {
+      "id": 237,
+      "name": "Sporting Portugal",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Logo_Sporting_CP_2001.svg"
+    },
+    {
+      "id": 238,
+      "name": "Bilbao",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/a/a7/Logo_Athletic_Club_1995.svg"
+    },
+    {
+      "id": 239,
+      "name": "Malmö",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Malmo_FF_logo.svg"
+    },
+    {
+      "id": 240,
+      "name": "Ajaccio GFC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/80/Gazelec_Ajaccio_logo.svg"
+    },
+    {
+      "id": 241,
+      "name": "Angers",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Angers_SCO_logo.svg"
+    },
+    {
+      "id": 242,
+      "name": "Pau",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/5/54/Logo_Section_paloise_B%C3%A9arn_Pyr%C3%A9n%C3%A9es_2021.svg"
+    },
+    {
+      "id": 243,
+      "name": "Canada",
+      "logo": null
+    },
+    {
+      "id": 244,
+      "name": "Ecosse",
+      "logo": null
+    },
+    {
+      "id": 245,
+      "name": "Fidji",
+      "logo": null
+    },
+    {
+      "id": 246,
+      "name": "Galles",
+      "logo": null
+    },
+    {
+      "id": 247,
+      "name": "Géorgie",
+      "logo": null
+    },
+    {
+      "id": 248,
+      "name": "Nouvelle Zélande",
+      "logo": null
+    },
+    {
+      "id": 249,
+      "name": "Samoa",
+      "logo": null
+    },
+    {
+      "id": 250,
+      "name": "Tonga",
+      "logo": null
+    },
+    {
+      "id": 251,
+      "name": "Namibie",
+      "logo": null
+    },
+    {
+      "id": 252,
+      "name": "Astana",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b6/Astana_Football_Club.svg"
+    },
+    {
+      "id": 253,
+      "name": "Borussia Mönchengladbach",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg"
+    },
+    {
+      "id": 254,
+      "name": "Maccabi Tel Aviv",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/4/40/Logo_Maccabi_Tel-Aviv_FC_%285_Stars%29.svg"
+    },
+    {
+      "id": 255,
+      "name": "La Gantoise",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/0/01/Logo_KAA_Gent_2024.svg"
+    },
+    {
+      "id": 256,
+      "name": "Albanie",
+      "logo": null
+    },
+    {
+      "id": 257,
+      "name": "Irlande du Nord",
+      "logo": null
+    },
+    {
+      "id": 258,
+      "name": "Islande",
+      "logo": null
+    },
+    {
+      "id": 259,
+      "name": "Hongrie",
+      "logo": null
+    },
+    {
+      "id": 260,
+      "name": "Club Bruges",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/Logo_Club_Brugge_KV_2024.svg"
+    },
+    {
+      "id": 261,
+      "name": "Leicester City",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3c/Logo_Leicester_City_2021.svg"
+    },
+    {
+      "id": 262,
+      "name": "FK Rostov",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/d/da/FK_Rostov.svg"
+    },
+    {
+      "id": 263,
+      "name": "Amiens",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/25/Amiens_SC_logo.svg"
+    },
+    {
+      "id": 264,
+      "name": "Feyenoord Rotterdam",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/22/Logo_Feyenoord_Rotterdam_2024.svg"
+    },
+    {
+      "id": 265,
+      "name": "Qarabag",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/12/Logo_Qaraba%C4%9F_FK_2024.svg"
+    },
+    {
+      "id": 266,
+      "name": "RB Leipzig",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/9/94/Logo_RB_Leipzig_2020.svg"
+    },
+    {
+      "id": 267,
+      "name": "Arabie Saoudite",
+      "logo": null
+    },
+    {
+      "id": 268,
+      "name": "Egypte",
+      "logo": null
+    },
+    {
+      "id": 269,
+      "name": "Maroc",
+      "logo": null
+    },
+    {
+      "id": 270,
+      "name": "Panama",
+      "logo": null
+    },
+    {
+      "id": 271,
+      "name": "Tunisie",
+      "logo": null
+    },
+    {
+      "id": 272,
+      "name": "Senegal",
+      "logo": null
+    },
+    {
+      "id": 273,
+      "name": "Nîmes",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f0/N%C3%AEmes_Olympique_logo_2018.svg"
+    },
+    {
+      "id": 274,
+      "name": "AEK Athenes",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/13/Logo_AEK_Ath%C3%A8nes_2014.svg"
+    },
+    {
+      "id": 275,
+      "name": "Berne",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/c/c2/BSC_Young_Boys.svg"
+    },
+    {
+      "id": 276,
+      "name": "Lokomotiv Moscou",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/93/FC_Lokomotiv_Moscow_logo.svg"
+    },
+    {
+      "id": 277,
+      "name": "Etoile Rouge Belgrade",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg"
+    },
+    {
+      "id": 278,
+      "name": "Hoffenheim",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/6/66/Logo_TSG_1899_Hoffenheim_2025.svg"
+    },
+    {
+      "id": 279,
+      "name": "Georgie",
+      "logo": null
+    },
+    {
+      "id": 280,
+      "name": "Atalanta Bergame",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Logo_Atalanta_Bergame_2024.svg"
+    },
+    {
+      "id": 281,
+      "name": "RB Salzbourg",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0b/RB_Salzburg_2024.svg"
+    },
+    {
+      "id": 282,
+      "name": "Slavia Prague",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SK_Slavia_Praha_full_logo.svg"
+    },
+    {
+      "id": 283,
+      "name": "FC Krasnodar",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/30/FC_Krasnodar_logo.svg"
+    },
+    {
+      "id": 284,
+      "name": "FC Midtjylland",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/FC_Midtjylland_logo.svg"
+    },
+    {
+      "id": 285,
+      "name": "Ferencvaros",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ferencvarosi_TC.svg"
+    },
+    {
+      "id": 286,
+      "name": "Istanbul Basaksehir",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg"
+    },
+    {
+      "id": 287,
+      "name": "Lazio Rome",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/S.S._Lazio_badge.svg"
+    },
+    {
+      "id": 288,
+      "name": "Macedoine du Nord",
+      "logo": null
+    },
+    {
+      "id": 289,
+      "name": "Clermont-Ferrand",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/22/Logo_Clermont_Foot_63_2021.svg"
+    },
+    {
+      "id": 290,
+      "name": "Sheriff Tiraspol",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/27/FC_Sheriff.svg"
+    },
+    {
+      "id": 291,
+      "name": "Eintracht Francfort",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Eintracht_Frankfurt_crest.svg"
+    },
+    {
+      "id": 292,
+      "name": "Qatar",
+      "logo": null
+    },
+    {
+      "id": 293,
+      "name": "Pays de Galles",
+      "logo": null
+    },
+    {
+      "id": 294,
+      "name": "Oyonnax",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_Oyonnax_rugby_2018.svg"
+    },
+    {
+      "id": 295,
+      "name": "Newcastle",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg"
+    },
+    {
+      "id": 296,
+      "name": "Antwerp",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0b/Royal_Antwerp_Football_Club_logo.svg"
+    },
+    {
+      "id": 297,
+      "name": "Union Berlin",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg"
+    },
+    {
+      "id": 298,
+      "name": "Real Sociedad",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/Real_Sociedad_logo.svg"
+    },
+    {
+      "id": 299,
+      "name": "Aris Limassol FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Arislimassolfc.png"
+    },
+    {
+      "id": 300,
+      "name": "Betis Seville",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_betis_logo.svg"
+    },
+    {
+      "id": 301,
+      "name": "BK Hacken",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/BK_Hacken_logo.svg"
+    },
+    {
+      "id": 302,
+      "name": "Brighton",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d0/Brighton_and_Hove_Albion_FC_crest.svg"
+    },
+    {
+      "id": 303,
+      "name": "Fribourg",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/a/a2/SC_Freiburg_%28logo%29.svg"
+    },
+    {
+      "id": 304,
+      "name": "Lask",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/LASK-Logo_2023.svg"
+    },
+    {
+      "id": 305,
+      "name": "Molde",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Molde_Fotball_Logo.svg"
+    },
+    {
+      "id": 306,
+      "name": "RKS Rakow",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rks_rakow_crest_ai.svg"
+    },
+    {
+      "id": 307,
+      "name": "Servette Geneve",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Servette_FC_crest.svg"
+    },
+    {
+      "id": 308,
+      "name": "Sparta Prague",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/AC-Sparta-LOGO2021.svg"
+    },
+    {
+      "id": 309,
+      "name": "Stum Graz",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/2/20/SK_Sturm_Graz_Logo.svg"
+    },
+    {
+      "id": 310,
+      "name": "TSC Backa Topola",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/TSC_BT_logo.png"
+    },
+    {
+      "id": 311,
+      "name": "Union St Gilloise",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png"
+    },
+    {
+      "id": 312,
+      "name": "West Ham",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg"
+    },
+    {
+      "id": 313,
+      "name": "Tchequie",
+      "logo": null
+    },
+    {
+      "id": 314,
+      "name": "Vannes",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/7/74/Logo_RC_Vannes_-_2022.svg"
+    },
+    {
+      "id": 315,
+      "name": "Bologne",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/f/fb/Logo_Bologna_FC_-_2018.svg"
+    },
+    {
+      "id": 316,
+      "name": "Girona FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Logo_Girona_FC_-_2022.svg"
+    },
+    {
+      "id": 317,
+      "name": "Aston Villa FC",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/1/14/Aston_Villa_FC_2024.svg"
+    },
+    {
+      "id": 318,
+      "name": "SK Slovan Bratislava",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/SK_Slovan_Bratislava_logo.svg"
+    }
+  ]
+}

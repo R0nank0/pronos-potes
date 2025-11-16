@@ -1,0 +1,1260 @@
+{
+  "season": "ldc-2017-2018",
+  "seasonId": "39",
+  "seasonName": "Ligue des Champions - 2017 / 2018",
+  "totalMatches": 125,
+  "totalJournees": 16,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1001598,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001599,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "FC Bâle",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001600,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Anderlecht",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001601,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "Celtic Glasgow",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1001602,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Qarabag",
+      "homeScore": 6,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001603,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001604,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001605,
+      "journee": 1,
+      "date": "2017-09-12 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Sporting Portugal",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001606,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "Maribor",
+      "awayTeam": "Spartak Moscou",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001607,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Seville FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1001608,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "Feyenoord Rotterdam",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1001609,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Naples",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001610,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001611,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Besiktas",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1001612,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1001613,
+      "journee": 2,
+      "date": "2017-09-13 20:45:00",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1001614,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "Maribor",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001615,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Spartak Moscou",
+      "awayTeam": "Liverpool",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001616,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Feyenoord Rotterdam",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001617,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001618,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Besiktas",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001619,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "FC Porto",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001620,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001621,
+      "journee": 3,
+      "date": "2017-09-26 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "Tottenham",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001622,
+      "journee": 4,
+      "date": "2017-09-27 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Benfica",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001623,
+      "journee": 4,
+      "date": "2017-09-27 20:45:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Manchester United",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001624,
+      "journee": 4,
+      "date": "2017-09-27 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001625,
+      "journee": 4,
+      "date": "2017-09-27 20:45:00",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "Celtic Glasgow",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001626,
+      "journee": 4,
+      "date": "2017-09-27 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001627,
+      "journee": 4,
+      "date": "2017-09-27 18:00:00",
+      "homeTeam": "Qarabag",
+      "awayTeam": "AS Roma",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001628,
+      "journee": 4,
+      "date": "2017-09-27 20:45:00",
+      "homeTeam": "Sporting Portugal",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001629,
+      "journee": 4,
+      "date": "2017-09-27 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Olympiakos",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001630,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "Spartak Moscou",
+      "awayTeam": "Seville FC",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001631,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "Maribor",
+      "awayTeam": "Liverpool",
+      "homeScore": 0,
+      "awayScore": 7,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001632,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Naples",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001633,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "Feyenoord Rotterdam",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001634,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Besiktas",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001635,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "FC Porto",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001636,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001637,
+      "journee": 5,
+      "date": "2017-10-17 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Tottenham",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001638,
+      "journee": 6,
+      "date": "2017-10-18 20:45:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "FC Bâle",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001639,
+      "journee": 6,
+      "date": "2017-10-18 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Manchester United",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001640,
+      "journee": 6,
+      "date": "2017-10-18 20:45:00",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001641,
+      "journee": 6,
+      "date": "2017-10-18 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Celtic Glasgow",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001642,
+      "journee": 6,
+      "date": "2017-10-18 18:00:00",
+      "homeTeam": "Qarabag",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001643,
+      "journee": 6,
+      "date": "2017-10-18 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "AS Roma",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001644,
+      "journee": 6,
+      "date": "2017-10-18 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Sporting Portugal",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001645,
+      "journee": 6,
+      "date": "2017-10-18 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Olympiakos",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001646,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001647,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Benfica",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001648,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Anderlecht",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001649,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "Celtic Glasgow",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001650,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Qarabag",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001651,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001652,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "Sporting Portugal",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001653,
+      "journee": 7,
+      "date": "2017-10-31 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001654,
+      "journee": 8,
+      "date": "2017-11-01 20:45:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "Spartak Moscou",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001655,
+      "journee": 8,
+      "date": "2017-11-01 20:45:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Maribor",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001656,
+      "journee": 8,
+      "date": "2017-11-01 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001657,
+      "journee": 8,
+      "date": "2017-11-01 20:45:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Feyenoord Rotterdam",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001658,
+      "journee": 8,
+      "date": "2017-11-01 18:00:00",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001659,
+      "journee": 8,
+      "date": "2017-11-01 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001660,
+      "journee": 8,
+      "date": "2017-11-01 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001661,
+      "journee": 8,
+      "date": "2017-11-01 20:45:00",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Real Madrid",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001662,
+      "journee": 9,
+      "date": "2017-11-21 18:00:00",
+      "homeTeam": "Spartak Moscou",
+      "awayTeam": "Maribor",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001663,
+      "journee": 9,
+      "date": "2017-11-21 20:45:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "Liverpool",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001664,
+      "journee": 9,
+      "date": "2017-11-21 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001665,
+      "journee": 9,
+      "date": "2017-11-21 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Feyenoord Rotterdam",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001666,
+      "journee": 9,
+      "date": "2017-11-21 20:45:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001667,
+      "journee": 9,
+      "date": "2017-11-21 18:00:00",
+      "homeTeam": "Besiktas",
+      "awayTeam": "FC Porto",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001668,
+      "journee": 9,
+      "date": "2017-11-21 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 6,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001669,
+      "journee": 9,
+      "date": "2017-11-21 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Tottenham",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001670,
+      "journee": 10,
+      "date": "2017-11-22 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Benfica",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001671,
+      "journee": 10,
+      "date": "2017-11-22 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Manchester United",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001672,
+      "journee": 10,
+      "date": "2017-11-22 20:45:00",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001673,
+      "journee": 10,
+      "date": "2017-11-22 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Celtic Glasgow",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001674,
+      "journee": 10,
+      "date": "2017-11-22 18:00:00",
+      "homeTeam": "Qarabag",
+      "awayTeam": "Chelsea",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001675,
+      "journee": 10,
+      "date": "2017-11-22 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "AS Roma",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001676,
+      "journee": 10,
+      "date": "2017-11-22 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001677,
+      "journee": 10,
+      "date": "2017-11-22 20:45:00",
+      "homeTeam": "Sporting Portugal",
+      "awayTeam": "Olympiakos",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001678,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "FC Bâle",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001679,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001680,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001681,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "Celtic Glasgow",
+      "awayTeam": "Anderlecht",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001682,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001683,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Qarabag",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001684,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Sporting Portugal",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001685,
+      "journee": 11,
+      "date": "2017-12-05 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001686,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "Maribor",
+      "awayTeam": "Seville FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001687,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Spartak Moscou",
+      "homeScore": 7,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001688,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "Feyenoord Rotterdam",
+      "awayTeam": "Naples",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001689,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001690,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Besiktas",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001691,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Monaco",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001692,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001693,
+      "journee": 12,
+      "date": "2017-12-06 20:45:00",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001694,
+      "journee": 13,
+      "date": "2018-02-13 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Tottenham",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001695,
+      "journee": 13,
+      "date": "2018-02-13 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001696,
+      "journee": 13,
+      "date": "2018-02-14 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Liverpool",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001697,
+      "journee": 13,
+      "date": "2018-02-14 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001698,
+      "journee": 13,
+      "date": "2018-02-20 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Besiktas",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001699,
+      "journee": 13,
+      "date": "2018-02-20 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001700,
+      "journee": 13,
+      "date": "2018-02-21 20:45:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "Manchester United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001701,
+      "journee": 13,
+      "date": "2018-02-21 20:45:00",
+      "homeTeam": "Shakhtior Donetsk",
+      "awayTeam": "AS Roma",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001702,
+      "journee": 14,
+      "date": "2018-03-06 20:45:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "FC Porto",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001703,
+      "journee": 14,
+      "date": "2018-03-06 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001704,
+      "journee": 14,
+      "date": "2018-03-07 20:45:00",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001705,
+      "journee": 14,
+      "date": "2018-03-07 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "FC Bâle",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001706,
+      "journee": 14,
+      "date": "2018-03-13 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Seville FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001707,
+      "journee": 14,
+      "date": "2018-03-13 20:45:00",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Shakhtior Donetsk",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001708,
+      "journee": 14,
+      "date": "2018-03-14 18:00:00",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001709,
+      "journee": 14,
+      "date": "2018-03-14 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001710,
+      "journee": 15,
+      "date": "2018-04-03 20:45:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001711,
+      "journee": 15,
+      "date": "2018-04-03 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001712,
+      "journee": 15,
+      "date": "2018-04-04 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "AS Roma",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001713,
+      "journee": 15,
+      "date": "2018-04-04 20:45:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001714,
+      "journee": 15,
+      "date": "2018-04-10 20:45:00",
+      "homeTeam": "AS Roma",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001715,
+      "journee": 15,
+      "date": "2018-04-10 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Liverpool",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001716,
+      "journee": 15,
+      "date": "2018-04-11 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Seville FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001717,
+      "journee": 15,
+      "date": "2018-04-11 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001718,
+      "journee": 16,
+      "date": "2018-04-25 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001719,
+      "journee": 16,
+      "date": "2018-04-24 20:45:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "AS Roma",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001720,
+      "journee": 16,
+      "date": "2018-05-02 20:45:00",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Liverpool",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001721,
+      "journee": 16,
+      "date": "2018-05-01 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001722,
+      "journee": 16,
+      "date": "2018-05-26 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Liverpool",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    }
+  ]
+}

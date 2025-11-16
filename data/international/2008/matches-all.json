@@ -1,0 +1,320 @@
+{
+  "season": "international-2008",
+  "seasonId": "17",
+  "seasonName": "Euro 2008",
+  "totalMatches": 31,
+  "totalJournees": 4,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 12683,
+      "journee": 1,
+      "date": "2008-06-07 18:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "République Tchèque",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12684,
+      "journee": 1,
+      "date": "2008-06-07 20:45:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Turquie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12685,
+      "journee": 1,
+      "date": "2008-06-08 18:00:00",
+      "homeTeam": "Autriche",
+      "awayTeam": "Croatie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12686,
+      "journee": 1,
+      "date": "2008-06-08 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Pologne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12687,
+      "journee": 1,
+      "date": "2008-06-09 18:00:00",
+      "homeTeam": "Roumanie",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12688,
+      "journee": 1,
+      "date": "2008-06-09 20:45:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Italie",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12689,
+      "journee": 1,
+      "date": "2008-06-10 18:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Russie",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12690,
+      "journee": 1,
+      "date": "2008-06-10 20:45:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "Suède",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12691,
+      "journee": 2,
+      "date": "2008-06-11 18:00:00",
+      "homeTeam": "République Tchèque",
+      "awayTeam": "Portugal",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12692,
+      "journee": 2,
+      "date": "2008-06-11 20:45:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Turquie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12693,
+      "journee": 2,
+      "date": "2008-06-12 18:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Allemagne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12694,
+      "journee": 2,
+      "date": "2008-06-12 20:45:00",
+      "homeTeam": "Autriche",
+      "awayTeam": "Pologne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12695,
+      "journee": 2,
+      "date": "2008-06-13 18:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Roumanie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12696,
+      "journee": 2,
+      "date": "2008-06-13 20:45:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "France",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12697,
+      "journee": 2,
+      "date": "2008-06-14 18:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Espagne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12698,
+      "journee": 2,
+      "date": "2008-06-14 20:45:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "Russie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12699,
+      "journee": 3,
+      "date": "2008-06-15 20:45:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12700,
+      "journee": 3,
+      "date": "2008-06-15 20:45:00",
+      "homeTeam": "Turquie",
+      "awayTeam": "République Tchèque",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12701,
+      "journee": 3,
+      "date": "2008-06-16 20:45:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Croatie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12702,
+      "journee": 3,
+      "date": "2008-06-16 20:45:00",
+      "homeTeam": "Autriche",
+      "awayTeam": "Allemagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12703,
+      "journee": 3,
+      "date": "2008-06-17 20:45:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Roumanie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12704,
+      "journee": 3,
+      "date": "2008-06-17 20:45:00",
+      "homeTeam": "France",
+      "awayTeam": "Italie",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12705,
+      "journee": 3,
+      "date": "2008-06-18 20:45:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "Espagne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12706,
+      "journee": 3,
+      "date": "2008-06-18 20:45:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Suède",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12707,
+      "journee": 4,
+      "date": "2008-06-19 20:45:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Allemagne",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12708,
+      "journee": 4,
+      "date": "2008-06-20 20:45:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Turquie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12709,
+      "journee": 4,
+      "date": "2008-06-21 20:45:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Russie",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12710,
+      "journee": 4,
+      "date": "2008-06-22 20:45:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Italie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12711,
+      "journee": 4,
+      "date": "2008-06-25 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Turquie",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12712,
+      "journee": 4,
+      "date": "2008-06-26 20:45:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 12713,
+      "journee": 4,
+      "date": "2008-06-29 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    }
+  ]
+}

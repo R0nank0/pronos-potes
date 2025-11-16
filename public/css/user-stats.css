@@ -1,0 +1,535 @@
+/**
+ * User Statistics Page Styles
+ */
+
+/* User Selection Section */
+.user-selection-section {
+    margin-bottom: 3rem;
+}
+
+.selection-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.selection-header h2 {
+    margin: 0;
+    color: var(--gray-900);
+    font-size: 1.8rem;
+}
+
+.selection-controls {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.search-input {
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--gray-300);
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    min-width: 250px;
+    transition: all 0.2s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.sort-select {
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--gray-300);
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    background: var(--white);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.sort-select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+}
+
+/* Users Grid */
+.users-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
+
+.users-grid.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+}
+
+.user-card {
+    background: var(--white);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    box-shadow: var(--box-shadow);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-left: 4px solid var(--gray-300);
+}
+
+.user-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-left-color: var(--primary-color);
+}
+
+.user-card-header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+.user-card-name {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--gray-900);
+}
+
+.user-card-stars {
+    font-size: 0.85rem;
+    line-height: 1.4;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    align-items: center;
+}
+
+.user-card-stats {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.user-card-stat {
+    font-size: 0.9rem;
+    color: var(--gray-600);
+}
+
+/* User Stats Section */
+#user-stats-section {
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* User Header */
+.user-header {
+    margin-bottom: 2rem;
+}
+
+.back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    background: var(--white);
+    border: 2px solid var(--gray-300);
+    border-radius: var(--border-radius);
+    color: var(--gray-700);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-bottom: 1.5rem;
+}
+
+.back-btn:hover {
+    background: var(--gray-50);
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.user-info {
+    text-align: center;
+}
+
+.user-name {
+    font-size: 2.5rem;
+    margin: 0 0 0.5rem 0;
+    color: var(--gray-900);
+}
+
+.user-stars {
+    font-size: 1.5rem;
+    color: var(--gray-600);
+}
+
+.victories-count {
+    font-size: 1rem;
+    margin-left: 0.5rem;
+    color: var(--gray-600);
+    font-weight: 600;
+}
+
+/* Global Stats Cards */
+.stats-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+    max-width: 1400px;
+    margin: 0 auto 3rem auto;
+}
+
+.stat-card {
+    background: var(--white);
+    border-radius: var(--border-radius);
+    padding: 2rem;
+    box-shadow: var(--box-shadow);
+    text-align: center;
+    transition: all 0.3s ease;
+    border-left: 4px solid var(--gray-300);
+}
+
+.stat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.stat-card.highlight {
+    border-left-color: #fbbf24;
+    background: linear-gradient(135deg, #fffbeb 0%, #ffffff 100%);
+}
+
+.stat-icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.stat-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: var(--gray-600);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.stat-label[title] {
+    cursor: help;
+    border-bottom: 1px dotted var(--gray-400);
+}
+
+/* Filters Section */
+.filters-section {
+    margin-bottom: 3rem;
+    padding: 1.5rem;
+    background: var(--gray-50);
+    border-radius: var(--border-radius);
+}
+
+.filters-section h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1.2rem;
+    color: var(--gray-900);
+}
+
+.filters-controls {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.filter-select {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--gray-300);
+    border-radius: var(--border-radius);
+    background: var(--white);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.filter-select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+}
+
+/* Seasons Table */
+.seasons-table-section {
+    margin-bottom: 3rem;
+}
+
+.seasons-table-section h3 {
+    margin: 0 0 1.5rem 0;
+    font-size: 1.5rem;
+    color: var(--gray-900);
+}
+
+.table-container {
+    background: var(--white);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    overflow-x: auto;
+}
+
+.table-container.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 300px;
+}
+
+.seasons-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.seasons-table thead {
+    background: linear-gradient(135deg, var(--primary-color) 0%, #1e40af 100%);
+    color: var(--white);
+}
+
+.seasons-table th {
+    padding: 1rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.seasons-table th.text-center {
+    text-align: center;
+}
+
+.seasons-table tbody tr {
+    border-bottom: 1px solid var(--gray-200);
+    transition: background 0.2s ease;
+}
+
+.seasons-table tbody tr:hover {
+    background: var(--gray-50);
+}
+
+.seasons-table tbody tr.victory-row {
+    background: linear-gradient(90deg, #fef3c7 0%, #ffffff 100%);
+    font-weight: 600;
+}
+
+.seasons-table tbody tr.victory-row:hover {
+    background: linear-gradient(90deg, #fde68a 0%, #fef3c7 100%);
+}
+
+.seasons-table td {
+    padding: 1rem;
+    color: var(--gray-800);
+}
+
+.seasons-table td.text-center {
+    text-align: center;
+}
+
+.seasons-table td.bold {
+    font-weight: 700;
+}
+
+.competition-badge {
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.season-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.season-link:hover {
+    text-decoration: underline;
+    color: #1e40af;
+}
+
+.no-data {
+    text-align: center;
+    padding: 3rem;
+    color: var(--gray-600);
+    font-size: 1.1rem;
+}
+
+/* Competition Stats */
+.competition-stats-section {
+    margin-bottom: 3rem;
+}
+
+.competition-stats-section h3 {
+    margin: 0 0 1.5rem 0;
+    font-size: 1.5rem;
+    color: var(--gray-900);
+}
+
+.competition-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.competition-stat-card {
+    background: var(--white);
+    border-radius: var(--border-radius);
+    padding: 1.25rem;
+    box-shadow: var(--box-shadow);
+    transition: all 0.3s ease;
+    border-top: 4px solid;
+    cursor: pointer;
+}
+
+.competition-stat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.competition-stat-card.ligue1 {
+    border-top-color: #2563eb;
+}
+
+.competition-stat-card.ldc {
+    border-top-color: #7c3aed;
+}
+
+.competition-stat-card.ligaeuropa {
+    border-top-color: #059669;
+}
+
+.competition-stat-card.top14 {
+    border-top-color: #dc2626;
+}
+
+.competition-stat-card.international {
+    border-top-color: #ea580c;
+}
+
+.competition-stat-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.85rem;
+    border-bottom: 1px solid var(--gray-200);
+    text-align: center;
+}
+
+.competition-stat-emoji {
+    font-size: 2.5rem;
+    line-height: 1;
+}
+
+.competition-stat-name {
+    width: 100%;
+}
+
+.competition-stat-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin: 0;
+    line-height: 1.2;
+}
+
+.competition-stat-type {
+    font-size: 0.7rem;
+    color: var(--gray-600);
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
+
+.competition-stat-metrics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.75rem;
+}
+
+.competition-metric {
+    text-align: center;
+}
+
+.competition-metric-value {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin-bottom: 0.25rem;
+    line-height: 1;
+}
+
+.competition-metric-label {
+    font-size: 0.65rem;
+    color: var(--gray-600);
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    line-height: 1.2;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .selection-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .selection-controls {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .search-input,
+    .sort-select {
+        width: 100%;
+    }
+
+    .users-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .user-name {
+        font-size: 2rem;
+    }
+
+    .stats-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .filters-controls {
+        flex-direction: column;
+    }
+
+    .filter-select {
+        width: 100%;
+    }
+
+    .competition-stats-grid {
+        grid-template-columns: 1fr;
+    }
+}

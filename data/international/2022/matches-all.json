@@ -1,0 +1,650 @@
+{
+  "season": "international-2022",
+  "seasonId": "60",
+  "seasonName": "Coupe du Monde 2022",
+  "totalMatches": 64,
+  "totalJournees": 8,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1006226,
+      "journee": 1,
+      "date": "2022-11-20 17:00:00",
+      "homeTeam": "Qatar",
+      "awayTeam": "Equateur",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006227,
+      "journee": 1,
+      "date": "2022-11-21 14:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Iran",
+      "homeScore": 6,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006228,
+      "journee": 1,
+      "date": "2022-11-21 17:00:00",
+      "homeTeam": "Senegal",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006229,
+      "journee": 1,
+      "date": "2022-11-21 20:00:00",
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Pays de Galles",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006230,
+      "journee": 1,
+      "date": "2022-11-22 11:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Arabie Saoudite",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006231,
+      "journee": 1,
+      "date": "2022-11-22 14:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Tunisie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006232,
+      "journee": 1,
+      "date": "2022-11-22 17:00:00",
+      "homeTeam": "Mexique",
+      "awayTeam": "Pologne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006233,
+      "journee": 1,
+      "date": "2022-11-22 20:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Australie",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006234,
+      "journee": 2,
+      "date": "2022-11-23 11:00:00",
+      "homeTeam": "Maroc",
+      "awayTeam": "Croatie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006235,
+      "journee": 2,
+      "date": "2022-11-23 14:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Japon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006236,
+      "journee": 2,
+      "date": "2022-11-23 17:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Costa Rica",
+      "homeScore": 7,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006237,
+      "journee": 2,
+      "date": "2022-11-23 20:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Canada",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006238,
+      "journee": 2,
+      "date": "2022-11-24 11:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Cameroun",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006239,
+      "journee": 2,
+      "date": "2022-11-24 14:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Corée du Sud",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006240,
+      "journee": 2,
+      "date": "2022-11-24 17:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Ghana",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006241,
+      "journee": 2,
+      "date": "2022-11-24 20:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Serbie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006242,
+      "journee": 3,
+      "date": "2022-11-25 11:00:00",
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Iran",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006243,
+      "journee": 3,
+      "date": "2022-11-25 14:00:00",
+      "homeTeam": "Qatar",
+      "awayTeam": "Senegal",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006244,
+      "journee": 3,
+      "date": "2022-11-25 17:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Equateur",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006245,
+      "journee": 3,
+      "date": "2022-11-25 20:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006246,
+      "journee": 3,
+      "date": "2022-11-26 11:00:00",
+      "homeTeam": "Tunisie",
+      "awayTeam": "Australie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006247,
+      "journee": 3,
+      "date": "2022-11-26 14:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Arabie Saoudite",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006248,
+      "journee": 3,
+      "date": "2022-11-26 17:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Danemark",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006249,
+      "journee": 3,
+      "date": "2022-11-26 20:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Mexique",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006250,
+      "journee": 4,
+      "date": "2022-11-27 11:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Costa Rica",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006251,
+      "journee": 4,
+      "date": "2022-11-27 14:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Maroc",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006252,
+      "journee": 4,
+      "date": "2022-11-27 17:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Canada",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006253,
+      "journee": 4,
+      "date": "2022-11-27 20:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Allemagne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006254,
+      "journee": 4,
+      "date": "2022-11-28 11:00:00",
+      "homeTeam": "Cameroun",
+      "awayTeam": "Serbie",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006255,
+      "journee": 4,
+      "date": "2022-11-28 14:00:00",
+      "homeTeam": "Corée du Sud",
+      "awayTeam": "Ghana",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006256,
+      "journee": 4,
+      "date": "2022-11-28 17:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006257,
+      "journee": 4,
+      "date": "2022-11-28 20:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Uruguay",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006258,
+      "journee": 5,
+      "date": "2022-11-29 16:00:00",
+      "homeTeam": "Equateur",
+      "awayTeam": "Senegal",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006259,
+      "journee": 5,
+      "date": "2022-11-29 16:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Qatar",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006260,
+      "journee": 5,
+      "date": "2022-11-29 20:00:00",
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006261,
+      "journee": 5,
+      "date": "2022-11-29 20:00:00",
+      "homeTeam": "Iran",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006262,
+      "journee": 5,
+      "date": "2022-11-30 16:00:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Danemark",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006263,
+      "journee": 5,
+      "date": "2022-11-30 16:00:00",
+      "homeTeam": "Tunisie",
+      "awayTeam": "France",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006264,
+      "journee": 5,
+      "date": "2022-11-30 20:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Argentine",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006265,
+      "journee": 5,
+      "date": "2022-11-30 20:00:00",
+      "homeTeam": "Arabie Saoudite",
+      "awayTeam": "Mexique",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006266,
+      "journee": 6,
+      "date": "2022-12-01 16:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006267,
+      "journee": 6,
+      "date": "2022-12-01 16:00:00",
+      "homeTeam": "Canada",
+      "awayTeam": "Maroc",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006268,
+      "journee": 6,
+      "date": "2022-12-01 20:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Espagne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006269,
+      "journee": 6,
+      "date": "2022-12-01 20:00:00",
+      "homeTeam": "Costa Rica",
+      "awayTeam": "Allemagne",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006270,
+      "journee": 6,
+      "date": "2022-12-02 16:00:00",
+      "homeTeam": "Corée du Sud",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006271,
+      "journee": 6,
+      "date": "2022-12-02 16:00:00",
+      "homeTeam": "Ghana",
+      "awayTeam": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006272,
+      "journee": 6,
+      "date": "2022-12-02 20:00:00",
+      "homeTeam": "Cameroun",
+      "awayTeam": "Bresil",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006273,
+      "journee": 6,
+      "date": "2022-12-02 20:00:00",
+      "homeTeam": "Serbie",
+      "awayTeam": "Suisse",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006274,
+      "journee": 7,
+      "date": "2022-12-03 16:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006275,
+      "journee": 7,
+      "date": "2022-12-03 20:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Australie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006276,
+      "journee": 7,
+      "date": "2022-12-04 16:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Pologne",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006277,
+      "journee": 7,
+      "date": "2022-12-04 20:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Senegal",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006278,
+      "journee": 7,
+      "date": "2022-12-05 16:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Croatie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006279,
+      "journee": 7,
+      "date": "2022-12-05 20:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Corée du Sud",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006280,
+      "journee": 7,
+      "date": "2022-12-06 16:00:00",
+      "homeTeam": "Maroc",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006281,
+      "journee": 7,
+      "date": "2022-12-06 20:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Suisse",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006282,
+      "journee": 8,
+      "date": "2022-12-09 16:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Bresil",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006283,
+      "journee": 8,
+      "date": "2022-12-09 20:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Argentine",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006284,
+      "journee": 8,
+      "date": "2022-12-10 16:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Maroc",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006285,
+      "journee": 8,
+      "date": "2022-12-10 20:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Angleterre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006286,
+      "journee": 8,
+      "date": "2022-12-13 20:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Argentine",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006287,
+      "journee": 8,
+      "date": "2022-12-14 20:00:00",
+      "homeTeam": "Maroc",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006288,
+      "journee": 8,
+      "date": "2022-12-17 16:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Maroc",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006289,
+      "journee": 8,
+      "date": "2022-12-18 16:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "France",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    }
+  ]
+}

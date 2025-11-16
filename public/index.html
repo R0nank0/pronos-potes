@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pronos Potes - Archive des Pronostics Sportifs</title>
+    <meta name="description" content="Archive complète des pronostics sportifs entre potes depuis 2006 - Ligue 1, Ligue des Champions, Liga Europa, TOP 14, International">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="hero-background"></div>
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-logo">
+                    <img src="assets/logo.png" alt="Pronos Potes" class="logo-image">
+                </div>
+                <p class="hero-subtitle">19 années de pronostics sportifs entre amis</p>
+
+                <!-- Stats Grid -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number">64</div>
+                        <div class="stat-label">Saisons</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">1,448</div>
+                        <div class="stat-label">Journées</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">260</div>
+                        <div class="stat-label">Joueurs</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">500K+</div>
+                        <div class="stat-label">Pronostics</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Competitions Section -->
+    <main class="main">
+        <div class="container">
+            <section class="competitions-section">
+                <div class="section-header">
+                    <h2 class="section-title">Explorez les Compétitions</h2>
+                    <p class="section-subtitle">Sélectionnez une compétition pour découvrir son historique complet</p>
+                </div>
+
+                <div id="competitions-grid" class="competitions-grid loading">
+                    <div class="loader">
+                        <div class="loader-spinner"></div>
+                        <p>Chargement des compétitions...</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <img src="assets/logo.png" alt="Pronos Potes" class="footer-logo-img">
+                </div>
+                <div class="footer-info">
+                    <p>&copy; 2006-2025 - Archive statique</p>
+                    <p class="footer-note">Généré le <span id="generated-date"></span></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/utils.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>

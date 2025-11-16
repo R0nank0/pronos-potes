@@ -1,0 +1,520 @@
+{
+  "season": "international-2024",
+  "seasonId": "66",
+  "seasonName": "Euro 2024",
+  "totalMatches": 51,
+  "totalJournees": 6,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1007321,
+      "journee": 1,
+      "date": "2024-06-14 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Ecosse",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007322,
+      "journee": 1,
+      "date": "2024-06-15 15:00:00",
+      "homeTeam": "Hongrie",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007323,
+      "journee": 1,
+      "date": "2024-06-15 18:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Croatie",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007324,
+      "journee": 1,
+      "date": "2024-06-15 21:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Albanie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007325,
+      "journee": 1,
+      "date": "2024-06-16 15:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007326,
+      "journee": 1,
+      "date": "2024-06-16 18:00:00",
+      "homeTeam": "Slovénie",
+      "awayTeam": "Danemark",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007327,
+      "journee": 1,
+      "date": "2024-06-16 21:00:00",
+      "homeTeam": "Serbie",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007328,
+      "journee": 1,
+      "date": "2024-06-17 15:00:00",
+      "homeTeam": "Roumanie",
+      "awayTeam": "Ukraine",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007329,
+      "journee": 1,
+      "date": "2024-06-17 18:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Slovaquie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007330,
+      "journee": 2,
+      "date": "2024-06-17 21:00:00",
+      "homeTeam": "Autriche",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007331,
+      "journee": 2,
+      "date": "2024-06-18 18:00:00",
+      "homeTeam": "Turquie",
+      "awayTeam": "Georgie",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007332,
+      "journee": 2,
+      "date": "2024-06-18 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Tchequie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007333,
+      "journee": 2,
+      "date": "2024-06-19 15:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Albanie",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007334,
+      "journee": 2,
+      "date": "2024-06-19 18:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Hongrie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007335,
+      "journee": 2,
+      "date": "2024-06-19 21:00:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007336,
+      "journee": 2,
+      "date": "2024-06-20 15:00:00",
+      "homeTeam": "Slovénie",
+      "awayTeam": "Serbie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007337,
+      "journee": 2,
+      "date": "2024-06-20 18:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007338,
+      "journee": 2,
+      "date": "2024-06-20 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007339,
+      "journee": 3,
+      "date": "2024-06-21 15:00:00",
+      "homeTeam": "Slovaquie",
+      "awayTeam": "Ukraine",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007340,
+      "journee": 3,
+      "date": "2024-06-21 18:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Autriche",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007341,
+      "journee": 3,
+      "date": "2024-06-21 21:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007342,
+      "journee": 3,
+      "date": "2024-06-22 15:00:00",
+      "homeTeam": "Georgie",
+      "awayTeam": "Tchequie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007343,
+      "journee": 3,
+      "date": "2024-06-22 18:00:00",
+      "homeTeam": "Turquie",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007344,
+      "journee": 3,
+      "date": "2024-06-22 21:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Roumanie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007345,
+      "journee": 3,
+      "date": "2024-06-23 21:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Allemagne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007346,
+      "journee": 3,
+      "date": "2024-06-23 21:00:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Hongrie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007347,
+      "journee": 3,
+      "date": "2024-06-24 21:00:00",
+      "homeTeam": "Albanie",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007348,
+      "journee": 4,
+      "date": "2024-06-24 21:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007349,
+      "journee": 4,
+      "date": "2024-06-25 18:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Pologne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007350,
+      "journee": 4,
+      "date": "2024-06-25 18:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Autriche",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007351,
+      "journee": 4,
+      "date": "2024-06-25 21:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Serbie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007352,
+      "journee": 4,
+      "date": "2024-06-25 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Slovénie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007353,
+      "journee": 4,
+      "date": "2024-06-26 18:00:00",
+      "homeTeam": "Slovaquie",
+      "awayTeam": "Roumanie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007354,
+      "journee": 4,
+      "date": "2024-06-26 18:00:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007355,
+      "journee": 4,
+      "date": "2024-06-26 21:00:00",
+      "homeTeam": "Georgie",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007356,
+      "journee": 4,
+      "date": "2024-06-26 21:00:00",
+      "homeTeam": "Tchequie",
+      "awayTeam": "Turquie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007357,
+      "journee": 5,
+      "date": "2024-06-29 18:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Suisse",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007358,
+      "journee": 5,
+      "date": "2024-06-29 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Danemark",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007359,
+      "journee": 5,
+      "date": "2024-06-30 18:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Slovaquie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007360,
+      "journee": 5,
+      "date": "2024-06-30 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Georgie",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007361,
+      "journee": 5,
+      "date": "2024-07-01 18:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Belgique",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007362,
+      "journee": 5,
+      "date": "2024-07-01 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Slovénie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007363,
+      "journee": 5,
+      "date": "2024-07-02 18:00:00",
+      "homeTeam": "Roumanie",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007364,
+      "journee": 5,
+      "date": "2024-07-02 21:00:00",
+      "homeTeam": "Autriche",
+      "awayTeam": "Turquie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007365,
+      "journee": 6,
+      "date": "2024-07-05 18:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Espagne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007366,
+      "journee": 6,
+      "date": "2024-07-05 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007367,
+      "journee": 6,
+      "date": "2024-07-06 18:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007368,
+      "journee": 6,
+      "date": "2024-07-06 21:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Turquie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007369,
+      "journee": 6,
+      "date": "2024-07-09 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "France",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007370,
+      "journee": 6,
+      "date": "2024-07-10 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007371,
+      "journee": 6,
+      "date": "2024-07-14 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Angleterre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    }
+  ]
+}

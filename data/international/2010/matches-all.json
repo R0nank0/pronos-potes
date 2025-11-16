@@ -1,0 +1,650 @@
+{
+  "season": "international-2010",
+  "seasonId": "7",
+  "seasonName": "Coupe du Monde 2010",
+  "totalMatches": 64,
+  "totalJournees": 8,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 9820,
+      "journee": 1,
+      "date": "2010-06-11 16:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Mexique",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9821,
+      "journee": 1,
+      "date": "2010-06-11 20:30:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9822,
+      "journee": 1,
+      "date": "2010-06-12 20:30:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9823,
+      "journee": 1,
+      "date": "2010-06-13 13:30:00",
+      "homeTeam": "Algérie",
+      "awayTeam": "Slovénie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9824,
+      "journee": 1,
+      "date": "2010-06-12 13:30:00",
+      "homeTeam": "Corée du Sud",
+      "awayTeam": "Grèce",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9825,
+      "journee": 1,
+      "date": "2010-06-12 16:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Nigéria",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9826,
+      "journee": 1,
+      "date": "2010-06-13 16:00:00",
+      "homeTeam": "Serbie",
+      "awayTeam": "Ghana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9827,
+      "journee": 1,
+      "date": "2010-06-13 20:30:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Australie",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9828,
+      "journee": 2,
+      "date": "2010-06-14 13:30:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Danemark",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9829,
+      "journee": 2,
+      "date": "2010-06-14 16:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Cameroun",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9830,
+      "journee": 2,
+      "date": "2010-06-14 20:30:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Paraguay",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9831,
+      "journee": 2,
+      "date": "2010-06-15 13:30:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Slovaquie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9832,
+      "journee": 2,
+      "date": "2010-06-15 16:00:00",
+      "homeTeam": "Cote Ivoire",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9833,
+      "journee": 2,
+      "date": "2010-06-15 20:30:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Corée du Nord",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9834,
+      "journee": 2,
+      "date": "2010-06-16 13:30:00",
+      "homeTeam": "Honduras",
+      "awayTeam": "Chili",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9835,
+      "journee": 2,
+      "date": "2010-06-16 16:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Suisse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9836,
+      "journee": 3,
+      "date": "2010-06-16 20:30:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9837,
+      "journee": 3,
+      "date": "2010-06-17 20:30:00",
+      "homeTeam": "France",
+      "awayTeam": "Mexique",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9838,
+      "journee": 3,
+      "date": "2010-06-17 16:00:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "Nigéria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9839,
+      "journee": 3,
+      "date": "2010-06-17 13:30:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Corée du Sud",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9840,
+      "journee": 3,
+      "date": "2010-06-18 13:30:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Serbie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9841,
+      "journee": 3,
+      "date": "2010-06-18 16:00:00",
+      "homeTeam": "Slovénie",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9842,
+      "journee": 3,
+      "date": "2010-06-18 20:30:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Algérie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9843,
+      "journee": 3,
+      "date": "2010-06-19 16:00:00",
+      "homeTeam": "Ghana",
+      "awayTeam": "Australie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9844,
+      "journee": 4,
+      "date": "2010-06-19 13:30:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Japon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9845,
+      "journee": 4,
+      "date": "2010-06-19 20:30:00",
+      "homeTeam": "Cameroun",
+      "awayTeam": "Danemark",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9846,
+      "journee": 4,
+      "date": "2010-06-20 13:30:00",
+      "homeTeam": "Slovaquie",
+      "awayTeam": "Paraguay",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9847,
+      "journee": 4,
+      "date": "2010-06-20 16:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Nouvelle-Zélande",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9848,
+      "journee": 4,
+      "date": "2010-06-21 13:30:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Corée du Nord",
+      "homeScore": 7,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9849,
+      "journee": 4,
+      "date": "2010-06-20 20:30:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Cote Ivoire",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9850,
+      "journee": 4,
+      "date": "2010-06-21 16:00:00",
+      "homeTeam": "Chili",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9851,
+      "journee": 4,
+      "date": "2010-06-21 20:30:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Honduras",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9852,
+      "journee": 5,
+      "date": "2010-06-22 16:00:00",
+      "homeTeam": "Mexique",
+      "awayTeam": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9853,
+      "journee": 5,
+      "date": "2010-06-22 16:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Afrique du Sud",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9854,
+      "journee": 5,
+      "date": "2010-06-22 20:30:00",
+      "homeTeam": "Nigéria",
+      "awayTeam": "Corée du Sud",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9855,
+      "journee": 5,
+      "date": "2010-06-22 20:30:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "Argentine",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9856,
+      "journee": 5,
+      "date": "2010-06-23 16:00:00",
+      "homeTeam": "Slovénie",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9857,
+      "journee": 5,
+      "date": "2010-06-23 16:00:00",
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Algérie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9858,
+      "journee": 5,
+      "date": "2010-06-23 20:30:00",
+      "homeTeam": "Ghana",
+      "awayTeam": "Allemagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9859,
+      "journee": 5,
+      "date": "2010-06-23 20:30:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Serbie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9860,
+      "journee": 6,
+      "date": "2010-06-24 16:00:00",
+      "homeTeam": "Slovaquie",
+      "awayTeam": "Italie",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9861,
+      "journee": 6,
+      "date": "2010-06-24 16:00:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Nouvelle-Zélande",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9862,
+      "journee": 6,
+      "date": "2010-06-24 20:30:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Japon",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9863,
+      "journee": 6,
+      "date": "2010-06-24 20:30:00",
+      "homeTeam": "Cameroun",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9864,
+      "journee": 6,
+      "date": "2010-06-25 16:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Bresil",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9865,
+      "journee": 6,
+      "date": "2010-06-25 16:00:00",
+      "homeTeam": "Corée du Nord",
+      "awayTeam": "Cote Ivoire",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9866,
+      "journee": 6,
+      "date": "2010-06-25 20:30:00",
+      "homeTeam": "Chili",
+      "awayTeam": "Espagne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9867,
+      "journee": 6,
+      "date": "2010-06-25 20:30:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Honduras",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9868,
+      "journee": 7,
+      "date": "2010-06-26 16:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Corée du Sud",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9869,
+      "journee": 7,
+      "date": "2010-06-26 20:30:00",
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Ghana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9870,
+      "journee": 7,
+      "date": "2010-06-27 16:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Angleterre",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9871,
+      "journee": 7,
+      "date": "2010-06-27 20:30:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Mexique",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9872,
+      "journee": 7,
+      "date": "2010-06-28 16:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Slovaquie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9873,
+      "journee": 7,
+      "date": "2010-06-28 20:30:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Chili",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9874,
+      "journee": 7,
+      "date": "2010-06-29 16:00:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Japon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9875,
+      "journee": 7,
+      "date": "2010-06-29 20:30:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Portugal",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9876,
+      "journee": 8,
+      "date": "2010-07-02 16:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Bresil",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9877,
+      "journee": 8,
+      "date": "2010-07-02 20:30:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Ghana",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9878,
+      "journee": 8,
+      "date": "2010-07-03 16:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Allemagne",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 9879,
+      "journee": 8,
+      "date": "2010-07-03 20:30:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9880,
+      "journee": 8,
+      "date": "2010-07-06 20:30:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9881,
+      "journee": 8,
+      "date": "2010-07-07 20:30:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9882,
+      "journee": 8,
+      "date": "2010-07-10 20:30:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Allemagne",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9883,
+      "journee": 8,
+      "date": "2010-07-11 20:30:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    }
+  ]
+}

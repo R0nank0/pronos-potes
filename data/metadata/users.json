@@ -1,0 +1,3388 @@
+{
+  "generated": "2025-11-08T08:20:42.176Z",
+  "totalUsers": 260,
+  "note": "Statistiques de carrière calculées à partir de tous les standings-general.json",
+  "schema": "v2",
+  "users": [
+    {
+      "id": 108,
+      "username": "318bdx",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 3010,
+        "totalPronostics": 319,
+        "totalCorrects": 138,
+        "globalSuccessRate": 43.3
+      }
+    },
+    {
+      "id": 860,
+      "username": "adri22590",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 4204,
+        "totalPronostics": 1226,
+        "totalCorrects": 554,
+        "globalSuccessRate": 45.2
+      }
+    },
+    {
+      "id": 201,
+      "username": "Adrien",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 26,
+        "totalPronostics": 10,
+        "totalCorrects": 3,
+        "globalSuccessRate": 30
+      }
+    },
+    {
+      "id": 234,
+      "username": "Ailou",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 4400,
+        "totalPronostics": 1166,
+        "totalCorrects": 573,
+        "globalSuccessRate": 49.1
+      }
+    },
+    {
+      "id": 269,
+      "username": "Alex",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 1395,
+        "totalPronostics": 359,
+        "totalCorrects": 173,
+        "globalSuccessRate": 48.2
+      }
+    },
+    {
+      "id": 856,
+      "username": "Anton",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 6841,
+        "totalPronostics": 1901,
+        "totalCorrects": 897,
+        "globalSuccessRate": 47.2
+      }
+    },
+    {
+      "id": 145,
+      "username": "Arconada",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 23,
+      "careerStats": {
+        "totalPoints": 17417,
+        "totalPronostics": 5632,
+        "totalCorrects": 2370,
+        "globalSuccessRate": 42.1
+      }
+    },
+    {
+      "id": 173,
+      "username": "ASSJ",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 14,
+      "careerStats": {
+        "totalPoints": 7868,
+        "totalPronostics": 2260,
+        "totalCorrects": 1044,
+        "globalSuccessRate": 46.2
+      }
+    },
+    {
+      "id": 866,
+      "username": "Aulasinho",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 1711,
+        "totalPronostics": 488,
+        "totalCorrects": 220,
+        "globalSuccessRate": 45.1
+      }
+    },
+    {
+      "id": 273,
+      "username": "Aumiyo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 10980,
+        "totalPronostics": 3061,
+        "totalCorrects": 1453,
+        "globalSuccessRate": 47.5
+      }
+    },
+    {
+      "id": 68,
+      "username": "aurel",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 6313,
+        "totalPronostics": 1081,
+        "totalCorrects": 510,
+        "globalSuccessRate": 47.2
+      }
+    },
+    {
+      "id": 128,
+      "username": "Awena",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 2603,
+        "totalPronostics": 877,
+        "totalCorrects": 392,
+        "globalSuccessRate": 44.7
+      }
+    },
+    {
+      "id": 69,
+      "username": "bag",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 12,
+      "careerStats": {
+        "totalPoints": 11175,
+        "totalPronostics": 2350,
+        "totalCorrects": 1034,
+        "globalSuccessRate": 44
+      }
+    },
+    {
+      "id": 233,
+      "username": "baoab",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 5103,
+        "totalPronostics": 1357,
+        "totalCorrects": 654,
+        "globalSuccessRate": 48.2
+      }
+    },
+    {
+      "id": 311,
+      "username": "Baradona",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 10,
+      "careerStats": {
+        "totalPoints": 5178,
+        "totalPronostics": 1513,
+        "totalCorrects": 685,
+        "globalSuccessRate": 45.3
+      }
+    },
+    {
+      "id": 206,
+      "username": "Bastien",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 516,
+        "totalPronostics": 171,
+        "totalCorrects": 76,
+        "globalSuccessRate": 44.4
+      }
+    },
+    {
+      "id": 858,
+      "username": "BenArfa56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 30,
+      "careerStats": {
+        "totalPoints": 20063,
+        "totalPronostics": 4926,
+        "totalCorrects": 2561,
+        "globalSuccessRate": 52
+      }
+    },
+    {
+      "id": 231,
+      "username": "Benzema62",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 36,
+        "totalPronostics": 10,
+        "totalCorrects": 5,
+        "globalSuccessRate": 50
+      }
+    },
+    {
+      "id": 70,
+      "username": "bergomi",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 11022,
+        "totalPronostics": 1494,
+        "totalCorrects": 634,
+        "globalSuccessRate": 42.4
+      }
+    },
+    {
+      "id": 121,
+      "username": "berod",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 4530,
+        "totalPronostics": 380,
+        "totalCorrects": 177,
+        "globalSuccessRate": 46.6
+      }
+    },
+    {
+      "id": 130,
+      "username": "beuc",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 1093,
+        "totalPronostics": 395,
+        "totalCorrects": 183,
+        "globalSuccessRate": 46.3
+      }
+    },
+    {
+      "id": 283,
+      "username": "Bg coco",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 844,
+        "totalPronostics": 267,
+        "totalCorrects": 122,
+        "globalSuccessRate": 45.7
+      }
+    },
+    {
+      "id": 882,
+      "username": "Bisondesbois",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 1500,
+        "totalPronostics": 417,
+        "totalCorrects": 206,
+        "globalSuccessRate": 49.4
+      }
+    },
+    {
+      "id": 262,
+      "username": "BleuBlancRouge",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 6,
+        "totalPronostics": 5,
+        "totalCorrects": 1,
+        "globalSuccessRate": 20
+      }
+    },
+    {
+      "id": 221,
+      "username": "Bofman",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 996,
+        "totalPronostics": 251,
+        "totalCorrects": 130,
+        "globalSuccessRate": 51.8
+      }
+    },
+    {
+      "id": 293,
+      "username": "Bond49",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 730,
+        "totalPronostics": 233,
+        "totalCorrects": 96,
+        "globalSuccessRate": 41.2
+      }
+    },
+    {
+      "id": 71,
+      "username": "Bougnat 63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 50,
+        "totalPronostics": 3,
+        "totalCorrects": 2,
+        "globalSuccessRate": 66.7
+      }
+    },
+    {
+      "id": 148,
+      "username": "Bouland",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 2316,
+        "totalPronostics": 849,
+        "totalCorrects": 379,
+        "globalSuccessRate": 44.6
+      }
+    },
+    {
+      "id": 139,
+      "username": "braor",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 3311,
+        "totalPronostics": 1218,
+        "totalCorrects": 524,
+        "globalSuccessRate": 43
+      }
+    },
+    {
+      "id": 152,
+      "username": "Breizhvester",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 825,
+        "totalPronostics": 319,
+        "totalCorrects": 136,
+        "globalSuccessRate": 42.6
+      }
+    },
+    {
+      "id": 67,
+      "username": "Ca me cartonne",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 8,
+      "careerStats": {
+        "totalPoints": 6931,
+        "totalPronostics": 1185,
+        "totalCorrects": 506,
+        "globalSuccessRate": 42.7
+      }
+    },
+    {
+      "id": 254,
+      "username": "Calou22",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 20,
+      "careerStats": {
+        "totalPoints": 16985,
+        "totalPronostics": 4631,
+        "totalCorrects": 2232,
+        "globalSuccessRate": 48.2
+      }
+    },
+    {
+      "id": 271,
+      "username": "Cantona One",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 3037,
+        "totalPronostics": 898,
+        "totalCorrects": 419,
+        "globalSuccessRate": 46.7
+      }
+    },
+    {
+      "id": 172,
+      "username": "Cantona63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 52,
+      "careerStats": {
+        "totalPoints": 38308,
+        "totalPronostics": 9860,
+        "totalCorrects": 4947,
+        "globalSuccessRate": 50.2
+      }
+    },
+    {
+      "id": 876,
+      "username": "Caralho",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 13,
+      "careerStats": {
+        "totalPoints": 8760,
+        "totalPronostics": 2304,
+        "totalCorrects": 1151,
+        "globalSuccessRate": 50
+      }
+    },
+    {
+      "id": 72,
+      "username": "Carlos64",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 64,
+      "careerStats": {
+        "totalPoints": 57322,
+        "totalPronostics": 12295,
+        "totalCorrects": 6574,
+        "globalSuccessRate": 53.5
+      }
+    },
+    {
+      "id": 226,
+      "username": "Cavegoal",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 4607,
+        "totalPronostics": 1384,
+        "totalCorrects": 628,
+        "globalSuccessRate": 45.4
+      }
+    },
+    {
+      "id": 109,
+      "username": "cécé51",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 3241,
+        "totalPronostics": 552,
+        "totalCorrects": 226,
+        "globalSuccessRate": 40.9
+      }
+    },
+    {
+      "id": 274,
+      "username": "Chamois dor",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 17,
+      "careerStats": {
+        "totalPoints": 10350,
+        "totalPronostics": 2682,
+        "totalCorrects": 1350,
+        "globalSuccessRate": 50.3
+      }
+    },
+    {
+      "id": 183,
+      "username": "Champion2010",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 29,
+        "totalPronostics": 7,
+        "totalCorrects": 4,
+        "globalSuccessRate": 57.1
+      }
+    },
+    {
+      "id": 250,
+      "username": "Cheville-d-acier",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 996,
+        "totalPronostics": 251,
+        "totalCorrects": 127,
+        "globalSuccessRate": 50.6
+      }
+    },
+    {
+      "id": 189,
+      "username": "Christophe",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 29,
+      "careerStats": {
+        "totalPoints": 19772,
+        "totalPronostics": 5603,
+        "totalCorrects": 2585,
+        "globalSuccessRate": 46.1
+      }
+    },
+    {
+      "id": 134,
+      "username": "Clark",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 327,
+        "totalPronostics": 120,
+        "totalCorrects": 57,
+        "globalSuccessRate": 47.5
+      }
+    },
+    {
+      "id": 228,
+      "username": "Claudius56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 13,
+      "careerStats": {
+        "totalPoints": 10876,
+        "totalPronostics": 2923,
+        "totalCorrects": 1430,
+        "globalSuccessRate": 48.9
+      }
+    },
+    {
+      "id": 899,
+      "username": "Clerembauld",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 341,
+        "totalPronostics": 48,
+        "totalCorrects": 36,
+        "globalSuccessRate": 75
+      }
+    },
+    {
+      "id": 288,
+      "username": "Cob56920",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 12751,
+        "totalPronostics": 3284,
+        "totalCorrects": 1656,
+        "globalSuccessRate": 50.4
+      }
+    },
+    {
+      "id": 879,
+      "username": "Coulibaly56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 4487,
+        "totalPronostics": 1271,
+        "totalCorrects": 584,
+        "globalSuccessRate": 45.9
+      }
+    },
+    {
+      "id": 136,
+      "username": "Cue",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 147,
+        "totalPronostics": 60,
+        "totalCorrects": 25,
+        "globalSuccessRate": 41.7
+      }
+    },
+    {
+      "id": 73,
+      "username": "cyril",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 23,
+      "careerStats": {
+        "totalPoints": 18694,
+        "totalPronostics": 4969,
+        "totalCorrects": 2298,
+        "globalSuccessRate": 46.2
+      }
+    },
+    {
+      "id": 74,
+      "username": "daddou",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 6505,
+        "totalPronostics": 749,
+        "totalCorrects": 293,
+        "globalSuccessRate": 39.1
+      }
+    },
+    {
+      "id": 177,
+      "username": "Dalimoi",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 53,
+      "careerStats": {
+        "totalPoints": 42127,
+        "totalPronostics": 9933,
+        "totalCorrects": 5324,
+        "globalSuccessRate": 53.6
+      }
+    },
+    {
+      "id": 268,
+      "username": "DamienD",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 692,
+        "totalPronostics": 175,
+        "totalCorrects": 87,
+        "globalSuccessRate": 49.7
+      }
+    },
+    {
+      "id": 200,
+      "username": "Dams",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 8,
+      "careerStats": {
+        "totalPoints": 1509,
+        "totalPronostics": 382,
+        "totalCorrects": 201,
+        "globalSuccessRate": 52.6
+      }
+    },
+    {
+      "id": 75,
+      "username": "daniel",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 12,
+      "careerStats": {
+        "totalPoints": 10191,
+        "totalPronostics": 1753,
+        "totalCorrects": 805,
+        "globalSuccessRate": 45.9
+      }
+    },
+    {
+      "id": 178,
+      "username": "Darkvero",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 8223,
+        "totalPronostics": 1397,
+        "totalCorrects": 988,
+        "globalSuccessRate": 70.7
+      }
+    },
+    {
+      "id": 170,
+      "username": "David",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 2025,
+        "totalPronostics": 573,
+        "totalCorrects": 267,
+        "globalSuccessRate": 46.6
+      }
+    },
+    {
+      "id": 163,
+      "username": "Davydenko",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 1629,
+        "totalPronostics": 463,
+        "totalCorrects": 230,
+        "globalSuccessRate": 49.7
+      }
+    },
+    {
+      "id": 76,
+      "username": "didile53",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 50,
+      "careerStats": {
+        "totalPoints": 48293,
+        "totalPronostics": 10398,
+        "totalCorrects": 5534,
+        "globalSuccessRate": 53.2
+      }
+    },
+    {
+      "id": 853,
+      "username": "Didou56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 22,
+      "careerStats": {
+        "totalPoints": 13416,
+        "totalPronostics": 3659,
+        "totalCorrects": 1767,
+        "globalSuccessRate": 48.3
+      }
+    },
+    {
+      "id": 77,
+      "username": "dom",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 4499,
+        "totalPronostics": 1276,
+        "totalCorrects": 515,
+        "globalSuccessRate": 40.4
+      }
+    },
+    {
+      "id": 869,
+      "username": "Drannock",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 780,
+        "totalPronostics": 256,
+        "totalCorrects": 106,
+        "globalSuccessRate": 41.4
+      }
+    },
+    {
+      "id": 78,
+      "username": "dudale",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 960,
+        "totalPronostics": 150,
+        "totalCorrects": 52,
+        "globalSuccessRate": 34.7
+      }
+    },
+    {
+      "id": 127,
+      "username": "dude",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 857,
+        "totalPronostics": 312,
+        "totalCorrects": 142,
+        "globalSuccessRate": 45.5
+      }
+    },
+    {
+      "id": 850,
+      "username": "El Kun",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 2353,
+        "totalPronostics": 701,
+        "totalCorrects": 315,
+        "globalSuccessRate": 44.9
+      }
+    },
+    {
+      "id": 79,
+      "username": "Emeric63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 21,
+      "careerStats": {
+        "totalPoints": 16861,
+        "totalPronostics": 3628,
+        "totalCorrects": 1743,
+        "globalSuccessRate": 48
+      }
+    },
+    {
+      "id": 125,
+      "username": "emno63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 1968,
+        "totalPronostics": 308,
+        "totalCorrects": 121,
+        "globalSuccessRate": 39.3
+      }
+    },
+    {
+      "id": 218,
+      "username": "Erin",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 7619,
+        "totalPronostics": 2195,
+        "totalCorrects": 1007,
+        "globalSuccessRate": 45.9
+      }
+    },
+    {
+      "id": 229,
+      "username": "Ewen56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 10,
+      "careerStats": {
+        "totalPoints": 2499,
+        "totalPronostics": 742,
+        "totalCorrects": 324,
+        "globalSuccessRate": 43.7
+      }
+    },
+    {
+      "id": 165,
+      "username": "Extubator",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 41,
+      "careerStats": {
+        "totalPoints": 27352,
+        "totalPronostics": 7429,
+        "totalCorrects": 3608,
+        "globalSuccessRate": 48.6
+      }
+    },
+    {
+      "id": 900,
+      "username": "FBN",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 535,
+        "totalPronostics": 97,
+        "totalCorrects": 55,
+        "globalSuccessRate": 56.7
+      }
+    },
+    {
+      "id": 307,
+      "username": "Florian",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 151,
+        "totalPronostics": 52,
+        "totalCorrects": 23,
+        "globalSuccessRate": 44.2
+      }
+    },
+    {
+      "id": 255,
+      "username": "footix29",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 6855,
+        "totalPronostics": 1854,
+        "totalCorrects": 867,
+        "globalSuccessRate": 46.8
+      }
+    },
+    {
+      "id": 80,
+      "username": "fred",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 28,
+      "careerStats": {
+        "totalPoints": 25983,
+        "totalPronostics": 6805,
+        "totalCorrects": 3087,
+        "globalSuccessRate": 45.4
+      }
+    },
+    {
+      "id": 160,
+      "username": "Freddy",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 47,
+      "careerStats": {
+        "totalPoints": 32297,
+        "totalPronostics": 8455,
+        "totalCorrects": 4185,
+        "globalSuccessRate": 49.5
+      }
+    },
+    {
+      "id": 81,
+      "username": "Frederer",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 59,
+      "careerStats": {
+        "totalPoints": 47121,
+        "totalPronostics": 11091,
+        "totalCorrects": 5560,
+        "globalSuccessRate": 50.1
+      }
+    },
+    {
+      "id": 209,
+      "username": "FredM",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 48,
+      "careerStats": {
+        "totalPoints": 35751,
+        "totalPronostics": 8742,
+        "totalCorrects": 4625,
+        "globalSuccessRate": 52.9
+      }
+    },
+    {
+      "id": 265,
+      "username": "Fredy56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 9580,
+        "totalPronostics": 2511,
+        "totalCorrects": 1247,
+        "globalSuccessRate": 49.7
+      }
+    },
+    {
+      "id": 205,
+      "username": "Gatien",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 25,
+      "careerStats": {
+        "totalPoints": 20716,
+        "totalPronostics": 5641,
+        "totalCorrects": 2736,
+        "globalSuccessRate": 48.5
+      }
+    },
+    {
+      "id": 82,
+      "username": "gg42",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 4138,
+        "totalPronostics": 648,
+        "totalCorrects": 288,
+        "globalSuccessRate": 44.4
+      }
+    },
+    {
+      "id": 287,
+      "username": "Gigabi",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 368,
+        "totalPronostics": 104,
+        "totalCorrects": 47,
+        "globalSuccessRate": 45.2
+      }
+    },
+    {
+      "id": 263,
+      "username": "Gildas35",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 17,
+      "careerStats": {
+        "totalPoints": 15768,
+        "totalPronostics": 4391,
+        "totalCorrects": 2044,
+        "globalSuccessRate": 46.5
+      }
+    },
+    {
+      "id": 851,
+      "username": "Grizou",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 10,
+      "careerStats": {
+        "totalPoints": 4508,
+        "totalPronostics": 1399,
+        "totalCorrects": 612,
+        "globalSuccessRate": 43.7
+      }
+    },
+    {
+      "id": 864,
+      "username": "GrootCruyff",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 22,
+      "careerStats": {
+        "totalPoints": 10977,
+        "totalPronostics": 2776,
+        "totalCorrects": 1402,
+        "globalSuccessRate": 50.5
+      }
+    },
+    {
+      "id": 898,
+      "username": "GUC",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 592,
+        "totalPronostics": 97,
+        "totalCorrects": 61,
+        "globalSuccessRate": 62.9
+      }
+    },
+    {
+      "id": 126,
+      "username": "Guéguette",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 16,
+      "careerStats": {
+        "totalPoints": 22320,
+        "totalPronostics": 5703,
+        "totalCorrects": 2600,
+        "globalSuccessRate": 45.6
+      }
+    },
+    {
+      "id": 164,
+      "username": "guenaelle",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 5685,
+        "totalPronostics": 1745,
+        "totalCorrects": 776,
+        "globalSuccessRate": 44.5
+      }
+    },
+    {
+      "id": 297,
+      "username": "Guignol",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 140,
+        "totalPronostics": 50,
+        "totalCorrects": 18,
+        "globalSuccessRate": 36
+      }
+    },
+    {
+      "id": 208,
+      "username": "Guinness",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 28,
+        "totalPronostics": 10,
+        "totalCorrects": 3,
+        "globalSuccessRate": 30
+      }
+    },
+    {
+      "id": 305,
+      "username": "Gunners-21",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 26,
+      "careerStats": {
+        "totalPoints": 16683,
+        "totalPronostics": 4678,
+        "totalCorrects": 2195,
+        "globalSuccessRate": 46.9
+      }
+    },
+    {
+      "id": 175,
+      "username": "Gunther",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 74,
+        "totalPronostics": 30,
+        "totalCorrects": 8,
+        "globalSuccessRate": 26.7
+      }
+    },
+    {
+      "id": 887,
+      "username": "Gwel35",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 50,
+        "totalPronostics": 16,
+        "totalCorrects": 7,
+        "globalSuccessRate": 43.8
+      }
+    },
+    {
+      "id": 140,
+      "username": "Haka#10",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 47,
+        "totalPronostics": 20,
+        "totalCorrects": 8,
+        "globalSuccessRate": 40
+      }
+    },
+    {
+      "id": 286,
+      "username": "ifix",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 312,
+        "totalPronostics": 88,
+        "totalCorrects": 39,
+        "globalSuccessRate": 44.3
+      }
+    },
+    {
+      "id": 868,
+      "username": "Ippon41-174",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 1551,
+        "totalPronostics": 331,
+        "totalCorrects": 183,
+        "globalSuccessRate": 55.3
+      }
+    },
+    {
+      "id": 156,
+      "username": "Jacobée",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 69,
+        "totalPronostics": 27,
+        "totalCorrects": 12,
+        "globalSuccessRate": 44.4
+      }
+    },
+    {
+      "id": 893,
+      "username": "James56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 4441,
+        "totalPronostics": 1173,
+        "totalCorrects": 576,
+        "globalSuccessRate": 49.1
+      }
+    },
+    {
+      "id": 184,
+      "username": "jcbravo63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 313,
+        "totalPronostics": 69,
+        "totalCorrects": 42,
+        "globalSuccessRate": 60.9
+      }
+    },
+    {
+      "id": 877,
+      "username": "Jean-Mi-Mi Olas",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 14,
+      "careerStats": {
+        "totalPoints": 9126,
+        "totalPronostics": 2514,
+        "totalCorrects": 1227,
+        "globalSuccessRate": 48.8
+      }
+    },
+    {
+      "id": 159,
+      "username": "Jeff le gaulois",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 759,
+        "totalPronostics": 299,
+        "totalCorrects": 119,
+        "globalSuccessRate": 39.8
+      }
+    },
+    {
+      "id": 83,
+      "username": "Jeje la cisaille",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 29,
+      "careerStats": {
+        "totalPoints": 33705,
+        "totalPronostics": 7286,
+        "totalCorrects": 3391,
+        "globalSuccessRate": 46.5
+      }
+    },
+    {
+      "id": 897,
+      "username": "Jen",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 214,
+        "totalPronostics": 32,
+        "totalCorrects": 25,
+        "globalSuccessRate": 78.1
+      }
+    },
+    {
+      "id": 253,
+      "username": "Jhips",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 1716,
+        "totalPronostics": 481,
+        "totalCorrects": 222,
+        "globalSuccessRate": 46.2
+      }
+    },
+    {
+      "id": 312,
+      "username": "Jipeurien",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 84,
+        "totalPronostics": 10,
+        "totalCorrects": 8,
+        "globalSuccessRate": 80
+      }
+    },
+    {
+      "id": 259,
+      "username": "Joel",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 12,
+      "careerStats": {
+        "totalPoints": 8717,
+        "totalPronostics": 2538,
+        "totalCorrects": 1172,
+        "globalSuccessRate": 46.2
+      }
+    },
+    {
+      "id": 141,
+      "username": "Joquer",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 27,
+      "careerStats": {
+        "totalPoints": 15615,
+        "totalPronostics": 4019,
+        "totalCorrects": 1939,
+        "globalSuccessRate": 48.2
+      }
+    },
+    {
+      "id": 161,
+      "username": "Jordan",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 391,
+        "totalPronostics": 141,
+        "totalCorrects": 72,
+        "globalSuccessRate": 51.1
+      }
+    },
+    {
+      "id": 895,
+      "username": "Juju44",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 1707,
+        "totalPronostics": 566,
+        "totalCorrects": 247,
+        "globalSuccessRate": 43.6
+      }
+    },
+    {
+      "id": 309,
+      "username": "Juju85",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 127,
+        "totalPronostics": 39,
+        "totalCorrects": 16,
+        "globalSuccessRate": 41
+      }
+    },
+    {
+      "id": 151,
+      "username": "Julian",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 21,
+      "careerStats": {
+        "totalPoints": 12080,
+        "totalPronostics": 3633,
+        "totalCorrects": 1707,
+        "globalSuccessRate": 47
+      }
+    },
+    {
+      "id": 84,
+      "username": "julien",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 7350,
+        "totalPronostics": 1112,
+        "totalCorrects": 473,
+        "globalSuccessRate": 42.5
+      }
+    },
+    {
+      "id": 85,
+      "username": "julien77",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 755,
+        "totalPronostics": 70,
+        "totalCorrects": 29,
+        "globalSuccessRate": 41.4
+      }
+    },
+    {
+      "id": 279,
+      "username": "JUNEV",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 3263,
+        "totalPronostics": 1098,
+        "totalCorrects": 452,
+        "globalSuccessRate": 41.2
+      }
+    },
+    {
+      "id": 217,
+      "username": "Keith",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 14096,
+        "totalPronostics": 3883,
+        "totalCorrects": 1853,
+        "globalSuccessRate": 47.7
+      }
+    },
+    {
+      "id": 197,
+      "username": "Keke56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 348,
+        "totalPronostics": 128,
+        "totalCorrects": 46,
+        "globalSuccessRate": 35.9
+      }
+    },
+    {
+      "id": 280,
+      "username": "Keldom",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 1401,
+        "totalPronostics": 414,
+        "totalCorrects": 185,
+        "globalSuccessRate": 44.7
+      }
+    },
+    {
+      "id": 872,
+      "username": "Kevin",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 577,
+        "totalPronostics": 156,
+        "totalCorrects": 77,
+        "globalSuccessRate": 49.4
+      }
+    },
+    {
+      "id": 86,
+      "username": "KingPing",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 3641,
+        "totalPronostics": 425,
+        "totalCorrects": 185,
+        "globalSuccessRate": 43.5
+      }
+    },
+    {
+      "id": 167,
+      "username": "kingtanguy",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 4711,
+        "totalPronostics": 1347,
+        "totalCorrects": 632,
+        "globalSuccessRate": 46.9
+      }
+    },
+    {
+      "id": 894,
+      "username": "klia9",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 1148,
+        "totalPronostics": 357,
+        "totalCorrects": 155,
+        "globalSuccessRate": 43.4
+      }
+    },
+    {
+      "id": 190,
+      "username": "Koubiac",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 14,
+      "careerStats": {
+        "totalPoints": 11599,
+        "totalPronostics": 3165,
+        "totalCorrects": 1492,
+        "globalSuccessRate": 47.1
+      }
+    },
+    {
+      "id": 181,
+      "username": "KRO",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 15727,
+        "totalPronostics": 2700,
+        "totalCorrects": 1856,
+        "globalSuccessRate": 68.7
+      }
+    },
+    {
+      "id": 888,
+      "username": "Kyky",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 2433,
+        "totalPronostics": 706,
+        "totalCorrects": 309,
+        "globalSuccessRate": 43.8
+      }
+    },
+    {
+      "id": 216,
+      "username": "La Grande",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 2907,
+        "totalPronostics": 859,
+        "totalCorrects": 391,
+        "globalSuccessRate": 45.5
+      }
+    },
+    {
+      "id": 302,
+      "username": "La Malice",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 19,
+      "careerStats": {
+        "totalPoints": 14208,
+        "totalPronostics": 3256,
+        "totalCorrects": 1760,
+        "globalSuccessRate": 54.1
+      }
+    },
+    {
+      "id": 168,
+      "username": "Le Bordelais",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 16,
+      "careerStats": {
+        "totalPoints": 9421,
+        "totalPronostics": 2601,
+        "totalCorrects": 1227,
+        "globalSuccessRate": 47.2
+      }
+    },
+    {
+      "id": 138,
+      "username": "le faucheur",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 1380,
+        "totalPronostics": 502,
+        "totalCorrects": 234,
+        "globalSuccessRate": 46.6
+      }
+    },
+    {
+      "id": 222,
+      "username": "Le General",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 28,
+      "careerStats": {
+        "totalPoints": 19001,
+        "totalPronostics": 5203,
+        "totalCorrects": 2505,
+        "globalSuccessRate": 48.1
+      }
+    },
+    {
+      "id": 294,
+      "username": "Le Lyonnais",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 118,
+        "totalPronostics": 40,
+        "totalCorrects": 17,
+        "globalSuccessRate": 42.5
+      }
+    },
+    {
+      "id": 88,
+      "username": "Le roi du pronostic",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 5390,
+        "totalPronostics": 570,
+        "totalCorrects": 242,
+        "globalSuccessRate": 42.5
+      }
+    },
+    {
+      "id": 187,
+      "username": "le toulousain",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 2849,
+        "totalPronostics": 537,
+        "totalCorrects": 359,
+        "globalSuccessRate": 66.9
+      }
+    },
+    {
+      "id": 87,
+      "username": "le_puy_de_dome",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 33,
+      "careerStats": {
+        "totalPoints": 41917,
+        "totalPronostics": 8981,
+        "totalCorrects": 4804,
+        "globalSuccessRate": 53.5
+      }
+    },
+    {
+      "id": 896,
+      "username": "lele555",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 1954,
+        "totalPronostics": 581,
+        "totalCorrects": 266,
+        "globalSuccessRate": 45.8
+      }
+    },
+    {
+      "id": 902,
+      "username": "Lili",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 484,
+        "totalPronostics": 82,
+        "totalCorrects": 51,
+        "globalSuccessRate": 62.2
+      }
+    },
+    {
+      "id": 212,
+      "username": "Ljber",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 49,
+      "careerStats": {
+        "totalPoints": 39846,
+        "totalPronostics": 9235,
+        "totalCorrects": 5120,
+        "globalSuccessRate": 55.4
+      }
+    },
+    {
+      "id": 284,
+      "username": "lobito63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 1089,
+        "totalPronostics": 234,
+        "totalCorrects": 137,
+        "globalSuccessRate": 58.5
+      }
+    },
+    {
+      "id": 889,
+      "username": "Loghane25",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 540,
+        "totalPronostics": 181,
+        "totalCorrects": 71,
+        "globalSuccessRate": 39.2
+      }
+    },
+    {
+      "id": 89,
+      "username": "loicot",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 16,
+      "careerStats": {
+        "totalPoints": 17009,
+        "totalPronostics": 3441,
+        "totalCorrects": 1691,
+        "globalSuccessRate": 49.1
+      }
+    },
+    {
+      "id": 878,
+      "username": "louka",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 101,
+        "totalPronostics": 35,
+        "totalCorrects": 14,
+        "globalSuccessRate": 40
+      }
+    },
+    {
+      "id": 861,
+      "username": "LP",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 22,
+      "careerStats": {
+        "totalPoints": 11607,
+        "totalPronostics": 2803,
+        "totalCorrects": 1452,
+        "globalSuccessRate": 51.8
+      }
+    },
+    {
+      "id": 281,
+      "username": "Ludo49",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 111,
+        "totalPronostics": 43,
+        "totalCorrects": 17,
+        "globalSuccessRate": 39.5
+      }
+    },
+    {
+      "id": 150,
+      "username": "ludolulu",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 688,
+        "totalPronostics": 227,
+        "totalCorrects": 112,
+        "globalSuccessRate": 49.3
+      }
+    },
+    {
+      "id": 180,
+      "username": "mahU",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 184,
+        "totalPronostics": 39,
+        "totalCorrects": 23,
+        "globalSuccessRate": 59
+      }
+    },
+    {
+      "id": 91,
+      "username": "man le gaulois",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 7129,
+        "totalPronostics": 1131,
+        "totalCorrects": 486,
+        "globalSuccessRate": 43
+      }
+    },
+    {
+      "id": 223,
+      "username": "Manon",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 3014,
+        "totalPronostics": 829,
+        "totalCorrects": 396,
+        "globalSuccessRate": 47.8
+      }
+    },
+    {
+      "id": 92,
+      "username": "marclegaulois",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 7937,
+        "totalPronostics": 1184,
+        "totalCorrects": 503,
+        "globalSuccessRate": 42.5
+      }
+    },
+    {
+      "id": 295,
+      "username": "Marco Grassi",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 168,
+        "totalPronostics": 58,
+        "totalCorrects": 22,
+        "globalSuccessRate": 37.9
+      }
+    },
+    {
+      "id": 292,
+      "username": "Markina89",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 28,
+        "totalPronostics": 10,
+        "totalCorrects": 4,
+        "globalSuccessRate": 40
+      }
+    },
+    {
+      "id": 122,
+      "username": "marsollier",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 1085,
+        "totalPronostics": 130,
+        "totalCorrects": 51,
+        "globalSuccessRate": 39.2
+      }
+    },
+    {
+      "id": 93,
+      "username": "MasterPom",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 8045,
+        "totalPronostics": 1063,
+        "totalCorrects": 457,
+        "globalSuccessRate": 43
+      }
+    },
+    {
+      "id": 296,
+      "username": "MatalBZH56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 24,
+      "careerStats": {
+        "totalPoints": 17127,
+        "totalPronostics": 4850,
+        "totalCorrects": 2227,
+        "globalSuccessRate": 45.9
+      }
+    },
+    {
+      "id": 191,
+      "username": "Max85",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 21,
+      "careerStats": {
+        "totalPoints": 15839,
+        "totalPronostics": 4719,
+        "totalCorrects": 2072,
+        "globalSuccessRate": 43.9
+      }
+    },
+    {
+      "id": 857,
+      "username": "Melo-7",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 799,
+        "totalPronostics": 268,
+        "totalCorrects": 111,
+        "globalSuccessRate": 41.4
+      }
+    },
+    {
+      "id": 224,
+      "username": "Meria",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 4062,
+        "totalPronostics": 1156,
+        "totalCorrects": 539,
+        "globalSuccessRate": 46.6
+      }
+    },
+    {
+      "id": 285,
+      "username": "Merlu54",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 2158,
+        "totalPronostics": 614,
+        "totalCorrects": 284,
+        "globalSuccessRate": 46.3
+      }
+    },
+    {
+      "id": 249,
+      "username": "messi63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 13,
+      "careerStats": {
+        "totalPoints": 3268,
+        "totalPronostics": 853,
+        "totalCorrects": 419,
+        "globalSuccessRate": 49.1
+      }
+    },
+    {
+      "id": 881,
+      "username": "Mikoko Suodo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 13,
+      "careerStats": {
+        "totalPoints": 8241,
+        "totalPronostics": 2236,
+        "totalCorrects": 1080,
+        "globalSuccessRate": 48.3
+      }
+    },
+    {
+      "id": 892,
+      "username": "Mini-Extubator",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 210,
+        "totalPronostics": 59,
+        "totalCorrects": 28,
+        "globalSuccessRate": 47.5
+      }
+    },
+    {
+      "id": 94,
+      "username": "Mirinko",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 48,
+      "careerStats": {
+        "totalPoints": 36707,
+        "totalPronostics": 8657,
+        "totalCorrects": 4361,
+        "globalSuccessRate": 50.4
+      }
+    },
+    {
+      "id": 203,
+      "username": "Mitch",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 17,
+      "careerStats": {
+        "totalPoints": 18020,
+        "totalPronostics": 4912,
+        "totalCorrects": 2338,
+        "globalSuccessRate": 47.6
+      }
+    },
+    {
+      "id": 196,
+      "username": "Momo56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 8894,
+        "totalPronostics": 2474,
+        "totalCorrects": 1157,
+        "globalSuccessRate": 46.8
+      }
+    },
+    {
+      "id": 95,
+      "username": "nanard",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 64,
+      "careerStats": {
+        "totalPoints": 58095,
+        "totalPronostics": 12193,
+        "totalCorrects": 6424,
+        "globalSuccessRate": 52.7
+      }
+    },
+    {
+      "id": 146,
+      "username": "Neimad",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 8646,
+        "totalPronostics": 2657,
+        "totalCorrects": 1260,
+        "globalSuccessRate": 47.4
+      }
+    },
+    {
+      "id": 230,
+      "username": "Neymar",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 1807,
+        "totalPronostics": 532,
+        "totalCorrects": 236,
+        "globalSuccessRate": 44.4
+      }
+    },
+    {
+      "id": 96,
+      "username": "Nico",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 11813,
+        "totalPronostics": 2415,
+        "totalCorrects": 1098,
+        "globalSuccessRate": 45.5
+      }
+    },
+    {
+      "id": 157,
+      "username": "nicolegaulois",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 1346,
+        "totalPronostics": 544,
+        "totalCorrects": 211,
+        "globalSuccessRate": 38.8
+      }
+    },
+    {
+      "id": 310,
+      "username": "Ninouchka56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 3855,
+        "totalPronostics": 1081,
+        "totalCorrects": 505,
+        "globalSuccessRate": 46.7
+      }
+    },
+    {
+      "id": 171,
+      "username": "Nonomars",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 38,
+        "totalPronostics": 20,
+        "totalCorrects": 5,
+        "globalSuccessRate": 25
+      }
+    },
+    {
+      "id": 298,
+      "username": "Nonovich",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 36,
+        "totalPronostics": 10,
+        "totalCorrects": 5,
+        "globalSuccessRate": 50
+      }
+    },
+    {
+      "id": 300,
+      "username": "Novice63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 871,
+        "totalPronostics": 194,
+        "totalCorrects": 109,
+        "globalSuccessRate": 56.2
+      }
+    },
+    {
+      "id": 854,
+      "username": "Obiwan56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 12,
+      "careerStats": {
+        "totalPoints": 8576,
+        "totalPronostics": 2451,
+        "totalCorrects": 1141,
+        "globalSuccessRate": 46.6
+      }
+    },
+    {
+      "id": 102,
+      "username": "p-jbob",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 17,
+      "careerStats": {
+        "totalPoints": 15732,
+        "totalPronostics": 3283,
+        "totalCorrects": 1539,
+        "globalSuccessRate": 46.9
+      }
+    },
+    {
+      "id": 236,
+      "username": "Padnom",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 104,
+        "totalPronostics": 25,
+        "totalCorrects": 15,
+        "globalSuccessRate": 60
+      }
+    },
+    {
+      "id": 97,
+      "username": "pancho",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 21256,
+        "totalPronostics": 4546,
+        "totalCorrects": 2429,
+        "globalSuccessRate": 53.4
+      }
+    },
+    {
+      "id": 166,
+      "username": "papyno",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 22,
+      "careerStats": {
+        "totalPoints": 18326,
+        "totalPronostics": 4477,
+        "totalCorrects": 2364,
+        "globalSuccessRate": 52.8
+      }
+    },
+    {
+      "id": 98,
+      "username": "patrice mortier",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 12922,
+        "totalPronostics": 2894,
+        "totalCorrects": 1278,
+        "globalSuccessRate": 44.2
+      }
+    },
+    {
+      "id": 291,
+      "username": "Paul",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 1856,
+        "totalPronostics": 672,
+        "totalCorrects": 259,
+        "globalSuccessRate": 38.5
+      }
+    },
+    {
+      "id": 153,
+      "username": "Paypay",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 155,
+        "totalPronostics": 54,
+        "totalCorrects": 24,
+        "globalSuccessRate": 44.4
+      }
+    },
+    {
+      "id": 235,
+      "username": "Pedro",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 132,
+        "totalPronostics": 36,
+        "totalCorrects": 19,
+        "globalSuccessRate": 52.8
+      }
+    },
+    {
+      "id": 215,
+      "username": "Peter",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 3110,
+        "totalPronostics": 900,
+        "totalCorrects": 430,
+        "globalSuccessRate": 47.8
+      }
+    },
+    {
+      "id": 99,
+      "username": "Petit_Lapin_Bleu",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 1530,
+        "totalPronostics": 150,
+        "totalCorrects": 67,
+        "globalSuccessRate": 44.7
+      }
+    },
+    {
+      "id": 194,
+      "username": "Phanette",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 3216,
+        "totalPronostics": 991,
+        "totalCorrects": 436,
+        "globalSuccessRate": 44
+      }
+    },
+    {
+      "id": 182,
+      "username": "Phantom",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 7396,
+        "totalPronostics": 1155,
+        "totalCorrects": 869,
+        "globalSuccessRate": 75.2
+      }
+    },
+    {
+      "id": 100,
+      "username": "Phil",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 10,
+      "careerStats": {
+        "totalPoints": 5823,
+        "totalPronostics": 1454,
+        "totalCorrects": 598,
+        "globalSuccessRate": 41.1
+      }
+    },
+    {
+      "id": 186,
+      "username": "PhoeNicks",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 8,
+      "careerStats": {
+        "totalPoints": 1594,
+        "totalPronostics": 419,
+        "totalCorrects": 215,
+        "globalSuccessRate": 51.3
+      }
+    },
+    {
+      "id": 101,
+      "username": "Pierre H 35",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 2435,
+        "totalPronostics": 190,
+        "totalCorrects": 93,
+        "globalSuccessRate": 48.9
+      }
+    },
+    {
+      "id": 154,
+      "username": "Pierro la gaule",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 460,
+        "totalPronostics": 174,
+        "totalCorrects": 75,
+        "globalSuccessRate": 43.1
+      }
+    },
+    {
+      "id": 193,
+      "username": "Pinpin",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 10129,
+        "totalPronostics": 2707,
+        "totalCorrects": 1328,
+        "globalSuccessRate": 49.1
+      }
+    },
+    {
+      "id": 185,
+      "username": "Pittam",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 52,
+      "careerStats": {
+        "totalPoints": 39893,
+        "totalPronostics": 9456,
+        "totalCorrects": 5085,
+        "globalSuccessRate": 53.8
+      }
+    },
+    {
+      "id": 849,
+      "username": "Pogba",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 23,
+      "careerStats": {
+        "totalPoints": 15042,
+        "totalPronostics": 4164,
+        "totalCorrects": 1960,
+        "globalSuccessRate": 47.1
+      }
+    },
+    {
+      "id": 885,
+      "username": "pronoman56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 48,
+        "totalPronostics": 17,
+        "totalCorrects": 8,
+        "globalSuccessRate": 47.1
+      }
+    },
+    {
+      "id": 155,
+      "username": "ptitcad",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 206,
+        "totalPronostics": 72,
+        "totalCorrects": 34,
+        "globalSuccessRate": 47.2
+      }
+    },
+    {
+      "id": 174,
+      "username": "Puyol",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 37,
+      "careerStats": {
+        "totalPoints": 33831,
+        "totalPronostics": 7676,
+        "totalCorrects": 4193,
+        "globalSuccessRate": 54.6
+      }
+    },
+    {
+      "id": 264,
+      "username": "quentdu56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 1092,
+        "totalPronostics": 311,
+        "totalCorrects": 147,
+        "globalSuccessRate": 47.3
+      }
+    },
+    {
+      "id": 859,
+      "username": "Quentin76",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 126,
+        "totalPronostics": 38,
+        "totalCorrects": 19,
+        "globalSuccessRate": 50
+      }
+    },
+    {
+      "id": 848,
+      "username": "quinquin56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 207,
+        "totalPronostics": 49,
+        "totalCorrects": 24,
+        "globalSuccessRate": 49
+      }
+    },
+    {
+      "id": 169,
+      "username": "R-1",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 3099,
+        "totalPronostics": 846,
+        "totalCorrects": 407,
+        "globalSuccessRate": 48.1
+      }
+    },
+    {
+      "id": 225,
+      "username": "Rafa",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 27,
+      "careerStats": {
+        "totalPoints": 10352,
+        "totalPronostics": 2799,
+        "totalCorrects": 1351,
+        "globalSuccessRate": 48.3
+      }
+    },
+    {
+      "id": 852,
+      "username": "Rascasse56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 7,
+      "careerStats": {
+        "totalPoints": 5624,
+        "totalPronostics": 1482,
+        "totalCorrects": 731,
+        "globalSuccessRate": 49.3
+      }
+    },
+    {
+      "id": 103,
+      "username": "Raùl",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 2009,
+        "totalPronostics": 336,
+        "totalCorrects": 168,
+        "globalSuccessRate": 50
+      }
+    },
+    {
+      "id": 199,
+      "username": "Raynaldo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 916,
+        "totalPronostics": 235,
+        "totalCorrects": 122,
+        "globalSuccessRate": 51.9
+      }
+    },
+    {
+      "id": 104,
+      "username": "rayt",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 3011,
+        "totalPronostics": 944,
+        "totalCorrects": 363,
+        "globalSuccessRate": 38.5
+      }
+    },
+    {
+      "id": 176,
+      "username": "Redcard",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 8,
+      "careerStats": {
+        "totalPoints": 5107,
+        "totalPronostics": 1325,
+        "totalCorrects": 671,
+        "globalSuccessRate": 50.6
+      }
+    },
+    {
+      "id": 162,
+      "username": "Regbo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 33,
+      "careerStats": {
+        "totalPoints": 19467,
+        "totalPronostics": 5504,
+        "totalCorrects": 2618,
+        "globalSuccessRate": 47.6
+      }
+    },
+    {
+      "id": 105,
+      "username": "Regis",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 10094,
+        "totalPronostics": 1478,
+        "totalCorrects": 629,
+        "globalSuccessRate": 42.6
+      }
+    },
+    {
+      "id": 106,
+      "username": "remi",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 1355,
+        "totalPronostics": 140,
+        "totalCorrects": 59,
+        "globalSuccessRate": 42.1
+      }
+    },
+    {
+      "id": 107,
+      "username": "Remundo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 6020,
+        "totalPronostics": 744,
+        "totalCorrects": 280,
+        "globalSuccessRate": 37.6
+      }
+    },
+    {
+      "id": 261,
+      "username": "REUS15",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 8,
+      "careerStats": {
+        "totalPoints": 3320,
+        "totalPronostics": 922,
+        "totalCorrects": 441,
+        "globalSuccessRate": 47.8
+      }
+    },
+    {
+      "id": 124,
+      "username": "rhum034",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 3165,
+        "totalPronostics": 309,
+        "totalCorrects": 135,
+        "globalSuccessRate": 43.7
+      }
+    },
+    {
+      "id": 129,
+      "username": "romsson",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 4,
+      "careerStats": {
+        "totalPoints": 122,
+        "totalPronostics": 35,
+        "totalCorrects": 17,
+        "globalSuccessRate": 48.6
+      }
+    },
+    {
+      "id": 63,
+      "username": "Ronanko",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 63,
+      "careerStats": {
+        "totalPoints": 56639,
+        "totalPronostics": 12112,
+        "totalCorrects": 6461,
+        "globalSuccessRate": 53.3
+      }
+    },
+    {
+      "id": 111,
+      "username": "roniche",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 24,
+      "careerStats": {
+        "totalPoints": 17133,
+        "totalPronostics": 3955,
+        "totalCorrects": 1784,
+        "globalSuccessRate": 45.1
+      }
+    },
+    {
+      "id": 865,
+      "username": "Rotaldo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 3633,
+        "totalPronostics": 902,
+        "totalCorrects": 469,
+        "globalSuccessRate": 52
+      }
+    },
+    {
+      "id": 131,
+      "username": "S@m",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 134,
+        "totalPronostics": 50,
+        "totalCorrects": 23,
+        "globalSuccessRate": 46
+      }
+    },
+    {
+      "id": 195,
+      "username": "Sacapinar",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 290,
+        "totalPronostics": 102,
+        "totalCorrects": 37,
+        "globalSuccessRate": 36.3
+      }
+    },
+    {
+      "id": 290,
+      "username": "Sasa",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 6068,
+        "totalPronostics": 1822,
+        "totalCorrects": 797,
+        "globalSuccessRate": 43.7
+      }
+    },
+    {
+      "id": 270,
+      "username": "Schumacher",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 21,
+      "careerStats": {
+        "totalPoints": 14815,
+        "totalPronostics": 3540,
+        "totalCorrects": 1910,
+        "globalSuccessRate": 54
+      }
+    },
+    {
+      "id": 880,
+      "username": "ScoubIsaac",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 19,
+      "careerStats": {
+        "totalPoints": 13423,
+        "totalPronostics": 3092,
+        "totalCorrects": 1697,
+        "globalSuccessRate": 54.9
+      }
+    },
+    {
+      "id": 112,
+      "username": "Selim",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 11413,
+        "totalPronostics": 1794,
+        "totalCorrects": 774,
+        "globalSuccessRate": 43.1
+      }
+    },
+    {
+      "id": 113,
+      "username": "servan roustand",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 60,
+      "careerStats": {
+        "totalPoints": 53387,
+        "totalPronostics": 11301,
+        "totalCorrects": 5920,
+        "globalSuccessRate": 52.4
+      }
+    },
+    {
+      "id": 110,
+      "username": "Sibierski",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 20,
+      "careerStats": {
+        "totalPoints": 17731,
+        "totalPronostics": 4152,
+        "totalCorrects": 1808,
+        "globalSuccessRate": 43.5
+      }
+    },
+    {
+      "id": 114,
+      "username": "simone",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 33,
+      "careerStats": {
+        "totalPoints": 24570,
+        "totalPronostics": 5801,
+        "totalCorrects": 3037,
+        "globalSuccessRate": 52.4
+      }
+    },
+    {
+      "id": 158,
+      "username": "Solouyo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 1382,
+        "totalPronostics": 517,
+        "totalCorrects": 234,
+        "globalSuccessRate": 45.3
+      }
+    },
+    {
+      "id": 870,
+      "username": "SRFC",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 2174,
+        "totalPronostics": 484,
+        "totalCorrects": 261,
+        "globalSuccessRate": 53.9
+      }
+    },
+    {
+      "id": 179,
+      "username": "Starbuck",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 9400,
+        "totalPronostics": 2252,
+        "totalCorrects": 1201,
+        "globalSuccessRate": 53.3
+      }
+    },
+    {
+      "id": 277,
+      "username": "Starlight",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 54,
+        "totalPronostics": 18,
+        "totalCorrects": 9,
+        "globalSuccessRate": 50
+      }
+    },
+    {
+      "id": 198,
+      "username": "Stefano",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 26,
+      "careerStats": {
+        "totalPoints": 13430,
+        "totalPronostics": 3101,
+        "totalCorrects": 1697,
+        "globalSuccessRate": 54.7
+      }
+    },
+    {
+      "id": 219,
+      "username": "Stephanix76",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 13,
+      "careerStats": {
+        "totalPoints": 12616,
+        "totalPronostics": 3601,
+        "totalCorrects": 1685,
+        "globalSuccessRate": 46.8
+      }
+    },
+    {
+      "id": 871,
+      "username": "STEVEN17",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 6431,
+        "totalPronostics": 1738,
+        "totalCorrects": 855,
+        "globalSuccessRate": 49.2
+      }
+    },
+    {
+      "id": 275,
+      "username": "tenson31",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 50,
+        "totalPronostics": 5,
+        "totalCorrects": 5,
+        "globalSuccessRate": 100
+      }
+    },
+    {
+      "id": 266,
+      "username": "Terminator",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 19,
+      "careerStats": {
+        "totalPoints": 16679,
+        "totalPronostics": 4310,
+        "totalCorrects": 2129,
+        "globalSuccessRate": 49.4
+      }
+    },
+    {
+      "id": 863,
+      "username": "Thauvin63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 18,
+      "careerStats": {
+        "totalPoints": 10175,
+        "totalPronostics": 3074,
+        "totalCorrects": 1375,
+        "globalSuccessRate": 44.7
+      }
+    },
+    {
+      "id": 115,
+      "username": "Thierry Gaume",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 17,
+      "careerStats": {
+        "totalPoints": 10674,
+        "totalPronostics": 2385,
+        "totalCorrects": 1151,
+        "globalSuccessRate": 48.3
+      }
+    },
+    {
+      "id": 116,
+      "username": "thonnatte",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 9593,
+        "totalPronostics": 1355,
+        "totalCorrects": 580,
+        "globalSuccessRate": 42.8
+      }
+    },
+    {
+      "id": 117,
+      "username": "THYSEB",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 15,
+      "careerStats": {
+        "totalPoints": 19777,
+        "totalPronostics": 4211,
+        "totalCorrects": 1821,
+        "globalSuccessRate": 43.2
+      }
+    },
+    {
+      "id": 862,
+      "username": "Tofpondi",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 21,
+      "careerStats": {
+        "totalPoints": 15024,
+        "totalPronostics": 3871,
+        "totalCorrects": 1939,
+        "globalSuccessRate": 50.1
+      }
+    },
+    {
+      "id": 147,
+      "username": "Tom",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 1572,
+        "totalPronostics": 616,
+        "totalCorrects": 250,
+        "globalSuccessRate": 40.6
+      }
+    },
+    {
+      "id": 149,
+      "username": "Tom le gaulois",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 2129,
+        "totalPronostics": 805,
+        "totalCorrects": 358,
+        "globalSuccessRate": 44.5
+      }
+    },
+    {
+      "id": 137,
+      "username": "tonton35",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 1365,
+        "totalPronostics": 208,
+        "totalCorrects": 91,
+        "globalSuccessRate": 43.8
+      }
+    },
+    {
+      "id": 118,
+      "username": "tony le gaulois",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 8352,
+        "totalPronostics": 1846,
+        "totalCorrects": 869,
+        "globalSuccessRate": 47.1
+      }
+    },
+    {
+      "id": 132,
+      "username": "Toto",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 35,
+        "totalPronostics": 11,
+        "totalCorrects": 5,
+        "globalSuccessRate": 45.5
+      }
+    },
+    {
+      "id": 90,
+      "username": "tracnard63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 2285,
+        "totalPronostics": 280,
+        "totalCorrects": 111,
+        "globalSuccessRate": 39.6
+      }
+    },
+    {
+      "id": 282,
+      "username": "Tsarez",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 78,
+        "totalPronostics": 20,
+        "totalCorrects": 9,
+        "globalSuccessRate": 45
+      }
+    },
+    {
+      "id": 867,
+      "username": "UmTITI",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 1405,
+        "totalPronostics": 396,
+        "totalCorrects": 179,
+        "globalSuccessRate": 45.2
+      }
+    },
+    {
+      "id": 301,
+      "username": "Vahid",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 17,
+      "careerStats": {
+        "totalPoints": 10262,
+        "totalPronostics": 2520,
+        "totalCorrects": 1288,
+        "globalSuccessRate": 51.1
+      }
+    },
+    {
+      "id": 202,
+      "username": "Val PacinO",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 13,
+      "careerStats": {
+        "totalPoints": 6206,
+        "totalPronostics": 1706,
+        "totalCorrects": 814,
+        "globalSuccessRate": 47.7
+      }
+    },
+    {
+      "id": 891,
+      "username": "VikashDhorachaud",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 2,
+      "careerStats": {
+        "totalPoints": 160,
+        "totalPronostics": 56,
+        "totalCorrects": 24,
+        "globalSuccessRate": 42.9
+      }
+    },
+    {
+      "id": 119,
+      "username": "Viken",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 23,
+      "careerStats": {
+        "totalPoints": 16598,
+        "totalPronostics": 4097,
+        "totalCorrects": 2001,
+        "globalSuccessRate": 48.8
+      }
+    },
+    {
+      "id": 120,
+      "username": "vincouille69",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 1610,
+        "totalPronostics": 161,
+        "totalCorrects": 68,
+        "globalSuccessRate": 42.2
+      }
+    },
+    {
+      "id": 884,
+      "username": "ViviLeader63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 14,
+      "careerStats": {
+        "totalPoints": 9030,
+        "totalPronostics": 2415,
+        "totalCorrects": 1195,
+        "globalSuccessRate": 49.5
+      }
+    },
+    {
+      "id": 188,
+      "username": "Vosloo",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 94,
+        "totalPronostics": 21,
+        "totalCorrects": 14,
+        "globalSuccessRate": 66.7
+      }
+    },
+    {
+      "id": 142,
+      "username": "watcher",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 6,
+      "careerStats": {
+        "totalPoints": 3078,
+        "totalPronostics": 1003,
+        "totalCorrects": 478,
+        "globalSuccessRate": 47.7
+      }
+    },
+    {
+      "id": 886,
+      "username": "Wissin",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 34,
+        "totalPronostics": 9,
+        "totalCorrects": 4,
+        "globalSuccessRate": 44.4
+      }
+    },
+    {
+      "id": 873,
+      "username": "Yael",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 685,
+        "totalPronostics": 188,
+        "totalCorrects": 89,
+        "globalSuccessRate": 47.3
+      }
+    },
+    {
+      "id": 227,
+      "username": "Yann",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 5,
+      "careerStats": {
+        "totalPoints": 4216,
+        "totalPronostics": 1125,
+        "totalCorrects": 527,
+        "globalSuccessRate": 46.8
+      }
+    },
+    {
+      "id": 248,
+      "username": "Yannick",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 3,
+      "careerStats": {
+        "totalPoints": 741,
+        "totalPronostics": 205,
+        "totalCorrects": 98,
+        "globalSuccessRate": 47.8
+      }
+    },
+    {
+      "id": 237,
+      "username": "Ylann",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 9,
+      "careerStats": {
+        "totalPoints": 3954,
+        "totalPronostics": 1116,
+        "totalCorrects": 525,
+        "globalSuccessRate": 47
+      }
+    },
+    {
+      "id": 855,
+      "username": "Yoyo56",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 11,
+      "careerStats": {
+        "totalPoints": 8162,
+        "totalPronostics": 2334,
+        "totalCorrects": 1070,
+        "globalSuccessRate": 45.8
+      }
+    },
+    {
+      "id": 123,
+      "username": "yvon",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 1,
+      "careerStats": {
+        "totalPoints": 155,
+        "totalPronostics": 20,
+        "totalCorrects": 7,
+        "globalSuccessRate": 35
+      }
+    },
+    {
+      "id": 267,
+      "username": "Zetoum44",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 26,
+      "careerStats": {
+        "totalPoints": 18025,
+        "totalPronostics": 4091,
+        "totalCorrects": 2237,
+        "globalSuccessRate": 54.7
+      }
+    },
+    {
+      "id": 204,
+      "username": "Zizou63",
+      "joinDate": null,
+      "lastActive": null,
+      "totalParticipations": 12,
+      "careerStats": {
+        "totalPoints": 4806,
+        "totalPronostics": 1330,
+        "totalCorrects": 644,
+        "globalSuccessRate": 48.4
+      }
+    }
+  ]
+}

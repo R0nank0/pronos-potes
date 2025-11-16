@@ -1,0 +1,1260 @@
+{
+  "season": "ldc-2011-2012",
+  "seasonId": "14",
+  "seasonName": "Ligue des Champions 2011/2012",
+  "totalMatches": 125,
+  "totalJournees": 16,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 11763,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Leverkusen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11764,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "KRC Genk ",
+      "awayTeam": "Valence FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11765,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11766,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Arsenal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11767,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11768,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11769,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Milan AC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11770,
+      "journee": 1,
+      "date": "2011-09-13 20:45:00",
+      "homeTeam": "Viktoria Plzen",
+      "awayTeam": "Borisov BATE",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11771,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Naples",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11772,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11773,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11774,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Trabzonspor",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11775,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "FC Oţelul Galaţi",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11776,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Manchester United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11777,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "Dinamo Zagreb ",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11778,
+      "journee": 2,
+      "date": "2011-09-14 20:45:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11779,
+      "journee": 3,
+      "date": "2011-09-27 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11780,
+      "journee": 3,
+      "date": "2011-09-27 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11781,
+      "journee": 3,
+      "date": "2011-09-27 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Inter Milan",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11782,
+      "journee": 3,
+      "date": "2011-09-27 20:45:00",
+      "homeTeam": "Trabzonspor",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11783,
+      "journee": 3,
+      "date": "2011-09-27 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "FC Bâle",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11784,
+      "journee": 3,
+      "date": "2011-09-27 20:45:00",
+      "homeTeam": "FC Oţelul Galaţi",
+      "awayTeam": "Benfica",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11785,
+      "journee": 3,
+      "date": "2011-09-27 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Dinamo Zagreb ",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11786,
+      "journee": 3,
+      "date": "2011-09-27 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11787,
+      "journee": 4,
+      "date": "2011-09-28 20:45:00",
+      "homeTeam": "Valence FC",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11788,
+      "journee": 4,
+      "date": "2011-09-28 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "KRC Genk ",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11789,
+      "journee": 4,
+      "date": "2011-09-28 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Olympiakos",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11790,
+      "journee": 4,
+      "date": "2011-09-28 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11791,
+      "journee": 4,
+      "date": "2011-09-28 18:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "FC Porto",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11792,
+      "journee": 4,
+      "date": "2011-09-28 20:45:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11793,
+      "journee": 4,
+      "date": "2011-09-28 20:45:00",
+      "homeTeam": "Borisov BATE",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 11794,
+      "journee": 4,
+      "date": "2011-09-28 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Viktoria Plzen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11795,
+      "journee": 5,
+      "date": "2011-10-18 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11796,
+      "journee": 5,
+      "date": "2011-10-18 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11797,
+      "journee": 5,
+      "date": "2011-10-18 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Trabzonspor",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11798,
+      "journee": 5,
+      "date": "2011-10-18 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Inter Milan",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11799,
+      "journee": 5,
+      "date": "2011-10-18 20:45:00",
+      "homeTeam": "FC Oţelul Galaţi",
+      "awayTeam": "Manchester United",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11800,
+      "journee": 5,
+      "date": "2011-10-18 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Benfica",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11801,
+      "journee": 5,
+      "date": "2011-10-18 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Lyon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11802,
+      "journee": 5,
+      "date": "2011-10-18 20:45:00",
+      "homeTeam": "Dinamo Zagreb ",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11803,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "Valence FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11804,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "KRC Genk ",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11805,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Arsenal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11806,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11807,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11808,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11809,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Borisov BATE",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11810,
+      "journee": 6,
+      "date": "2011-10-19 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Viktoria Plzen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11811,
+      "journee": 7,
+      "date": "2011-11-01 20:45:00",
+      "homeTeam": "Valence FC",
+      "awayTeam": "Leverkusen",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11812,
+      "journee": 7,
+      "date": "2011-11-01 20:45:00",
+      "homeTeam": "KRC Genk ",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11813,
+      "journee": 7,
+      "date": "2011-11-01 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11814,
+      "journee": 7,
+      "date": "2011-11-01 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Olympiakos",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11815,
+      "journee": 7,
+      "date": "2011-11-01 18:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11816,
+      "journee": 7,
+      "date": "2011-11-01 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "FC Porto",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11817,
+      "journee": 7,
+      "date": "2011-11-01 18:00:00",
+      "homeTeam": "Borisov BATE",
+      "awayTeam": "Milan AC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11818,
+      "journee": 7,
+      "date": "2011-11-01 20:45:00",
+      "homeTeam": "Viktoria Plzen",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 11859,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Naples",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11860,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11861,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Trabzonspor",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11862,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11863,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "FC Oţelul Galaţi",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11864,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "FC Bâle",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11865,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11866,
+      "journee": 8,
+      "date": "2011-11-02 20:45:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Dinamo Zagreb ",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11819,
+      "journee": 9,
+      "date": "2011-11-22 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11820,
+      "journee": 9,
+      "date": "2011-11-22 20:45:00",
+      "homeTeam": "Trabzonspor",
+      "awayTeam": "Inter Milan",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11821,
+      "journee": 9,
+      "date": "2011-11-22 20:45:00",
+      "homeTeam": "FC Oţelul Galaţi",
+      "awayTeam": "FC Bâle",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11822,
+      "journee": 9,
+      "date": "2011-11-22 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Benfica",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11823,
+      "journee": 9,
+      "date": "2011-11-22 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Dinamo Zagreb ",
+      "homeScore": 6,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11824,
+      "journee": 9,
+      "date": "2011-11-22 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11825,
+      "journee": 9,
+      "date": "2011-11-22 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11826,
+      "journee": 9,
+      "date": "2011-11-22 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11835,
+      "journee": 10,
+      "date": "2011-11-23 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "Chelsea",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11836,
+      "journee": 10,
+      "date": "2011-11-23 20:45:00",
+      "homeTeam": "Valence FC",
+      "awayTeam": "KRC Genk ",
+      "homeScore": 7,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11837,
+      "journee": 10,
+      "date": "2011-11-23 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Olympiakos",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11838,
+      "journee": 10,
+      "date": "2011-11-23 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11839,
+      "journee": 10,
+      "date": "2011-11-23 18:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11840,
+      "journee": 10,
+      "date": "2011-11-23 20:45:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "FC Porto",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11841,
+      "journee": 10,
+      "date": "2011-11-23 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11842,
+      "journee": 10,
+      "date": "2011-11-23 19:00:00",
+      "homeTeam": "Borisov BATE",
+      "awayTeam": "Viktoria Plzen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11843,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Valence FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11844,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "KRC Genk ",
+      "awayTeam": "Leverkusen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11845,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Arsenal",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11846,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11847,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11848,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11849,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Borisov BATE",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11850,
+      "journee": 11,
+      "date": "2011-12-06 20:45:00",
+      "homeTeam": "Viktoria Plzen",
+      "awayTeam": "Milan AC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11851,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11852,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Naples",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11853,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Trabzonspor",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11854,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11855,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Manchester United",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11856,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "FC Oţelul Galaţi",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11857,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "Dinamo Zagreb ",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 7,
+      "status": "finished"
+    },
+    {
+      "id": 11858,
+      "journee": 12,
+      "date": "2011-12-07 20:45:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11867,
+      "journee": 13,
+      "date": "2012-02-14 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11868,
+      "journee": 13,
+      "date": "2012-02-14 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11869,
+      "journee": 13,
+      "date": "2012-02-15 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Arsenal",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11870,
+      "journee": 13,
+      "date": "2012-02-15 18:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Benfica",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11871,
+      "journee": 13,
+      "date": "2012-02-21 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11872,
+      "journee": 13,
+      "date": "2012-02-21 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11873,
+      "journee": 13,
+      "date": "2012-02-22 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11874,
+      "journee": 13,
+      "date": "2012-02-22 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Inter Milan",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11883,
+      "journee": 14,
+      "date": "2012-03-28 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11884,
+      "journee": 14,
+      "date": "2012-03-27 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11885,
+      "journee": 14,
+      "date": "2012-03-27 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Chelsea",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11886,
+      "journee": 14,
+      "date": "2012-03-28 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11887,
+      "journee": 14,
+      "date": "2012-04-03 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11888,
+      "journee": 14,
+      "date": "2012-04-03 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Milan AC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11889,
+      "journee": 14,
+      "date": "2012-04-04 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Nicosie APOEL",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11890,
+      "journee": 14,
+      "date": "2012-04-04 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Benfica",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11891,
+      "journee": 15,
+      "date": "2012-04-18 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11892,
+      "journee": 15,
+      "date": "2012-04-17 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Real Madrid",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11893,
+      "journee": 15,
+      "date": "2012-04-25 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11894,
+      "journee": 15,
+      "date": "2012-04-24 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Chelsea",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11895,
+      "journee": 15,
+      "date": "2012-05-19 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11875,
+      "journee": 16,
+      "date": "2012-03-07 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Leverkusen",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11876,
+      "journee": 16,
+      "date": "2012-03-07 20:45:00",
+      "homeTeam": "Nicosie APOEL",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11877,
+      "journee": 16,
+      "date": "2012-03-06 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Milan AC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11878,
+      "journee": 16,
+      "date": "2012-03-06 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11879,
+      "journee": 16,
+      "date": "2012-03-14 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11880,
+      "journee": 16,
+      "date": "2012-03-14 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Naples",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11881,
+      "journee": 16,
+      "date": "2012-03-13 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "FC Bâle",
+      "homeScore": 7,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11882,
+      "journee": 16,
+      "date": "2012-03-13 20:45:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    }
+  ]
+}

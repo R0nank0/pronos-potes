@@ -1,0 +1,270 @@
+{
+  "season": "international-2011",
+  "seasonId": "11",
+  "seasonName": "Copa America 2011",
+  "totalMatches": 26,
+  "totalJournees": 4,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 11173,
+      "journee": 1,
+      "date": "2011-07-02 02:45:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Bolivie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11174,
+      "journee": 1,
+      "date": "2011-07-02 20:30:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Costa Rica",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11175,
+      "journee": 1,
+      "date": "2011-07-03 21:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Venezuela",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11176,
+      "journee": 1,
+      "date": "2011-07-03 23:00:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Equateur",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11177,
+      "journee": 1,
+      "date": "2011-07-05 00:15:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Pérou",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11178,
+      "journee": 1,
+      "date": "2011-07-05 02:45:00",
+      "homeTeam": "Chili",
+      "awayTeam": "Mexique",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11179,
+      "journee": 2,
+      "date": "2011-07-07 02:45:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Colombie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11180,
+      "journee": 2,
+      "date": "2011-07-08 00:15:00",
+      "homeTeam": "Bolivie",
+      "awayTeam": "Costa Rica",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11181,
+      "journee": 2,
+      "date": "2011-07-09 21:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Paraguay",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11182,
+      "journee": 2,
+      "date": "2011-07-09 23:30:00",
+      "homeTeam": "Venezuela",
+      "awayTeam": "Equateur",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11184,
+      "journee": 2,
+      "date": "2011-07-09 00:15:00",
+      "homeTeam": "Pérou",
+      "awayTeam": "Mexique",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11185,
+      "journee": 2,
+      "date": "2011-07-09 02:45:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Chili",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11186,
+      "journee": 3,
+      "date": "2011-07-10 21:00:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Bolivie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11187,
+      "journee": 3,
+      "date": "2011-07-12 02:45:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Costa Rica",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11188,
+      "journee": 3,
+      "date": "2011-07-14 03:15:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Venezuela",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11189,
+      "journee": 3,
+      "date": "2011-07-14 02:45:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Equateur",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11190,
+      "journee": 3,
+      "date": "2011-07-13 00:15:00",
+      "homeTeam": "Chili",
+      "awayTeam": "Pérou",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11191,
+      "journee": 3,
+      "date": "2011-07-13 02:45:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Mexique",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11192,
+      "journee": 4,
+      "date": "2011-07-16 21:00:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Pérou",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11193,
+      "journee": 4,
+      "date": "2011-07-17 00:15:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Uruguay",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11194,
+      "journee": 4,
+      "date": "2011-07-17 21:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Paraguay",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11195,
+      "journee": 4,
+      "date": "2011-07-18 00:15:00",
+      "homeTeam": "Chili",
+      "awayTeam": "Venezuela",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11577,
+      "journee": 4,
+      "date": "2011-07-20 02:45:00",
+      "homeTeam": "Pérou",
+      "awayTeam": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11578,
+      "journee": 4,
+      "date": "2011-07-21 02:45:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Venezuela",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11579,
+      "journee": 4,
+      "date": "2011-07-23 21:00:00",
+      "homeTeam": "Pérou",
+      "awayTeam": "Venezuela",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11580,
+      "journee": 4,
+      "date": "2011-07-24 21:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Paraguay",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    }
+  ]
+}

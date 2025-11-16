@@ -1,0 +1,1270 @@
+{
+  "season": "top14-2019-2020",
+  "seasonId": "47",
+  "seasonName": "TOP 14 - 2019 / 2020",
+  "totalMatches": 182,
+  "totalJournees": 26,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1002912,
+      "journee": 1,
+      "date": "2019-08-24 18:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Toulon",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1002913,
+      "journee": 1,
+      "date": "2019-08-24 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002914,
+      "journee": 1,
+      "date": "2019-08-24 18:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002915,
+      "journee": 1,
+      "date": "2019-08-25 16:50:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002916,
+      "journee": 1,
+      "date": "2019-08-24 18:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Français",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002917,
+      "journee": 1,
+      "date": "2019-08-24 18:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Brive",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002918,
+      "journee": 1,
+      "date": "2019-08-24 18:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Bayonne",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002919,
+      "journee": 2,
+      "date": "2019-08-31 18:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Brive",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002920,
+      "journee": 2,
+      "date": "2019-08-31 15:30:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Clermont",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002921,
+      "journee": 2,
+      "date": "2019-08-31 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Toulon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002922,
+      "journee": 2,
+      "date": "2019-08-31 18:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002923,
+      "journee": 2,
+      "date": "2019-09-01 17:05:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002924,
+      "journee": 2,
+      "date": "2019-08-31 18:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Pau",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002925,
+      "journee": 2,
+      "date": "2019-09-01 12:30:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002926,
+      "journee": 3,
+      "date": "2019-09-08 16:50:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002927,
+      "journee": 3,
+      "date": "2019-09-07 15:30:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002928,
+      "journee": 3,
+      "date": "2019-09-07 20:45:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002929,
+      "journee": 3,
+      "date": "2019-09-07 20:45:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002930,
+      "journee": 3,
+      "date": "2019-09-07 20:45:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Agen",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002931,
+      "journee": 3,
+      "date": "2019-09-07 17:30:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002932,
+      "journee": 3,
+      "date": "2019-09-08 21:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002933,
+      "journee": 4,
+      "date": "2019-09-15 12:30:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002934,
+      "journee": 4,
+      "date": "2019-09-14 18:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002935,
+      "journee": 4,
+      "date": "2019-09-14 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Français",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002936,
+      "journee": 4,
+      "date": "2019-09-14 18:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Pau",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002937,
+      "journee": 4,
+      "date": "2019-09-14 15:30:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002938,
+      "journee": 4,
+      "date": "2019-09-14 18:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002939,
+      "journee": 4,
+      "date": "2019-09-15 16:45:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002940,
+      "journee": 5,
+      "date": "2019-09-28 18:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002941,
+      "journee": 5,
+      "date": "2019-09-28 15:30:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002942,
+      "journee": 5,
+      "date": "2019-09-28 18:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Agen",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002943,
+      "journee": 5,
+      "date": "2019-09-29 12:30:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002944,
+      "journee": 5,
+      "date": "2019-09-29 16:50:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Clermont",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002945,
+      "journee": 5,
+      "date": "2019-09-28 20:45:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002946,
+      "journee": 5,
+      "date": "2019-09-28 18:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002947,
+      "journee": 6,
+      "date": "2019-10-05 18:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Bayonne",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002948,
+      "journee": 6,
+      "date": "2019-10-05 18:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002949,
+      "journee": 6,
+      "date": "2019-10-05 18:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Stade Français",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002950,
+      "journee": 6,
+      "date": "2019-10-05 15:30:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002951,
+      "journee": 6,
+      "date": "2019-10-05 20:45:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002952,
+      "journee": 6,
+      "date": "2019-10-06 12:30:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Racing 92",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1002953,
+      "journee": 6,
+      "date": "2019-10-06 16:50:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002954,
+      "journee": 7,
+      "date": "2019-10-12 15:30:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002955,
+      "journee": 7,
+      "date": "2019-10-13 21:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002956,
+      "journee": 7,
+      "date": "2019-10-12 20:45:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002957,
+      "journee": 7,
+      "date": "2019-10-12 20:45:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002958,
+      "journee": 7,
+      "date": "2019-10-13 16:50:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002959,
+      "journee": 7,
+      "date": "2019-10-12 20:45:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Agen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002960,
+      "journee": 7,
+      "date": "2019-10-12 17:30:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Castres",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002961,
+      "journee": 8,
+      "date": "2019-10-19 18:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002962,
+      "journee": 8,
+      "date": "2019-10-19 18:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002963,
+      "journee": 8,
+      "date": "2019-10-20 16:50:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002964,
+      "journee": 8,
+      "date": "2019-10-19 20:45:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002965,
+      "journee": 8,
+      "date": "2019-10-19 15:30:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002966,
+      "journee": 8,
+      "date": "2019-10-19 18:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002967,
+      "journee": 8,
+      "date": "2019-10-19 18:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002968,
+      "journee": 9,
+      "date": "2019-11-09 18:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Pau",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002969,
+      "journee": 9,
+      "date": "2019-11-09 18:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Agen",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002970,
+      "journee": 9,
+      "date": "2019-11-09 18:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Brive",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002971,
+      "journee": 9,
+      "date": "2019-11-10 12:30:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002972,
+      "journee": 9,
+      "date": "2019-11-10 16:45:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Racing 92",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1002973,
+      "journee": 9,
+      "date": "2019-11-09 15:30:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002974,
+      "journee": 9,
+      "date": "2019-11-09 20:45:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002975,
+      "journee": 10,
+      "date": "2019-12-01 12:30:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002976,
+      "journee": 10,
+      "date": "2019-11-30 18:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Agen",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002977,
+      "journee": 10,
+      "date": "2019-11-30 18:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002978,
+      "journee": 10,
+      "date": "2019-11-30 20:45:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002979,
+      "journee": 10,
+      "date": "2019-11-30 18:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Toulon",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002980,
+      "journee": 10,
+      "date": "2019-11-30 15:30:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002981,
+      "journee": 10,
+      "date": "2019-12-01 16:50:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Bayonne",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002982,
+      "journee": 11,
+      "date": "2019-12-21 17:45:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002983,
+      "journee": 11,
+      "date": "2019-12-21 15:35:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Brive",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002984,
+      "journee": 11,
+      "date": "2019-12-22 16:50:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002985,
+      "journee": 11,
+      "date": "2019-12-21 15:35:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002986,
+      "journee": 11,
+      "date": "2019-12-22 12:30:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002987,
+      "journee": 11,
+      "date": "2019-12-21 15:35:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002988,
+      "journee": 11,
+      "date": "2019-12-22 21:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002989,
+      "journee": 12,
+      "date": "2019-12-28 16:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Racing 92",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1002990,
+      "journee": 12,
+      "date": "2019-12-29 18:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002991,
+      "journee": 12,
+      "date": "2019-12-29 15:45:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Agen",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002992,
+      "journee": 12,
+      "date": "2019-12-28 14:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Bayonne",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002993,
+      "journee": 12,
+      "date": "2019-12-28 18:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Français",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002994,
+      "journee": 12,
+      "date": "2019-12-29 15:45:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002995,
+      "journee": 12,
+      "date": "2019-12-29 21:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Toulon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1002996,
+      "journee": 13,
+      "date": "2020-01-04 15:30:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1002997,
+      "journee": 13,
+      "date": "2020-01-04 20:45:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Bayonne",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1002998,
+      "journee": 13,
+      "date": "2020-01-04 20:45:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Brive",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1002999,
+      "journee": 13,
+      "date": "2020-01-05 21:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003000,
+      "journee": 13,
+      "date": "2020-01-04 20:45:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1003001,
+      "journee": 13,
+      "date": "2020-01-04 17:45:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003002,
+      "journee": 13,
+      "date": "2020-01-05 18:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Castres",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003003,
+      "journee": 14,
+      "date": "2020-01-26 12:30:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Agen",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1003004,
+      "journee": 14,
+      "date": "2020-01-25 18:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003005,
+      "journee": 14,
+      "date": "2020-01-25 18:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Racing 92",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1003006,
+      "journee": 14,
+      "date": "2020-01-25 20:45:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003007,
+      "journee": 14,
+      "date": "2020-01-25 18:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003008,
+      "journee": 14,
+      "date": "2020-01-25 15:30:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Toulon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003009,
+      "journee": 14,
+      "date": "2020-01-26 16:50:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003010,
+      "journee": 15,
+      "date": "2020-02-16 12:30:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Castres",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1003011,
+      "journee": 15,
+      "date": "2020-02-15 15:30:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003012,
+      "journee": 15,
+      "date": "2020-02-15 18:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003013,
+      "journee": 15,
+      "date": "2020-02-15 20:45:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003014,
+      "journee": 15,
+      "date": "2020-02-15 18:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Clermont",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1003015,
+      "journee": 15,
+      "date": "2020-02-16 16:50:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003016,
+      "journee": 15,
+      "date": "2020-02-15 18:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Brive",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003017,
+      "journee": 16,
+      "date": "2020-02-22 20:30:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003018,
+      "journee": 16,
+      "date": "2020-02-22 20:30:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Agen",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1003019,
+      "journee": 16,
+      "date": "2020-02-22 20:30:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003020,
+      "journee": 16,
+      "date": "2020-02-22 20:45:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1003021,
+      "journee": 16,
+      "date": "2020-02-22 15:30:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003022,
+      "journee": 16,
+      "date": "2020-02-23 12:30:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003023,
+      "journee": 16,
+      "date": "2020-02-23 16:50:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003024,
+      "journee": 17,
+      "date": "2020-02-29 18:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Clermont",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 1003025,
+      "journee": 17,
+      "date": "2020-02-29 18:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003026,
+      "journee": 17,
+      "date": "2020-03-01 12:30:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003027,
+      "journee": 17,
+      "date": "2020-02-29 20:45:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003028,
+      "journee": 17,
+      "date": "2020-02-29 18:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003029,
+      "journee": 17,
+      "date": "2020-02-29 15:30:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003030,
+      "journee": 17,
+      "date": "2020-03-01 16:45:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1003031,
+      "journee": 18,
+      "date": "2020-03-21 18:00:00",
+      "homeTeam": "Agen",
+      "awayTeam": "Pau",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003032,
+      "journee": 18,
+      "date": "2020-03-21 18:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Bayonne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003033,
+      "journee": 18,
+      "date": "2020-03-22 16:50:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Toulon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003034,
+      "journee": 18,
+      "date": "2020-03-21 20:45:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003035,
+      "journee": 18,
+      "date": "2020-03-22 12:30:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Racing 92",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003036,
+      "journee": 18,
+      "date": "2020-03-21 18:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Brive",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1003037,
+      "journee": 18,
+      "date": "2020-03-21 15:30:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    }
+  ]
+}

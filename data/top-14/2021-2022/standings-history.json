@@ -1,0 +1,4174 @@
+{
+  "season": "top14-2021-2022",
+  "generatedAt": "2025-11-07T15:38:43.326Z",
+  "totalJournees": 27,
+  "history": [
+    {
+      "journee": 1,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 45,
+          "corrects": 5
+        },
+        {
+          "rank": 2,
+          "userId": 181,
+          "username": "KRO",
+          "points": 40,
+          "corrects": 5
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 34,
+          "corrects": 4
+        },
+        {
+          "rank": 3,
+          "userId": 76,
+          "username": "didile53",
+          "points": 34,
+          "corrects": 4
+        },
+        {
+          "rank": 3,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 34,
+          "corrects": 4
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 29,
+          "corrects": 4
+        },
+        {
+          "rank": 7,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 28,
+          "corrects": 3
+        },
+        {
+          "rank": 8,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 24,
+          "corrects": 4
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 24,
+          "corrects": 4
+        },
+        {
+          "rank": 10,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 10,
+          "userId": 95,
+          "username": "nanard",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 10,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 10,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 10,
+          "userId": 209,
+          "username": "FredM",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 10,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 10,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 10,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 23,
+          "corrects": 3
+        },
+        {
+          "rank": 18,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 22,
+          "corrects": 2
+        },
+        {
+          "rank": 19,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 18,
+          "corrects": 3
+        }
+      ]
+    },
+    {
+      "journee": 2,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 112,
+          "corrects": 11
+        },
+        {
+          "rank": 2,
+          "userId": 76,
+          "username": "didile53",
+          "points": 96,
+          "corrects": 10
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 91,
+          "corrects": 10
+        },
+        {
+          "rank": 3,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 91,
+          "corrects": 10
+        },
+        {
+          "rank": 5,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 90,
+          "corrects": 9
+        },
+        {
+          "rank": 5,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 90,
+          "corrects": 9
+        },
+        {
+          "rank": 7,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 86,
+          "corrects": 10
+        },
+        {
+          "rank": 8,
+          "userId": 95,
+          "username": "nanard",
+          "points": 85,
+          "corrects": 9
+        },
+        {
+          "rank": 9,
+          "userId": 181,
+          "username": "KRO",
+          "points": 75,
+          "corrects": 10
+        },
+        {
+          "rank": 10,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 74,
+          "corrects": 9
+        },
+        {
+          "rank": 11,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 72,
+          "corrects": 7
+        },
+        {
+          "rank": 12,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 64,
+          "corrects": 9
+        },
+        {
+          "rank": 13,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 62,
+          "corrects": 7
+        },
+        {
+          "rank": 14,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 58,
+          "corrects": 8
+        },
+        {
+          "rank": 15,
+          "userId": 209,
+          "username": "FredM",
+          "points": 52,
+          "corrects": 7
+        },
+        {
+          "rank": 15,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 52,
+          "corrects": 7
+        },
+        {
+          "rank": 17,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 41,
+          "corrects": 6
+        },
+        {
+          "rank": 18,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 40,
+          "corrects": 5
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 23,
+          "corrects": 3
+        }
+      ]
+    },
+    {
+      "journee": 3,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 157,
+          "corrects": 16
+        },
+        {
+          "rank": 2,
+          "userId": 76,
+          "username": "didile53",
+          "points": 136,
+          "corrects": 15
+        },
+        {
+          "rank": 3,
+          "userId": 95,
+          "username": "nanard",
+          "points": 130,
+          "corrects": 14
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 124,
+          "corrects": 13
+        },
+        {
+          "rank": 4,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 124,
+          "corrects": 13
+        },
+        {
+          "rank": 6,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 120,
+          "corrects": 14
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 120,
+          "corrects": 14
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 115,
+          "corrects": 14
+        },
+        {
+          "rank": 9,
+          "userId": 181,
+          "username": "KRO",
+          "points": 114,
+          "corrects": 14
+        },
+        {
+          "rank": 10,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 103,
+          "corrects": 13
+        },
+        {
+          "rank": 11,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 101,
+          "corrects": 11
+        },
+        {
+          "rank": 12,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 99,
+          "corrects": 14
+        },
+        {
+          "rank": 13,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 91,
+          "corrects": 11
+        },
+        {
+          "rank": 14,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 86,
+          "corrects": 11
+        },
+        {
+          "rank": 14,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 86,
+          "corrects": 11
+        },
+        {
+          "rank": 16,
+          "userId": 209,
+          "username": "FredM",
+          "points": 81,
+          "corrects": 11
+        },
+        {
+          "rank": 17,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 79,
+          "corrects": 9
+        },
+        {
+          "rank": 18,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 75,
+          "corrects": 10
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 35,
+          "corrects": 5
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 34,
+          "corrects": 4
+        }
+      ]
+    },
+    {
+      "journee": 4,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 207,
+          "corrects": 22
+        },
+        {
+          "rank": 2,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 192,
+          "corrects": 21
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 190,
+          "corrects": 20
+        },
+        {
+          "rank": 4,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 189,
+          "corrects": 20
+        },
+        {
+          "rank": 5,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 186,
+          "corrects": 21
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 181,
+          "corrects": 21
+        },
+        {
+          "rank": 7,
+          "userId": 95,
+          "username": "nanard",
+          "points": 177,
+          "corrects": 20
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 172,
+          "corrects": 20
+        },
+        {
+          "rank": 9,
+          "userId": 181,
+          "username": "KRO",
+          "points": 171,
+          "corrects": 20
+        },
+        {
+          "rank": 10,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 170,
+          "corrects": 21
+        },
+        {
+          "rank": 11,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 159,
+          "corrects": 18
+        },
+        {
+          "rank": 12,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 143,
+          "corrects": 17
+        },
+        {
+          "rank": 13,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 138,
+          "corrects": 17
+        },
+        {
+          "rank": 14,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 136,
+          "corrects": 16
+        },
+        {
+          "rank": 15,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 132,
+          "corrects": 16
+        },
+        {
+          "rank": 16,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 131,
+          "corrects": 15
+        },
+        {
+          "rank": 17,
+          "userId": 209,
+          "username": "FredM",
+          "points": 109,
+          "corrects": 14
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 92,
+          "corrects": 12
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 87,
+          "corrects": 11
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 68,
+          "corrects": 8
+        }
+      ]
+    },
+    {
+      "journee": 5,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 262,
+          "corrects": 27
+        },
+        {
+          "rank": 2,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 247,
+          "corrects": 26
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 231,
+          "corrects": 26
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 230,
+          "corrects": 25
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 222,
+          "corrects": 25
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 215,
+          "corrects": 25
+        },
+        {
+          "rank": 7,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 214,
+          "corrects": 25
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 211,
+          "corrects": 24
+        },
+        {
+          "rank": 9,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 206,
+          "corrects": 22
+        },
+        {
+          "rank": 10,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 199,
+          "corrects": 23
+        },
+        {
+          "rank": 11,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 177,
+          "corrects": 21
+        },
+        {
+          "rank": 12,
+          "userId": 181,
+          "username": "KRO",
+          "points": 171,
+          "corrects": 20
+        },
+        {
+          "rank": 13,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 166,
+          "corrects": 20
+        },
+        {
+          "rank": 14,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 154,
+          "corrects": 18
+        },
+        {
+          "rank": 15,
+          "userId": 209,
+          "username": "FredM",
+          "points": 148,
+          "corrects": 18
+        },
+        {
+          "rank": 15,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 148,
+          "corrects": 18
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 148,
+          "corrects": 17
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 121,
+          "corrects": 16
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 110,
+          "corrects": 14
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 68,
+          "corrects": 8
+        }
+      ]
+    },
+    {
+      "journee": 6,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 319,
+          "corrects": 33
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 288,
+          "corrects": 32
+        },
+        {
+          "rank": 3,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 287,
+          "corrects": 31
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 277,
+          "corrects": 31
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 274,
+          "corrects": 31
+        },
+        {
+          "rank": 6,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 268,
+          "corrects": 30
+        },
+        {
+          "rank": 7,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 258,
+          "corrects": 28
+        },
+        {
+          "rank": 8,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 255,
+          "corrects": 30
+        },
+        {
+          "rank": 9,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 249,
+          "corrects": 30
+        },
+        {
+          "rank": 10,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 244,
+          "corrects": 28
+        },
+        {
+          "rank": 11,
+          "userId": 181,
+          "username": "KRO",
+          "points": 228,
+          "corrects": 26
+        },
+        {
+          "rank": 12,
+          "userId": 209,
+          "username": "FredM",
+          "points": 214,
+          "corrects": 25
+        },
+        {
+          "rank": 13,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 212,
+          "corrects": 26
+        },
+        {
+          "rank": 14,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 206,
+          "corrects": 25
+        },
+        {
+          "rank": 14,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 206,
+          "corrects": 24
+        },
+        {
+          "rank": 16,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 193,
+          "corrects": 22
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 182,
+          "corrects": 22
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 178,
+          "corrects": 22
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 145,
+          "corrects": 19
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 115,
+          "corrects": 14
+        }
+      ]
+    },
+    {
+      "journee": 7,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 341,
+          "corrects": 35
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 327,
+          "corrects": 36
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 316,
+          "corrects": 35
+        },
+        {
+          "rank": 3,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 316,
+          "corrects": 35
+        },
+        {
+          "rank": 5,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 289,
+          "corrects": 34
+        },
+        {
+          "rank": 6,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 288,
+          "corrects": 33
+        },
+        {
+          "rank": 7,
+          "userId": 95,
+          "username": "nanard",
+          "points": 285,
+          "corrects": 32
+        },
+        {
+          "rank": 7,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 285,
+          "corrects": 32
+        },
+        {
+          "rank": 9,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 278,
+          "corrects": 32
+        },
+        {
+          "rank": 10,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 270,
+          "corrects": 30
+        },
+        {
+          "rank": 11,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 266,
+          "corrects": 32
+        },
+        {
+          "rank": 12,
+          "userId": 181,
+          "username": "KRO",
+          "points": 245,
+          "corrects": 28
+        },
+        {
+          "rank": 13,
+          "userId": 209,
+          "username": "FredM",
+          "points": 243,
+          "corrects": 29
+        },
+        {
+          "rank": 14,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 235,
+          "corrects": 28
+        },
+        {
+          "rank": 15,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 229,
+          "corrects": 28
+        },
+        {
+          "rank": 16,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 217,
+          "corrects": 27
+        },
+        {
+          "rank": 17,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 211,
+          "corrects": 25
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 201,
+          "corrects": 25
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 168,
+          "corrects": 22
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 121,
+          "corrects": 15
+        }
+      ]
+    },
+    {
+      "journee": 8,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 386,
+          "corrects": 40
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 372,
+          "corrects": 41
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 368,
+          "corrects": 41
+        },
+        {
+          "rank": 3,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 368,
+          "corrects": 41
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 352,
+          "corrects": 38
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 344,
+          "corrects": 39
+        },
+        {
+          "rank": 7,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 340,
+          "corrects": 38
+        },
+        {
+          "rank": 8,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 332,
+          "corrects": 36
+        },
+        {
+          "rank": 9,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 327,
+          "corrects": 37
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 314,
+          "corrects": 36
+        },
+        {
+          "rank": 11,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 311,
+          "corrects": 37
+        },
+        {
+          "rank": 12,
+          "userId": 181,
+          "username": "KRO",
+          "points": 285,
+          "corrects": 33
+        },
+        {
+          "rank": 13,
+          "userId": 209,
+          "username": "FredM",
+          "points": 277,
+          "corrects": 33
+        },
+        {
+          "rank": 14,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 275,
+          "corrects": 33
+        },
+        {
+          "rank": 15,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 274,
+          "corrects": 33
+        },
+        {
+          "rank": 16,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 268,
+          "corrects": 31
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 262,
+          "corrects": 32
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 235,
+          "corrects": 29
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 213,
+          "corrects": 27
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 171,
+          "corrects": 20
+        }
+      ]
+    },
+    {
+      "journee": 9,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 443,
+          "corrects": 46
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 429,
+          "corrects": 47
+        },
+        {
+          "rank": 3,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 425,
+          "corrects": 47
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 415,
+          "corrects": 47
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 399,
+          "corrects": 44
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 383,
+          "corrects": 43
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 372,
+          "corrects": 42
+        },
+        {
+          "rank": 8,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 356,
+          "corrects": 40
+        },
+        {
+          "rank": 9,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 349,
+          "corrects": 41
+        },
+        {
+          "rank": 10,
+          "userId": 209,
+          "username": "FredM",
+          "points": 343,
+          "corrects": 40
+        },
+        {
+          "rank": 11,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 340,
+          "corrects": 41
+        },
+        {
+          "rank": 11,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 340,
+          "corrects": 38
+        },
+        {
+          "rank": 13,
+          "userId": 181,
+          "username": "KRO",
+          "points": 332,
+          "corrects": 39
+        },
+        {
+          "rank": 14,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 320,
+          "corrects": 37
+        },
+        {
+          "rank": 15,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 303,
+          "corrects": 37
+        },
+        {
+          "rank": 16,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 287,
+          "corrects": 35
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 274,
+          "corrects": 34
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 258,
+          "corrects": 32
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 248,
+          "corrects": 32
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 171,
+          "corrects": 20
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 40,
+          "corrects": 5
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 10,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 505,
+          "corrects": 52
+        },
+        {
+          "rank": 2,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 482,
+          "corrects": 53
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 479,
+          "corrects": 52
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 472,
+          "corrects": 53
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 466,
+          "corrects": 50
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 445,
+          "corrects": 49
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 434,
+          "corrects": 48
+        },
+        {
+          "rank": 8,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 396,
+          "corrects": 45
+        },
+        {
+          "rank": 9,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 395,
+          "corrects": 43
+        },
+        {
+          "rank": 10,
+          "userId": 181,
+          "username": "KRO",
+          "points": 389,
+          "corrects": 45
+        },
+        {
+          "rank": 11,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 385,
+          "corrects": 46
+        },
+        {
+          "rank": 12,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 383,
+          "corrects": 45
+        },
+        {
+          "rank": 13,
+          "userId": 209,
+          "username": "FredM",
+          "points": 378,
+          "corrects": 45
+        },
+        {
+          "rank": 14,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 370,
+          "corrects": 43
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 355,
+          "corrects": 42
+        },
+        {
+          "rank": 16,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 332,
+          "corrects": 40
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 309,
+          "corrects": 39
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 282,
+          "corrects": 36
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 254,
+          "corrects": 33
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 223,
+          "corrects": 26
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 74,
+          "corrects": 9
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 11,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 557,
+          "corrects": 58
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 531,
+          "corrects": 58
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 524,
+          "corrects": 59
+        },
+        {
+          "rank": 4,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 511,
+          "corrects": 57
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 506,
+          "corrects": 55
+        },
+        {
+          "rank": 6,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 481,
+          "corrects": 54
+        },
+        {
+          "rank": 7,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 474,
+          "corrects": 53
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 446,
+          "corrects": 51
+        },
+        {
+          "rank": 9,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 440,
+          "corrects": 48
+        },
+        {
+          "rank": 10,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 431,
+          "corrects": 50
+        },
+        {
+          "rank": 11,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 420,
+          "corrects": 51
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 417,
+          "corrects": 49
+        },
+        {
+          "rank": 13,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 402,
+          "corrects": 48
+        },
+        {
+          "rank": 14,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 401,
+          "corrects": 48
+        },
+        {
+          "rank": 15,
+          "userId": 209,
+          "username": "FredM",
+          "points": 384,
+          "corrects": 46
+        },
+        {
+          "rank": 16,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 355,
+          "corrects": 43
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 338,
+          "corrects": 43
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 310,
+          "corrects": 39
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 294,
+          "corrects": 38
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 252,
+          "corrects": 30
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 131,
+          "corrects": 15
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 12,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 619,
+          "corrects": 64
+        },
+        {
+          "rank": 2,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 571,
+          "corrects": 65
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 566,
+          "corrects": 63
+        },
+        {
+          "rank": 4,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 563,
+          "corrects": 63
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 541,
+          "corrects": 60
+        },
+        {
+          "rank": 6,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 531,
+          "corrects": 59
+        },
+        {
+          "rank": 7,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 509,
+          "corrects": 58
+        },
+        {
+          "rank": 8,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 490,
+          "corrects": 53
+        },
+        {
+          "rank": 9,
+          "userId": 181,
+          "username": "KRO",
+          "points": 485,
+          "corrects": 55
+        },
+        {
+          "rank": 10,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 474,
+          "corrects": 55
+        },
+        {
+          "rank": 11,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 454,
+          "corrects": 53
+        },
+        {
+          "rank": 12,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 451,
+          "corrects": 53
+        },
+        {
+          "rank": 13,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 449,
+          "corrects": 55
+        },
+        {
+          "rank": 14,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 442,
+          "corrects": 53
+        },
+        {
+          "rank": 15,
+          "userId": 209,
+          "username": "FredM",
+          "points": 441,
+          "corrects": 52
+        },
+        {
+          "rank": 16,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 378,
+          "corrects": 46
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 350,
+          "corrects": 45
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 344,
+          "corrects": 43
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 328,
+          "corrects": 42
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 286,
+          "corrects": 34
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 176,
+          "corrects": 20
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 13,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 648,
+          "corrects": 68
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 611,
+          "corrects": 68
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 606,
+          "corrects": 70
+        },
+        {
+          "rank": 4,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 581,
+          "corrects": 66
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 570,
+          "corrects": 64
+        },
+        {
+          "rank": 6,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 560,
+          "corrects": 63
+        },
+        {
+          "rank": 7,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 532,
+          "corrects": 61
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 520,
+          "corrects": 60
+        },
+        {
+          "rank": 9,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 514,
+          "corrects": 57
+        },
+        {
+          "rank": 10,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 503,
+          "corrects": 59
+        },
+        {
+          "rank": 11,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 482,
+          "corrects": 58
+        },
+        {
+          "rank": 12,
+          "userId": 209,
+          "username": "FredM",
+          "points": 481,
+          "corrects": 57
+        },
+        {
+          "rank": 13,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 480,
+          "corrects": 57
+        },
+        {
+          "rank": 14,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 477,
+          "corrects": 56
+        },
+        {
+          "rank": 15,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 473,
+          "corrects": 59
+        },
+        {
+          "rank": 16,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 407,
+          "corrects": 50
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 379,
+          "corrects": 49
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 350,
+          "corrects": 44
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 328,
+          "corrects": 42
+        },
+        {
+          "rank": 20,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 326,
+          "corrects": 39
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 205,
+          "corrects": 24
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 14,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 714,
+          "corrects": 75
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 663,
+          "corrects": 74
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 658,
+          "corrects": 76
+        },
+        {
+          "rank": 4,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 647,
+          "corrects": 73
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 627,
+          "corrects": 70
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 585,
+          "corrects": 64
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 584,
+          "corrects": 67
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 572,
+          "corrects": 66
+        },
+        {
+          "rank": 9,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 562,
+          "corrects": 66
+        },
+        {
+          "rank": 10,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 550,
+          "corrects": 65
+        },
+        {
+          "rank": 11,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 527,
+          "corrects": 63
+        },
+        {
+          "rank": 12,
+          "userId": 209,
+          "username": "FredM",
+          "points": 526,
+          "corrects": 62
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 522,
+          "corrects": 61
+        },
+        {
+          "rank": 14,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 516,
+          "corrects": 62
+        },
+        {
+          "rank": 15,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 502,
+          "corrects": 63
+        },
+        {
+          "rank": 16,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 407,
+          "corrects": 50
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 402,
+          "corrects": 52
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 395,
+          "corrects": 49
+        },
+        {
+          "rank": 19,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 366,
+          "corrects": 44
+        },
+        {
+          "rank": 20,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 334,
+          "corrects": 43
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 228,
+          "corrects": 27
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 15,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 743,
+          "corrects": 79
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 692,
+          "corrects": 78
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 688,
+          "corrects": 81
+        },
+        {
+          "rank": 4,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 687,
+          "corrects": 78
+        },
+        {
+          "rank": 5,
+          "userId": 95,
+          "username": "nanard",
+          "points": 672,
+          "corrects": 75
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 632,
+          "corrects": 70
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 623,
+          "corrects": 71
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 601,
+          "corrects": 70
+        },
+        {
+          "rank": 9,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 597,
+          "corrects": 71
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 584,
+          "corrects": 69
+        },
+        {
+          "rank": 11,
+          "userId": 209,
+          "username": "FredM",
+          "points": 578,
+          "corrects": 68
+        },
+        {
+          "rank": 12,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 572,
+          "corrects": 66
+        },
+        {
+          "rank": 13,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 567,
+          "corrects": 67
+        },
+        {
+          "rank": 14,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 556,
+          "corrects": 67
+        },
+        {
+          "rank": 15,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 537,
+          "corrects": 68
+        },
+        {
+          "rank": 16,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 420,
+          "corrects": 55
+        },
+        {
+          "rank": 17,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 418,
+          "corrects": 52
+        },
+        {
+          "rank": 18,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 407,
+          "corrects": 50
+        },
+        {
+          "rank": 19,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 406,
+          "corrects": 49
+        },
+        {
+          "rank": 20,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 374,
+          "corrects": 48
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 262,
+          "corrects": 31
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 16,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 777,
+          "corrects": 83
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 715,
+          "corrects": 81
+        },
+        {
+          "rank": 3,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 710,
+          "corrects": 81
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 706,
+          "corrects": 84
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 706,
+          "corrects": 79
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 661,
+          "corrects": 74
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 657,
+          "corrects": 75
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 646,
+          "corrects": 75
+        },
+        {
+          "rank": 9,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 626,
+          "corrects": 75
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 624,
+          "corrects": 74
+        },
+        {
+          "rank": 11,
+          "userId": 209,
+          "username": "FredM",
+          "points": 618,
+          "corrects": 73
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 602,
+          "corrects": 72
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 595,
+          "corrects": 69
+        },
+        {
+          "rank": 14,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 562,
+          "corrects": 68
+        },
+        {
+          "rank": 15,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 560,
+          "corrects": 71
+        },
+        {
+          "rank": 16,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 444,
+          "corrects": 59
+        },
+        {
+          "rank": 17,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 442,
+          "corrects": 56
+        },
+        {
+          "rank": 18,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 440,
+          "corrects": 53
+        },
+        {
+          "rank": 19,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 436,
+          "corrects": 54
+        },
+        {
+          "rank": 20,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 403,
+          "corrects": 52
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 291,
+          "corrects": 35
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 17,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 811,
+          "corrects": 87
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 749,
+          "corrects": 85
+        },
+        {
+          "rank": 3,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 744,
+          "corrects": 85
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 740,
+          "corrects": 83
+        },
+        {
+          "rank": 5,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 735,
+          "corrects": 88
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 700,
+          "corrects": 78
+        },
+        {
+          "rank": 7,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 683,
+          "corrects": 81
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 681,
+          "corrects": 80
+        },
+        {
+          "rank": 9,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 680,
+          "corrects": 78
+        },
+        {
+          "rank": 10,
+          "userId": 209,
+          "username": "FredM",
+          "points": 652,
+          "corrects": 77
+        },
+        {
+          "rank": 11,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 648,
+          "corrects": 78
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 642,
+          "corrects": 77
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 629,
+          "corrects": 73
+        },
+        {
+          "rank": 14,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 596,
+          "corrects": 72
+        },
+        {
+          "rank": 15,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 589,
+          "corrects": 75
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 485,
+          "corrects": 58
+        },
+        {
+          "rank": 17,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 465,
+          "corrects": 59
+        },
+        {
+          "rank": 18,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 462,
+          "corrects": 62
+        },
+        {
+          "rank": 19,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 436,
+          "corrects": 54
+        },
+        {
+          "rank": 20,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 432,
+          "corrects": 56
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 330,
+          "corrects": 39
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 18,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 846,
+          "corrects": 92
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 784,
+          "corrects": 90
+        },
+        {
+          "rank": 3,
+          "userId": 95,
+          "username": "nanard",
+          "points": 774,
+          "corrects": 87
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 770,
+          "corrects": 93
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 767,
+          "corrects": 88
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 740,
+          "corrects": 83
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 719,
+          "corrects": 82
+        },
+        {
+          "rank": 8,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 717,
+          "corrects": 85
+        },
+        {
+          "rank": 9,
+          "userId": 181,
+          "username": "KRO",
+          "points": 715,
+          "corrects": 84
+        },
+        {
+          "rank": 10,
+          "userId": 209,
+          "username": "FredM",
+          "points": 691,
+          "corrects": 81
+        },
+        {
+          "rank": 11,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 687,
+          "corrects": 82
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 659,
+          "corrects": 79
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 652,
+          "corrects": 76
+        },
+        {
+          "rank": 14,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 624,
+          "corrects": 75
+        },
+        {
+          "rank": 15,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 618,
+          "corrects": 79
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 509,
+          "corrects": 62
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 490,
+          "corrects": 65
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 471,
+          "corrects": 60
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 461,
+          "corrects": 60
+        },
+        {
+          "rank": 20,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 454,
+          "corrects": 57
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 387,
+          "corrects": 45
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 19,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 891,
+          "corrects": 97
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 841,
+          "corrects": 96
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 837,
+          "corrects": 99
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 836,
+          "corrects": 93
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 807,
+          "corrects": 93
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 785,
+          "corrects": 88
+        },
+        {
+          "rank": 7,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 784,
+          "corrects": 91
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 777,
+          "corrects": 90
+        },
+        {
+          "rank": 9,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 776,
+          "corrects": 88
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 737,
+          "corrects": 87
+        },
+        {
+          "rank": 11,
+          "userId": 209,
+          "username": "FredM",
+          "points": 726,
+          "corrects": 86
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 721,
+          "corrects": 85
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 704,
+          "corrects": 82
+        },
+        {
+          "rank": 14,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 684,
+          "corrects": 86
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 653,
+          "corrects": 79
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 559,
+          "corrects": 67
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 535,
+          "corrects": 70
+        },
+        {
+          "rank": 18,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 516,
+          "corrects": 65
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 516,
+          "corrects": 65
+        },
+        {
+          "rank": 20,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 483,
+          "corrects": 61
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 444,
+          "corrects": 51
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 20,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 931,
+          "corrects": 102
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 886,
+          "corrects": 101
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 866,
+          "corrects": 103
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 865,
+          "corrects": 97
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 852,
+          "corrects": 98
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 824,
+          "corrects": 92
+        },
+        {
+          "rank": 7,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 812,
+          "corrects": 94
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 806,
+          "corrects": 94
+        },
+        {
+          "rank": 9,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 799,
+          "corrects": 91
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 767,
+          "corrects": 92
+        },
+        {
+          "rank": 11,
+          "userId": 209,
+          "username": "FredM",
+          "points": 756,
+          "corrects": 91
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 739,
+          "corrects": 88
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 721,
+          "corrects": 84
+        },
+        {
+          "rank": 14,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 718,
+          "corrects": 90
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 687,
+          "corrects": 83
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 598,
+          "corrects": 71
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 564,
+          "corrects": 74
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 551,
+          "corrects": 70
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 539,
+          "corrects": 68
+        },
+        {
+          "rank": 20,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 517,
+          "corrects": 65
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 456,
+          "corrects": 53
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 21,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 988,
+          "corrects": 108
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 943,
+          "corrects": 107
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 937,
+          "corrects": 110
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 917,
+          "corrects": 103
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 909,
+          "corrects": 104
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 876,
+          "corrects": 98
+        },
+        {
+          "rank": 7,
+          "userId": 181,
+          "username": "KRO",
+          "points": 851,
+          "corrects": 99
+        },
+        {
+          "rank": 8,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 842,
+          "corrects": 99
+        },
+        {
+          "rank": 9,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 824,
+          "corrects": 98
+        },
+        {
+          "rank": 10,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 823,
+          "corrects": 95
+        },
+        {
+          "rank": 11,
+          "userId": 209,
+          "username": "FredM",
+          "points": 813,
+          "corrects": 97
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 791,
+          "corrects": 94
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 768,
+          "corrects": 90
+        },
+        {
+          "rank": 14,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 752,
+          "corrects": 94
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 722,
+          "corrects": 88
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 638,
+          "corrects": 76
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 611,
+          "corrects": 80
+        },
+        {
+          "rank": 18,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 596,
+          "corrects": 74
+        },
+        {
+          "rank": 19,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 585,
+          "corrects": 74
+        },
+        {
+          "rank": 20,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 557,
+          "corrects": 70
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 491,
+          "corrects": 58
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 22,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 1017,
+          "corrects": 112
+        },
+        {
+          "rank": 2,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 965,
+          "corrects": 113
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 960,
+          "corrects": 109
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 934,
+          "corrects": 105
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 920,
+          "corrects": 105
+        },
+        {
+          "rank": 6,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 893,
+          "corrects": 100
+        },
+        {
+          "rank": 7,
+          "userId": 181,
+          "username": "KRO",
+          "points": 880,
+          "corrects": 103
+        },
+        {
+          "rank": 8,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 870,
+          "corrects": 102
+        },
+        {
+          "rank": 9,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 858,
+          "corrects": 102
+        },
+        {
+          "rank": 10,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 851,
+          "corrects": 98
+        },
+        {
+          "rank": 11,
+          "userId": 209,
+          "username": "FredM",
+          "points": 836,
+          "corrects": 100
+        },
+        {
+          "rank": 12,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 814,
+          "corrects": 97
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 790,
+          "corrects": 92
+        },
+        {
+          "rank": 14,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 781,
+          "corrects": 98
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 739,
+          "corrects": 90
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 661,
+          "corrects": 79
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 656,
+          "corrects": 85
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 620,
+          "corrects": 79
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 618,
+          "corrects": 76
+        },
+        {
+          "rank": 20,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 569,
+          "corrects": 72
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 520,
+          "corrects": 62
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 23,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 1057,
+          "corrects": 117
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 1010,
+          "corrects": 114
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 999,
+          "corrects": 117
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 973,
+          "corrects": 109
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 970,
+          "corrects": 110
+        },
+        {
+          "rank": 6,
+          "userId": 181,
+          "username": "KRO",
+          "points": 914,
+          "corrects": 107
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 903,
+          "corrects": 104
+        },
+        {
+          "rank": 8,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 896,
+          "corrects": 100
+        },
+        {
+          "rank": 9,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 893,
+          "corrects": 105
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 887,
+          "corrects": 106
+        },
+        {
+          "rank": 11,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 871,
+          "corrects": 103
+        },
+        {
+          "rank": 12,
+          "userId": 209,
+          "username": "FredM",
+          "points": 836,
+          "corrects": 100
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 813,
+          "corrects": 95
+        },
+        {
+          "rank": 14,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 781,
+          "corrects": 98
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 767,
+          "corrects": 93
+        },
+        {
+          "rank": 16,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 696,
+          "corrects": 90
+        },
+        {
+          "rank": 17,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 695,
+          "corrects": 83
+        },
+        {
+          "rank": 18,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 626,
+          "corrects": 80
+        },
+        {
+          "rank": 19,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 618,
+          "corrects": 76
+        },
+        {
+          "rank": 20,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 598,
+          "corrects": 76
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 565,
+          "corrects": 67
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 24,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 1097,
+          "corrects": 122
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 1067,
+          "corrects": 120
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 1028,
+          "corrects": 121
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 1008,
+          "corrects": 114
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 1004,
+          "corrects": 114
+        },
+        {
+          "rank": 6,
+          "userId": 181,
+          "username": "KRO",
+          "points": 966,
+          "corrects": 113
+        },
+        {
+          "rank": 7,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 935,
+          "corrects": 111
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 922,
+          "corrects": 111
+        },
+        {
+          "rank": 9,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 921,
+          "corrects": 107
+        },
+        {
+          "rank": 10,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 911,
+          "corrects": 108
+        },
+        {
+          "rank": 11,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 907,
+          "corrects": 101
+        },
+        {
+          "rank": 12,
+          "userId": 209,
+          "username": "FredM",
+          "points": 876,
+          "corrects": 105
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 843,
+          "corrects": 100
+        },
+        {
+          "rank": 14,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 821,
+          "corrects": 103
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 767,
+          "corrects": 93
+        },
+        {
+          "rank": 16,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 730,
+          "corrects": 94
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 730,
+          "corrects": 88
+        },
+        {
+          "rank": 18,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 659,
+          "corrects": 83
+        },
+        {
+          "rank": 19,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 655,
+          "corrects": 84
+        },
+        {
+          "rank": 20,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 618,
+          "corrects": 76
+        },
+        {
+          "rank": 21,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 594,
+          "corrects": 71
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 25,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 1149,
+          "corrects": 128
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 1133,
+          "corrects": 127
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 1114,
+          "corrects": 128
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 1074,
+          "corrects": 121
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 1056,
+          "corrects": 120
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 1016,
+          "corrects": 118
+        },
+        {
+          "rank": 7,
+          "userId": 181,
+          "username": "KRO",
+          "points": 995,
+          "corrects": 117
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 988,
+          "corrects": 118
+        },
+        {
+          "rank": 8,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 988,
+          "corrects": 113
+        },
+        {
+          "rank": 10,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 978,
+          "corrects": 108
+        },
+        {
+          "rank": 11,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 973,
+          "corrects": 114
+        },
+        {
+          "rank": 12,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 897,
+          "corrects": 110
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 885,
+          "corrects": 106
+        },
+        {
+          "rank": 14,
+          "userId": 209,
+          "username": "FredM",
+          "points": 876,
+          "corrects": 105
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 824,
+          "corrects": 99
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 787,
+          "corrects": 94
+        },
+        {
+          "rank": 17,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 770,
+          "corrects": 99
+        },
+        {
+          "rank": 18,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 677,
+          "corrects": 86
+        },
+        {
+          "rank": 19,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 661,
+          "corrects": 77
+        },
+        {
+          "rank": 20,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 655,
+          "corrects": 84
+        },
+        {
+          "rank": 21,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 618,
+          "corrects": 76
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 26,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 1183,
+          "corrects": 132
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 1161,
+          "corrects": 130
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 1148,
+          "corrects": 132
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 1108,
+          "corrects": 125
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 1095,
+          "corrects": 124
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 1050,
+          "corrects": 122
+        },
+        {
+          "rank": 7,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 1035,
+          "corrects": 120
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 1027,
+          "corrects": 122
+        },
+        {
+          "rank": 9,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 1023,
+          "corrects": 118
+        },
+        {
+          "rank": 10,
+          "userId": 181,
+          "username": "KRO",
+          "points": 1018,
+          "corrects": 120
+        },
+        {
+          "rank": 11,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 1000,
+          "corrects": 110
+        },
+        {
+          "rank": 12,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 937,
+          "corrects": 115
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 903,
+          "corrects": 109
+        },
+        {
+          "rank": 14,
+          "userId": 209,
+          "username": "FredM",
+          "points": 876,
+          "corrects": 105
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 853,
+          "corrects": 103
+        },
+        {
+          "rank": 16,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 810,
+          "corrects": 104
+        },
+        {
+          "rank": 16,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 810,
+          "corrects": 97
+        },
+        {
+          "rank": 18,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 701,
+          "corrects": 82
+        },
+        {
+          "rank": 19,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 677,
+          "corrects": 86
+        },
+        {
+          "rank": 20,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 655,
+          "corrects": 84
+        },
+        {
+          "rank": 21,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 618,
+          "corrects": 76
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    },
+    {
+      "journee": 27,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 76,
+          "username": "didile53",
+          "points": 1206,
+          "corrects": 135
+        },
+        {
+          "rank": 2,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 1182,
+          "corrects": 136
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 1167,
+          "corrects": 131
+        },
+        {
+          "rank": 4,
+          "userId": 95,
+          "username": "nanard",
+          "points": 1120,
+          "corrects": 127
+        },
+        {
+          "rank": 5,
+          "userId": 87,
+          "username": "le_puy_de_dome",
+          "points": 1101,
+          "corrects": 125
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 1073,
+          "corrects": 125
+        },
+        {
+          "rank": 7,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 1049,
+          "corrects": 124
+        },
+        {
+          "rank": 8,
+          "userId": 181,
+          "username": "KRO",
+          "points": 1046,
+          "corrects": 123
+        },
+        {
+          "rank": 9,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 1035,
+          "corrects": 120
+        },
+        {
+          "rank": 9,
+          "userId": 864,
+          "username": "GrootCruyff",
+          "points": 1035,
+          "corrects": 120
+        },
+        {
+          "rank": 11,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 1000,
+          "corrects": 110
+        },
+        {
+          "rank": 12,
+          "userId": 174,
+          "username": "Puyol",
+          "points": 955,
+          "corrects": 118
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 926,
+          "corrects": 112
+        },
+        {
+          "rank": 14,
+          "userId": 209,
+          "username": "FredM",
+          "points": 893,
+          "corrects": 107
+        },
+        {
+          "rank": 15,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 853,
+          "corrects": 103
+        },
+        {
+          "rank": 16,
+          "userId": 884,
+          "username": "ViviLeader63",
+          "points": 832,
+          "corrects": 106
+        },
+        {
+          "rank": 17,
+          "userId": 858,
+          "username": "BenArfa56",
+          "points": 827,
+          "corrects": 99
+        },
+        {
+          "rank": 18,
+          "userId": 880,
+          "username": "ScoubIsaac",
+          "points": 724,
+          "corrects": 85
+        },
+        {
+          "rank": 19,
+          "userId": 853,
+          "username": "Didou56",
+          "points": 677,
+          "corrects": 86
+        },
+        {
+          "rank": 20,
+          "userId": 849,
+          "username": "Pogba",
+          "points": 655,
+          "corrects": 84
+        },
+        {
+          "rank": 21,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 618,
+          "corrects": 76
+        },
+        {
+          "rank": 22,
+          "userId": 267,
+          "username": "Zetoum44",
+          "points": 35,
+          "corrects": 5
+        }
+      ]
+    }
+  ]
+}

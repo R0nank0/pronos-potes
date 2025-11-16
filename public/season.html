@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Classement - Pronos Potes</title>
+    <meta name="description" content="Classement général de la saison">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/season.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero-section" id="hero-section">
+        <div class="hero-background"></div>
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-logo">
+                    <a href="index.html">
+                        <img src="assets/logo.png" alt="Pronos Potes" class="logo-image" style="max-width: 400px;">
+                    </a>
+                </div>
+                <!-- Season Info will be loaded here by JS -->
+                <div id="season-hero-info">
+                    <div class="loader">Chargement...</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <main class="main">
+        <div class="container">
+
+            <!-- Navigation Tabs -->
+            <nav class="tabs-nav" id="tabs-nav" style="display: none;">
+                <button class="tab-btn active" data-tab="general">
+                    📊 Classement Général
+                </button>
+                <button class="tab-btn" data-tab="journees">
+                    📅 Par Journée
+                </button>
+                <button class="tab-btn" data-tab="history">
+                    📈 Évolution
+                </button>
+            </nav>
+
+            <!-- Tab: General Standings -->
+            <section class="tab-content active" id="tab-general">
+                <div class="standings-header">
+                    <h2>Classement Général</h2>
+                    <div class="standings-filters">
+                        <input type="text"
+                               id="search-user"
+                               placeholder="Rechercher un joueur..."
+                               class="search-input">
+                        <select id="sort-by" class="sort-select">
+                            <option value="points">Points</option>
+                            <option value="successRate">Taux de réussite</option>
+                            <option value="corrects">Scores exacts</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="standings-table" class="standings-table loading">
+                    <div class="loader">Chargement du classement...</div>
+                </div>
+            </section>
+
+            <!-- Tab: Journées -->
+            <section class="tab-content" id="tab-journees" style="display: none;">
+                <div class="journees-header">
+                    <h2>Classements par Journée</h2>
+                    <div class="journees-nav" id="journees-nav">
+                        <!-- Journée buttons will be inserted here -->
+                    </div>
+                </div>
+
+                <div id="journee-standings" class="standings-table">
+                    <p class="placeholder">Sélectionnez une journée</p>
+                </div>
+            </section>
+
+            <!-- Tab: History -->
+            <section class="tab-content" id="tab-history" style="display: none;">
+                <div class="history-header">
+                    <h2>Évolution du Classement</h2>
+                    <div class="history-filters">
+                        <input type="text"
+                               id="search-user-history"
+                               placeholder="Rechercher un joueur..."
+                               class="search-input">
+                        <select id="top-n" class="sort-select">
+                            <option value="10">Top 10</option>
+                            <option value="20">Top 20</option>
+                            <option value="50">Top 50</option>
+                            <option value="all">Tous</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="history-chart" class="history-chart loading">
+                    <div class="loader">Chargement de l'historique...</div>
+                </div>
+
+                <div id="history-stats" class="history-stats">
+                    <!-- Stats will be inserted here -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2006-2025 Pronos Potes - Archive statique</p>
+        </div>
+    </footer>
+
+    <!-- Chart.js for evolution charts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/season.js"></script>
+</body>
+</html>

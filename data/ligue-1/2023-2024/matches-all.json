@@ -1,0 +1,3070 @@
+{
+  "season": "ligue1-2023-2024",
+  "seasonId": "61",
+  "seasonName": "Ligue 1 - 2023 / 2024",
+  "totalMatches": 306,
+  "totalJournees": 34,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1006519,
+      "journee": 1,
+      "date": "2023-08-12 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006520,
+      "journee": 1,
+      "date": "2023-08-13 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006521,
+      "journee": 1,
+      "date": "2023-08-13 20:45:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006522,
+      "journee": 1,
+      "date": "2023-08-13 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006523,
+      "journee": 1,
+      "date": "2023-08-13 17:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Metz",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006524,
+      "journee": 1,
+      "date": "2023-08-13 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Le Havre",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006525,
+      "journee": 1,
+      "date": "2023-08-12 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006526,
+      "journee": 1,
+      "date": "2023-08-13 13:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006527,
+      "journee": 1,
+      "date": "2023-08-11 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006528,
+      "journee": 2,
+      "date": "2023-08-19 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006529,
+      "journee": 2,
+      "date": "2023-08-20 20:45:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006530,
+      "journee": 2,
+      "date": "2023-08-18 21:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006531,
+      "journee": 2,
+      "date": "2023-08-20 13:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006532,
+      "journee": 2,
+      "date": "2023-08-20 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Strasbourg",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006533,
+      "journee": 2,
+      "date": "2023-08-19 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006534,
+      "journee": 2,
+      "date": "2023-08-20 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006535,
+      "journee": 2,
+      "date": "2023-08-20 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006536,
+      "journee": 2,
+      "date": "2023-08-20 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006537,
+      "journee": 3,
+      "date": "2023-08-26 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006538,
+      "journee": 3,
+      "date": "2023-08-26 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006539,
+      "journee": 3,
+      "date": "2023-08-27 13:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Le Havre",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006540,
+      "journee": 3,
+      "date": "2023-08-27 17:05:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lille",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006541,
+      "journee": 3,
+      "date": "2023-08-25 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Monaco",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006542,
+      "journee": 3,
+      "date": "2023-08-27 20:45:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006543,
+      "journee": 3,
+      "date": "2023-08-27 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006544,
+      "journee": 3,
+      "date": "2023-08-27 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006545,
+      "journee": 3,
+      "date": "2023-08-27 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006546,
+      "journee": 4,
+      "date": "2023-09-03 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006547,
+      "journee": 4,
+      "date": "2023-09-02 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006548,
+      "journee": 4,
+      "date": "2023-09-01 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006549,
+      "journee": 4,
+      "date": "2023-09-02 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006550,
+      "journee": 4,
+      "date": "2023-09-03 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006551,
+      "journee": 4,
+      "date": "2023-09-03 13:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006552,
+      "journee": 4,
+      "date": "2023-09-03 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006553,
+      "journee": 4,
+      "date": "2023-09-03 17:05:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006554,
+      "journee": 4,
+      "date": "2023-09-03 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006555,
+      "journee": 5,
+      "date": "2023-09-15 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006556,
+      "journee": 5,
+      "date": "2023-09-17 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006557,
+      "journee": 5,
+      "date": "2023-09-16 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006558,
+      "journee": 5,
+      "date": "2023-09-17 17:05:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006559,
+      "journee": 5,
+      "date": "2023-09-17 13:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006560,
+      "journee": 5,
+      "date": "2023-09-17 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Le Havre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006561,
+      "journee": 5,
+      "date": "2023-09-17 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006562,
+      "journee": 5,
+      "date": "2023-09-17 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006563,
+      "journee": 5,
+      "date": "2023-09-16 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006564,
+      "journee": 6,
+      "date": "2023-09-24 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Marseille",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006565,
+      "journee": 6,
+      "date": "2023-09-22 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006566,
+      "journee": 6,
+      "date": "2023-09-26 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006567,
+      "journee": 6,
+      "date": "2023-09-24 15:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006568,
+      "journee": 6,
+      "date": "2023-09-23 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lorient",
+      "homeScore": 5,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006569,
+      "journee": 6,
+      "date": "2023-09-24 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006570,
+      "journee": 6,
+      "date": "2023-09-24 13:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006571,
+      "journee": 6,
+      "date": "2023-09-24 17:05:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006572,
+      "journee": 6,
+      "date": "2023-09-23 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006573,
+      "journee": 7,
+      "date": "2023-09-29 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006574,
+      "journee": 7,
+      "date": "2023-10-01 20:45:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006575,
+      "journee": 7,
+      "date": "2023-10-01 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Metz",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006576,
+      "journee": 7,
+      "date": "2023-10-01 17:05:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006577,
+      "journee": 7,
+      "date": "2023-09-30 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006578,
+      "journee": 7,
+      "date": "2023-10-01 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006579,
+      "journee": 7,
+      "date": "2023-09-30 17:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006580,
+      "journee": 7,
+      "date": "2023-10-01 13:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006581,
+      "journee": 7,
+      "date": "2023-10-01 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006582,
+      "journee": 8,
+      "date": "2023-10-06 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006583,
+      "journee": 8,
+      "date": "2023-10-08 20:45:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006584,
+      "journee": 8,
+      "date": "2023-10-08 13:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Le Havre",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006585,
+      "journee": 8,
+      "date": "2023-10-08 15:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006586,
+      "journee": 8,
+      "date": "2023-10-07 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006587,
+      "journee": 8,
+      "date": "2023-10-08 17:05:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006588,
+      "journee": 8,
+      "date": "2023-10-07 17:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006589,
+      "journee": 8,
+      "date": "2023-11-29 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006590,
+      "journee": 8,
+      "date": "2023-10-08 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006591,
+      "journee": 9,
+      "date": "2023-10-21 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Strasbourg",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006592,
+      "journee": 9,
+      "date": "2023-10-22 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006593,
+      "journee": 9,
+      "date": "2023-10-22 13:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006594,
+      "journee": 9,
+      "date": "2023-10-22 17:05:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006595,
+      "journee": 9,
+      "date": "2023-10-22 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006596,
+      "journee": 9,
+      "date": "2023-10-22 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006597,
+      "journee": 9,
+      "date": "2023-10-21 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006598,
+      "journee": 9,
+      "date": "2023-10-22 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006599,
+      "journee": 9,
+      "date": "2023-10-20 21:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006600,
+      "journee": 10,
+      "date": "2023-10-29 17:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006601,
+      "journee": 10,
+      "date": "2023-12-06 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006602,
+      "journee": 10,
+      "date": "2023-10-29 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006603,
+      "journee": 10,
+      "date": "2023-10-27 21:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006604,
+      "journee": 10,
+      "date": "2023-10-28 17:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006605,
+      "journee": 10,
+      "date": "2023-10-28 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nantes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006606,
+      "journee": 10,
+      "date": "2023-10-29 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Le Havre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006607,
+      "journee": 10,
+      "date": "2023-10-29 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Toulouse",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006608,
+      "journee": 10,
+      "date": "2023-10-29 13:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006609,
+      "journee": 11,
+      "date": "2023-11-03 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006610,
+      "journee": 11,
+      "date": "2023-11-05 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006611,
+      "journee": 11,
+      "date": "2023-11-05 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Le Havre",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006612,
+      "journee": 11,
+      "date": "2023-11-04 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006613,
+      "journee": 11,
+      "date": "2023-11-04 17:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006614,
+      "journee": 11,
+      "date": "2023-11-05 17:05:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006615,
+      "journee": 11,
+      "date": "2023-11-05 13:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Metz",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006616,
+      "journee": 11,
+      "date": "2023-11-05 20:45:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006617,
+      "journee": 11,
+      "date": "2023-11-05 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Reims",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006618,
+      "journee": 12,
+      "date": "2023-11-12 17:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006619,
+      "journee": 12,
+      "date": "2023-11-12 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006620,
+      "journee": 12,
+      "date": "2023-11-12 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006621,
+      "journee": 12,
+      "date": "2023-11-11 17:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006622,
+      "journee": 12,
+      "date": "2023-11-12 20:45:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006623,
+      "journee": 12,
+      "date": "2023-11-11 21:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006624,
+      "journee": 12,
+      "date": "2023-11-12 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Nantes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006625,
+      "journee": 12,
+      "date": "2023-11-10 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006626,
+      "journee": 12,
+      "date": "2023-12-07 20:30:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006627,
+      "journee": 13,
+      "date": "2023-11-24 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Monaco",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006628,
+      "journee": 13,
+      "date": "2023-11-25 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006629,
+      "journee": 13,
+      "date": "2023-11-26 17:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Reims",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006630,
+      "journee": 13,
+      "date": "2023-11-26 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006631,
+      "journee": 13,
+      "date": "2023-11-26 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006632,
+      "journee": 13,
+      "date": "2023-11-26 13:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006633,
+      "journee": 13,
+      "date": "2023-11-25 17:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006634,
+      "journee": 13,
+      "date": "2023-11-26 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Le Havre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006635,
+      "journee": 13,
+      "date": "2023-11-26 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006636,
+      "journee": 14,
+      "date": "2023-12-03 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006637,
+      "journee": 14,
+      "date": "2023-12-03 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006638,
+      "journee": 14,
+      "date": "2023-12-03 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006639,
+      "journee": 14,
+      "date": "2023-12-03 17:05:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006640,
+      "journee": 14,
+      "date": "2023-12-01 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006641,
+      "journee": 14,
+      "date": "2023-12-02 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006642,
+      "journee": 14,
+      "date": "2023-12-02 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006643,
+      "journee": 14,
+      "date": "2023-12-03 13:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006644,
+      "journee": 14,
+      "date": "2023-12-03 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006645,
+      "journee": 15,
+      "date": "2023-12-09 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006646,
+      "journee": 15,
+      "date": "2023-12-10 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Le Havre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006647,
+      "journee": 15,
+      "date": "2023-12-09 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006648,
+      "journee": 15,
+      "date": "2023-12-10 20:45:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006649,
+      "journee": 15,
+      "date": "2023-12-10 17:05:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Toulouse",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006650,
+      "journee": 15,
+      "date": "2023-12-10 13:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006651,
+      "journee": 15,
+      "date": "2023-12-10 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006652,
+      "journee": 15,
+      "date": "2023-12-10 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006653,
+      "journee": 15,
+      "date": "2023-12-08 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006654,
+      "journee": 16,
+      "date": "2023-12-17 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006655,
+      "journee": 16,
+      "date": "2023-12-17 17:05:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006656,
+      "journee": 16,
+      "date": "2023-12-17 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006657,
+      "journee": 16,
+      "date": "2023-12-15 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006658,
+      "journee": 16,
+      "date": "2023-12-17 20:45:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006659,
+      "journee": 16,
+      "date": "2023-12-16 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006660,
+      "journee": 16,
+      "date": "2023-12-17 13:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006661,
+      "journee": 16,
+      "date": "2023-12-16 17:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006662,
+      "journee": 16,
+      "date": "2023-12-17 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006663,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Metz",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006664,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006665,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006666,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006667,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006668,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006669,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Le Havre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006670,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006671,
+      "journee": 17,
+      "date": "2023-12-20 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lorient",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006672,
+      "journee": 18,
+      "date": "2024-01-13 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006673,
+      "journee": 18,
+      "date": "2024-01-12 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006674,
+      "journee": 18,
+      "date": "2024-01-13 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006675,
+      "journee": 18,
+      "date": "2024-01-14 13:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006676,
+      "journee": 18,
+      "date": "2024-01-14 20:45:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006677,
+      "journee": 18,
+      "date": "2024-01-14 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006678,
+      "journee": 18,
+      "date": "2024-01-14 17:05:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006679,
+      "journee": 18,
+      "date": "2024-01-14 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006680,
+      "journee": 18,
+      "date": "2024-01-14 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006681,
+      "journee": 19,
+      "date": "2024-01-28 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006682,
+      "journee": 19,
+      "date": "2024-01-28 17:05:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006683,
+      "journee": 19,
+      "date": "2024-01-27 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006684,
+      "journee": 19,
+      "date": "2024-01-28 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Le Havre",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006685,
+      "journee": 19,
+      "date": "2024-01-26 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006686,
+      "journee": 19,
+      "date": "2024-01-27 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Metz",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006687,
+      "journee": 19,
+      "date": "2024-01-28 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006688,
+      "journee": 19,
+      "date": "2024-01-28 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006689,
+      "journee": 19,
+      "date": "2024-01-28 13:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006690,
+      "journee": 20,
+      "date": "2024-02-02 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006691,
+      "journee": 20,
+      "date": "2024-02-03 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006692,
+      "journee": 20,
+      "date": "2024-02-04 13:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Le Havre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006693,
+      "journee": 20,
+      "date": "2024-02-04 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006694,
+      "journee": 20,
+      "date": "2024-02-04 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006695,
+      "journee": 20,
+      "date": "2024-02-04 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006696,
+      "journee": 20,
+      "date": "2024-02-03 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006697,
+      "journee": 20,
+      "date": "2024-02-04 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006698,
+      "journee": 20,
+      "date": "2024-02-04 17:05:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006699,
+      "journee": 21,
+      "date": "2024-02-10 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006700,
+      "journee": 21,
+      "date": "2024-02-11 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006701,
+      "journee": 21,
+      "date": "2024-02-09 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Metz",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006702,
+      "journee": 21,
+      "date": "2024-02-11 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006703,
+      "journee": 21,
+      "date": "2024-02-11 20:45:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006704,
+      "journee": 21,
+      "date": "2024-02-11 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006705,
+      "journee": 21,
+      "date": "2024-02-10 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Strasbourg",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006706,
+      "journee": 21,
+      "date": "2024-02-11 13:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006707,
+      "journee": 21,
+      "date": "2024-02-11 17:05:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006708,
+      "journee": 22,
+      "date": "2024-02-18 13:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006709,
+      "journee": 22,
+      "date": "2024-02-18 15:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006710,
+      "journee": 22,
+      "date": "2024-02-18 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006711,
+      "journee": 22,
+      "date": "2024-02-17 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Le Havre",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006712,
+      "journee": 22,
+      "date": "2024-02-16 22:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006713,
+      "journee": 22,
+      "date": "2024-02-18 17:05:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006714,
+      "journee": 22,
+      "date": "2024-02-17 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006715,
+      "journee": 22,
+      "date": "2024-02-18 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Metz",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006716,
+      "journee": 22,
+      "date": "2024-02-18 20:45:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006717,
+      "journee": 23,
+      "date": "2024-02-25 17:05:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006718,
+      "journee": 23,
+      "date": "2024-02-24 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006719,
+      "journee": 23,
+      "date": "2024-02-25 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006720,
+      "journee": 23,
+      "date": "2024-02-25 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Montpellier",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006721,
+      "journee": 23,
+      "date": "2024-02-24 17:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006722,
+      "journee": 23,
+      "date": "2024-02-25 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006723,
+      "journee": 23,
+      "date": "2024-02-25 13:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006724,
+      "journee": 23,
+      "date": "2024-02-25 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006725,
+      "journee": 23,
+      "date": "2024-02-23 21:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006726,
+      "journee": 24,
+      "date": "2024-03-03 17:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006727,
+      "journee": 24,
+      "date": "2024-03-03 13:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006728,
+      "journee": 24,
+      "date": "2024-03-01 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006729,
+      "journee": 24,
+      "date": "2024-03-03 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006730,
+      "journee": 24,
+      "date": "2024-03-02 21:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006731,
+      "journee": 24,
+      "date": "2024-03-02 17:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006732,
+      "journee": 24,
+      "date": "2024-03-03 15:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006733,
+      "journee": 24,
+      "date": "2024-03-03 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006734,
+      "journee": 24,
+      "date": "2024-03-03 15:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Le Havre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006735,
+      "journee": 25,
+      "date": "2024-03-10 13:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Reims",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006736,
+      "journee": 25,
+      "date": "2024-03-10 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006737,
+      "journee": 25,
+      "date": "2024-03-10 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nantes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006738,
+      "journee": 25,
+      "date": "2024-03-09 17:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006739,
+      "journee": 25,
+      "date": "2024-03-10 17:05:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006740,
+      "journee": 25,
+      "date": "2024-03-08 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006741,
+      "journee": 25,
+      "date": "2024-03-09 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006742,
+      "journee": 25,
+      "date": "2024-03-10 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006743,
+      "journee": 25,
+      "date": "2024-03-10 15:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006744,
+      "journee": 26,
+      "date": "2024-03-17 17:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006745,
+      "journee": 26,
+      "date": "2024-03-15 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006746,
+      "journee": 26,
+      "date": "2024-03-17 15:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006747,
+      "journee": 26,
+      "date": "2024-03-17 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Le Havre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006748,
+      "journee": 26,
+      "date": "2024-03-17 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006749,
+      "journee": 26,
+      "date": "2024-03-16 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006750,
+      "journee": 26,
+      "date": "2024-03-16 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006751,
+      "journee": 26,
+      "date": "2024-03-17 20:45:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 6,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006752,
+      "journee": 26,
+      "date": "2024-03-17 13:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006753,
+      "journee": 27,
+      "date": "2024-03-31 17:05:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006754,
+      "journee": 27,
+      "date": "2024-03-31 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006755,
+      "journee": 27,
+      "date": "2024-03-31 13:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006756,
+      "journee": 27,
+      "date": "2024-03-29 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006757,
+      "journee": 27,
+      "date": "2024-03-30 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006758,
+      "journee": 27,
+      "date": "2024-03-31 15:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006759,
+      "journee": 27,
+      "date": "2024-03-31 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006760,
+      "journee": 27,
+      "date": "2024-03-31 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006761,
+      "journee": 27,
+      "date": "2024-03-30 17:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006762,
+      "journee": 28,
+      "date": "2024-04-06 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006763,
+      "journee": 28,
+      "date": "2024-04-07 15:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Strasbourg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006764,
+      "journee": 28,
+      "date": "2024-04-07 17:05:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006765,
+      "journee": 28,
+      "date": "2024-04-05 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006766,
+      "journee": 28,
+      "date": "2024-04-07 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006767,
+      "journee": 28,
+      "date": "2024-04-06 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Le Havre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006768,
+      "journee": 28,
+      "date": "2024-04-07 20:45:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006769,
+      "journee": 28,
+      "date": "2024-04-07 15:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006770,
+      "journee": 28,
+      "date": "2024-04-07 13:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Metz",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006771,
+      "journee": 29,
+      "date": "2024-04-13 17:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Reims",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006772,
+      "journee": 29,
+      "date": "2024-04-13 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006773,
+      "journee": 29,
+      "date": "2024-04-24 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006774,
+      "journee": 29,
+      "date": "2024-04-24 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006775,
+      "journee": 29,
+      "date": "2024-04-24 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006776,
+      "journee": 29,
+      "date": "2024-04-14 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Brest",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006777,
+      "journee": 29,
+      "date": "2024-04-14 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006778,
+      "journee": 29,
+      "date": "2024-04-14 13:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006779,
+      "journee": 29,
+      "date": "2024-04-12 21:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006780,
+      "journee": 30,
+      "date": "2024-04-21 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lyon",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006781,
+      "journee": 30,
+      "date": "2024-04-21 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006782,
+      "journee": 30,
+      "date": "2024-04-21 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Strasbourg",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006783,
+      "journee": 30,
+      "date": "2024-04-19 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006784,
+      "journee": 30,
+      "date": "2024-04-21 15:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006785,
+      "journee": 30,
+      "date": "2024-04-20 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006786,
+      "journee": 30,
+      "date": "2024-04-20 17:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006787,
+      "journee": 30,
+      "date": "2024-04-21 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Metz",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006788,
+      "journee": 30,
+      "date": "2024-04-21 17:05:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006789,
+      "journee": 31,
+      "date": "2024-04-27 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Le Havre",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006790,
+      "journee": 31,
+      "date": "2024-04-28 15:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006791,
+      "journee": 31,
+      "date": "2024-04-28 17:05:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Brest",
+      "homeScore": 4,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006792,
+      "journee": 31,
+      "date": "2024-04-28 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006793,
+      "journee": 31,
+      "date": "2024-04-28 15:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006794,
+      "journee": 31,
+      "date": "2024-04-28 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Monaco",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006795,
+      "journee": 31,
+      "date": "2024-04-28 15:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Reims",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006796,
+      "journee": 31,
+      "date": "2024-04-28 13:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006797,
+      "journee": 31,
+      "date": "2024-04-26 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nantes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006798,
+      "journee": 32,
+      "date": "2024-05-03 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006799,
+      "journee": 32,
+      "date": "2024-05-04 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006800,
+      "journee": 32,
+      "date": "2024-05-06 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006801,
+      "journee": 32,
+      "date": "2024-05-15 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006802,
+      "journee": 32,
+      "date": "2024-05-15 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006803,
+      "journee": 32,
+      "date": "2024-05-03 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006804,
+      "journee": 32,
+      "date": "2024-05-04 15:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Strasbourg",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006805,
+      "journee": 32,
+      "date": "2024-05-04 19:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006806,
+      "journee": 32,
+      "date": "2024-05-04 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Nantes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006807,
+      "journee": 33,
+      "date": "2024-05-12 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006808,
+      "journee": 33,
+      "date": "2024-05-12 21:00:00",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Metz",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006809,
+      "journee": 33,
+      "date": "2024-05-12 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006810,
+      "journee": 33,
+      "date": "2024-05-12 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006811,
+      "journee": 33,
+      "date": "2024-05-10 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Le Havre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006812,
+      "journee": 33,
+      "date": "2024-05-12 21:00:00",
+      "homeTeam": "Clermont-Ferrand",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006813,
+      "journee": 33,
+      "date": "2024-05-12 21:00:00",
+      "homeTeam": "Nantes",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006814,
+      "journee": 33,
+      "date": "2024-05-12 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006815,
+      "journee": 33,
+      "date": "2024-05-10 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Reims",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006816,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006817,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Reims",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006818,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Clermont-Ferrand",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006819,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006820,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nantes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006821,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006822,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006823,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Metz",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006824,
+      "journee": 34,
+      "date": "2024-05-19 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Strasbourg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    }
+  ]
+}

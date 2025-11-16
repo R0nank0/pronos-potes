@@ -1,0 +1,650 @@
+{
+  "season": "international-2018",
+  "seasonId": "42",
+  "seasonName": "Coupe du Monde 2018",
+  "totalMatches": 64,
+  "totalJournees": 8,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1001728,
+      "journee": 1,
+      "date": "2018-06-14 17:00:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Arabie Saoudite",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001729,
+      "journee": 1,
+      "date": "2018-06-15 14:00:00",
+      "homeTeam": "Egypte",
+      "awayTeam": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001730,
+      "journee": 1,
+      "date": "2018-06-15 17:00:00",
+      "homeTeam": "Maroc",
+      "awayTeam": "Iran",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001731,
+      "journee": 1,
+      "date": "2018-06-15 20:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Espagne",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001732,
+      "journee": 1,
+      "date": "2018-06-16 12:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Australie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001733,
+      "journee": 1,
+      "date": "2018-06-16 15:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Islande",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001734,
+      "journee": 1,
+      "date": "2018-06-16 18:00:00",
+      "homeTeam": "Pérou",
+      "awayTeam": "Danemark",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001735,
+      "journee": 1,
+      "date": "2018-06-16 21:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Nigéria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001736,
+      "journee": 2,
+      "date": "2018-06-17 14:00:00",
+      "homeTeam": "Costa Rica",
+      "awayTeam": "Serbie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001737,
+      "journee": 2,
+      "date": "2018-06-17 17:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Mexique",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001738,
+      "journee": 2,
+      "date": "2018-06-17 20:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001739,
+      "journee": 2,
+      "date": "2018-06-18 14:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Corée du Sud",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001740,
+      "journee": 2,
+      "date": "2018-06-18 17:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Panama",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001741,
+      "journee": 2,
+      "date": "2018-06-18 20:00:00",
+      "homeTeam": "Tunisie",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001742,
+      "journee": 2,
+      "date": "2018-06-19 14:00:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Japon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001743,
+      "journee": 2,
+      "date": "2018-06-19 17:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Senegal",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001744,
+      "journee": 3,
+      "date": "2018-06-19 20:00:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Egypte",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001745,
+      "journee": 3,
+      "date": "2018-06-20 14:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Maroc",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001746,
+      "journee": 3,
+      "date": "2018-06-20 17:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Arabie Saoudite",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001747,
+      "journee": 3,
+      "date": "2018-06-20 20:00:00",
+      "homeTeam": "Iran",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001748,
+      "journee": 3,
+      "date": "2018-06-21 14:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Australie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001749,
+      "journee": 3,
+      "date": "2018-06-21 17:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Pérou",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001750,
+      "journee": 3,
+      "date": "2018-06-21 20:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Croatie",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001751,
+      "journee": 3,
+      "date": "2018-06-22 14:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Costa Rica",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001752,
+      "journee": 4,
+      "date": "2018-06-22 17:00:00",
+      "homeTeam": "Nigéria",
+      "awayTeam": "Islande",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001753,
+      "journee": 4,
+      "date": "2018-06-22 20:00:00",
+      "homeTeam": "Serbie",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001754,
+      "journee": 4,
+      "date": "2018-06-23 14:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Tunisie",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001755,
+      "journee": 4,
+      "date": "2018-06-23 17:00:00",
+      "homeTeam": "Corée du Sud",
+      "awayTeam": "Mexique",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001756,
+      "journee": 4,
+      "date": "2018-06-23 20:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Suède",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001757,
+      "journee": 4,
+      "date": "2018-06-24 14:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Panama",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001758,
+      "journee": 4,
+      "date": "2018-06-24 17:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Senegal",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001759,
+      "journee": 4,
+      "date": "2018-06-24 20:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Colombie",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001760,
+      "journee": 5,
+      "date": "2018-06-25 16:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Russie",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001761,
+      "journee": 5,
+      "date": "2018-06-25 16:00:00",
+      "homeTeam": "Arabie Saoudite",
+      "awayTeam": "Egypte",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001762,
+      "journee": 5,
+      "date": "2018-06-25 20:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Maroc",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001763,
+      "journee": 5,
+      "date": "2018-06-25 20:00:00",
+      "homeTeam": "Iran",
+      "awayTeam": "Portugal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001764,
+      "journee": 5,
+      "date": "2018-06-26 16:00:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Pérou",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001765,
+      "journee": 5,
+      "date": "2018-06-26 16:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001766,
+      "journee": 5,
+      "date": "2018-06-26 20:00:00",
+      "homeTeam": "Nigéria",
+      "awayTeam": "Argentine",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001767,
+      "journee": 5,
+      "date": "2018-06-26 20:00:00",
+      "homeTeam": "Islande",
+      "awayTeam": "Croatie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001768,
+      "journee": 6,
+      "date": "2018-06-27 16:00:00",
+      "homeTeam": "Corée du Sud",
+      "awayTeam": "Allemagne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001769,
+      "journee": 6,
+      "date": "2018-06-27 16:00:00",
+      "homeTeam": "Mexique",
+      "awayTeam": "Suède",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001770,
+      "journee": 6,
+      "date": "2018-06-27 20:00:00",
+      "homeTeam": "Serbie",
+      "awayTeam": "Bresil",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001771,
+      "journee": 6,
+      "date": "2018-06-27 20:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Costa Rica",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001772,
+      "journee": 6,
+      "date": "2018-06-28 16:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Pologne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001773,
+      "journee": 6,
+      "date": "2018-06-28 16:00:00",
+      "homeTeam": "Senegal",
+      "awayTeam": "Colombie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001774,
+      "journee": 6,
+      "date": "2018-06-28 20:00:00",
+      "homeTeam": "Panama",
+      "awayTeam": "Tunisie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001775,
+      "journee": 6,
+      "date": "2018-06-28 20:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001776,
+      "journee": 7,
+      "date": "2018-06-30 16:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Argentine",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001777,
+      "journee": 7,
+      "date": "2018-06-30 20:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001778,
+      "journee": 7,
+      "date": "2018-07-01 16:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Russie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001779,
+      "journee": 7,
+      "date": "2018-07-01 20:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Danemark",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001780,
+      "journee": 7,
+      "date": "2018-07-02 16:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Mexique",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001781,
+      "journee": 7,
+      "date": "2018-07-02 20:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Japon",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001782,
+      "journee": 7,
+      "date": "2018-07-03 16:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001783,
+      "journee": 7,
+      "date": "2018-07-03 20:00:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001784,
+      "journee": 8,
+      "date": "2018-07-06 16:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Uruguay",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001785,
+      "journee": 8,
+      "date": "2018-07-07 20:00:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Croatie",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001786,
+      "journee": 8,
+      "date": "2018-07-07 16:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001787,
+      "journee": 8,
+      "date": "2018-07-06 20:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Belgique",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001788,
+      "journee": 8,
+      "date": "2018-07-10 20:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Belgique",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001789,
+      "journee": 8,
+      "date": "2018-07-11 20:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Angleterre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001790,
+      "journee": 8,
+      "date": "2018-07-14 16:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Angleterre",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1001791,
+      "journee": 8,
+      "date": "2018-07-15 17:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Croatie",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "upcoming"
+    }
+  ]
+}

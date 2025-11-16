@@ -1,0 +1,16 @@
+{
+  "id": "15",
+  "competition": "international",
+  "year": "2012",
+  "name": "Euro 2012",
+  "status": "ongoing",
+  "journees": 4,
+  "publishedJournees": 4,
+  "activeJournee": "4",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.558Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

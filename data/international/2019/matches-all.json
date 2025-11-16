@@ -1,0 +1,490 @@
+{
+  "season": "international-2019",
+  "seasonId": "49",
+  "seasonName": "Coupe du Monde Rugby 2019",
+  "totalMatches": 48,
+  "totalJournees": 6,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1002864,
+      "journee": 1,
+      "date": "2019-09-20 12:45:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Russie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002865,
+      "journee": 1,
+      "date": "2019-09-21 06:45:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Fidji",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002866,
+      "journee": 1,
+      "date": "2019-09-21 09:15:00",
+      "homeTeam": "France",
+      "awayTeam": "Argentine",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002867,
+      "journee": 1,
+      "date": "2019-09-21 11:45:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Afrique du Sud",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002868,
+      "journee": 1,
+      "date": "2019-09-22 07:15:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Namibie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002869,
+      "journee": 1,
+      "date": "2019-09-22 09:45:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Ecosse",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002870,
+      "journee": 1,
+      "date": "2019-09-22 12:15:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Tonga",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002871,
+      "journee": 1,
+      "date": "2019-09-23 12:15:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Georgie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002872,
+      "journee": 2,
+      "date": "2019-09-24 12:15:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Samoa",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002873,
+      "journee": 2,
+      "date": "2019-09-25 07:15:00",
+      "homeTeam": "Fidji",
+      "awayTeam": "Uruguay",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002874,
+      "journee": 2,
+      "date": "2019-09-26 09:45:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Canada",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002875,
+      "journee": 2,
+      "date": "2019-09-26 12:45:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002876,
+      "journee": 2,
+      "date": "2019-09-28 06:45:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Tonga",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002877,
+      "journee": 2,
+      "date": "2019-09-28 09:15:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Irlande",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002878,
+      "journee": 2,
+      "date": "2019-09-28 11:45:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Namibie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002879,
+      "journee": 2,
+      "date": "2019-09-29 07:15:00",
+      "homeTeam": "Georgie",
+      "awayTeam": "Uruguay",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002880,
+      "journee": 3,
+      "date": "2019-09-29 09:45:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Galles",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002881,
+      "journee": 3,
+      "date": "2019-09-30 12:15:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Samoa",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002882,
+      "journee": 3,
+      "date": "2019-10-02 09:45:00",
+      "homeTeam": "France",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002883,
+      "journee": 3,
+      "date": "2019-10-02 12:15:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Canada",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002884,
+      "journee": 3,
+      "date": "2019-10-03 07:15:00",
+      "homeTeam": "Georgie",
+      "awayTeam": "Fidji",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002885,
+      "journee": 3,
+      "date": "2019-10-03 12:15:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Russie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002886,
+      "journee": 3,
+      "date": "2019-10-04 11:45:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Italie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002887,
+      "journee": 3,
+      "date": "2019-10-05 07:15:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Uruguay",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002888,
+      "journee": 4,
+      "date": "2019-10-05 10:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Argentine",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002889,
+      "journee": 4,
+      "date": "2019-10-05 12:30:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Samoa",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002890,
+      "journee": 4,
+      "date": "2019-10-06 06:45:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Namibie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002891,
+      "journee": 4,
+      "date": "2019-10-06 09:45:00",
+      "homeTeam": "France",
+      "awayTeam": "Tonga",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002892,
+      "journee": 4,
+      "date": "2019-10-08 12:15:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Canada",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002893,
+      "journee": 4,
+      "date": "2019-10-09 06:45:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002894,
+      "journee": 4,
+      "date": "2019-10-09 09:15:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Russie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002895,
+      "journee": 4,
+      "date": "2019-10-09 11:45:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Fidji",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002896,
+      "journee": 5,
+      "date": "2019-10-11 12:15:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Georgie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002897,
+      "journee": 5,
+      "date": "2019-10-12 06:45:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Italie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002898,
+      "journee": 5,
+      "date": "2019-10-12 10:15:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002899,
+      "journee": 5,
+      "date": "2019-10-12 12:45:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Samoa",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002900,
+      "journee": 5,
+      "date": "2019-10-13 05:15:00",
+      "homeTeam": "Namibie",
+      "awayTeam": "Canada",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002901,
+      "journee": 5,
+      "date": "2019-10-13 07:45:00",
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Tonga",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002902,
+      "journee": 5,
+      "date": "2019-10-13 10:15:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Uruguay",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002903,
+      "journee": 5,
+      "date": "2019-10-13 12:45:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Ecosse",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002904,
+      "journee": 6,
+      "date": "2019-10-19 09:15:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Australie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002905,
+      "journee": 6,
+      "date": "2019-10-19 12:15:00",
+      "homeTeam": "Nouvelle Zélande",
+      "awayTeam": "Irlande",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002906,
+      "journee": 6,
+      "date": "2019-10-20 09:15:00",
+      "homeTeam": "Galles",
+      "awayTeam": "France",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002907,
+      "journee": 6,
+      "date": "2019-10-20 12:15:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Afrique du Sud",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002908,
+      "journee": 6,
+      "date": "2019-10-26 10:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Nouvelle-Zélande",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002909,
+      "journee": 6,
+      "date": "2019-10-27 10:00:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Afrique du Sud",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002910,
+      "journee": 6,
+      "date": "2019-11-01 10:00:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Galles",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1002911,
+      "journee": 6,
+      "date": "2019-11-02 10:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Afrique du Sud",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    }
+  ]
+}

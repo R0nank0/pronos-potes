@@ -1,0 +1,16 @@
+{
+  "id": "64",
+  "competition": "international",
+  "year": "2023",
+  "name": "Coupe du Monde Rugby 2023",
+  "status": "ongoing",
+  "journees": 6,
+  "publishedJournees": 6,
+  "activeJournee": "6",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.569Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

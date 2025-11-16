@@ -1,0 +1,1260 @@
+{
+  "season": "ldc-2013-2014",
+  "seasonId": "25",
+  "seasonName": "Ligue des Champions - 2013 / 2014",
+  "totalMatches": 125,
+  "totalJournees": 16,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 14418,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Leverkusen",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14419,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "Réal Sociedad",
+      "awayTeam": "Shakhtior Donetsk",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14420,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 14421,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "FC Copenhague",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14422,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14423,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Anderlecht",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14424,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14425,
+      "journee": 1,
+      "date": "2013-09-17 20:45:00",
+      "homeTeam": "Viktoria Plzen",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14434,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "FC Bâle",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14435,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "Schalke 04",
+      "awayTeam": "Steaua Bucarest",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14436,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14437,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Arsenal",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14438,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "Austria Vienne",
+      "awayTeam": "FC Porto",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14439,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14440,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Celtic Glasgow",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14441,
+      "journee": 2,
+      "date": "2013-09-18 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14450,
+      "journee": 3,
+      "date": "2013-10-01 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Schalke 04",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14451,
+      "journee": 3,
+      "date": "2013-10-01 20:45:00",
+      "homeTeam": "Steaua Bucarest",
+      "awayTeam": "Chelsea",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14452,
+      "journee": 3,
+      "date": "2013-10-01 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14453,
+      "journee": 3,
+      "date": "2013-10-01 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Naples",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14454,
+      "journee": 3,
+      "date": "2013-10-01 18:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Austria Vienne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14455,
+      "journee": 3,
+      "date": "2013-10-01 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14456,
+      "journee": 3,
+      "date": "2013-10-01 20:45:00",
+      "homeTeam": "Celtic Glasgow",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14457,
+      "journee": 3,
+      "date": "2013-10-01 20:45:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Milan AC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14466,
+      "journee": 4,
+      "date": "2013-10-02 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "Réal Sociedad",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14467,
+      "journee": 4,
+      "date": "2013-10-02 20:45:00",
+      "homeTeam": "Shakhtior Donetsk",
+      "awayTeam": "Manchester United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14468,
+      "journee": 4,
+      "date": "2013-10-02 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "FC Copenhague",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14469,
+      "journee": 4,
+      "date": "2013-10-02 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Galatasaray",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14470,
+      "journee": 4,
+      "date": "2013-10-02 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Benfica",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14471,
+      "journee": 4,
+      "date": "2013-10-02 20:45:00",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "Olympiakos",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14472,
+      "journee": 4,
+      "date": "2013-10-02 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Viktoria Plzen",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14473,
+      "journee": 4,
+      "date": "2013-10-02 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14482,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "Steaua Bucarest",
+      "awayTeam": "FC Bâle",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14483,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "Schalke 04",
+      "awayTeam": "Chelsea",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14484,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14485,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Naples",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14486,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14487,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "Austria Vienne",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14488,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "Celtic Glasgow",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14489,
+      "journee": 5,
+      "date": "2013-10-22 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14498,
+      "journee": 6,
+      "date": "2013-10-23 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Réal Sociedad",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14499,
+      "journee": 6,
+      "date": "2013-10-23 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "Shakhtior Donetsk",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14500,
+      "journee": 6,
+      "date": "2013-10-23 20:45:00",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "FC Copenhague",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14501,
+      "journee": 6,
+      "date": "2013-10-23 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14502,
+      "journee": 6,
+      "date": "2013-10-23 20:45:00",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 14503,
+      "journee": 6,
+      "date": "2013-10-23 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Olympiakos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14504,
+      "journee": 6,
+      "date": "2013-10-23 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14505,
+      "journee": 6,
+      "date": "2013-10-23 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Viktoria Plzen",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14506,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "Réal Sociedad",
+      "awayTeam": "Manchester United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14507,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "Shakhtior Donetsk",
+      "awayTeam": "Leverkusen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14508,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "FC Copenhague",
+      "awayTeam": "Galatasaray",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14509,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Real Madrid",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14510,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Anderlecht",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14511,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Benfica",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14512,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14513,
+      "journee": 7,
+      "date": "2013-11-05 20:45:00",
+      "homeTeam": "Viktoria Plzen",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14490,
+      "journee": 8,
+      "date": "2013-11-06 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Steaua Bucarest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14491,
+      "journee": 8,
+      "date": "2013-11-06 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Schalke 04",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14492,
+      "journee": 8,
+      "date": "2013-11-06 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Arsenal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14493,
+      "journee": 8,
+      "date": "2013-11-06 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14494,
+      "journee": 8,
+      "date": "2013-11-06 18:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "FC Porto",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14495,
+      "journee": 8,
+      "date": "2013-11-06 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Austria Vienne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14496,
+      "journee": 8,
+      "date": "2013-11-06 20:45:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Celtic Glasgow",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14497,
+      "journee": 8,
+      "date": "2013-11-06 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Milan AC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14442,
+      "journee": 9,
+      "date": "2013-11-26 20:45:00",
+      "homeTeam": "FC Bâle",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14443,
+      "journee": 9,
+      "date": "2013-11-26 20:45:00",
+      "homeTeam": "Steaua Bucarest",
+      "awayTeam": "Schalke 04",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14444,
+      "journee": 9,
+      "date": "2013-11-26 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Naples",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14445,
+      "journee": 9,
+      "date": "2013-11-26 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14446,
+      "journee": 9,
+      "date": "2013-11-26 20:45:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Austria Vienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14447,
+      "journee": 9,
+      "date": "2013-11-26 18:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14448,
+      "journee": 9,
+      "date": "2013-11-26 20:45:00",
+      "homeTeam": "Celtic Glasgow",
+      "awayTeam": "Milan AC",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14449,
+      "journee": 9,
+      "date": "2013-11-26 20:45:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14426,
+      "journee": 10,
+      "date": "2013-11-27 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "Manchester United",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 14427,
+      "journee": 10,
+      "date": "2013-11-27 20:45:00",
+      "homeTeam": "Shakhtior Donetsk",
+      "awayTeam": "Réal Sociedad",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14428,
+      "journee": 10,
+      "date": "2013-11-27 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Galatasaray",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14429,
+      "journee": 10,
+      "date": "2013-11-27 20:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "FC Copenhague",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14430,
+      "journee": 10,
+      "date": "2013-11-27 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Olympiakos",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14431,
+      "journee": 10,
+      "date": "2013-11-27 20:45:00",
+      "homeTeam": "Anderlecht",
+      "awayTeam": "Benfica",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14432,
+      "journee": 10,
+      "date": "2013-11-27 18:00:00",
+      "homeTeam": "CSKA Moscou",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14433,
+      "journee": 10,
+      "date": "2013-11-27 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Viktoria Plzen",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14474,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "Réal Sociedad",
+      "awayTeam": "Leverkusen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14475,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Shakhtior Donetsk",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14476,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "FC Copenhague",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14477,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14478,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14479,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Anderlecht",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14480,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "Viktoria Plzen",
+      "awayTeam": "CSKA Moscou",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14481,
+      "journee": 11,
+      "date": "2013-12-10 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14458,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "Schalke 04",
+      "awayTeam": "FC Bâle",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14459,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Steaua Bucarest",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14460,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14461,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "Naples",
+      "awayTeam": "Arsenal",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14462,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "Austria Vienne",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14463,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "FC Porto",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14464,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Celtic Glasgow",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14465,
+      "journee": 12,
+      "date": "2013-12-11 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14514,
+      "journee": 13,
+      "date": "2014-02-18 20:45:00",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14515,
+      "journee": 13,
+      "date": "2014-02-18 20:45:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14516,
+      "journee": 13,
+      "date": "2014-02-19 20:45:00",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14517,
+      "journee": 13,
+      "date": "2014-02-19 20:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14518,
+      "journee": 13,
+      "date": "2014-02-25 18:30:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14519,
+      "journee": 13,
+      "date": "2014-02-25 20:45:00",
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Manchester United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14520,
+      "journee": 13,
+      "date": "2014-02-26 20:45:00",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14521,
+      "journee": 13,
+      "date": "2014-02-26 20:45:00",
+      "homeTeam": "Schalke 04",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 14522,
+      "journee": 14,
+      "date": "2014-03-11 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Arsenal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14523,
+      "journee": 14,
+      "date": "2014-03-11 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Milan AC",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14524,
+      "journee": 14,
+      "date": "2014-03-12 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Leverkusen",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14525,
+      "journee": 14,
+      "date": "2014-03-12 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14526,
+      "journee": 14,
+      "date": "2014-03-18 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Galatasaray",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14527,
+      "journee": 14,
+      "date": "2014-03-18 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Schalke 04",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14528,
+      "journee": 14,
+      "date": "2014-03-19 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14529,
+      "journee": 14,
+      "date": "2014-03-19 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Olympiakos",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14530,
+      "journee": 15,
+      "date": "2014-04-01 20:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14531,
+      "journee": 15,
+      "date": "2014-04-01 20:45:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14532,
+      "journee": 15,
+      "date": "2014-04-02 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14533,
+      "journee": 15,
+      "date": "2014-04-02 20:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14534,
+      "journee": 15,
+      "date": "2014-04-08 20:45:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Real Madrid",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14535,
+      "journee": 15,
+      "date": "2014-04-08 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14536,
+      "journee": 15,
+      "date": "2014-04-09 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14537,
+      "journee": 15,
+      "date": "2014-04-09 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Manchester United",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14554,
+      "journee": 16,
+      "date": "2014-04-22 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Chelsea",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14555,
+      "journee": 16,
+      "date": "2014-04-23 20:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14556,
+      "journee": 16,
+      "date": "2014-04-29 20:45:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14557,
+      "journee": 16,
+      "date": "2014-04-30 20:45:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14558,
+      "journee": 16,
+      "date": "2014-05-24 20:45:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "season": "international-2016",
+  "seasonId": "34",
+  "seasonName": "Euro 2016",
+  "totalMatches": 51,
+  "totalJournees": 6,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1000030,
+      "journee": 1,
+      "date": "2016-06-10 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Roumanie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000031,
+      "journee": 1,
+      "date": "2016-06-11 15:00:00",
+      "homeTeam": "Albanie",
+      "awayTeam": "Suisse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000032,
+      "journee": 1,
+      "date": "2016-06-11 18:00:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Slovaquie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000033,
+      "journee": 1,
+      "date": "2016-06-11 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Russie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000034,
+      "journee": 1,
+      "date": "2016-06-12 15:00:00",
+      "homeTeam": "Turquie",
+      "awayTeam": "Croatie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000035,
+      "journee": 1,
+      "date": "2016-06-12 18:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Irlande du Nord",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000036,
+      "journee": 1,
+      "date": "2016-06-12 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Ukraine",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000037,
+      "journee": 1,
+      "date": "2016-06-13 15:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "République Tchèque",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000038,
+      "journee": 1,
+      "date": "2016-06-13 18:00:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Suède",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000039,
+      "journee": 2,
+      "date": "2016-06-13 21:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Italie",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000040,
+      "journee": 2,
+      "date": "2016-06-14 18:00:00",
+      "homeTeam": "Autriche",
+      "awayTeam": "Hongrie",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000041,
+      "journee": 2,
+      "date": "2016-06-14 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Islande",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000042,
+      "journee": 2,
+      "date": "2016-06-15 15:00:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Slovaquie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000043,
+      "journee": 2,
+      "date": "2016-06-15 18:00:00",
+      "homeTeam": "Roumanie",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000044,
+      "journee": 2,
+      "date": "2016-06-15 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Albanie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000045,
+      "journee": 2,
+      "date": "2016-06-16 15:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Galles",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000046,
+      "journee": 2,
+      "date": "2016-06-16 18:00:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Irlande du Nord",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000047,
+      "journee": 2,
+      "date": "2016-06-16 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Pologne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000048,
+      "journee": 3,
+      "date": "2016-06-17 15:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Suède",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000049,
+      "journee": 3,
+      "date": "2016-06-17 18:00:00",
+      "homeTeam": "République Tchèque",
+      "awayTeam": "Croatie",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000050,
+      "journee": 3,
+      "date": "2016-06-17 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Turquie",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000051,
+      "journee": 3,
+      "date": "2016-06-18 15:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Irlande",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000052,
+      "journee": 3,
+      "date": "2016-06-18 18:00:00",
+      "homeTeam": "Islande",
+      "awayTeam": "Hongrie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000053,
+      "journee": 3,
+      "date": "2016-06-18 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Autriche",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000054,
+      "journee": 3,
+      "date": "2016-06-19 21:00:00",
+      "homeTeam": "Roumanie",
+      "awayTeam": "Albanie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000055,
+      "journee": 3,
+      "date": "2016-06-19 21:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000056,
+      "journee": 3,
+      "date": "2016-06-20 21:00:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Galles",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1000057,
+      "journee": 4,
+      "date": "2016-06-20 21:00:00",
+      "homeTeam": "Slovaquie",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000058,
+      "journee": 4,
+      "date": "2016-06-21 18:00:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Pologne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000059,
+      "journee": 4,
+      "date": "2016-06-21 18:00:00",
+      "homeTeam": "Irlande du Nord",
+      "awayTeam": "Allemagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000060,
+      "journee": 4,
+      "date": "2016-06-21 21:00:00",
+      "homeTeam": "République Tchèque",
+      "awayTeam": "Turquie",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000061,
+      "journee": 4,
+      "date": "2016-06-21 21:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Espagne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000062,
+      "journee": 4,
+      "date": "2016-06-22 18:00:00",
+      "homeTeam": "Islande",
+      "awayTeam": "Autriche",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000063,
+      "journee": 4,
+      "date": "2016-06-22 18:00:00",
+      "homeTeam": "Hongrie",
+      "awayTeam": "Portugal",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 1000064,
+      "journee": 4,
+      "date": "2016-06-22 21:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Irlande",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000065,
+      "journee": 4,
+      "date": "2016-06-22 21:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000066,
+      "journee": 5,
+      "date": "2016-06-25 15:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Pologne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000067,
+      "journee": 5,
+      "date": "2016-06-25 18:00:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Irlande du Nord",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000068,
+      "journee": 5,
+      "date": "2016-06-25 21:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000069,
+      "journee": 5,
+      "date": "2016-06-26 15:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Irlande",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000070,
+      "journee": 5,
+      "date": "2016-06-26 18:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Slovaquie",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000071,
+      "journee": 5,
+      "date": "2016-06-26 21:00:00",
+      "homeTeam": "Hongrie",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 1000072,
+      "journee": 5,
+      "date": "2016-06-27 18:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Espagne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000073,
+      "journee": 5,
+      "date": "2016-06-27 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Islande",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000074,
+      "journee": 6,
+      "date": "2016-06-30 21:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Portugal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000075,
+      "journee": 6,
+      "date": "2016-07-01 21:00:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Belgique",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000076,
+      "journee": 6,
+      "date": "2016-07-02 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 1000077,
+      "journee": 6,
+      "date": "2016-07-03 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Islande",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000078,
+      "journee": 6,
+      "date": "2016-07-06 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Galles",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 1000079,
+      "journee": 6,
+      "date": "2016-07-07 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 1000080,
+      "journee": 6,
+      "date": "2016-07-10 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "France",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    }
+  ]
+}

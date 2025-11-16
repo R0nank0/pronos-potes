@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compétition - Pronos Potes</title>
+    <meta name="description" content="Toutes les saisons de la compétition">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero-section" id="hero-section">
+        <div class="hero-background"></div>
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-logo">
+                    <a href="index.html">
+                        <img src="assets/logo.png" alt="Pronos Potes" class="logo-image" style="max-width: 400px;">
+                    </a>
+                </div>
+                <h1 class="hero-title" id="competition-title">
+                    <span class="hero-emoji" id="competition-icon"></span>
+                    <span id="competition-name">Chargement...</span>
+                </h1>
+                <p class="hero-subtitle" id="competition-subtitle">Toutes les saisons disponibles</p>
+
+                <!-- Stats Grid -->
+                <div class="stats-grid" id="competition-stats">
+                    <div class="stat-card">
+                        <div class="stat-number" id="total-seasons">-</div>
+                        <div class="stat-label">Saisons</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="total-journees">-</div>
+                        <div class="stat-label">Journées</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="total-matches">-</div>
+                        <div class="stat-label">Matchs</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="total-pronostics">-</div>
+                        <div class="stat-label">Pronostics</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seasons Section -->
+    <main class="main">
+        <div class="container">
+            <section class="seasons-section">
+                <div class="section-header">
+                    <h2 class="section-title">Saisons disponibles</h2>
+                    <p class="section-subtitle">Sélectionnez une saison pour voir le classement détaillé</p>
+                </div>
+
+                <div id="seasons-grid" class="seasons-grid loading">
+                    <div class="loader">
+                        <div class="loader-spinner"></div>
+                        <p>Chargement des saisons...</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <img src="assets/logo.png" alt="Pronos Potes" class="footer-logo-img">
+                </div>
+                <div class="footer-info">
+                    <p>&copy; 2006-2025 - Archive statique</p>
+                    <p class="footer-note">Généré le <span id="generated-date"></span></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/utils.js"></script>
+    <script src="js/competition.js"></script>
+</body>
+</html>

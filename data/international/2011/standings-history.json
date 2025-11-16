@@ -1,0 +1,363 @@
+{
+  "season": "international-2011",
+  "generatedAt": "2025-11-07T15:38:43.352Z",
+  "totalJournees": 4,
+  "history": [
+    {
+      "journee": 1,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 151,
+          "username": "Julian",
+          "points": 21,
+          "corrects": 3
+        },
+        {
+          "rank": 2,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 12,
+          "corrects": 2
+        },
+        {
+          "rank": 2,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 12,
+          "corrects": 2
+        },
+        {
+          "rank": 2,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 12,
+          "corrects": 2
+        },
+        {
+          "rank": 5,
+          "userId": 119,
+          "username": "Viken",
+          "points": 9,
+          "corrects": 1
+        },
+        {
+          "rank": 5,
+          "userId": 139,
+          "username": "braor",
+          "points": 9,
+          "corrects": 1
+        },
+        {
+          "rank": 7,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 6,
+          "corrects": 1
+        },
+        {
+          "rank": 7,
+          "userId": 95,
+          "username": "nanard",
+          "points": 6,
+          "corrects": 1
+        },
+        {
+          "rank": 7,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 6,
+          "corrects": 1
+        },
+        {
+          "rank": 10,
+          "userId": 73,
+          "username": "cyril",
+          "points": 3,
+          "corrects": 0
+        },
+        {
+          "rank": 10,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 3,
+          "corrects": 0
+        },
+        {
+          "rank": 10,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 3,
+          "corrects": 0
+        }
+      ]
+    },
+    {
+      "journee": 2,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 36,
+          "corrects": 5
+        },
+        {
+          "rank": 2,
+          "userId": 151,
+          "username": "Julian",
+          "points": 30,
+          "corrects": 4
+        },
+        {
+          "rank": 3,
+          "userId": 139,
+          "username": "braor",
+          "points": 24,
+          "corrects": 3
+        },
+        {
+          "rank": 4,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 21,
+          "corrects": 3
+        },
+        {
+          "rank": 4,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 21,
+          "corrects": 3
+        },
+        {
+          "rank": 6,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 18,
+          "corrects": 3
+        },
+        {
+          "rank": 6,
+          "userId": 73,
+          "username": "cyril",
+          "points": 18,
+          "corrects": 2
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 18,
+          "corrects": 2
+        },
+        {
+          "rank": 6,
+          "userId": 119,
+          "username": "Viken",
+          "points": 18,
+          "corrects": 2
+        },
+        {
+          "rank": 10,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 15,
+          "corrects": 2
+        },
+        {
+          "rank": 10,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 15,
+          "corrects": 2
+        },
+        {
+          "rank": 12,
+          "userId": 95,
+          "username": "nanard",
+          "points": 9,
+          "corrects": 1
+        }
+      ]
+    },
+    {
+      "journee": 3,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 151,
+          "username": "Julian",
+          "points": 63,
+          "corrects": 9
+        },
+        {
+          "rank": 1,
+          "userId": 119,
+          "username": "Viken",
+          "points": 63,
+          "corrects": 8
+        },
+        {
+          "rank": 3,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 54,
+          "corrects": 8
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 51,
+          "corrects": 8
+        },
+        {
+          "rank": 5,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 48,
+          "corrects": 6
+        },
+        {
+          "rank": 6,
+          "userId": 139,
+          "username": "braor",
+          "points": 45,
+          "corrects": 6
+        },
+        {
+          "rank": 7,
+          "userId": 95,
+          "username": "nanard",
+          "points": 42,
+          "corrects": 6
+        },
+        {
+          "rank": 8,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 39,
+          "corrects": 6
+        },
+        {
+          "rank": 9,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 33,
+          "corrects": 5
+        },
+        {
+          "rank": 9,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 33,
+          "corrects": 5
+        },
+        {
+          "rank": 11,
+          "userId": 73,
+          "username": "cyril",
+          "points": 30,
+          "corrects": 4
+        },
+        {
+          "rank": 12,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 21,
+          "corrects": 3
+        }
+      ]
+    },
+    {
+      "journee": 4,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 119,
+          "username": "Viken",
+          "points": 75,
+          "corrects": 10
+        },
+        {
+          "rank": 2,
+          "userId": 151,
+          "username": "Julian",
+          "points": 69,
+          "corrects": 10
+        },
+        {
+          "rank": 3,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 66,
+          "corrects": 10
+        },
+        {
+          "rank": 3,
+          "userId": 139,
+          "username": "braor",
+          "points": 66,
+          "corrects": 9
+        },
+        {
+          "rank": 5,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 63,
+          "corrects": 10
+        },
+        {
+          "rank": 6,
+          "userId": 113,
+          "username": "servan roustand",
+          "points": 60,
+          "corrects": 8
+        },
+        {
+          "rank": 7,
+          "userId": 95,
+          "username": "nanard",
+          "points": 54,
+          "corrects": 8
+        },
+        {
+          "rank": 8,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 51,
+          "corrects": 8
+        },
+        {
+          "rank": 9,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 48,
+          "corrects": 7
+        },
+        {
+          "rank": 10,
+          "userId": 73,
+          "username": "cyril",
+          "points": 42,
+          "corrects": 6
+        },
+        {
+          "rank": 10,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 42,
+          "corrects": 6
+        },
+        {
+          "rank": 12,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 24,
+          "corrects": 3
+        }
+      ]
+    }
+  ]
+}

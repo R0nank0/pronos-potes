@@ -1,0 +1,16 @@
+{
+  "id": "1",
+  "competition": "ligue1",
+  "year": "2009-2010",
+  "name": "Ligue 1 - 2009/2010",
+  "status": "ongoing",
+  "journees": 38,
+  "publishedJournees": 38,
+  "activeJournee": "38",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.555Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

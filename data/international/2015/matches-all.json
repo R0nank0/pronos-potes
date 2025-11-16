@@ -1,0 +1,490 @@
+{
+  "season": "international-2015",
+  "seasonId": "30",
+  "seasonName": "Coupe du Monde 2015",
+  "totalMatches": 48,
+  "totalJournees": 6,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 16246,
+      "journee": 1,
+      "date": "2015-09-18 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Fidji",
+      "homeScore": 35,
+      "awayScore": 11,
+      "status": "finished"
+    },
+    {
+      "id": 16247,
+      "journee": 1,
+      "date": "2015-09-19 13:00:00",
+      "homeTeam": "Tonga",
+      "awayTeam": "Géorgie",
+      "homeScore": 10,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 16248,
+      "journee": 1,
+      "date": "2015-09-19 15:30:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Canada",
+      "homeScore": 50,
+      "awayScore": 7,
+      "status": "finished"
+    },
+    {
+      "id": 16249,
+      "journee": 1,
+      "date": "2015-09-19 17:45:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Japon",
+      "homeScore": 32,
+      "awayScore": 34,
+      "status": "finished"
+    },
+    {
+      "id": 16250,
+      "journee": 1,
+      "date": "2015-09-19 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Italie",
+      "homeScore": 32,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 16251,
+      "journee": 1,
+      "date": "2015-09-20 13:00:00",
+      "homeTeam": "Samoa",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 25,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 16252,
+      "journee": 1,
+      "date": "2015-09-20 15:30:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Uruguay",
+      "homeScore": 54,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 16253,
+      "journee": 1,
+      "date": "2015-09-20 17:45:00",
+      "homeTeam": "Nouvelle Zélande",
+      "awayTeam": "Argentine",
+      "homeScore": 26,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 16254,
+      "journee": 2,
+      "date": "2015-09-23 15:30:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Japon",
+      "homeScore": 45,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 16255,
+      "journee": 2,
+      "date": "2015-09-23 17:45:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Fidji",
+      "homeScore": 28,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 16256,
+      "journee": 2,
+      "date": "2015-09-23 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Roumanie",
+      "homeScore": 38,
+      "awayScore": 11,
+      "status": "finished"
+    },
+    {
+      "id": 16257,
+      "journee": 2,
+      "date": "2015-09-24 21:00:00",
+      "homeTeam": "Nouvelle Zélande",
+      "awayTeam": "Namibie",
+      "homeScore": 58,
+      "awayScore": 14,
+      "status": "finished"
+    },
+    {
+      "id": 16258,
+      "journee": 2,
+      "date": "2015-09-25 17:45:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Géorgie",
+      "homeScore": 54,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 16259,
+      "journee": 2,
+      "date": "2015-09-26 15:30:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Canada",
+      "homeScore": 23,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 16260,
+      "journee": 2,
+      "date": "2015-09-26 17:45:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Samoa",
+      "homeScore": 46,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 16261,
+      "journee": 2,
+      "date": "2015-09-26 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Galles",
+      "homeScore": 25,
+      "awayScore": 28,
+      "status": "finished"
+    },
+    {
+      "id": 16262,
+      "journee": 3,
+      "date": "2015-09-27 13:00:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Uruguay",
+      "homeScore": 65,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 16263,
+      "journee": 3,
+      "date": "2015-09-27 15:30:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 39,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 16264,
+      "journee": 3,
+      "date": "2015-09-27 17:45:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Roumanie",
+      "homeScore": 44,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 16265,
+      "journee": 3,
+      "date": "2015-09-29 17:45:00",
+      "homeTeam": "Tonga",
+      "awayTeam": "Namibie",
+      "homeScore": 35,
+      "awayScore": 21,
+      "status": "finished"
+    },
+    {
+      "id": 16266,
+      "journee": 3,
+      "date": "2015-10-01 17:45:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Fidji",
+      "homeScore": 23,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 16267,
+      "journee": 3,
+      "date": "2015-10-01 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Canada",
+      "homeScore": 41,
+      "awayScore": 18,
+      "status": "finished"
+    },
+    {
+      "id": 16268,
+      "journee": 3,
+      "date": "2015-10-02 21:00:00",
+      "homeTeam": "Nouvelle Zélande",
+      "awayTeam": "Géorgie",
+      "homeScore": 43,
+      "awayScore": 10,
+      "status": "finished"
+    },
+    {
+      "id": 16269,
+      "journee": 3,
+      "date": "2015-10-03 17:45:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Ecosse",
+      "homeScore": 34,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 16270,
+      "journee": 4,
+      "date": "2015-10-03 15:30:00",
+      "homeTeam": "Samoa",
+      "awayTeam": "Japon",
+      "homeScore": 5,
+      "awayScore": 26,
+      "status": "finished"
+    },
+    {
+      "id": 16271,
+      "journee": 4,
+      "date": "2015-10-03 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Australie",
+      "homeScore": 13,
+      "awayScore": 33,
+      "status": "finished"
+    },
+    {
+      "id": 16272,
+      "journee": 4,
+      "date": "2015-10-04 15:30:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Tonga",
+      "homeScore": 45,
+      "awayScore": 16,
+      "status": "finished"
+    },
+    {
+      "id": 16273,
+      "journee": 4,
+      "date": "2015-10-04 17:45:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Italie",
+      "homeScore": 16,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 16274,
+      "journee": 4,
+      "date": "2015-10-06 17:45:00",
+      "homeTeam": "Canada",
+      "awayTeam": "Roumanie",
+      "homeScore": 15,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 16275,
+      "journee": 4,
+      "date": "2015-10-06 21:00:00",
+      "homeTeam": "Fidji",
+      "awayTeam": "Uruguay",
+      "homeScore": 47,
+      "awayScore": 15,
+      "status": "finished"
+    },
+    {
+      "id": 16276,
+      "journee": 4,
+      "date": "2015-10-07 17:45:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 64,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 16277,
+      "journee": 4,
+      "date": "2015-10-07 21:00:00",
+      "homeTeam": "Namibie",
+      "awayTeam": "Géorgie",
+      "homeScore": 16,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 16286,
+      "journee": 5,
+      "date": "2015-10-09 21:00:00",
+      "homeTeam": "Nouvelle Zélande",
+      "awayTeam": "Tonga",
+      "homeScore": 47,
+      "awayScore": 9,
+      "status": "finished"
+    },
+    {
+      "id": 16287,
+      "journee": 5,
+      "date": "2015-10-10 15:30:00",
+      "homeTeam": "Samoa",
+      "awayTeam": "Ecosse",
+      "homeScore": 33,
+      "awayScore": 36,
+      "status": "finished"
+    },
+    {
+      "id": 16288,
+      "journee": 5,
+      "date": "2015-10-10 17:45:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Galles",
+      "homeScore": 15,
+      "awayScore": 6,
+      "status": "finished"
+    },
+    {
+      "id": 16289,
+      "journee": 5,
+      "date": "2015-10-10 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Uruguay",
+      "homeScore": 60,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 16290,
+      "journee": 5,
+      "date": "2015-10-11 13:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Namibie",
+      "homeScore": 64,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 16291,
+      "journee": 5,
+      "date": "2015-10-11 15:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Roumanie",
+      "homeScore": 32,
+      "awayScore": 22,
+      "status": "finished"
+    },
+    {
+      "id": 16292,
+      "journee": 5,
+      "date": "2015-10-11 17:45:00",
+      "homeTeam": "France",
+      "awayTeam": "Irlande",
+      "homeScore": 9,
+      "awayScore": 24,
+      "status": "finished"
+    },
+    {
+      "id": 16293,
+      "journee": 5,
+      "date": "2015-10-11 21:00:00",
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Japon",
+      "homeScore": 18,
+      "awayScore": 28,
+      "status": "finished"
+    },
+    {
+      "id": 16278,
+      "journee": 6,
+      "date": "2015-10-17 17:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Galles",
+      "homeScore": 23,
+      "awayScore": 19,
+      "status": "finished"
+    },
+    {
+      "id": 16279,
+      "journee": 6,
+      "date": "2015-10-17 21:00:00",
+      "homeTeam": "Nouvelle Zélande",
+      "awayTeam": "France",
+      "homeScore": 62,
+      "awayScore": 13,
+      "status": "finished"
+    },
+    {
+      "id": 16280,
+      "journee": 6,
+      "date": "2015-10-18 14:00:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Argentine",
+      "homeScore": 20,
+      "awayScore": 43,
+      "status": "finished"
+    },
+    {
+      "id": 16281,
+      "journee": 6,
+      "date": "2015-10-18 17:00:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Ecosse",
+      "homeScore": 35,
+      "awayScore": 34,
+      "status": "finished"
+    },
+    {
+      "id": 16282,
+      "journee": 6,
+      "date": "2015-10-24 17:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Nouvelle Zélande",
+      "homeScore": 18,
+      "awayScore": 20,
+      "status": "finished"
+    },
+    {
+      "id": 16283,
+      "journee": 6,
+      "date": "2015-10-25 17:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Australie",
+      "homeScore": 15,
+      "awayScore": 29,
+      "status": "finished"
+    },
+    {
+      "id": 16284,
+      "journee": 6,
+      "date": "2015-10-31 17:00:00",
+      "homeTeam": "Nouvelle Zélande",
+      "awayTeam": "Australie",
+      "homeScore": 34,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": 1000000,
+      "journee": 6,
+      "date": "2015-10-30 21:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Argentine",
+      "homeScore": 24,
+      "awayScore": 13,
+      "status": "finished"
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "season": "international-2014",
+  "seasonId": "26",
+  "seasonName": "Coupe du Monde 2014",
+  "totalMatches": 64,
+  "totalJournees": 8,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 14538,
+      "journee": 1,
+      "date": "2014-06-12 22:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Croatie",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14539,
+      "journee": 1,
+      "date": "2014-06-13 18:00:00",
+      "homeTeam": "Mexique",
+      "awayTeam": "Cameroun",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14540,
+      "journee": 1,
+      "date": "2014-06-13 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 14541,
+      "journee": 1,
+      "date": "2014-06-14 00:01:00",
+      "homeTeam": "Chili",
+      "awayTeam": "Australie",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14542,
+      "journee": 1,
+      "date": "2014-06-14 18:00:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Grèce",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14543,
+      "journee": 1,
+      "date": "2014-06-14 21:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Costa Rica",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14544,
+      "journee": 1,
+      "date": "2014-06-15 00:01:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14545,
+      "journee": 1,
+      "date": "2014-06-15 03:00:00",
+      "homeTeam": "Cote Ivoire",
+      "awayTeam": "Japon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14546,
+      "journee": 2,
+      "date": "2014-06-15 18:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Equateur",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14547,
+      "journee": 2,
+      "date": "2014-06-15 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Honduras",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14548,
+      "journee": 2,
+      "date": "2014-06-16 00:01:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Bosnie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14549,
+      "journee": 2,
+      "date": "2014-06-16 18:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Portugal",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14550,
+      "journee": 2,
+      "date": "2014-06-16 21:00:00",
+      "homeTeam": "Iran",
+      "awayTeam": "Nigéria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14551,
+      "journee": 2,
+      "date": "2014-06-17 00:01:00",
+      "homeTeam": "Ghana",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14552,
+      "journee": 2,
+      "date": "2014-06-17 18:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Algérie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14553,
+      "journee": 2,
+      "date": "2014-06-18 00:01:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Corée du Sud",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14564,
+      "journee": 3,
+      "date": "2014-06-17 21:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Mexique",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14565,
+      "journee": 3,
+      "date": "2014-06-18 18:00:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14566,
+      "journee": 3,
+      "date": "2014-06-18 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Chili",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14567,
+      "journee": 3,
+      "date": "2014-06-19 00:01:00",
+      "homeTeam": "Cameroun",
+      "awayTeam": "Croatie",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14568,
+      "journee": 3,
+      "date": "2014-06-19 18:00:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Cote Ivoire",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14569,
+      "journee": 3,
+      "date": "2014-06-19 21:00:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Angleterre",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14570,
+      "journee": 3,
+      "date": "2014-06-20 00:01:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Grèce",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14571,
+      "journee": 3,
+      "date": "2014-06-20 18:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Costa Rica",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14572,
+      "journee": 4,
+      "date": "2014-06-20 21:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "France",
+      "homeScore": 2,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 14573,
+      "journee": 4,
+      "date": "2014-06-21 00:01:00",
+      "homeTeam": "Honduras",
+      "awayTeam": "Equateur",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14574,
+      "journee": 4,
+      "date": "2014-06-21 18:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Iran",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14575,
+      "journee": 4,
+      "date": "2014-06-21 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Ghana",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14576,
+      "journee": 4,
+      "date": "2014-06-22 00:01:00",
+      "homeTeam": "Nigéria",
+      "awayTeam": "Bosnie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14577,
+      "journee": 4,
+      "date": "2014-06-22 18:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Russie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14578,
+      "journee": 4,
+      "date": "2014-06-22 21:00:00",
+      "homeTeam": "Corée du Sud",
+      "awayTeam": "Algérie",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14579,
+      "journee": 4,
+      "date": "2014-06-23 00:01:00",
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 14580,
+      "journee": 5,
+      "date": "2014-06-23 18:00:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14581,
+      "journee": 5,
+      "date": "2014-06-23 18:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Chili",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14582,
+      "journee": 5,
+      "date": "2014-06-23 22:00:00",
+      "homeTeam": "Cameroun",
+      "awayTeam": "Bresil",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14583,
+      "journee": 5,
+      "date": "2014-06-23 22:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Mexique",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14584,
+      "journee": 5,
+      "date": "2014-06-24 18:00:00",
+      "homeTeam": "Costa Rica",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14585,
+      "journee": 5,
+      "date": "2014-06-24 18:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Uruguay",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14586,
+      "journee": 5,
+      "date": "2014-06-24 22:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Colombie",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 14587,
+      "journee": 5,
+      "date": "2014-06-24 22:00:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "Cote Ivoire",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14588,
+      "journee": 6,
+      "date": "2014-06-25 18:00:00",
+      "homeTeam": "Nigéria",
+      "awayTeam": "Argentine",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14589,
+      "journee": 6,
+      "date": "2014-06-25 18:00:00",
+      "homeTeam": "Bosnie",
+      "awayTeam": "Iran",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14590,
+      "journee": 6,
+      "date": "2014-06-25 22:00:00",
+      "homeTeam": "Honduras",
+      "awayTeam": "Suisse",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14591,
+      "journee": 6,
+      "date": "2014-06-25 22:00:00",
+      "homeTeam": "Equateur",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14592,
+      "journee": 6,
+      "date": "2014-06-26 18:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Ghana",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14593,
+      "journee": 6,
+      "date": "2014-06-26 18:00:00",
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Allemagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14594,
+      "journee": 6,
+      "date": "2014-06-26 22:00:00",
+      "homeTeam": "Algérie",
+      "awayTeam": "Russie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14595,
+      "journee": 6,
+      "date": "2014-06-26 22:00:00",
+      "homeTeam": "Corée du Sud",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14596,
+      "journee": 7,
+      "date": "2014-06-28 18:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Chili",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14597,
+      "journee": 7,
+      "date": "2014-06-28 22:00:00",
+      "homeTeam": "Colombie",
+      "awayTeam": "Uruguay",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14598,
+      "journee": 7,
+      "date": "2014-06-29 18:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Mexique",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14599,
+      "journee": 7,
+      "date": "2014-06-29 22:00:00",
+      "homeTeam": "Costa Rica",
+      "awayTeam": "Grèce",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14600,
+      "journee": 7,
+      "date": "2014-06-30 18:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Nigéria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14601,
+      "journee": 7,
+      "date": "2014-06-30 22:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Algérie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14602,
+      "journee": 7,
+      "date": "2014-07-01 18:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14603,
+      "journee": 7,
+      "date": "2014-07-01 22:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Etats-Unis",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14604,
+      "journee": 8,
+      "date": "2014-07-04 18:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Allemagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14605,
+      "journee": 8,
+      "date": "2014-07-04 22:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Colombie",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14606,
+      "journee": 8,
+      "date": "2014-07-05 18:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Belgique",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14607,
+      "journee": 8,
+      "date": "2014-07-05 22:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Costa Rica",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14608,
+      "journee": 8,
+      "date": "2014-07-08 22:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Bresil",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 14609,
+      "journee": 8,
+      "date": "2014-07-09 22:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 14610,
+      "journee": 8,
+      "date": "2014-07-12 22:00:00",
+      "homeTeam": "Bresil",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 14611,
+      "journee": 8,
+      "date": "2014-07-13 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Argentine",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    }
+  ]
+}

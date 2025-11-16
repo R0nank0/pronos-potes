@@ -1,0 +1,1880 @@
+{
+  "season": "top14-2022-2023",
+  "seasonId": "58",
+  "seasonName": "TOP 14 - 2022 / 2023",
+  "totalMatches": 187,
+  "totalJournees": 27,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1005919,
+      "journee": 1,
+      "date": "2022-09-03 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005920,
+      "journee": 1,
+      "date": "2022-09-03 15:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005921,
+      "journee": 1,
+      "date": "2022-09-03 17:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005922,
+      "journee": 1,
+      "date": "2022-09-03 17:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Perpignan",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005923,
+      "journee": 1,
+      "date": "2022-09-03 17:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005924,
+      "journee": 1,
+      "date": "2022-09-03 21:05:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005925,
+      "journee": 1,
+      "date": "2022-09-04 21:05:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005926,
+      "journee": 2,
+      "date": "2022-09-10 17:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005927,
+      "journee": 2,
+      "date": "2022-09-10 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005928,
+      "journee": 2,
+      "date": "2022-09-10 17:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005929,
+      "journee": 2,
+      "date": "2022-09-10 15:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005930,
+      "journee": 2,
+      "date": "2022-09-10 21:05:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005931,
+      "journee": 2,
+      "date": "2022-09-11 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Toulon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005932,
+      "journee": 2,
+      "date": "2022-09-10 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Brive",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005933,
+      "journee": 3,
+      "date": "2022-09-17 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005934,
+      "journee": 3,
+      "date": "2022-09-17 17:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005935,
+      "journee": 3,
+      "date": "2022-09-18 21:05:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005936,
+      "journee": 3,
+      "date": "2022-09-17 21:05:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005937,
+      "journee": 3,
+      "date": "2022-09-17 17:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005938,
+      "journee": 3,
+      "date": "2022-09-17 17:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Perpignan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005939,
+      "journee": 3,
+      "date": "2022-09-17 15:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005940,
+      "journee": 4,
+      "date": "2022-09-25 21:05:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005941,
+      "journee": 4,
+      "date": "2022-09-24 15:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005942,
+      "journee": 4,
+      "date": "2022-09-24 17:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Brive",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005943,
+      "journee": 4,
+      "date": "2022-09-24 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005944,
+      "journee": 4,
+      "date": "2022-09-24 17:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Pau",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005945,
+      "journee": 4,
+      "date": "2022-09-24 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Racing 92",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005946,
+      "journee": 4,
+      "date": "2022-09-24 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005947,
+      "journee": 5,
+      "date": "2022-10-01 17:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005948,
+      "journee": 5,
+      "date": "2022-10-01 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005949,
+      "journee": 5,
+      "date": "2022-10-02 21:05:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005950,
+      "journee": 5,
+      "date": "2022-10-01 17:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Toulon",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005951,
+      "journee": 5,
+      "date": "2022-10-01 21:05:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005952,
+      "journee": 5,
+      "date": "2022-10-01 15:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005953,
+      "journee": 5,
+      "date": "2022-10-01 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005954,
+      "journee": 6,
+      "date": "2022-10-08 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005955,
+      "journee": 6,
+      "date": "2022-10-08 15:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005956,
+      "journee": 6,
+      "date": "2022-10-09 21:05:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005957,
+      "journee": 6,
+      "date": "2022-10-08 17:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005958,
+      "journee": 6,
+      "date": "2022-10-08 17:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005959,
+      "journee": 6,
+      "date": "2022-10-08 17:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Perpignan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005960,
+      "journee": 6,
+      "date": "2022-10-08 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005961,
+      "journee": 7,
+      "date": "2022-10-15 15:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005962,
+      "journee": 7,
+      "date": "2022-10-15 17:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005963,
+      "journee": 7,
+      "date": "2022-10-15 17:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005964,
+      "journee": 7,
+      "date": "2022-10-15 17:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Stade Français",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005965,
+      "journee": 7,
+      "date": "2022-10-16 21:05:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Toulon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005966,
+      "journee": 7,
+      "date": "2022-10-15 21:05:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005967,
+      "journee": 7,
+      "date": "2022-10-15 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Clermont",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005968,
+      "journee": 8,
+      "date": "2022-10-22 21:05:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005969,
+      "journee": 8,
+      "date": "2022-10-22 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Perpignan",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005970,
+      "journee": 8,
+      "date": "2022-10-22 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005971,
+      "journee": 8,
+      "date": "2022-10-22 15:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005972,
+      "journee": 8,
+      "date": "2022-10-22 17:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005973,
+      "journee": 8,
+      "date": "2022-10-22 17:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005974,
+      "journee": 8,
+      "date": "2022-10-23 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005975,
+      "journee": 9,
+      "date": "2022-10-29 21:05:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005976,
+      "journee": 9,
+      "date": "2022-10-29 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Racing 92",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005977,
+      "journee": 9,
+      "date": "2022-10-29 15:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005978,
+      "journee": 9,
+      "date": "2022-10-29 17:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005979,
+      "journee": 9,
+      "date": "2022-10-29 17:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Pau",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005980,
+      "journee": 9,
+      "date": "2022-10-30 21:05:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005981,
+      "journee": 9,
+      "date": "2022-10-29 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005982,
+      "journee": 10,
+      "date": "2022-11-05 17:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Bayonne",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005983,
+      "journee": 10,
+      "date": "2022-11-05 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005984,
+      "journee": 10,
+      "date": "2022-11-05 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005985,
+      "journee": 10,
+      "date": "2022-11-05 17:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Perpignan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005986,
+      "journee": 10,
+      "date": "2022-11-06 21:05:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005987,
+      "journee": 10,
+      "date": "2022-11-06 15:15:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005988,
+      "journee": 10,
+      "date": "2022-11-05 15:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Stade Français",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005989,
+      "journee": 11,
+      "date": "2022-11-27 21:05:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005990,
+      "journee": 11,
+      "date": "2022-11-26 15:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Bayonne",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005991,
+      "journee": 11,
+      "date": "2022-11-27 17:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005992,
+      "journee": 11,
+      "date": "2022-11-26 15:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005993,
+      "journee": 11,
+      "date": "2022-11-26 21:05:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Toulon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005994,
+      "journee": 11,
+      "date": "2022-11-26 15:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Castres",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005995,
+      "journee": 11,
+      "date": "2022-11-26 15:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005996,
+      "journee": 12,
+      "date": "2022-12-03 15:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005997,
+      "journee": 12,
+      "date": "2022-12-03 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005998,
+      "journee": 12,
+      "date": "2022-12-04 14:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005999,
+      "journee": 12,
+      "date": "2022-12-04 21:05:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Racing 92",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006000,
+      "journee": 12,
+      "date": "2022-12-03 21:05:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006001,
+      "journee": 12,
+      "date": "2022-12-03 17:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Perpignan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006002,
+      "journee": 12,
+      "date": "2022-12-03 17:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006003,
+      "journee": 13,
+      "date": "2022-12-23 18:45:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006004,
+      "journee": 13,
+      "date": "2022-12-23 18:45:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Perpignan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006005,
+      "journee": 13,
+      "date": "2022-12-24 15:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Stade Français",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006006,
+      "journee": 13,
+      "date": "2022-12-22 21:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006007,
+      "journee": 13,
+      "date": "2022-12-23 18:45:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Bayonne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006008,
+      "journee": 13,
+      "date": "2022-12-23 18:45:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006009,
+      "journee": 13,
+      "date": "2022-12-23 21:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006010,
+      "journee": 14,
+      "date": "2023-01-01 21:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006011,
+      "journee": 14,
+      "date": "2022-12-31 15:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006012,
+      "journee": 14,
+      "date": "2022-12-31 17:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Racing 92",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006013,
+      "journee": 14,
+      "date": "2022-12-31 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Brive",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006014,
+      "journee": 14,
+      "date": "2022-12-31 17:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Pau",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006015,
+      "journee": 14,
+      "date": "2022-12-30 21:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006016,
+      "journee": 14,
+      "date": "2022-12-31 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006017,
+      "journee": 15,
+      "date": "2023-01-07 17:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Perpignan",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006018,
+      "journee": 15,
+      "date": "2023-01-07 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006019,
+      "journee": 15,
+      "date": "2023-01-08 21:05:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006020,
+      "journee": 15,
+      "date": "2023-01-07 17:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006021,
+      "journee": 15,
+      "date": "2023-01-07 17:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Castres",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006022,
+      "journee": 15,
+      "date": "2023-01-07 21:05:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006023,
+      "journee": 15,
+      "date": "2023-01-07 15:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006024,
+      "journee": 16,
+      "date": "2023-01-28 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006025,
+      "journee": 16,
+      "date": "2023-01-28 17:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006026,
+      "journee": 16,
+      "date": "2023-01-28 15:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006027,
+      "journee": 16,
+      "date": "2023-01-28 21:05:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006028,
+      "journee": 16,
+      "date": "2023-01-28 17:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006029,
+      "journee": 16,
+      "date": "2023-01-29 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006030,
+      "journee": 16,
+      "date": "2023-01-28 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006031,
+      "journee": 17,
+      "date": "2023-02-04 17:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Castres",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006032,
+      "journee": 17,
+      "date": "2023-02-04 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Perpignan",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006033,
+      "journee": 17,
+      "date": "2023-02-04 21:05:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Toulon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006034,
+      "journee": 17,
+      "date": "2023-02-04 17:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Racing 92",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006035,
+      "journee": 17,
+      "date": "2023-02-05 21:05:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006036,
+      "journee": 17,
+      "date": "2023-02-04 17:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006037,
+      "journee": 17,
+      "date": "2023-02-04 15:00:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006038,
+      "journee": 18,
+      "date": "2023-02-18 15:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006039,
+      "journee": 18,
+      "date": "2023-02-18 17:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006040,
+      "journee": 18,
+      "date": "2023-02-18 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006041,
+      "journee": 18,
+      "date": "2023-02-18 17:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Brive",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006042,
+      "journee": 18,
+      "date": "2023-02-18 21:05:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006043,
+      "journee": 18,
+      "date": "2023-02-19 21:05:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006044,
+      "journee": 18,
+      "date": "2023-02-18 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006045,
+      "journee": 19,
+      "date": "2023-02-26 21:05:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Toulon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006046,
+      "journee": 19,
+      "date": "2023-02-25 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Castres",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006047,
+      "journee": 19,
+      "date": "2023-02-25 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Racing 92",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006048,
+      "journee": 19,
+      "date": "2023-02-25 15:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006049,
+      "journee": 19,
+      "date": "2023-02-25 17:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006050,
+      "journee": 19,
+      "date": "2023-02-25 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Pau",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006051,
+      "journee": 19,
+      "date": "2023-02-25 17:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Perpignan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006052,
+      "journee": 20,
+      "date": "2023-03-04 17:15:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006053,
+      "journee": 20,
+      "date": "2023-03-04 17:15:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006054,
+      "journee": 20,
+      "date": "2023-03-04 15:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006055,
+      "journee": 20,
+      "date": "2023-03-05 21:05:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006056,
+      "journee": 20,
+      "date": "2023-03-04 21:05:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Stade Français",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006057,
+      "journee": 20,
+      "date": "2023-03-04 17:15:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006058,
+      "journee": 20,
+      "date": "2023-03-04 17:15:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006059,
+      "journee": 21,
+      "date": "2023-03-25 17:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006060,
+      "journee": 21,
+      "date": "2023-03-25 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Pau",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006061,
+      "journee": 21,
+      "date": "2023-03-25 15:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006062,
+      "journee": 21,
+      "date": "2023-03-25 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Toulon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006063,
+      "journee": 21,
+      "date": "2023-03-26 21:05:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Racing 92",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006064,
+      "journee": 21,
+      "date": "2023-03-25 21:05:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006065,
+      "journee": 21,
+      "date": "2023-03-25 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006066,
+      "journee": 22,
+      "date": "2023-04-15 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Stade Français",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006067,
+      "journee": 22,
+      "date": "2023-04-15 17:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Castres",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006068,
+      "journee": 22,
+      "date": "2023-04-15 15:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006069,
+      "journee": 22,
+      "date": "2023-04-15 17:00:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Perpignan",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006070,
+      "journee": 22,
+      "date": "2023-04-15 17:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006071,
+      "journee": 22,
+      "date": "2023-04-15 21:05:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Bayonne",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006072,
+      "journee": 22,
+      "date": "2023-04-16 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006073,
+      "journee": 23,
+      "date": "2023-04-22 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006074,
+      "journee": 23,
+      "date": "2023-04-22 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Pau",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006075,
+      "journee": 23,
+      "date": "2023-04-22 17:00:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Toulon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006076,
+      "journee": 23,
+      "date": "2023-04-22 21:05:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006077,
+      "journee": 23,
+      "date": "2023-04-22 15:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Clermont",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006078,
+      "journee": 23,
+      "date": "2023-04-23 21:05:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006079,
+      "journee": 23,
+      "date": "2023-04-22 17:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006080,
+      "journee": 24,
+      "date": "2023-05-06 15:00:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Stade Français",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006081,
+      "journee": 24,
+      "date": "2023-05-06 17:00:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Perpignan",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006082,
+      "journee": 24,
+      "date": "2023-05-06 17:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Brive",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006083,
+      "journee": 24,
+      "date": "2023-05-06 17:00:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Bayonne",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006084,
+      "journee": 24,
+      "date": "2023-05-06 21:05:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006085,
+      "journee": 24,
+      "date": "2023-05-06 17:00:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Castres",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006086,
+      "journee": 24,
+      "date": "2023-05-07 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006087,
+      "journee": 25,
+      "date": "2023-05-13 17:00:00",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Clermont",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006088,
+      "journee": 25,
+      "date": "2023-05-13 17:00:00",
+      "homeTeam": "Brive",
+      "awayTeam": "Castres",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006089,
+      "journee": 25,
+      "date": "2023-05-13 17:00:00",
+      "homeTeam": "Montpellier Rugby",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006090,
+      "journee": 25,
+      "date": "2023-05-13 21:05:00",
+      "homeTeam": "Racing 92",
+      "awayTeam": "Toulon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006091,
+      "journee": 25,
+      "date": "2023-05-14 21:05:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Lyon Rugby",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006092,
+      "journee": 25,
+      "date": "2023-05-13 17:00:00",
+      "homeTeam": "Bordeaux-Bègles",
+      "awayTeam": "Pau",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006093,
+      "journee": 25,
+      "date": "2023-05-13 15:00:00",
+      "homeTeam": "Perpignan",
+      "awayTeam": "Stade Toulousain",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006094,
+      "journee": 26,
+      "date": "2023-05-28 21:05:00",
+      "homeTeam": "Clermont",
+      "awayTeam": "Racing 92",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006095,
+      "journee": 26,
+      "date": "2023-05-28 21:05:00",
+      "homeTeam": "Castres",
+      "awayTeam": "Perpignan",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006096,
+      "journee": 26,
+      "date": "2023-05-28 21:05:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Bayonne",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006097,
+      "journee": 26,
+      "date": "2023-05-28 21:05:00",
+      "homeTeam": "Toulon",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006098,
+      "journee": 26,
+      "date": "2023-05-28 21:05:00",
+      "homeTeam": "Pau",
+      "awayTeam": "Montpellier Rugby",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006099,
+      "journee": 26,
+      "date": "2023-05-28 21:05:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Stade Français",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006100,
+      "journee": 26,
+      "date": "2023-05-28 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Brive",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006290,
+      "journee": 27,
+      "date": "2023-06-03 14:00:00",
+      "homeTeam": "Stade Français",
+      "awayTeam": "Racing 92",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006291,
+      "journee": 27,
+      "date": "2023-06-04 21:05:00",
+      "homeTeam": "Lyon Rugby",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006292,
+      "journee": 27,
+      "date": "2023-06-09 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Racing 92",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006293,
+      "journee": 27,
+      "date": "2023-06-10 17:00:00",
+      "homeTeam": "Stade Rochelais",
+      "awayTeam": "Bordeaux-Bègles",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006294,
+      "journee": 27,
+      "date": "2023-06-17 21:05:00",
+      "homeTeam": "Stade Toulousain",
+      "awayTeam": "Stade Rochelais",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    }
+  ]
+}

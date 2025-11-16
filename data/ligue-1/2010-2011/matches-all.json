@@ -1,0 +1,3810 @@
+{
+  "season": "ligue1-2010-2011",
+  "seasonId": "8",
+  "seasonName": "Ligue 1 - 2010/2011",
+  "totalMatches": 380,
+  "totalJournees": 38,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 9884,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9885,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9886,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9887,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9888,
+      "journee": 1,
+      "date": "2010-08-08 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9889,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9890,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "St Etienne",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9891,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9892,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9893,
+      "journee": 1,
+      "date": "2010-08-07 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9894,
+      "journee": 2,
+      "date": "2010-08-14 21:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9895,
+      "journee": 2,
+      "date": "2010-08-15 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9896,
+      "journee": 2,
+      "date": "2010-08-14 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9897,
+      "journee": 2,
+      "date": "2010-08-15 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Lyon",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9898,
+      "journee": 2,
+      "date": "2010-08-15 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9899,
+      "journee": 2,
+      "date": "2010-08-14 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9900,
+      "journee": 2,
+      "date": "2010-08-17 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9901,
+      "journee": 2,
+      "date": "2010-08-14 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9902,
+      "journee": 2,
+      "date": "2010-08-14 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Sochaux",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9903,
+      "journee": 2,
+      "date": "2010-08-14 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9904,
+      "journee": 3,
+      "date": "2010-08-21 21:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9905,
+      "journee": 3,
+      "date": "2010-08-21 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9906,
+      "journee": 3,
+      "date": "2010-08-21 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9907,
+      "journee": 3,
+      "date": "2010-08-21 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9908,
+      "journee": 3,
+      "date": "2010-08-22 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9909,
+      "journee": 3,
+      "date": "2010-08-21 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9910,
+      "journee": 3,
+      "date": "2010-08-22 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9911,
+      "journee": 3,
+      "date": "2010-08-21 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9912,
+      "journee": 3,
+      "date": "2010-08-22 17:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9913,
+      "journee": 3,
+      "date": "2010-08-21 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9914,
+      "journee": 4,
+      "date": "2010-08-28 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9915,
+      "journee": 4,
+      "date": "2010-08-29 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9916,
+      "journee": 4,
+      "date": "2010-08-28 21:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9917,
+      "journee": 4,
+      "date": "2010-08-29 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9918,
+      "journee": 4,
+      "date": "2010-08-28 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9919,
+      "journee": 4,
+      "date": "2010-08-29 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9920,
+      "journee": 4,
+      "date": "2010-08-28 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9921,
+      "journee": 4,
+      "date": "2010-08-28 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9922,
+      "journee": 4,
+      "date": "2010-08-29 17:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9923,
+      "journee": 4,
+      "date": "2010-08-28 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9924,
+      "journee": 5,
+      "date": "2010-09-11 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9925,
+      "journee": 5,
+      "date": "2010-09-12 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9926,
+      "journee": 5,
+      "date": "2010-09-11 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 9927,
+      "journee": 5,
+      "date": "2010-09-11 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9928,
+      "journee": 5,
+      "date": "2010-09-12 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9929,
+      "journee": 5,
+      "date": "2010-09-11 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9930,
+      "journee": 5,
+      "date": "2010-09-12 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9931,
+      "journee": 5,
+      "date": "2010-09-11 19:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9932,
+      "journee": 5,
+      "date": "2010-09-11 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9933,
+      "journee": 5,
+      "date": "2010-09-11 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9934,
+      "journee": 6,
+      "date": "2010-09-18 21:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9935,
+      "journee": 6,
+      "date": "2010-09-19 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9936,
+      "journee": 6,
+      "date": "2010-09-19 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9937,
+      "journee": 6,
+      "date": "2010-09-18 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9938,
+      "journee": 6,
+      "date": "2010-09-18 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9939,
+      "journee": 6,
+      "date": "2010-09-18 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9940,
+      "journee": 6,
+      "date": "2010-09-19 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9941,
+      "journee": 6,
+      "date": "2010-09-18 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9942,
+      "journee": 6,
+      "date": "2010-09-18 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Nice",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9943,
+      "journee": 6,
+      "date": "2010-09-18 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9944,
+      "journee": 7,
+      "date": "2010-09-25 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9945,
+      "journee": 7,
+      "date": "2010-09-26 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9946,
+      "journee": 7,
+      "date": "2010-09-25 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9947,
+      "journee": 7,
+      "date": "2010-09-26 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9948,
+      "journee": 7,
+      "date": "2010-09-25 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9949,
+      "journee": 7,
+      "date": "2010-09-25 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9950,
+      "journee": 7,
+      "date": "2010-09-25 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9951,
+      "journee": 7,
+      "date": "2010-09-25 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9952,
+      "journee": 7,
+      "date": "2010-09-25 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9953,
+      "journee": 7,
+      "date": "2010-09-26 17:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9954,
+      "journee": 8,
+      "date": "2010-10-02 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Auxerre",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 9955,
+      "journee": 8,
+      "date": "2010-10-02 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9956,
+      "journee": 8,
+      "date": "2010-10-03 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9957,
+      "journee": 8,
+      "date": "2010-10-02 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9958,
+      "journee": 8,
+      "date": "2010-10-02 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9959,
+      "journee": 8,
+      "date": "2010-10-03 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9960,
+      "journee": 8,
+      "date": "2010-10-03 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Toulouse",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9961,
+      "journee": 8,
+      "date": "2010-10-02 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9962,
+      "journee": 8,
+      "date": "2010-10-02 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9963,
+      "journee": 8,
+      "date": "2010-10-02 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9964,
+      "journee": 9,
+      "date": "2010-10-16 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9965,
+      "journee": 9,
+      "date": "2010-10-16 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9966,
+      "journee": 9,
+      "date": "2010-10-16 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9967,
+      "journee": 9,
+      "date": "2010-10-17 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9968,
+      "journee": 9,
+      "date": "2010-10-17 17:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9969,
+      "journee": 9,
+      "date": "2010-10-17 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lille",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9970,
+      "journee": 9,
+      "date": "2010-10-16 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9971,
+      "journee": 9,
+      "date": "2010-10-16 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9972,
+      "journee": 9,
+      "date": "2010-10-17 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9973,
+      "journee": 9,
+      "date": "2010-10-16 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9974,
+      "journee": 10,
+      "date": "2010-10-24 17:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9975,
+      "journee": 10,
+      "date": "2010-10-23 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9976,
+      "journee": 10,
+      "date": "2010-10-23 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9977,
+      "journee": 10,
+      "date": "2010-10-24 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9978,
+      "journee": 10,
+      "date": "2010-10-23 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9979,
+      "journee": 10,
+      "date": "2010-10-23 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9980,
+      "journee": 10,
+      "date": "2010-10-24 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9981,
+      "journee": 10,
+      "date": "2010-10-23 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9982,
+      "journee": 10,
+      "date": "2010-10-23 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9983,
+      "journee": 10,
+      "date": "2010-10-23 21:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9984,
+      "journee": 11,
+      "date": "2010-10-30 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9985,
+      "journee": 11,
+      "date": "2010-10-30 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9986,
+      "journee": 11,
+      "date": "2010-10-30 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 9987,
+      "journee": 11,
+      "date": "2010-10-30 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9988,
+      "journee": 11,
+      "date": "2010-10-30 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9989,
+      "journee": 11,
+      "date": "2010-12-01 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9990,
+      "journee": 11,
+      "date": "2010-11-02 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9991,
+      "journee": 11,
+      "date": "2010-10-31 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9992,
+      "journee": 11,
+      "date": "2010-10-30 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9993,
+      "journee": 11,
+      "date": "2010-10-31 17:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9994,
+      "journee": 12,
+      "date": "2010-11-06 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Caen",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 9995,
+      "journee": 12,
+      "date": "2010-11-06 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9996,
+      "journee": 12,
+      "date": "2010-11-07 17:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 9997,
+      "journee": 12,
+      "date": "2010-11-07 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Brest",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 9998,
+      "journee": 12,
+      "date": "2010-11-07 17:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 9999,
+      "journee": 12,
+      "date": "2010-11-07 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10000,
+      "journee": 12,
+      "date": "2010-11-07 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10001,
+      "journee": 12,
+      "date": "2010-11-06 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10002,
+      "journee": 12,
+      "date": "2010-11-06 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10003,
+      "journee": 12,
+      "date": "2010-11-06 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10004,
+      "journee": 13,
+      "date": "2010-11-14 17:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10005,
+      "journee": 13,
+      "date": "2010-11-13 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10006,
+      "journee": 13,
+      "date": "2010-11-13 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10007,
+      "journee": 13,
+      "date": "2010-11-13 21:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": 10008,
+      "journee": 13,
+      "date": "2010-11-14 17:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10009,
+      "journee": 13,
+      "date": "2010-11-14 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10010,
+      "journee": 13,
+      "date": "2010-11-13 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10011,
+      "journee": 13,
+      "date": "2010-11-13 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10012,
+      "journee": 13,
+      "date": "2010-11-13 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10013,
+      "journee": 13,
+      "date": "2010-12-01 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10014,
+      "journee": 14,
+      "date": "2010-11-21 17:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 10015,
+      "journee": 14,
+      "date": "2010-11-21 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10016,
+      "journee": 14,
+      "date": "2010-11-21 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10017,
+      "journee": 14,
+      "date": "2010-11-20 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10018,
+      "journee": 14,
+      "date": "2010-11-20 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10019,
+      "journee": 14,
+      "date": "2010-11-20 19:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10020,
+      "journee": 14,
+      "date": "2010-11-20 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10021,
+      "journee": 14,
+      "date": "2010-11-20 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10022,
+      "journee": 14,
+      "date": "2010-11-20 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10023,
+      "journee": 14,
+      "date": "2010-11-20 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10024,
+      "journee": 15,
+      "date": "2010-11-28 17:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10025,
+      "journee": 15,
+      "date": "2010-11-27 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10026,
+      "journee": 15,
+      "date": "2010-11-30 20:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lens",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10027,
+      "journee": 15,
+      "date": "2010-11-28 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10028,
+      "journee": 15,
+      "date": "2010-11-27 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10029,
+      "journee": 15,
+      "date": "2010-11-28 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10030,
+      "journee": 15,
+      "date": "2010-11-27 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Montpellier",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10031,
+      "journee": 15,
+      "date": "2010-11-27 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10032,
+      "journee": 15,
+      "date": "2010-11-27 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10033,
+      "journee": 15,
+      "date": "2010-11-27 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10034,
+      "journee": 16,
+      "date": "2010-12-04 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10035,
+      "journee": 16,
+      "date": "2010-12-04 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10036,
+      "journee": 16,
+      "date": "2010-12-05 15:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lorient",
+      "homeScore": 6,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10037,
+      "journee": 16,
+      "date": "2010-12-04 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10038,
+      "journee": 16,
+      "date": "2010-12-05 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10039,
+      "journee": 16,
+      "date": "2010-12-05 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Brest",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10040,
+      "journee": 16,
+      "date": "2010-12-04 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10041,
+      "journee": 16,
+      "date": "2010-12-05 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10042,
+      "journee": 16,
+      "date": "2010-12-04 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10043,
+      "journee": 16,
+      "date": "2010-12-04 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10044,
+      "journee": 17,
+      "date": "2010-12-11 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10045,
+      "journee": 17,
+      "date": "2010-12-11 21:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10046,
+      "journee": 17,
+      "date": "2010-12-12 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10047,
+      "journee": 17,
+      "date": "2010-12-11 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10048,
+      "journee": 17,
+      "date": "2010-12-11 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10049,
+      "journee": 17,
+      "date": "2010-12-11 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10050,
+      "journee": 17,
+      "date": "2010-12-12 17:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10051,
+      "journee": 17,
+      "date": "2010-12-12 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10052,
+      "journee": 17,
+      "date": "2010-12-11 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10053,
+      "journee": 17,
+      "date": "2010-12-11 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10054,
+      "journee": 18,
+      "date": "2011-01-22 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10055,
+      "journee": 18,
+      "date": "2011-01-19 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Nancy",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10056,
+      "journee": 18,
+      "date": "2010-12-19 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10057,
+      "journee": 18,
+      "date": "2010-12-18 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10058,
+      "journee": 18,
+      "date": "2010-12-18 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10059,
+      "journee": 18,
+      "date": "2010-12-18 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10060,
+      "journee": 18,
+      "date": "2010-12-18 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10061,
+      "journee": 18,
+      "date": "2010-12-18 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10062,
+      "journee": 18,
+      "date": "2010-12-19 17:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10063,
+      "journee": 18,
+      "date": "2010-12-18 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10064,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10065,
+      "journee": 19,
+      "date": "2010-12-22 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10066,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10067,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10068,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10069,
+      "journee": 19,
+      "date": "2010-12-21 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10070,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10071,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10072,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10073,
+      "journee": 19,
+      "date": "2010-12-22 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10074,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10075,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10076,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10077,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10078,
+      "journee": 20,
+      "date": "2011-01-16 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10079,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10080,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10081,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10082,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10083,
+      "journee": 20,
+      "date": "2011-01-15 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10084,
+      "journee": 21,
+      "date": "2011-01-29 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10085,
+      "journee": 21,
+      "date": "2011-01-30 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10086,
+      "journee": 21,
+      "date": "2011-01-29 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Auxerre",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10087,
+      "journee": 21,
+      "date": "2011-01-29 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10088,
+      "journee": 21,
+      "date": "2011-01-29 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10089,
+      "journee": 21,
+      "date": "2011-01-30 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10090,
+      "journee": 21,
+      "date": "2011-01-30 17:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10091,
+      "journee": 21,
+      "date": "2011-01-29 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10092,
+      "journee": 21,
+      "date": "2011-01-29 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Rennes",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10093,
+      "journee": 21,
+      "date": "2011-01-29 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10094,
+      "journee": 22,
+      "date": "2011-02-06 17:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10095,
+      "journee": 22,
+      "date": "2011-02-05 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10096,
+      "journee": 22,
+      "date": "2011-02-05 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10097,
+      "journee": 22,
+      "date": "2011-02-05 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10098,
+      "journee": 22,
+      "date": "2011-02-06 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10099,
+      "journee": 22,
+      "date": "2011-02-05 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10100,
+      "journee": 22,
+      "date": "2011-02-05 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10101,
+      "journee": 22,
+      "date": "2011-02-05 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10102,
+      "journee": 22,
+      "date": "2011-02-05 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10103,
+      "journee": 22,
+      "date": "2011-02-06 17:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10104,
+      "journee": 23,
+      "date": "2011-02-12 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10105,
+      "journee": 23,
+      "date": "2011-02-12 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10106,
+      "journee": 23,
+      "date": "2011-02-13 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10107,
+      "journee": 23,
+      "date": "2011-02-12 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10108,
+      "journee": 23,
+      "date": "2011-02-12 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Auxerre",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10109,
+      "journee": 23,
+      "date": "2011-02-12 19:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10110,
+      "journee": 23,
+      "date": "2011-02-13 17:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10111,
+      "journee": 23,
+      "date": "2011-02-12 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 10112,
+      "journee": 23,
+      "date": "2011-02-12 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10113,
+      "journee": 23,
+      "date": "2011-02-13 17:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Brest",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10114,
+      "journee": 24,
+      "date": "2011-02-19 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10115,
+      "journee": 24,
+      "date": "2011-02-19 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Monaco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10116,
+      "journee": 24,
+      "date": "2011-02-19 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10117,
+      "journee": 24,
+      "date": "2011-02-19 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10118,
+      "journee": 24,
+      "date": "2011-02-19 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Bordeaux",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10119,
+      "journee": 24,
+      "date": "2011-02-18 20:45:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Nancy",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10120,
+      "journee": 24,
+      "date": "2011-02-19 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10121,
+      "journee": 24,
+      "date": "2011-02-20 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10122,
+      "journee": 24,
+      "date": "2011-02-20 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Paris-SG",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10123,
+      "journee": 24,
+      "date": "2011-02-20 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10124,
+      "journee": 25,
+      "date": "2011-02-26 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10125,
+      "journee": 25,
+      "date": "2011-02-26 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Auxerre",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10126,
+      "journee": 25,
+      "date": "2011-02-27 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10127,
+      "journee": 25,
+      "date": "2011-02-26 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10128,
+      "journee": 25,
+      "date": "2011-02-27 17:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10129,
+      "journee": 25,
+      "date": "2011-02-27 17:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10130,
+      "journee": 25,
+      "date": "2011-02-26 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lens",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10131,
+      "journee": 25,
+      "date": "2011-02-26 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10132,
+      "journee": 25,
+      "date": "2011-02-26 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10133,
+      "journee": 25,
+      "date": "2011-02-26 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10134,
+      "journee": 26,
+      "date": "2011-03-05 21:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10135,
+      "journee": 26,
+      "date": "2011-03-06 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10136,
+      "journee": 26,
+      "date": "2011-03-05 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "St Etienne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10137,
+      "journee": 26,
+      "date": "2011-03-05 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10138,
+      "journee": 26,
+      "date": "2011-03-06 17:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10139,
+      "journee": 26,
+      "date": "2011-03-06 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10140,
+      "journee": 26,
+      "date": "2011-03-05 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Rennes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10141,
+      "journee": 26,
+      "date": "2011-03-05 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10142,
+      "journee": 26,
+      "date": "2011-03-05 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10143,
+      "journee": 26,
+      "date": "2011-03-05 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10144,
+      "journee": 27,
+      "date": "2011-03-12 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10145,
+      "journee": 27,
+      "date": "2011-03-13 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10146,
+      "journee": 27,
+      "date": "2011-03-12 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10147,
+      "journee": 27,
+      "date": "2011-03-13 17:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10148,
+      "journee": 27,
+      "date": "2011-03-12 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10149,
+      "journee": 27,
+      "date": "2011-03-12 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10150,
+      "journee": 27,
+      "date": "2011-03-13 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10151,
+      "journee": 27,
+      "date": "2011-03-11 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10152,
+      "journee": 27,
+      "date": "2011-03-12 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10153,
+      "journee": 27,
+      "date": "2011-03-12 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10154,
+      "journee": 28,
+      "date": "2011-03-19 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Sochaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10155,
+      "journee": 28,
+      "date": "2011-03-19 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10156,
+      "journee": 28,
+      "date": "2011-03-20 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10157,
+      "journee": 28,
+      "date": "2011-03-19 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10158,
+      "journee": 28,
+      "date": "2011-03-19 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10159,
+      "journee": 28,
+      "date": "2011-03-20 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10160,
+      "journee": 28,
+      "date": "2011-03-20 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10161,
+      "journee": 28,
+      "date": "2011-03-19 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 10162,
+      "journee": 28,
+      "date": "2011-03-19 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10163,
+      "journee": 28,
+      "date": "2011-03-19 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10164,
+      "journee": 29,
+      "date": "2011-04-02 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10165,
+      "journee": 29,
+      "date": "2011-04-03 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Marseille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10166,
+      "journee": 29,
+      "date": "2011-04-02 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Caen",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10167,
+      "journee": 29,
+      "date": "2011-04-02 19:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10168,
+      "journee": 29,
+      "date": "2011-04-03 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10169,
+      "journee": 29,
+      "date": "2011-04-02 19:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lorient",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10170,
+      "journee": 29,
+      "date": "2011-04-02 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Auxerre",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10171,
+      "journee": 29,
+      "date": "2011-04-03 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10172,
+      "journee": 29,
+      "date": "2011-04-02 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Brest",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10173,
+      "journee": 29,
+      "date": "2011-04-02 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Montpellier",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10174,
+      "journee": 30,
+      "date": "2011-04-09 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10175,
+      "journee": 30,
+      "date": "2011-04-09 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10176,
+      "journee": 30,
+      "date": "2011-04-09 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10177,
+      "journee": 30,
+      "date": "2011-04-09 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10178,
+      "journee": 30,
+      "date": "2011-04-09 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10179,
+      "journee": 30,
+      "date": "2011-04-10 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lens",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10180,
+      "journee": 30,
+      "date": "2011-04-10 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Toulouse",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10181,
+      "journee": 30,
+      "date": "2011-04-09 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10182,
+      "journee": 30,
+      "date": "2011-04-10 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Nice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10183,
+      "journee": 30,
+      "date": "2011-04-09 19:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10184,
+      "journee": 31,
+      "date": "2011-04-17 17:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10185,
+      "journee": 31,
+      "date": "2011-04-16 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Brest",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10186,
+      "journee": 31,
+      "date": "2011-04-16 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10187,
+      "journee": 31,
+      "date": "2011-04-17 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Marseille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10188,
+      "journee": 31,
+      "date": "2011-04-16 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Monaco",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10189,
+      "journee": 31,
+      "date": "2011-04-17 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10190,
+      "journee": 31,
+      "date": "2011-04-16 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Lorient",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10191,
+      "journee": 31,
+      "date": "2011-04-16 19:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10192,
+      "journee": 31,
+      "date": "2011-04-16 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Caen",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10193,
+      "journee": 31,
+      "date": "2011-04-16 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Auxerre",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10194,
+      "journee": 32,
+      "date": "2011-04-24 17:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10195,
+      "journee": 32,
+      "date": "2011-04-24 17:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10196,
+      "journee": 32,
+      "date": "2011-04-24 17:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10197,
+      "journee": 32,
+      "date": "2011-04-24 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10198,
+      "journee": 32,
+      "date": "2011-04-24 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10199,
+      "journee": 32,
+      "date": "2011-04-27 19:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Montpellier",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10200,
+      "journee": 32,
+      "date": "2011-04-27 19:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Nice",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10201,
+      "journee": 32,
+      "date": "2011-04-24 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10202,
+      "journee": 32,
+      "date": "2011-04-24 17:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10203,
+      "journee": 32,
+      "date": "2011-04-24 17:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10204,
+      "journee": 33,
+      "date": "2011-04-30 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10205,
+      "journee": 33,
+      "date": "2011-04-30 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10206,
+      "journee": 33,
+      "date": "2011-05-01 17:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10207,
+      "journee": 33,
+      "date": "2011-05-01 17:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10208,
+      "journee": 33,
+      "date": "2011-05-01 17:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 10209,
+      "journee": 33,
+      "date": "2011-04-30 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Valenciennes",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10210,
+      "journee": 33,
+      "date": "2011-04-30 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Bordeaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10211,
+      "journee": 33,
+      "date": "2011-05-01 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10212,
+      "journee": 33,
+      "date": "2011-04-30 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Nancy",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10213,
+      "journee": 33,
+      "date": "2011-05-01 17:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10214,
+      "journee": 34,
+      "date": "2011-05-07 19:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "St Etienne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10215,
+      "journee": 34,
+      "date": "2011-05-07 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Montpellier",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10216,
+      "journee": 34,
+      "date": "2011-05-07 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": 10217,
+      "journee": 34,
+      "date": "2011-05-07 19:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10218,
+      "journee": 34,
+      "date": "2011-05-07 19:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10219,
+      "journee": 34,
+      "date": "2011-05-07 19:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10220,
+      "journee": 34,
+      "date": "2011-05-08 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Marseille",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10221,
+      "journee": 34,
+      "date": "2011-05-07 19:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10222,
+      "journee": 34,
+      "date": "2011-05-07 21:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lille",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10223,
+      "journee": 34,
+      "date": "2011-05-08 17:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Rennes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10224,
+      "journee": 35,
+      "date": "2011-05-11 19:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Lyon",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10225,
+      "journee": 35,
+      "date": "2011-05-11 19:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Bordeaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10226,
+      "journee": 35,
+      "date": "2011-05-11 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Brest",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10227,
+      "journee": 35,
+      "date": "2011-05-11 19:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Lorient",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10228,
+      "journee": 35,
+      "date": "2011-05-11 19:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10229,
+      "journee": 35,
+      "date": "2011-05-10 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Nancy",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10230,
+      "journee": 35,
+      "date": "2011-05-11 19:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10231,
+      "journee": 35,
+      "date": "2011-05-10 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10232,
+      "journee": 35,
+      "date": "2011-05-11 19:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Monaco",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10233,
+      "journee": 35,
+      "date": "2011-05-11 19:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10234,
+      "journee": 36,
+      "date": "2011-05-15 17:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Toulouse",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10235,
+      "journee": 36,
+      "date": "2011-05-18 19:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10236,
+      "journee": 36,
+      "date": "2011-05-16 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Lyon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10237,
+      "journee": 36,
+      "date": "2011-05-15 17:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10238,
+      "journee": 36,
+      "date": "2011-05-18 19:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10239,
+      "journee": 36,
+      "date": "2011-05-15 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10240,
+      "journee": 36,
+      "date": "2011-05-15 17:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lens",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10241,
+      "journee": 36,
+      "date": "2011-05-15 17:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Nice",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10242,
+      "journee": 36,
+      "date": "2011-05-15 17:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Rennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10243,
+      "journee": 36,
+      "date": "2011-05-15 17:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10244,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Brest",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10245,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Lens",
+      "awayTeam": "Arles Avignon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10246,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Lyon",
+      "awayTeam": "Caen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10247,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Marseille",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10248,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Montpellier",
+      "awayTeam": "Monaco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10249,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Nice",
+      "awayTeam": "Lorient",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10250,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10251,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Rennes",
+      "awayTeam": "Nancy",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10252,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Sochaux",
+      "awayTeam": "St Etienne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10253,
+      "journee": 37,
+      "date": "2011-05-21 21:00:00",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Bordeaux",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10254,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Arles Avignon",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 10255,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Bordeaux",
+      "awayTeam": "Montpellier",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10256,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Brest",
+      "awayTeam": "Toulouse",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10257,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Caen",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10258,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Rennes",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10259,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Lorient",
+      "awayTeam": "Auxerre",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10260,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lyon",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 10261,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Nancy",
+      "awayTeam": "Lens",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 10262,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 10263,
+      "journee": 38,
+      "date": "2011-05-29 21:00:00",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Nice",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    }
+  ]
+}

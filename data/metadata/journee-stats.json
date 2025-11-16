@@ -1,0 +1,5663 @@
+{
+  "generatedAt": "2025-11-08T07:56:19.278Z",
+  "totalJournees": 1424,
+  "totalPlayers": 202,
+  "stats": [
+    {
+      "userId": 63,
+      "username": "Ronanko",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 19,
+          "podiums": 55
+        },
+        "ldc": {
+          "victoires": 8,
+          "podiums": 25
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 6
+        },
+        "top14": {
+          "victoires": 29,
+          "podiums": 73
+        },
+        "international": {
+          "victoires": 9,
+          "podiums": 20
+        }
+      },
+      "totalVictoires": 65,
+      "totalPodiums": 179
+    },
+    {
+      "userId": 72,
+      "username": "Carlos64",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 49
+        },
+        "ldc": {
+          "victoires": 14,
+          "podiums": 34
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 9
+        },
+        "top14": {
+          "victoires": 32,
+          "podiums": 85
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 13
+        }
+      },
+      "totalVictoires": 55,
+      "totalPodiums": 190
+    },
+    {
+      "userId": 113,
+      "username": "servan roustand",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 19,
+          "podiums": 55
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 15
+        },
+        "ligaeuropa": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "top14": {
+          "victoires": 21,
+          "podiums": 63
+        },
+        "international": {
+          "victoires": 3,
+          "podiums": 9
+        }
+      },
+      "totalVictoires": 51,
+      "totalPodiums": 145
+    },
+    {
+      "userId": 172,
+      "username": "Cantona63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 17,
+          "podiums": 32
+        },
+        "ldc": {
+          "victoires": 9,
+          "podiums": 22
+        },
+        "ligaeuropa": {
+          "victoires": 2,
+          "podiums": 2
+        },
+        "top14": {
+          "victoires": 22,
+          "podiums": 40
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 5
+        }
+      },
+      "totalVictoires": 51,
+      "totalPodiums": 101
+    },
+    {
+      "userId": 95,
+      "username": "nanard",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 17,
+          "podiums": 62
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 28
+        },
+        "ligaeuropa": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "top14": {
+          "victoires": 18,
+          "podiums": 53
+        },
+        "international": {
+          "victoires": 3,
+          "podiums": 14
+        }
+      },
+      "totalVictoires": 45,
+      "totalPodiums": 160
+    },
+    {
+      "userId": 76,
+      "username": "didile53",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 11,
+          "podiums": 47
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 21
+        },
+        "ligaeuropa": {
+          "victoires": 3,
+          "podiums": 7
+        },
+        "top14": {
+          "victoires": 20,
+          "podiums": 59
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 8
+        }
+      },
+      "totalVictoires": 41,
+      "totalPodiums": 142
+    },
+    {
+      "userId": 87,
+      "username": "le_puy_de_dome",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 12,
+          "podiums": 43
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 22,
+          "podiums": 68
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 34,
+      "totalPodiums": 111
+    },
+    {
+      "userId": 94,
+      "username": "Mirinko",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 17,
+          "podiums": 37
+        },
+        "ldc": {
+          "victoires": 15,
+          "podiums": 43
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 2,
+          "podiums": 10
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 5
+        }
+      },
+      "totalVictoires": 34,
+      "totalPodiums": 95
+    },
+    {
+      "userId": 83,
+      "username": "Jeje la cisaille",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 31,
+          "podiums": 65
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 33,
+      "totalPodiums": 69
+    },
+    {
+      "userId": 185,
+      "username": "Pittam",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 9,
+          "podiums": 29
+        },
+        "ldc": {
+          "victoires": 9,
+          "podiums": 23
+        },
+        "ligaeuropa": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "top14": {
+          "victoires": 6,
+          "podiums": 31
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 28,
+      "totalPodiums": 90
+    },
+    {
+      "userId": 81,
+      "username": "Frederer",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 41
+        },
+        "ldc": {
+          "victoires": 7,
+          "podiums": 17
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 13,
+          "podiums": 38
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 5
+        }
+      },
+      "totalVictoires": 27,
+      "totalPodiums": 101
+    },
+    {
+      "userId": 177,
+      "username": "Dalimoi",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 28
+        },
+        "ldc": {
+          "victoires": 5,
+          "podiums": 20
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "top14": {
+          "victoires": 10,
+          "podiums": 40
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 24,
+      "totalPodiums": 92
+    },
+    {
+      "userId": 114,
+      "username": "simone",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 10,
+          "podiums": 18
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 7
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 9,
+          "podiums": 26
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 23,
+      "totalPodiums": 55
+    },
+    {
+      "userId": 165,
+      "username": "Extubator",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 11,
+          "podiums": 26
+        },
+        "ldc": {
+          "victoires": 11,
+          "podiums": 30
+        },
+        "ligaeuropa": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 7
+        }
+      },
+      "totalVictoires": 23,
+      "totalPodiums": 66
+    },
+    {
+      "userId": 209,
+      "username": "FredM",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 18
+        },
+        "ldc": {
+          "victoires": 8,
+          "podiums": 18
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 9,
+          "podiums": 30
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 23,
+      "totalPodiums": 69
+    },
+    {
+      "userId": 212,
+      "username": "Ljber",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 8,
+          "podiums": 27
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 23
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "top14": {
+          "victoires": 9,
+          "podiums": 36
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 23,
+      "totalPodiums": 90
+    },
+    {
+      "userId": 174,
+      "username": "Puyol",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 9,
+          "podiums": 28
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 10,
+          "podiums": 33
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 6
+        }
+      },
+      "totalVictoires": 20,
+      "totalPodiums": 67
+    },
+    {
+      "userId": 270,
+      "username": "Schumacher",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 11
+        },
+        "ldc": {
+          "victoires": 7,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 7,
+          "podiums": 13
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 19,
+      "totalPodiums": 38
+    },
+    {
+      "userId": 160,
+      "username": "Freddy",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 26
+        },
+        "ldc": {
+          "victoires": 8,
+          "podiums": 25
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 2,
+          "podiums": 6
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 18,
+      "totalPodiums": 60
+    },
+    {
+      "userId": 166,
+      "username": "papyno",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 6,
+          "podiums": 16
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 7
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 9,
+          "podiums": 18
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 17,
+      "totalPodiums": 43
+    },
+    {
+      "userId": 181,
+      "username": "KRO",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 17,
+          "podiums": 57
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 17,
+      "totalPodiums": 58
+    },
+    {
+      "userId": 305,
+      "username": "Gunners-21",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 9,
+          "podiums": 23
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 17
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 17,
+      "totalPodiums": 44
+    },
+    {
+      "userId": 862,
+      "username": "Tofpondi",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 8,
+          "podiums": 17
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "top14": {
+          "victoires": 3,
+          "podiums": 3
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 16,
+      "totalPodiums": 33
+    },
+    {
+      "userId": 80,
+      "username": "fred",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 14,
+          "podiums": 37
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 7
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 15,
+      "totalPodiums": 45
+    },
+    {
+      "userId": 881,
+      "username": "Mikoko Suodo",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 9
+        },
+        "ldc": {
+          "victoires": 4,
+          "podiums": 8
+        },
+        "ligaeuropa": {
+          "victoires": 5,
+          "podiums": 5
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 15,
+      "totalPodiums": 24
+    },
+    {
+      "userId": 97,
+      "username": "pancho",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 8,
+          "podiums": 18
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 6,
+          "podiums": 16
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 14,
+      "totalPodiums": 34
+    },
+    {
+      "userId": 119,
+      "username": "Viken",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 9,
+          "podiums": 22
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 4
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 5
+        }
+      },
+      "totalVictoires": 14,
+      "totalPodiums": 41
+    },
+    {
+      "userId": 849,
+      "username": "Pogba",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 22
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 4
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 4,
+          "podiums": 12
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 14,
+      "totalPodiums": 38
+    },
+    {
+      "userId": 880,
+      "username": "ScoubIsaac",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 11
+        },
+        "ligaeuropa": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "top14": {
+          "victoires": 3,
+          "podiums": 19
+        },
+        "international": {
+          "victoires": 3,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 14,
+      "totalPodiums": 47
+    },
+    {
+      "userId": 263,
+      "username": "Gildas35",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 12,
+          "podiums": 31
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 13,
+      "totalPodiums": 35
+    },
+    {
+      "userId": 864,
+      "username": "GrootCruyff",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 6,
+          "podiums": 11
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 5,
+          "podiums": 12
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 13,
+      "totalPodiums": 27
+    },
+    {
+      "userId": 79,
+      "username": "Emeric63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 15
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 5,
+          "podiums": 14
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 12,
+      "totalPodiums": 35
+    },
+    {
+      "userId": 89,
+      "username": "loicot",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 20
+        },
+        "ldc": {
+          "victoires": 4,
+          "podiums": 9
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 4,
+          "podiums": 16
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 12,
+      "totalPodiums": 45
+    },
+    {
+      "userId": 151,
+      "username": "Julian",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 14
+        },
+        "ldc": {
+          "victoires": 4,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 12,
+      "totalPodiums": 25
+    },
+    {
+      "userId": 191,
+      "username": "Max85",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 12,
+          "podiums": 26
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 12,
+      "totalPodiums": 27
+    },
+    {
+      "userId": 205,
+      "username": "Gatien",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 22
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 6
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 2,
+          "podiums": 4
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 12,
+      "totalPodiums": 32
+    },
+    {
+      "userId": 296,
+      "username": "MatalBZH56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 6,
+          "podiums": 23
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 14
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 12,
+      "totalPodiums": 37
+    },
+    {
+      "userId": 115,
+      "username": "Thierry Gaume",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 8
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 5
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 3,
+          "podiums": 4
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 11,
+      "totalPodiums": 19
+    },
+    {
+      "userId": 117,
+      "username": "THYSEB",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 8,
+          "podiums": 31
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 3,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 11,
+      "totalPodiums": 35
+    },
+    {
+      "userId": 126,
+      "username": "Guéguette",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 11,
+          "podiums": 33
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 11,
+      "totalPodiums": 33
+    },
+    {
+      "userId": 141,
+      "username": "Joquer",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 16
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 3,
+          "podiums": 4
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 11,
+      "totalPodiums": 31
+    },
+    {
+      "userId": 189,
+      "username": "Christophe",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 10,
+          "podiums": 30
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 6
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 11,
+      "totalPodiums": 39
+    },
+    {
+      "userId": 267,
+      "username": "Zetoum44",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 13
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 6,
+          "podiums": 18
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 11,
+      "totalPodiums": 42
+    },
+    {
+      "userId": 858,
+      "username": "BenArfa56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 4,
+          "podiums": 8
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 14
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 11,
+      "totalPodiums": 37
+    },
+    {
+      "userId": 110,
+      "username": "Sibierski",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 9,
+          "podiums": 28
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 10,
+      "totalPodiums": 30
+    },
+    {
+      "userId": 217,
+      "username": "Keith",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 13
+        },
+        "ldc": {
+          "victoires": 6,
+          "podiums": 13
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 10,
+      "totalPodiums": 26
+    },
+    {
+      "userId": 254,
+      "username": "Calou22",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 6,
+          "podiums": 21
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 8
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 10,
+      "totalPodiums": 30
+    },
+    {
+      "userId": 266,
+      "username": "Terminator",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 8,
+          "podiums": 25
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 10,
+      "totalPodiums": 29
+    },
+    {
+      "userId": 288,
+      "username": "Cob56920",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 4
+        },
+        "ligaeuropa": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "top14": {
+          "victoires": 5,
+          "podiums": 11
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 10,
+      "totalPodiums": 28
+    },
+    {
+      "userId": 98,
+      "username": "patrice mortier",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 11
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 9,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 145,
+      "username": "Arconada",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 9,
+          "podiums": 30
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 9,
+      "totalPodiums": 32
+    },
+    {
+      "userId": 162,
+      "username": "Regbo",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 4,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 6
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 5
+        }
+      },
+      "totalVictoires": 9,
+      "totalPodiums": 33
+    },
+    {
+      "userId": 198,
+      "username": "Stefano",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 7,
+          "podiums": 19
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 9,
+      "totalPodiums": 25
+    },
+    {
+      "userId": 302,
+      "username": "La Malice",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 6
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 4,
+          "podiums": 15
+        },
+        "international": {
+          "victoires": 3,
+          "podiums": 5
+        }
+      },
+      "totalVictoires": 9,
+      "totalPodiums": 32
+    },
+    {
+      "userId": 70,
+      "username": "bergomi",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 18
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 8,
+      "totalPodiums": 19
+    },
+    {
+      "userId": 73,
+      "username": "cyril",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 20
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 7
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 2,
+          "podiums": 5
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 8,
+      "totalPodiums": 34
+    },
+    {
+      "userId": 105,
+      "username": "Regis",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 8,
+          "podiums": 16
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 8,
+      "totalPodiums": 17
+    },
+    {
+      "userId": 179,
+      "username": "Starbuck",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 5,
+          "podiums": 10
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 8,
+      "totalPodiums": 18
+    },
+    {
+      "userId": 301,
+      "username": "Vahid",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 4,
+          "podiums": 9
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 3,
+          "podiums": 9
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 8,
+      "totalPodiums": 26
+    },
+    {
+      "userId": 861,
+      "username": "LP",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 4,
+          "podiums": 11
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 8,
+      "totalPodiums": 21
+    },
+    {
+      "userId": 111,
+      "username": "roniche",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 7,
+          "podiums": 26
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 7,
+      "totalPodiums": 29
+    },
+    {
+      "userId": 178,
+      "username": "Darkvero",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 7,
+          "podiums": 27
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 7,
+      "totalPodiums": 27
+    },
+    {
+      "userId": 853,
+      "username": "Didou56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 20
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 6
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 7,
+      "totalPodiums": 29
+    },
+    {
+      "userId": 854,
+      "username": "Obiwan56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 9
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 4
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 7,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 871,
+      "username": "STEVEN17",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 5,
+          "podiums": 7
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 7,
+      "totalPodiums": 11
+    },
+    {
+      "userId": 884,
+      "username": "ViviLeader63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 10
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 3,
+          "podiums": 6
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 7,
+      "totalPodiums": 19
+    },
+    {
+      "userId": 74,
+      "username": "daddou",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 6,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 13
+    },
+    {
+      "userId": 102,
+      "username": "p-jbob",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 18
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 22
+    },
+    {
+      "userId": 112,
+      "username": "Selim",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 15
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 16
+    },
+    {
+      "userId": 116,
+      "username": "thonnatte",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 6,
+          "podiums": 19
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 19
+    },
+    {
+      "userId": 146,
+      "username": "Neimad",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 7
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 17
+    },
+    {
+      "userId": 182,
+      "username": "Phantom",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 6,
+          "podiums": 28
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 29
+    },
+    {
+      "userId": 193,
+      "username": "Pinpin",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 6,
+          "podiums": 8
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 202,
+      "username": "Val PacinO",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 12
+    },
+    {
+      "userId": 222,
+      "username": "Le General",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 8
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 5
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 25
+    },
+    {
+      "userId": 265,
+      "username": "Fredy56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 4
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 9
+    },
+    {
+      "userId": 877,
+      "username": "Jean-Mi-Mi Olas",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 10
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 6,
+      "totalPodiums": 19
+    },
+    {
+      "userId": 75,
+      "username": "daniel",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 13
+    },
+    {
+      "userId": 118,
+      "username": "tony le gaulois",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 10
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 12
+    },
+    {
+      "userId": 168,
+      "username": "Le Bordelais",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 190,
+      "username": "Koubiac",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 13
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 196,
+      "username": "Momo56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 15
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 15
+    },
+    {
+      "userId": 228,
+      "username": "Claudius56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 10
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 7
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 17
+    },
+    {
+      "userId": 259,
+      "username": "Joel",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 8
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 11
+    },
+    {
+      "userId": 879,
+      "username": "Coulibaly56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 5,
+          "podiums": 9
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 5,
+      "totalPodiums": 10
+    },
+    {
+      "userId": 67,
+      "username": "Ca me cartonne",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 69,
+      "username": "bag",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 11
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 4
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 18
+    },
+    {
+      "userId": 84,
+      "username": "julien",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 14
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 91,
+      "username": "man le gaulois",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 8
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 92,
+      "username": "marclegaulois",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 9
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 3
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 13
+    },
+    {
+      "userId": 96,
+      "username": "Nico",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 21
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 21
+    },
+    {
+      "userId": 203,
+      "username": "Mitch",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 19
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 19
+    },
+    {
+      "userId": 234,
+      "username": "Ailou",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 3,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 6
+    },
+    {
+      "userId": 852,
+      "username": "Rascasse56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 9
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 11
+    },
+    {
+      "userId": 855,
+      "username": "Yoyo56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 4,
+          "podiums": 12
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 4,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 68,
+      "username": "aurel",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 9
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 9
+    },
+    {
+      "userId": 82,
+      "username": "gg42",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 93,
+      "username": "MasterPom",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 103,
+      "username": "Raùl",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 4
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 6
+    },
+    {
+      "userId": 107,
+      "username": "Remundo",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 6
+    },
+    {
+      "userId": 139,
+      "username": "braor",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 2,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 10
+    },
+    {
+      "userId": 142,
+      "username": "watcher",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 10
+    },
+    {
+      "userId": 173,
+      "username": "ASSJ",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 4
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 13
+    },
+    {
+      "userId": 204,
+      "username": "Zizou63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 7
+    },
+    {
+      "userId": 225,
+      "username": "Rafa",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 11
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 5
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 2,
+          "podiums": 6
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 23
+    },
+    {
+      "userId": 253,
+      "username": "Jhips",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 4
+    },
+    {
+      "userId": 255,
+      "username": "footix29",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 3,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 7
+    },
+    {
+      "userId": 310,
+      "username": "Ninouchka56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 7
+    },
+    {
+      "userId": 863,
+      "username": "Thauvin63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 9
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 4
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 17
+    },
+    {
+      "userId": 893,
+      "username": "James56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 8
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 6
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 3,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 77,
+      "username": "dom",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 86,
+      "username": "KingPing",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 100,
+      "username": "Phil",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 101,
+      "username": "Pierre H 35",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 109,
+      "username": "cécé51",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 4
+    },
+    {
+      "userId": 128,
+      "username": "Awena",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 7
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 7
+    },
+    {
+      "userId": 147,
+      "username": "Tom",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 148,
+      "username": "Bouland",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 149,
+      "username": "Tom le gaulois",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 7
+    },
+    {
+      "userId": 218,
+      "username": "Erin",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 8
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 219,
+      "username": "Stephanix76",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 8
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 224,
+      "username": "Meria",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 229,
+      "username": "Ewen56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 273,
+      "username": "Aumiyo",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 9
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 274,
+      "username": "Chamois dor",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 5
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 4
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 14
+    },
+    {
+      "userId": 290,
+      "username": "Sasa",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 6
+    },
+    {
+      "userId": 851,
+      "username": "Grizou",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 856,
+      "username": "Anton",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 2,
+          "podiums": 6
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 11
+    },
+    {
+      "userId": 865,
+      "username": "Rotaldo",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 870,
+      "username": "SRFC",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 6
+    },
+    {
+      "userId": 876,
+      "username": "Caralho",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 13
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 16
+    },
+    {
+      "userId": 882,
+      "username": "Bisondesbois",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 888,
+      "username": "Kyky",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 896,
+      "username": "lele555",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 2,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 2,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 85,
+      "username": "julien77",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 104,
+      "username": "rayt",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 4
+    },
+    {
+      "userId": 106,
+      "username": "remi",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 108,
+      "username": "318bdx",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 120,
+      "username": "vincouille69",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 137,
+      "username": "tonton35",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 138,
+      "username": "le faucheur",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 163,
+      "username": "Davydenko",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 164,
+      "username": "guenaelle",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 167,
+      "username": "kingtanguy",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 169,
+      "username": "R-1",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 4
+    },
+    {
+      "userId": 170,
+      "username": "David",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 176,
+      "username": "Redcard",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 8
+    },
+    {
+      "userId": 187,
+      "username": "le toulousain",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 5
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 215,
+      "username": "Peter",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 216,
+      "username": "La Grande",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 226,
+      "username": "Cavegoal",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 7
+    },
+    {
+      "userId": 227,
+      "username": "Yann",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 6
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 6
+    },
+    {
+      "userId": 230,
+      "username": "Neymar",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 233,
+      "username": "baoab",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 237,
+      "username": "Ylann",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 7
+    },
+    {
+      "userId": 250,
+      "username": "Cheville-d-acier",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 261,
+      "username": "REUS15",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 4
+    },
+    {
+      "userId": 269,
+      "username": "Alex",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 4
+    },
+    {
+      "userId": 279,
+      "username": "JUNEV",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 280,
+      "username": "Keldom",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 284,
+      "username": "lobito63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 286,
+      "username": "ifix",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 293,
+      "username": "Bond49",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 311,
+      "username": "Baradona",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 5
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 5
+    },
+    {
+      "userId": 850,
+      "username": "El Kun",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 860,
+      "username": "adri22590",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 1,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 867,
+      "username": "UmTITI",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 1,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 902,
+      "username": "Lili",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 1,
+          "podiums": 2
+        }
+      },
+      "totalVictoires": 1,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 78,
+      "username": "dudale",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 88,
+      "username": "Le roi du pronostic",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 90,
+      "username": "tracnard63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 99,
+      "username": "Petit_Lapin_Bleu",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 121,
+      "username": "berod",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 122,
+      "username": "marsollier",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 124,
+      "username": "rhum034",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 125,
+      "username": "emno63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 130,
+      "username": "beuc",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 131,
+      "username": "S@m",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 134,
+      "username": "Clark",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 150,
+      "username": "ludolulu",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 153,
+      "username": "Paypay",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 157,
+      "username": "nicolegaulois",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 158,
+      "username": "Solouyo",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 4
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 6
+    },
+    {
+      "userId": 159,
+      "username": "Jeff le gaulois",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 186,
+      "username": "PhoeNicks",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 194,
+      "username": "Phanette",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 195,
+      "username": "Sacapinar",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 199,
+      "username": "Raynaldo",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 221,
+      "username": "Bofman",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 223,
+      "username": "Manon",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 248,
+      "username": "Yannick",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 249,
+      "username": "messi63",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 4
+    },
+    {
+      "userId": 264,
+      "username": "quentdu56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 271,
+      "username": "Cantona One",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 283,
+      "username": "Bg coco",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 3
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 285,
+      "username": "Merlu54",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 2
+    },
+    {
+      "userId": 312,
+      "username": "Jipeurien",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 848,
+      "username": "quinquin56",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 866,
+      "username": "Aulasinho",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 2
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 1
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 3
+    },
+    {
+      "userId": 872,
+      "username": "Kevin",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 873,
+      "username": "Yael",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    },
+    {
+      "userId": 889,
+      "username": "Loghane25",
+      "byCompetition": {
+        "ligue1": {
+          "victoires": 0,
+          "podiums": 1
+        },
+        "ldc": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "ligaeuropa": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "top14": {
+          "victoires": 0,
+          "podiums": 0
+        },
+        "international": {
+          "victoires": 0,
+          "podiums": 0
+        }
+      },
+      "totalVictoires": 0,
+      "totalPodiums": 1
+    }
+  ]
+}

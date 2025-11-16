@@ -1,0 +1,160 @@
+{
+  "season": "international-2009",
+  "seasonId": "3",
+  "seasonName": "Euro Espoirs 2009",
+  "totalMatches": 15,
+  "totalJournees": 4,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 6020,
+      "journee": 1,
+      "date": "2009-06-15 18:15:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Finlande",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 6021,
+      "journee": 1,
+      "date": "2009-06-15 20:45:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Allemagne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 6022,
+      "journee": 1,
+      "date": "2009-06-16 18:15:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Biélorussie",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 6023,
+      "journee": 1,
+      "date": "2009-06-16 20:45:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Serbie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 6024,
+      "journee": 2,
+      "date": "2009-06-18 18:15:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Finlande",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 6025,
+      "journee": 2,
+      "date": "2009-06-18 20:45:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 6026,
+      "journee": 2,
+      "date": "2009-06-19 16:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 6027,
+      "journee": 2,
+      "date": "2009-06-19 18:15:00",
+      "homeTeam": "Biélorussie",
+      "awayTeam": "Serbie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 6028,
+      "journee": 3,
+      "date": "2009-06-22 20:45:00",
+      "homeTeam": "Finlande",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 6029,
+      "journee": 3,
+      "date": "2009-06-22 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 6030,
+      "journee": 3,
+      "date": "2009-06-23 20:45:00",
+      "homeTeam": "Serbie",
+      "awayTeam": "Suède",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 6031,
+      "journee": 3,
+      "date": "2009-06-23 20:45:00",
+      "homeTeam": "Biélorussie",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 6792,
+      "journee": 4,
+      "date": "2009-06-26 18:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Suède",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 6793,
+      "journee": 4,
+      "date": "2009-06-26 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 6794,
+      "journee": 4,
+      "date": "2009-06-29 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Angleterre",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    }
+  ]
+}

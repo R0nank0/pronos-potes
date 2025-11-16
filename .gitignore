@@ -1,1 +1,39 @@
+# ===================================================
+# GitHub Deployment Configuration - pronos-potes
+# ===================================================
+
+# Fichiers sources bruts (157 MB - ne pas déployer)
+scripts/datasources/
+scripts/export-sql/
+test-output/
+
+# Documentation technique (garder en local uniquement)
 CLAUDE.md
+GUIDE-COMPLET.md
+TEAMS_BY_SEASON.txt
+TEAMS_TO_ADD.txt
+
+# Backups des scripts SQL
+*.sql.bak
+
+# Logs
+*.log
+
+# Node modules (si on ajoute Node.js plus tard)
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environnement
+.env
+.env.local

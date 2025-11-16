@@ -1,0 +1,3589 @@
+{
+  "season": "ldc-2012-2013",
+  "generatedAt": "2025-11-07T15:38:43.205Z",
+  "totalJournees": 15,
+  "history": [
+    {
+      "journee": 1,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 60,
+          "corrects": 7
+        },
+        {
+          "rank": 2,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 58,
+          "corrects": 6
+        },
+        {
+          "rank": 3,
+          "userId": 119,
+          "username": "Viken",
+          "points": 52,
+          "corrects": 5
+        },
+        {
+          "rank": 4,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 50,
+          "corrects": 6
+        },
+        {
+          "rank": 5,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 48,
+          "corrects": 6
+        },
+        {
+          "rank": 6,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 46,
+          "corrects": 6
+        },
+        {
+          "rank": 7,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 42,
+          "corrects": 6
+        },
+        {
+          "rank": 7,
+          "userId": 114,
+          "username": "simone",
+          "points": 42,
+          "corrects": 6
+        },
+        {
+          "rank": 7,
+          "userId": 151,
+          "username": "Julian",
+          "points": 42,
+          "corrects": 6
+        },
+        {
+          "rank": 10,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 30,
+          "corrects": 5
+        },
+        {
+          "rank": 10,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 30,
+          "corrects": 5
+        },
+        {
+          "rank": 10,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 30,
+          "corrects": 5
+        },
+        {
+          "rank": 10,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 30,
+          "corrects": 5
+        },
+        {
+          "rank": 10,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 30,
+          "corrects": 4
+        },
+        {
+          "rank": 10,
+          "userId": 166,
+          "username": "papyno",
+          "points": 30,
+          "corrects": 4
+        },
+        {
+          "rank": 10,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 30,
+          "corrects": 4
+        },
+        {
+          "rank": 10,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 30,
+          "corrects": 4
+        },
+        {
+          "rank": 18,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 28,
+          "corrects": 4
+        },
+        {
+          "rank": 18,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 28,
+          "corrects": 4
+        },
+        {
+          "rank": 18,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 28,
+          "corrects": 4
+        },
+        {
+          "rank": 21,
+          "userId": 89,
+          "username": "loicot",
+          "points": 24,
+          "corrects": 4
+        },
+        {
+          "rank": 21,
+          "userId": 95,
+          "username": "nanard",
+          "points": 24,
+          "corrects": 4
+        },
+        {
+          "rank": 21,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 24,
+          "corrects": 4
+        },
+        {
+          "rank": 21,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 24,
+          "corrects": 4
+        },
+        {
+          "rank": 21,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 24,
+          "corrects": 4
+        },
+        {
+          "rank": 26,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 22,
+          "corrects": 3
+        },
+        {
+          "rank": 27,
+          "userId": 80,
+          "username": "fred",
+          "points": 18,
+          "corrects": 3
+        },
+        {
+          "rank": 27,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 18,
+          "corrects": 3
+        },
+        {
+          "rank": 27,
+          "userId": 209,
+          "username": "FredM",
+          "points": 18,
+          "corrects": 3
+        },
+        {
+          "rank": 27,
+          "userId": 215,
+          "username": "Peter",
+          "points": 18,
+          "corrects": 3
+        }
+      ]
+    },
+    {
+      "journee": 2,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 112,
+          "corrects": 11
+        },
+        {
+          "rank": 2,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 106,
+          "corrects": 11
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 88,
+          "corrects": 11
+        },
+        {
+          "rank": 4,
+          "userId": 119,
+          "username": "Viken",
+          "points": 86,
+          "corrects": 10
+        },
+        {
+          "rank": 5,
+          "userId": 114,
+          "username": "simone",
+          "points": 78,
+          "corrects": 11
+        },
+        {
+          "rank": 5,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 78,
+          "corrects": 10
+        },
+        {
+          "rank": 7,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 76,
+          "corrects": 10
+        },
+        {
+          "rank": 8,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 74,
+          "corrects": 10
+        },
+        {
+          "rank": 8,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 74,
+          "corrects": 8
+        },
+        {
+          "rank": 10,
+          "userId": 151,
+          "username": "Julian",
+          "points": 72,
+          "corrects": 11
+        },
+        {
+          "rank": 10,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 72,
+          "corrects": 10
+        },
+        {
+          "rank": 12,
+          "userId": 80,
+          "username": "fred",
+          "points": 68,
+          "corrects": 9
+        },
+        {
+          "rank": 13,
+          "userId": 89,
+          "username": "loicot",
+          "points": 66,
+          "corrects": 10
+        },
+        {
+          "rank": 14,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 64,
+          "corrects": 10
+        },
+        {
+          "rank": 14,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 64,
+          "corrects": 9
+        },
+        {
+          "rank": 16,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 60,
+          "corrects": 10
+        },
+        {
+          "rank": 16,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 60,
+          "corrects": 8
+        },
+        {
+          "rank": 18,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 58,
+          "corrects": 8
+        },
+        {
+          "rank": 18,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 58,
+          "corrects": 8
+        },
+        {
+          "rank": 20,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 56,
+          "corrects": 8
+        },
+        {
+          "rank": 21,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 54,
+          "corrects": 9
+        },
+        {
+          "rank": 21,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 54,
+          "corrects": 9
+        },
+        {
+          "rank": 21,
+          "userId": 166,
+          "username": "papyno",
+          "points": 54,
+          "corrects": 8
+        },
+        {
+          "rank": 24,
+          "userId": 209,
+          "username": "FredM",
+          "points": 52,
+          "corrects": 8
+        },
+        {
+          "rank": 24,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 52,
+          "corrects": 7
+        },
+        {
+          "rank": 26,
+          "userId": 95,
+          "username": "nanard",
+          "points": 48,
+          "corrects": 8
+        },
+        {
+          "rank": 26,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 48,
+          "corrects": 8
+        },
+        {
+          "rank": 28,
+          "userId": 215,
+          "username": "Peter",
+          "points": 46,
+          "corrects": 7
+        },
+        {
+          "rank": 28,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 46,
+          "corrects": 6
+        },
+        {
+          "rank": 30,
+          "userId": 217,
+          "username": "Keith",
+          "points": 34,
+          "corrects": 4
+        },
+        {
+          "rank": 31,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 30,
+          "corrects": 5
+        },
+        {
+          "rank": 32,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 28,
+          "corrects": 4
+        },
+        {
+          "rank": 33,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 24,
+          "corrects": 4
+        }
+      ]
+    },
+    {
+      "journee": 3,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 124,
+          "corrects": 14
+        },
+        {
+          "rank": 1,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 124,
+          "corrects": 13
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 116,
+          "corrects": 15
+        },
+        {
+          "rank": 4,
+          "userId": 114,
+          "username": "simone",
+          "points": 112,
+          "corrects": 15
+        },
+        {
+          "rank": 5,
+          "userId": 119,
+          "username": "Viken",
+          "points": 108,
+          "corrects": 13
+        },
+        {
+          "rank": 6,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 106,
+          "corrects": 12
+        },
+        {
+          "rank": 7,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 104,
+          "corrects": 14
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 102,
+          "corrects": 14
+        },
+        {
+          "rank": 9,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 98,
+          "corrects": 13
+        },
+        {
+          "rank": 10,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 96,
+          "corrects": 14
+        },
+        {
+          "rank": 11,
+          "userId": 151,
+          "username": "Julian",
+          "points": 90,
+          "corrects": 14
+        },
+        {
+          "rank": 12,
+          "userId": 80,
+          "username": "fred",
+          "points": 86,
+          "corrects": 12
+        },
+        {
+          "rank": 12,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 86,
+          "corrects": 12
+        },
+        {
+          "rank": 12,
+          "userId": 166,
+          "username": "papyno",
+          "points": 86,
+          "corrects": 12
+        },
+        {
+          "rank": 15,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 82,
+          "corrects": 13
+        },
+        {
+          "rank": 15,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 82,
+          "corrects": 13
+        },
+        {
+          "rank": 15,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 82,
+          "corrects": 11
+        },
+        {
+          "rank": 18,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 80,
+          "corrects": 10
+        },
+        {
+          "rank": 19,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 78,
+          "corrects": 13
+        },
+        {
+          "rank": 19,
+          "userId": 89,
+          "username": "loicot",
+          "points": 78,
+          "corrects": 12
+        },
+        {
+          "rank": 19,
+          "userId": 95,
+          "username": "nanard",
+          "points": 78,
+          "corrects": 12
+        },
+        {
+          "rank": 22,
+          "userId": 209,
+          "username": "FredM",
+          "points": 76,
+          "corrects": 12
+        },
+        {
+          "rank": 23,
+          "userId": 215,
+          "username": "Peter",
+          "points": 74,
+          "corrects": 11
+        },
+        {
+          "rank": 23,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 74,
+          "corrects": 10
+        },
+        {
+          "rank": 25,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 68,
+          "corrects": 10
+        },
+        {
+          "rank": 26,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 62,
+          "corrects": 8
+        },
+        {
+          "rank": 26,
+          "userId": 217,
+          "username": "Keith",
+          "points": 62,
+          "corrects": 8
+        },
+        {
+          "rank": 28,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 60,
+          "corrects": 10
+        },
+        {
+          "rank": 28,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 60,
+          "corrects": 8
+        },
+        {
+          "rank": 30,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 58,
+          "corrects": 8
+        },
+        {
+          "rank": 31,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 54,
+          "corrects": 9
+        },
+        {
+          "rank": 32,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 30,
+          "corrects": 5
+        },
+        {
+          "rank": 33,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 28,
+          "corrects": 4
+        }
+      ]
+    },
+    {
+      "journee": 4,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 152,
+          "corrects": 18
+        },
+        {
+          "rank": 2,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 146,
+          "corrects": 16
+        },
+        {
+          "rank": 3,
+          "userId": 114,
+          "username": "simone",
+          "points": 138,
+          "corrects": 18
+        },
+        {
+          "rank": 4,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 134,
+          "corrects": 18
+        },
+        {
+          "rank": 5,
+          "userId": 119,
+          "username": "Viken",
+          "points": 130,
+          "corrects": 16
+        },
+        {
+          "rank": 5,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 130,
+          "corrects": 16
+        },
+        {
+          "rank": 7,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 128,
+          "corrects": 18
+        },
+        {
+          "rank": 8,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 124,
+          "corrects": 18
+        },
+        {
+          "rank": 8,
+          "userId": 166,
+          "username": "papyno",
+          "points": 124,
+          "corrects": 17
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 120,
+          "corrects": 17
+        },
+        {
+          "rank": 11,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 116,
+          "corrects": 16
+        },
+        {
+          "rank": 11,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 116,
+          "corrects": 16
+        },
+        {
+          "rank": 13,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 112,
+          "corrects": 16
+        },
+        {
+          "rank": 14,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 110,
+          "corrects": 16
+        },
+        {
+          "rank": 15,
+          "userId": 151,
+          "username": "Julian",
+          "points": 108,
+          "corrects": 17
+        },
+        {
+          "rank": 15,
+          "userId": 80,
+          "username": "fred",
+          "points": 108,
+          "corrects": 15
+        },
+        {
+          "rank": 15,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 108,
+          "corrects": 15
+        },
+        {
+          "rank": 18,
+          "userId": 215,
+          "username": "Peter",
+          "points": 104,
+          "corrects": 16
+        },
+        {
+          "rank": 18,
+          "userId": 95,
+          "username": "nanard",
+          "points": 104,
+          "corrects": 15
+        },
+        {
+          "rank": 20,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 102,
+          "corrects": 17
+        },
+        {
+          "rank": 20,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 102,
+          "corrects": 16
+        },
+        {
+          "rank": 20,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 102,
+          "corrects": 13
+        },
+        {
+          "rank": 23,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 100,
+          "corrects": 16
+        },
+        {
+          "rank": 24,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 96,
+          "corrects": 13
+        },
+        {
+          "rank": 25,
+          "userId": 209,
+          "username": "FredM",
+          "points": 94,
+          "corrects": 15
+        },
+        {
+          "rank": 26,
+          "userId": 89,
+          "username": "loicot",
+          "points": 90,
+          "corrects": 14
+        },
+        {
+          "rank": 27,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 86,
+          "corrects": 13
+        },
+        {
+          "rank": 27,
+          "userId": 217,
+          "username": "Keith",
+          "points": 86,
+          "corrects": 12
+        },
+        {
+          "rank": 27,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 86,
+          "corrects": 11
+        },
+        {
+          "rank": 30,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 82,
+          "corrects": 12
+        },
+        {
+          "rank": 31,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 54,
+          "corrects": 9
+        },
+        {
+          "rank": 32,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 52,
+          "corrects": 8
+        },
+        {
+          "rank": 33,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 42,
+          "corrects": 7
+        }
+      ]
+    },
+    {
+      "journee": 5,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 198,
+          "corrects": 22
+        },
+        {
+          "rank": 2,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 176,
+          "corrects": 20
+        },
+        {
+          "rank": 3,
+          "userId": 119,
+          "username": "Viken",
+          "points": 166,
+          "corrects": 21
+        },
+        {
+          "rank": 3,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 166,
+          "corrects": 21
+        },
+        {
+          "rank": 5,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 164,
+          "corrects": 23
+        },
+        {
+          "rank": 6,
+          "userId": 114,
+          "username": "simone",
+          "points": 162,
+          "corrects": 22
+        },
+        {
+          "rank": 6,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 162,
+          "corrects": 22
+        },
+        {
+          "rank": 8,
+          "userId": 166,
+          "username": "papyno",
+          "points": 154,
+          "corrects": 22
+        },
+        {
+          "rank": 9,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 152,
+          "corrects": 22
+        },
+        {
+          "rank": 9,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 152,
+          "corrects": 22
+        },
+        {
+          "rank": 9,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 152,
+          "corrects": 21
+        },
+        {
+          "rank": 12,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 150,
+          "corrects": 22
+        },
+        {
+          "rank": 13,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 146,
+          "corrects": 21
+        },
+        {
+          "rank": 14,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 138,
+          "corrects": 21
+        },
+        {
+          "rank": 14,
+          "userId": 215,
+          "username": "Peter",
+          "points": 138,
+          "corrects": 21
+        },
+        {
+          "rank": 14,
+          "userId": 95,
+          "username": "nanard",
+          "points": 138,
+          "corrects": 19
+        },
+        {
+          "rank": 17,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 132,
+          "corrects": 19
+        },
+        {
+          "rank": 17,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 132,
+          "corrects": 18
+        },
+        {
+          "rank": 19,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 130,
+          "corrects": 20
+        },
+        {
+          "rank": 20,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 128,
+          "corrects": 19
+        },
+        {
+          "rank": 21,
+          "userId": 80,
+          "username": "fred",
+          "points": 126,
+          "corrects": 18
+        },
+        {
+          "rank": 22,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 120,
+          "corrects": 20
+        },
+        {
+          "rank": 22,
+          "userId": 89,
+          "username": "loicot",
+          "points": 120,
+          "corrects": 18
+        },
+        {
+          "rank": 24,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 116,
+          "corrects": 18
+        },
+        {
+          "rank": 25,
+          "userId": 209,
+          "username": "FredM",
+          "points": 112,
+          "corrects": 18
+        },
+        {
+          "rank": 26,
+          "userId": 217,
+          "username": "Keith",
+          "points": 110,
+          "corrects": 16
+        },
+        {
+          "rank": 27,
+          "userId": 151,
+          "username": "Julian",
+          "points": 108,
+          "corrects": 17
+        },
+        {
+          "rank": 28,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 102,
+          "corrects": 13
+        },
+        {
+          "rank": 29,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 94,
+          "corrects": 14
+        },
+        {
+          "rank": 30,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 86,
+          "corrects": 11
+        },
+        {
+          "rank": 31,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 82,
+          "corrects": 13
+        },
+        {
+          "rank": 32,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 66,
+          "corrects": 11
+        },
+        {
+          "rank": 33,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 52,
+          "corrects": 8
+        }
+      ]
+    },
+    {
+      "journee": 6,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 222,
+          "corrects": 26
+        },
+        {
+          "rank": 2,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 212,
+          "corrects": 29
+        },
+        {
+          "rank": 3,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 198,
+          "corrects": 23
+        },
+        {
+          "rank": 4,
+          "userId": 119,
+          "username": "Viken",
+          "points": 194,
+          "corrects": 25
+        },
+        {
+          "rank": 5,
+          "userId": 166,
+          "username": "papyno",
+          "points": 184,
+          "corrects": 26
+        },
+        {
+          "rank": 5,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 184,
+          "corrects": 24
+        },
+        {
+          "rank": 7,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 180,
+          "corrects": 26
+        },
+        {
+          "rank": 7,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 180,
+          "corrects": 26
+        },
+        {
+          "rank": 7,
+          "userId": 114,
+          "username": "simone",
+          "points": 180,
+          "corrects": 25
+        },
+        {
+          "rank": 10,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 174,
+          "corrects": 24
+        },
+        {
+          "rank": 11,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 172,
+          "corrects": 25
+        },
+        {
+          "rank": 12,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 170,
+          "corrects": 25
+        },
+        {
+          "rank": 12,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 170,
+          "corrects": 24
+        },
+        {
+          "rank": 14,
+          "userId": 215,
+          "username": "Peter",
+          "points": 166,
+          "corrects": 25
+        },
+        {
+          "rank": 15,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 156,
+          "corrects": 24
+        },
+        {
+          "rank": 15,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 156,
+          "corrects": 23
+        },
+        {
+          "rank": 15,
+          "userId": 95,
+          "username": "nanard",
+          "points": 156,
+          "corrects": 22
+        },
+        {
+          "rank": 15,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 156,
+          "corrects": 22
+        },
+        {
+          "rank": 19,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 154,
+          "corrects": 24
+        },
+        {
+          "rank": 19,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 154,
+          "corrects": 22
+        },
+        {
+          "rank": 21,
+          "userId": 89,
+          "username": "loicot",
+          "points": 148,
+          "corrects": 22
+        },
+        {
+          "rank": 22,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 144,
+          "corrects": 24
+        },
+        {
+          "rank": 23,
+          "userId": 80,
+          "username": "fred",
+          "points": 142,
+          "corrects": 20
+        },
+        {
+          "rank": 24,
+          "userId": 209,
+          "username": "FredM",
+          "points": 136,
+          "corrects": 22
+        },
+        {
+          "rank": 25,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 128,
+          "corrects": 20
+        },
+        {
+          "rank": 25,
+          "userId": 217,
+          "username": "Keith",
+          "points": 128,
+          "corrects": 19
+        },
+        {
+          "rank": 27,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 112,
+          "corrects": 17
+        },
+        {
+          "rank": 28,
+          "userId": 151,
+          "username": "Julian",
+          "points": 108,
+          "corrects": 17
+        },
+        {
+          "rank": 29,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 104,
+          "corrects": 16
+        },
+        {
+          "rank": 30,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 102,
+          "corrects": 13
+        },
+        {
+          "rank": 31,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 98,
+          "corrects": 15
+        },
+        {
+          "rank": 32,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 86,
+          "corrects": 11
+        },
+        {
+          "rank": 33,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 74,
+          "corrects": 11
+        }
+      ]
+    },
+    {
+      "journee": 7,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 258,
+          "corrects": 30
+        },
+        {
+          "rank": 2,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 228,
+          "corrects": 28
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 224,
+          "corrects": 31
+        },
+        {
+          "rank": 4,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 216,
+          "corrects": 30
+        },
+        {
+          "rank": 4,
+          "userId": 119,
+          "username": "Viken",
+          "points": 216,
+          "corrects": 28
+        },
+        {
+          "rank": 6,
+          "userId": 166,
+          "username": "papyno",
+          "points": 214,
+          "corrects": 31
+        },
+        {
+          "rank": 7,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 210,
+          "corrects": 28
+        },
+        {
+          "rank": 8,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 204,
+          "corrects": 28
+        },
+        {
+          "rank": 9,
+          "userId": 114,
+          "username": "simone",
+          "points": 198,
+          "corrects": 28
+        },
+        {
+          "rank": 9,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 198,
+          "corrects": 28
+        },
+        {
+          "rank": 11,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 196,
+          "corrects": 26
+        },
+        {
+          "rank": 12,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 192,
+          "corrects": 27
+        },
+        {
+          "rank": 13,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 188,
+          "corrects": 28
+        },
+        {
+          "rank": 14,
+          "userId": 95,
+          "username": "nanard",
+          "points": 186,
+          "corrects": 25
+        },
+        {
+          "rank": 15,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 182,
+          "corrects": 25
+        },
+        {
+          "rank": 16,
+          "userId": 215,
+          "username": "Peter",
+          "points": 178,
+          "corrects": 27
+        },
+        {
+          "rank": 17,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 176,
+          "corrects": 27
+        },
+        {
+          "rank": 18,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 174,
+          "corrects": 26
+        },
+        {
+          "rank": 19,
+          "userId": 209,
+          "username": "FredM",
+          "points": 172,
+          "corrects": 26
+        },
+        {
+          "rank": 20,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 170,
+          "corrects": 25
+        },
+        {
+          "rank": 20,
+          "userId": 80,
+          "username": "fred",
+          "points": 170,
+          "corrects": 24
+        },
+        {
+          "rank": 22,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 166,
+          "corrects": 24
+        },
+        {
+          "rank": 23,
+          "userId": 217,
+          "username": "Keith",
+          "points": 164,
+          "corrects": 23
+        },
+        {
+          "rank": 24,
+          "userId": 89,
+          "username": "loicot",
+          "points": 160,
+          "corrects": 24
+        },
+        {
+          "rank": 25,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 156,
+          "corrects": 26
+        },
+        {
+          "rank": 26,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 140,
+          "corrects": 22
+        },
+        {
+          "rank": 27,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 132,
+          "corrects": 19
+        },
+        {
+          "rank": 28,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 130,
+          "corrects": 17
+        },
+        {
+          "rank": 29,
+          "userId": 151,
+          "username": "Julian",
+          "points": 120,
+          "corrects": 19
+        },
+        {
+          "rank": 29,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 120,
+          "corrects": 14
+        },
+        {
+          "rank": 31,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 104,
+          "corrects": 16
+        },
+        {
+          "rank": 32,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 98,
+          "corrects": 15
+        },
+        {
+          "rank": 33,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 74,
+          "corrects": 11
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 26,
+          "corrects": 3
+        }
+      ]
+    },
+    {
+      "journee": 8,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 300,
+          "corrects": 36
+        },
+        {
+          "rank": 2,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 266,
+          "corrects": 37
+        },
+        {
+          "rank": 2,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 266,
+          "corrects": 35
+        },
+        {
+          "rank": 4,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 258,
+          "corrects": 34
+        },
+        {
+          "rank": 5,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 254,
+          "corrects": 35
+        },
+        {
+          "rank": 6,
+          "userId": 166,
+          "username": "papyno",
+          "points": 252,
+          "corrects": 36
+        },
+        {
+          "rank": 7,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 246,
+          "corrects": 34
+        },
+        {
+          "rank": 7,
+          "userId": 119,
+          "username": "Viken",
+          "points": 246,
+          "corrects": 33
+        },
+        {
+          "rank": 7,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 246,
+          "corrects": 31
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 240,
+          "corrects": 34
+        },
+        {
+          "rank": 11,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 238,
+          "corrects": 32
+        },
+        {
+          "rank": 12,
+          "userId": 114,
+          "username": "simone",
+          "points": 232,
+          "corrects": 33
+        },
+        {
+          "rank": 12,
+          "userId": 215,
+          "username": "Peter",
+          "points": 232,
+          "corrects": 33
+        },
+        {
+          "rank": 14,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 224,
+          "corrects": 31
+        },
+        {
+          "rank": 14,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 224,
+          "corrects": 31
+        },
+        {
+          "rank": 14,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 224,
+          "corrects": 30
+        },
+        {
+          "rank": 17,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 220,
+          "corrects": 31
+        },
+        {
+          "rank": 18,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 218,
+          "corrects": 33
+        },
+        {
+          "rank": 19,
+          "userId": 95,
+          "username": "nanard",
+          "points": 216,
+          "corrects": 30
+        },
+        {
+          "rank": 20,
+          "userId": 209,
+          "username": "FredM",
+          "points": 206,
+          "corrects": 31
+        },
+        {
+          "rank": 21,
+          "userId": 80,
+          "username": "fred",
+          "points": 200,
+          "corrects": 29
+        },
+        {
+          "rank": 22,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 198,
+          "corrects": 32
+        },
+        {
+          "rank": 23,
+          "userId": 217,
+          "username": "Keith",
+          "points": 194,
+          "corrects": 28
+        },
+        {
+          "rank": 24,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 192,
+          "corrects": 29
+        },
+        {
+          "rank": 25,
+          "userId": 89,
+          "username": "loicot",
+          "points": 190,
+          "corrects": 29
+        },
+        {
+          "rank": 25,
+          "userId": 151,
+          "username": "Julian",
+          "points": 190,
+          "corrects": 26
+        },
+        {
+          "rank": 27,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 188,
+          "corrects": 26
+        },
+        {
+          "rank": 28,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 162,
+          "corrects": 25
+        },
+        {
+          "rank": 29,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 158,
+          "corrects": 21
+        },
+        {
+          "rank": 30,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 154,
+          "corrects": 22
+        },
+        {
+          "rank": 31,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 120,
+          "corrects": 14
+        },
+        {
+          "rank": 32,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 98,
+          "corrects": 15
+        },
+        {
+          "rank": 33,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 74,
+          "corrects": 11
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 68,
+          "corrects": 9
+        }
+      ]
+    },
+    {
+      "journee": 9,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 336,
+          "corrects": 41
+        },
+        {
+          "rank": 2,
+          "userId": 166,
+          "username": "papyno",
+          "points": 298,
+          "corrects": 42
+        },
+        {
+          "rank": 3,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 296,
+          "corrects": 42
+        },
+        {
+          "rank": 3,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 296,
+          "corrects": 40
+        },
+        {
+          "rank": 3,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 296,
+          "corrects": 40
+        },
+        {
+          "rank": 6,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 294,
+          "corrects": 39
+        },
+        {
+          "rank": 7,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 292,
+          "corrects": 37
+        },
+        {
+          "rank": 8,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 286,
+          "corrects": 39
+        },
+        {
+          "rank": 9,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 284,
+          "corrects": 40
+        },
+        {
+          "rank": 10,
+          "userId": 119,
+          "username": "Viken",
+          "points": 282,
+          "corrects": 38
+        },
+        {
+          "rank": 11,
+          "userId": 114,
+          "username": "simone",
+          "points": 280,
+          "corrects": 39
+        },
+        {
+          "rank": 12,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 254,
+          "corrects": 38
+        },
+        {
+          "rank": 13,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 250,
+          "corrects": 36
+        },
+        {
+          "rank": 13,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 250,
+          "corrects": 34
+        },
+        {
+          "rank": 15,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 248,
+          "corrects": 35
+        },
+        {
+          "rank": 15,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 248,
+          "corrects": 34
+        },
+        {
+          "rank": 17,
+          "userId": 215,
+          "username": "Peter",
+          "points": 244,
+          "corrects": 35
+        },
+        {
+          "rank": 17,
+          "userId": 95,
+          "username": "nanard",
+          "points": 244,
+          "corrects": 34
+        },
+        {
+          "rank": 19,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 242,
+          "corrects": 34
+        },
+        {
+          "rank": 20,
+          "userId": 217,
+          "username": "Keith",
+          "points": 222,
+          "corrects": 31
+        },
+        {
+          "rank": 21,
+          "userId": 80,
+          "username": "fred",
+          "points": 218,
+          "corrects": 32
+        },
+        {
+          "rank": 22,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 216,
+          "corrects": 35
+        },
+        {
+          "rank": 22,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 216,
+          "corrects": 32
+        },
+        {
+          "rank": 24,
+          "userId": 209,
+          "username": "FredM",
+          "points": 212,
+          "corrects": 32
+        },
+        {
+          "rank": 24,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 212,
+          "corrects": 29
+        },
+        {
+          "rank": 26,
+          "userId": 89,
+          "username": "loicot",
+          "points": 208,
+          "corrects": 32
+        },
+        {
+          "rank": 26,
+          "userId": 151,
+          "username": "Julian",
+          "points": 208,
+          "corrects": 29
+        },
+        {
+          "rank": 28,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 184,
+          "corrects": 26
+        },
+        {
+          "rank": 29,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 162,
+          "corrects": 25
+        },
+        {
+          "rank": 30,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 158,
+          "corrects": 21
+        },
+        {
+          "rank": 31,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 150,
+          "corrects": 19
+        },
+        {
+          "rank": 32,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 116,
+          "corrects": 18
+        },
+        {
+          "rank": 33,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 104,
+          "corrects": 16
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 92,
+          "corrects": 13
+        }
+      ]
+    },
+    {
+      "journee": 10,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 384,
+          "corrects": 47
+        },
+        {
+          "rank": 2,
+          "userId": 166,
+          "username": "papyno",
+          "points": 348,
+          "corrects": 48
+        },
+        {
+          "rank": 3,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 344,
+          "corrects": 45
+        },
+        {
+          "rank": 4,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 342,
+          "corrects": 46
+        },
+        {
+          "rank": 5,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 338,
+          "corrects": 46
+        },
+        {
+          "rank": 6,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 336,
+          "corrects": 47
+        },
+        {
+          "rank": 7,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 330,
+          "corrects": 42
+        },
+        {
+          "rank": 8,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 326,
+          "corrects": 45
+        },
+        {
+          "rank": 9,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 320,
+          "corrects": 41
+        },
+        {
+          "rank": 10,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 316,
+          "corrects": 45
+        },
+        {
+          "rank": 10,
+          "userId": 114,
+          "username": "simone",
+          "points": 316,
+          "corrects": 44
+        },
+        {
+          "rank": 12,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 314,
+          "corrects": 43
+        },
+        {
+          "rank": 13,
+          "userId": 119,
+          "username": "Viken",
+          "points": 312,
+          "corrects": 42
+        },
+        {
+          "rank": 14,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 308,
+          "corrects": 42
+        },
+        {
+          "rank": 15,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 292,
+          "corrects": 40
+        },
+        {
+          "rank": 16,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 290,
+          "corrects": 41
+        },
+        {
+          "rank": 17,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 284,
+          "corrects": 39
+        },
+        {
+          "rank": 18,
+          "userId": 215,
+          "username": "Peter",
+          "points": 274,
+          "corrects": 39
+        },
+        {
+          "rank": 18,
+          "userId": 95,
+          "username": "nanard",
+          "points": 274,
+          "corrects": 38
+        },
+        {
+          "rank": 20,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 268,
+          "corrects": 41
+        },
+        {
+          "rank": 21,
+          "userId": 151,
+          "username": "Julian",
+          "points": 258,
+          "corrects": 35
+        },
+        {
+          "rank": 22,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 254,
+          "corrects": 35
+        },
+        {
+          "rank": 23,
+          "userId": 217,
+          "username": "Keith",
+          "points": 252,
+          "corrects": 36
+        },
+        {
+          "rank": 24,
+          "userId": 80,
+          "username": "fred",
+          "points": 248,
+          "corrects": 37
+        },
+        {
+          "rank": 25,
+          "userId": 89,
+          "username": "loicot",
+          "points": 246,
+          "corrects": 37
+        },
+        {
+          "rank": 26,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 244,
+          "corrects": 36
+        },
+        {
+          "rank": 27,
+          "userId": 209,
+          "username": "FredM",
+          "points": 242,
+          "corrects": 37
+        },
+        {
+          "rank": 28,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 214,
+          "corrects": 31
+        },
+        {
+          "rank": 29,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 192,
+          "corrects": 25
+        },
+        {
+          "rank": 30,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 162,
+          "corrects": 25
+        },
+        {
+          "rank": 31,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 158,
+          "corrects": 21
+        },
+        {
+          "rank": 32,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 156,
+          "corrects": 22
+        },
+        {
+          "rank": 33,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 144,
+          "corrects": 22
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 124,
+          "corrects": 17
+        }
+      ]
+    },
+    {
+      "journee": 11,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 408,
+          "corrects": 50
+        },
+        {
+          "rank": 2,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 384,
+          "corrects": 52
+        },
+        {
+          "rank": 2,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 384,
+          "corrects": 50
+        },
+        {
+          "rank": 4,
+          "userId": 166,
+          "username": "papyno",
+          "points": 372,
+          "corrects": 51
+        },
+        {
+          "rank": 5,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 366,
+          "corrects": 49
+        },
+        {
+          "rank": 6,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 362,
+          "corrects": 49
+        },
+        {
+          "rank": 7,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 360,
+          "corrects": 50
+        },
+        {
+          "rank": 8,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 354,
+          "corrects": 45
+        },
+        {
+          "rank": 9,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 350,
+          "corrects": 48
+        },
+        {
+          "rank": 10,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 344,
+          "corrects": 44
+        },
+        {
+          "rank": 11,
+          "userId": 114,
+          "username": "simone",
+          "points": 340,
+          "corrects": 47
+        },
+        {
+          "rank": 12,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 338,
+          "corrects": 46
+        },
+        {
+          "rank": 13,
+          "userId": 119,
+          "username": "Viken",
+          "points": 336,
+          "corrects": 45
+        },
+        {
+          "rank": 14,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 332,
+          "corrects": 45
+        },
+        {
+          "rank": 15,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 316,
+          "corrects": 43
+        },
+        {
+          "rank": 16,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 314,
+          "corrects": 44
+        },
+        {
+          "rank": 17,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 312,
+          "corrects": 46
+        },
+        {
+          "rank": 18,
+          "userId": 215,
+          "username": "Peter",
+          "points": 310,
+          "corrects": 44
+        },
+        {
+          "rank": 19,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 308,
+          "corrects": 42
+        },
+        {
+          "rank": 20,
+          "userId": 95,
+          "username": "nanard",
+          "points": 298,
+          "corrects": 41
+        },
+        {
+          "rank": 21,
+          "userId": 209,
+          "username": "FredM",
+          "points": 282,
+          "corrects": 42
+        },
+        {
+          "rank": 21,
+          "userId": 151,
+          "username": "Julian",
+          "points": 282,
+          "corrects": 38
+        },
+        {
+          "rank": 23,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 278,
+          "corrects": 38
+        },
+        {
+          "rank": 24,
+          "userId": 217,
+          "username": "Keith",
+          "points": 276,
+          "corrects": 39
+        },
+        {
+          "rank": 25,
+          "userId": 80,
+          "username": "fred",
+          "points": 272,
+          "corrects": 40
+        },
+        {
+          "rank": 26,
+          "userId": 89,
+          "username": "loicot",
+          "points": 270,
+          "corrects": 40
+        },
+        {
+          "rank": 27,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 268,
+          "corrects": 39
+        },
+        {
+          "rank": 28,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 258,
+          "corrects": 36
+        },
+        {
+          "rank": 29,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 248,
+          "corrects": 32
+        },
+        {
+          "rank": 30,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 186,
+          "corrects": 28
+        },
+        {
+          "rank": 31,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 182,
+          "corrects": 24
+        },
+        {
+          "rank": 32,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 180,
+          "corrects": 25
+        },
+        {
+          "rank": 33,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 168,
+          "corrects": 25
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 148,
+          "corrects": 20
+        }
+      ]
+    },
+    {
+      "journee": 12,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 454,
+          "corrects": 56
+        },
+        {
+          "rank": 2,
+          "userId": 166,
+          "username": "papyno",
+          "points": 412,
+          "corrects": 56
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 408,
+          "corrects": 56
+        },
+        {
+          "rank": 3,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 408,
+          "corrects": 54
+        },
+        {
+          "rank": 5,
+          "userId": 114,
+          "username": "simone",
+          "points": 392,
+          "corrects": 53
+        },
+        {
+          "rank": 6,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 390,
+          "corrects": 53
+        },
+        {
+          "rank": 7,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 386,
+          "corrects": 53
+        },
+        {
+          "rank": 8,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 384,
+          "corrects": 54
+        },
+        {
+          "rank": 9,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 378,
+          "corrects": 49
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 374,
+          "corrects": 52
+        },
+        {
+          "rank": 11,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 368,
+          "corrects": 48
+        },
+        {
+          "rank": 12,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 362,
+          "corrects": 50
+        },
+        {
+          "rank": 12,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 362,
+          "corrects": 50
+        },
+        {
+          "rank": 14,
+          "userId": 119,
+          "username": "Viken",
+          "points": 360,
+          "corrects": 49
+        },
+        {
+          "rank": 15,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 356,
+          "corrects": 49
+        },
+        {
+          "rank": 16,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 340,
+          "corrects": 47
+        },
+        {
+          "rank": 17,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 336,
+          "corrects": 50
+        },
+        {
+          "rank": 18,
+          "userId": 215,
+          "username": "Peter",
+          "points": 334,
+          "corrects": 48
+        },
+        {
+          "rank": 19,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 332,
+          "corrects": 46
+        },
+        {
+          "rank": 20,
+          "userId": 80,
+          "username": "fred",
+          "points": 322,
+          "corrects": 46
+        },
+        {
+          "rank": 20,
+          "userId": 95,
+          "username": "nanard",
+          "points": 322,
+          "corrects": 45
+        },
+        {
+          "rank": 20,
+          "userId": 217,
+          "username": "Keith",
+          "points": 322,
+          "corrects": 45
+        },
+        {
+          "rank": 23,
+          "userId": 209,
+          "username": "FredM",
+          "points": 306,
+          "corrects": 46
+        },
+        {
+          "rank": 23,
+          "userId": 151,
+          "username": "Julian",
+          "points": 306,
+          "corrects": 42
+        },
+        {
+          "rank": 25,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 302,
+          "corrects": 42
+        },
+        {
+          "rank": 26,
+          "userId": 89,
+          "username": "loicot",
+          "points": 294,
+          "corrects": 44
+        },
+        {
+          "rank": 27,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 292,
+          "corrects": 43
+        },
+        {
+          "rank": 28,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 288,
+          "corrects": 37
+        },
+        {
+          "rank": 29,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 282,
+          "corrects": 40
+        },
+        {
+          "rank": 30,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 210,
+          "corrects": 32
+        },
+        {
+          "rank": 31,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 206,
+          "corrects": 28
+        },
+        {
+          "rank": 32,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 204,
+          "corrects": 29
+        },
+        {
+          "rank": 33,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 192,
+          "corrects": 29
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 172,
+          "corrects": 24
+        }
+      ]
+    },
+    {
+      "journee": 13,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 476,
+          "corrects": 59
+        },
+        {
+          "rank": 2,
+          "userId": 166,
+          "username": "papyno",
+          "points": 434,
+          "corrects": 59
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 430,
+          "corrects": 59
+        },
+        {
+          "rank": 3,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 430,
+          "corrects": 57
+        },
+        {
+          "rank": 5,
+          "userId": 114,
+          "username": "simone",
+          "points": 422,
+          "corrects": 57
+        },
+        {
+          "rank": 6,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 412,
+          "corrects": 56
+        },
+        {
+          "rank": 7,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 408,
+          "corrects": 56
+        },
+        {
+          "rank": 8,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 406,
+          "corrects": 57
+        },
+        {
+          "rank": 9,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 400,
+          "corrects": 52
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 396,
+          "corrects": 55
+        },
+        {
+          "rank": 11,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 390,
+          "corrects": 51
+        },
+        {
+          "rank": 12,
+          "userId": 217,
+          "username": "Keith",
+          "points": 388,
+          "corrects": 52
+        },
+        {
+          "rank": 13,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 384,
+          "corrects": 53
+        },
+        {
+          "rank": 13,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 384,
+          "corrects": 53
+        },
+        {
+          "rank": 15,
+          "userId": 119,
+          "username": "Viken",
+          "points": 382,
+          "corrects": 52
+        },
+        {
+          "rank": 16,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 378,
+          "corrects": 52
+        },
+        {
+          "rank": 17,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 362,
+          "corrects": 50
+        },
+        {
+          "rank": 17,
+          "userId": 151,
+          "username": "Julian",
+          "points": 362,
+          "corrects": 49
+        },
+        {
+          "rank": 19,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 358,
+          "corrects": 53
+        },
+        {
+          "rank": 19,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 358,
+          "corrects": 49
+        },
+        {
+          "rank": 21,
+          "userId": 215,
+          "username": "Peter",
+          "points": 356,
+          "corrects": 51
+        },
+        {
+          "rank": 22,
+          "userId": 80,
+          "username": "fred",
+          "points": 344,
+          "corrects": 49
+        },
+        {
+          "rank": 22,
+          "userId": 95,
+          "username": "nanard",
+          "points": 344,
+          "corrects": 48
+        },
+        {
+          "rank": 24,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 338,
+          "corrects": 47
+        },
+        {
+          "rank": 25,
+          "userId": 209,
+          "username": "FredM",
+          "points": 328,
+          "corrects": 49
+        },
+        {
+          "rank": 26,
+          "userId": 89,
+          "username": "loicot",
+          "points": 316,
+          "corrects": 47
+        },
+        {
+          "rank": 27,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 314,
+          "corrects": 46
+        },
+        {
+          "rank": 28,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 310,
+          "corrects": 40
+        },
+        {
+          "rank": 29,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 304,
+          "corrects": 43
+        },
+        {
+          "rank": 30,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 232,
+          "corrects": 35
+        },
+        {
+          "rank": 31,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 228,
+          "corrects": 31
+        },
+        {
+          "rank": 32,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 226,
+          "corrects": 32
+        },
+        {
+          "rank": 33,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 214,
+          "corrects": 32
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 198,
+          "corrects": 27
+        }
+      ]
+    },
+    {
+      "journee": 15,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 482,
+          "corrects": 60
+        },
+        {
+          "rank": 2,
+          "userId": 166,
+          "username": "papyno",
+          "points": 446,
+          "corrects": 61
+        },
+        {
+          "rank": 3,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 442,
+          "corrects": 59
+        },
+        {
+          "rank": 4,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 436,
+          "corrects": 60
+        },
+        {
+          "rank": 5,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 424,
+          "corrects": 58
+        },
+        {
+          "rank": 6,
+          "userId": 114,
+          "username": "simone",
+          "points": 422,
+          "corrects": 57
+        },
+        {
+          "rank": 7,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 414,
+          "corrects": 57
+        },
+        {
+          "rank": 8,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 412,
+          "corrects": 58
+        },
+        {
+          "rank": 9,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 403,
+          "corrects": 52
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 402,
+          "corrects": 56
+        },
+        {
+          "rank": 11,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 393,
+          "corrects": 51
+        },
+        {
+          "rank": 12,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 390,
+          "corrects": 54
+        },
+        {
+          "rank": 12,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 390,
+          "corrects": 54
+        },
+        {
+          "rank": 14,
+          "userId": 217,
+          "username": "Keith",
+          "points": 388,
+          "corrects": 52
+        },
+        {
+          "rank": 15,
+          "userId": 119,
+          "username": "Viken",
+          "points": 382,
+          "corrects": 52
+        },
+        {
+          "rank": 16,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 378,
+          "corrects": 52
+        },
+        {
+          "rank": 17,
+          "userId": 215,
+          "username": "Peter",
+          "points": 372,
+          "corrects": 53
+        },
+        {
+          "rank": 18,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 362,
+          "corrects": 50
+        },
+        {
+          "rank": 18,
+          "userId": 151,
+          "username": "Julian",
+          "points": 362,
+          "corrects": 49
+        },
+        {
+          "rank": 20,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 358,
+          "corrects": 53
+        },
+        {
+          "rank": 20,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 358,
+          "corrects": 49
+        },
+        {
+          "rank": 22,
+          "userId": 95,
+          "username": "nanard",
+          "points": 350,
+          "corrects": 49
+        },
+        {
+          "rank": 23,
+          "userId": 80,
+          "username": "fred",
+          "points": 344,
+          "corrects": 49
+        },
+        {
+          "rank": 24,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 338,
+          "corrects": 47
+        },
+        {
+          "rank": 25,
+          "userId": 209,
+          "username": "FredM",
+          "points": 328,
+          "corrects": 49
+        },
+        {
+          "rank": 26,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 324,
+          "corrects": 47
+        },
+        {
+          "rank": 27,
+          "userId": 89,
+          "username": "loicot",
+          "points": 316,
+          "corrects": 47
+        },
+        {
+          "rank": 27,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 316,
+          "corrects": 45
+        },
+        {
+          "rank": 29,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 310,
+          "corrects": 40
+        },
+        {
+          "rank": 30,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 232,
+          "corrects": 35
+        },
+        {
+          "rank": 31,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 229,
+          "corrects": 32
+        },
+        {
+          "rank": 32,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 228,
+          "corrects": 31
+        },
+        {
+          "rank": 33,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 214,
+          "corrects": 32
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 198,
+          "corrects": 27
+        }
+      ]
+    },
+    {
+      "journee": 16,
+      "standings": [
+        {
+          "rank": 1,
+          "userId": 160,
+          "username": "Freddy",
+          "points": 500,
+          "corrects": 63
+        },
+        {
+          "rank": 2,
+          "userId": 166,
+          "username": "papyno",
+          "points": 470,
+          "corrects": 65
+        },
+        {
+          "rank": 3,
+          "userId": 72,
+          "username": "Carlos64",
+          "points": 466,
+          "corrects": 65
+        },
+        {
+          "rank": 4,
+          "userId": 94,
+          "username": "Mirinko",
+          "points": 454,
+          "corrects": 61
+        },
+        {
+          "rank": 5,
+          "userId": 63,
+          "username": "Ronanko",
+          "points": 430,
+          "corrects": 61
+        },
+        {
+          "rank": 5,
+          "userId": 172,
+          "username": "Cantona63",
+          "points": 430,
+          "corrects": 59
+        },
+        {
+          "rank": 7,
+          "userId": 185,
+          "username": "Pittam",
+          "points": 427,
+          "corrects": 55
+        },
+        {
+          "rank": 8,
+          "userId": 114,
+          "username": "simone",
+          "points": 422,
+          "corrects": 57
+        },
+        {
+          "rank": 9,
+          "userId": 162,
+          "username": "Regbo",
+          "points": 420,
+          "corrects": 58
+        },
+        {
+          "rank": 10,
+          "userId": 177,
+          "username": "Dalimoi",
+          "points": 414,
+          "corrects": 58
+        },
+        {
+          "rank": 11,
+          "userId": 212,
+          "username": "Ljber",
+          "points": 408,
+          "corrects": 57
+        },
+        {
+          "rank": 11,
+          "userId": 146,
+          "username": "Neimad",
+          "points": 408,
+          "corrects": 56
+        },
+        {
+          "rank": 13,
+          "userId": 81,
+          "username": "Frederer",
+          "points": 399,
+          "corrects": 52
+        },
+        {
+          "rank": 14,
+          "userId": 141,
+          "username": "Joquer",
+          "points": 396,
+          "corrects": 55
+        },
+        {
+          "rank": 15,
+          "userId": 217,
+          "username": "Keith",
+          "points": 388,
+          "corrects": 52
+        },
+        {
+          "rank": 16,
+          "userId": 215,
+          "username": "Peter",
+          "points": 384,
+          "corrects": 55
+        },
+        {
+          "rank": 17,
+          "userId": 119,
+          "username": "Viken",
+          "points": 382,
+          "corrects": 52
+        },
+        {
+          "rank": 18,
+          "userId": 176,
+          "username": "Redcard",
+          "points": 376,
+          "corrects": 56
+        },
+        {
+          "rank": 19,
+          "userId": 95,
+          "username": "nanard",
+          "points": 374,
+          "corrects": 53
+        },
+        {
+          "rank": 19,
+          "userId": 189,
+          "username": "Christophe",
+          "points": 374,
+          "corrects": 51
+        },
+        {
+          "rank": 21,
+          "userId": 151,
+          "username": "Julian",
+          "points": 368,
+          "corrects": 50
+        },
+        {
+          "rank": 22,
+          "userId": 164,
+          "username": "guenaelle",
+          "points": 358,
+          "corrects": 49
+        },
+        {
+          "rank": 23,
+          "userId": 80,
+          "username": "fred",
+          "points": 344,
+          "corrects": 49
+        },
+        {
+          "rank": 24,
+          "userId": 167,
+          "username": "kingtanguy",
+          "points": 338,
+          "corrects": 47
+        },
+        {
+          "rank": 25,
+          "userId": 165,
+          "username": "Extubator",
+          "points": 336,
+          "corrects": 49
+        },
+        {
+          "rank": 26,
+          "userId": 209,
+          "username": "FredM",
+          "points": 328,
+          "corrects": 49
+        },
+        {
+          "rank": 26,
+          "userId": 204,
+          "username": "Zizou63",
+          "points": 328,
+          "corrects": 47
+        },
+        {
+          "rank": 26,
+          "userId": 202,
+          "username": "Val PacinO",
+          "points": 328,
+          "corrects": 43
+        },
+        {
+          "rank": 29,
+          "userId": 89,
+          "username": "loicot",
+          "points": 322,
+          "corrects": 48
+        },
+        {
+          "rank": 30,
+          "userId": 198,
+          "username": "Stefano",
+          "points": 235,
+          "corrects": 33
+        },
+        {
+          "rank": 31,
+          "userId": 173,
+          "username": "ASSJ",
+          "points": 232,
+          "corrects": 35
+        },
+        {
+          "rank": 32,
+          "userId": 216,
+          "username": "La Grande",
+          "points": 228,
+          "corrects": 31
+        },
+        {
+          "rank": 33,
+          "userId": 115,
+          "username": "Thierry Gaume",
+          "points": 214,
+          "corrects": 32
+        },
+        {
+          "rank": 34,
+          "userId": 219,
+          "username": "Stephanix76",
+          "points": 198,
+          "corrects": 27
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "21",
+  "competition": "ldc",
+  "year": "2012-2013",
+  "name": "Ligue des Champions 2012/2013",
+  "status": "ongoing",
+  "journees": 16,
+  "publishedJournees": 15,
+  "activeJournee": "16",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-05T21:05:00.000Z",
+  "notes": "Archive statique - Journée 14 manquante dans les données source",
+  "schema": "v2",
+  "excludedJournees": [14]
+}

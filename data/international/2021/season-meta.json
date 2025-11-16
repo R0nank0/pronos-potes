@@ -1,0 +1,16 @@
+{
+  "id": "53",
+  "competition": "international",
+  "year": "2021",
+  "name": "Euro 2021",
+  "status": "ongoing",
+  "journees": 6,
+  "publishedJournees": 6,
+  "activeJournee": "6",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.564Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

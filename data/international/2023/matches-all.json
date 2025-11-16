@@ -1,0 +1,490 @@
+{
+  "season": "international-2023",
+  "seasonId": "64",
+  "seasonName": "Coupe du Monde Rugby 2023",
+  "totalMatches": 48,
+  "totalJournees": 6,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1006986,
+      "journee": 1,
+      "date": "2023-09-08 21:15:00",
+      "homeTeam": "France",
+      "awayTeam": "Nouvelle-Zélande",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006987,
+      "journee": 1,
+      "date": "2023-09-09 13:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Namibie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006988,
+      "journee": 1,
+      "date": "2023-09-09 15:30:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Roumanie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006989,
+      "journee": 1,
+      "date": "2023-09-09 18:00:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Georgie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006990,
+      "journee": 1,
+      "date": "2023-09-09 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Argentine",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006991,
+      "journee": 1,
+      "date": "2023-09-10 13:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Chili",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006992,
+      "journee": 1,
+      "date": "2023-09-10 17:45:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Ecosse",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006993,
+      "journee": 1,
+      "date": "2023-09-10 21:00:00",
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Fidji",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006994,
+      "journee": 2,
+      "date": "2023-09-14 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Uruguay",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006995,
+      "journee": 2,
+      "date": "2023-09-15 21:00:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Namibie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006996,
+      "journee": 2,
+      "date": "2023-09-16 15:00:00",
+      "homeTeam": "Samoa",
+      "awayTeam": "Chili",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006997,
+      "journee": 2,
+      "date": "2023-09-16 17:45:00",
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Portugal",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006998,
+      "journee": 2,
+      "date": "2023-09-16 21:00:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Tonga",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1006999,
+      "journee": 2,
+      "date": "2023-09-17 15:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Roumanie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007000,
+      "journee": 2,
+      "date": "2023-09-17 17:45:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Fidji",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007001,
+      "journee": 2,
+      "date": "2023-09-17 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Japon",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007002,
+      "journee": 3,
+      "date": "2023-09-20 17:45:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Uruguay",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007003,
+      "journee": 3,
+      "date": "2023-09-21 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Namibie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007004,
+      "journee": 3,
+      "date": "2023-09-22 17:45:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Samoa",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007005,
+      "journee": 3,
+      "date": "2023-09-23 14:00:00",
+      "homeTeam": "Georgie",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007006,
+      "journee": 3,
+      "date": "2023-09-23 17:45:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Chili",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007007,
+      "journee": 3,
+      "date": "2023-09-23 21:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Irlande",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007008,
+      "journee": 3,
+      "date": "2023-09-24 17:45:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Tonga",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007009,
+      "journee": 3,
+      "date": "2023-09-24 21:00:00",
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Australie",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007010,
+      "journee": 4,
+      "date": "2023-09-27 17:45:00",
+      "homeTeam": "Uruguay",
+      "awayTeam": "Namibie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007011,
+      "journee": 4,
+      "date": "2023-09-28 21:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Samoa",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007012,
+      "journee": 4,
+      "date": "2023-09-29 21:00:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Italie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007013,
+      "journee": 4,
+      "date": "2023-09-30 15:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Chili",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007014,
+      "journee": 4,
+      "date": "2023-09-30 17:45:00",
+      "homeTeam": "Fidji",
+      "awayTeam": "Georgie",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007015,
+      "journee": 4,
+      "date": "2023-09-30 21:00:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "Roumanie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007016,
+      "journee": 4,
+      "date": "2023-10-01 17:45:00",
+      "homeTeam": "Australie",
+      "awayTeam": "Portugal",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007017,
+      "journee": 4,
+      "date": "2023-10-01 21:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Tonga",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007018,
+      "journee": 5,
+      "date": "2023-10-05 21:00:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Uruguay",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007019,
+      "journee": 5,
+      "date": "2023-10-06 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Italie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007020,
+      "journee": 5,
+      "date": "2023-10-07 15:00:00",
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Georgie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007021,
+      "journee": 5,
+      "date": "2023-10-07 17:45:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Samoa",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007022,
+      "journee": 5,
+      "date": "2023-10-07 21:00:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Ecosse",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007023,
+      "journee": 5,
+      "date": "2023-10-08 13:00:00",
+      "homeTeam": "Japon",
+      "awayTeam": "Argentine",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007024,
+      "journee": 5,
+      "date": "2023-10-08 17:45:00",
+      "homeTeam": "Tonga",
+      "awayTeam": "Roumanie",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007025,
+      "journee": 5,
+      "date": "2023-10-08 21:00:00",
+      "homeTeam": "Fidji",
+      "awayTeam": "Portugal",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007026,
+      "journee": 6,
+      "date": "2023-10-14 17:00:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Argentine",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007027,
+      "journee": 6,
+      "date": "2023-10-14 21:00:00",
+      "homeTeam": "Nouvelle-Zélande",
+      "awayTeam": "Irlande",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007028,
+      "journee": 6,
+      "date": "2023-10-15 17:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Fidji",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007029,
+      "journee": 6,
+      "date": "2023-10-15 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Afrique du Sud",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007030,
+      "journee": 6,
+      "date": "2023-10-20 21:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Nouvelle-Zélande",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007031,
+      "journee": 6,
+      "date": "2023-10-21 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Afrique du Sud",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007032,
+      "journee": 6,
+      "date": "2023-10-27 21:00:00",
+      "homeTeam": "Argentine",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1007033,
+      "journee": 6,
+      "date": "2023-10-28 21:00:00",
+      "homeTeam": "Afrique du Sud",
+      "awayTeam": "Nouvelle-Zélande",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "generated": "2025-11-07T15:58:03.164Z",
+  "totalWinners": 35,
+  "palmares": [
+    {
+      "userId": 72,
+      "username": "Carlos64",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2011-2012",
+          "points": 564,
+          "pronostics": 125
+        },
+        {
+          "competition": "top14",
+          "season": "2019-2020",
+          "points": 783,
+          "pronostics": 119
+        },
+        {
+          "competition": "top14",
+          "season": "2020-2021",
+          "points": 1190,
+          "pronostics": 187
+        },
+        {
+          "competition": "top14",
+          "season": "2022-2023",
+          "points": 1235,
+          "pronostics": 187
+        },
+        {
+          "competition": "international",
+          "season": "2010",
+          "points": 212,
+          "pronostics": 64
+        },
+        {
+          "competition": "international",
+          "season": "2015",
+          "points": 445,
+          "pronostics": 48
+        },
+        {
+          "competition": "international",
+          "season": "2018",
+          "points": 276,
+          "pronostics": 64
+        }
+      ],
+      "totalVictories": 7
+    },
+    {
+      "userId": 95,
+      "username": "nanard",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2007-2008",
+          "points": 3840,
+          "pronostics": 378
+        },
+        {
+          "competition": "ligue1",
+          "season": "2018-2019",
+          "points": 1520,
+          "pronostics": 379
+        },
+        {
+          "competition": "top14",
+          "season": "2016-2017",
+          "points": 1255,
+          "pronostics": 186
+        },
+        {
+          "competition": "top14",
+          "season": "2024-2025",
+          "points": 1216,
+          "pronostics": 184
+        },
+        {
+          "competition": "international",
+          "season": "2019",
+          "points": 541,
+          "pronostics": 48
+        },
+        {
+          "competition": "international",
+          "season": "2022",
+          "points": 322,
+          "pronostics": 64
+        }
+      ],
+      "totalVictories": 6
+    },
+    {
+      "userId": 94,
+      "username": "Mirinko",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2020-2021",
+          "points": 1556,
+          "pronostics": 379
+        },
+        {
+          "competition": "ldc",
+          "season": "2009-2010",
+          "points": 418,
+          "pronostics": 125
+        },
+        {
+          "competition": "ldc",
+          "season": "2013-2014",
+          "points": 658,
+          "pronostics": 125
+        },
+        {
+          "competition": "ldc",
+          "season": "2024-2025",
+          "points": 908,
+          "pronostics": 189
+        },
+        {
+          "competition": "international",
+          "season": "2008",
+          "points": 320,
+          "pronostics": 31
+        }
+      ],
+      "totalVictories": 5
+    },
+    {
+      "userId": 87,
+      "username": "le_puy_de_dome",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2015-2016",
+          "points": 1400,
+          "pronostics": 380
+        },
+        {
+          "competition": "ligue1",
+          "season": "2019-2020",
+          "points": 1162,
+          "pronostics": 280
+        },
+        {
+          "competition": "top14",
+          "season": "2023-2024",
+          "points": 1206,
+          "pronostics": 187
+        },
+        {
+          "competition": "international",
+          "season": "2018",
+          "points": 276,
+          "pronostics": 64
+        }
+      ],
+      "totalVictories": 4
+    },
+    {
+      "userId": 63,
+      "username": "Ronanko",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2015-2016",
+          "points": 570,
+          "pronostics": 125
+        },
+        {
+          "competition": "international",
+          "season": "2014",
+          "points": 314,
+          "pronostics": 64
+        },
+        {
+          "competition": "international",
+          "season": "2023",
+          "points": 453,
+          "pronostics": 48
+        }
+      ],
+      "totalVictories": 3
+    },
+    {
+      "userId": 76,
+      "username": "didile53",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2021-2022",
+          "points": 1556,
+          "pronostics": 380
+        },
+        {
+          "competition": "ligaeuropa",
+          "season": "2023-2024",
+          "points": 638,
+          "pronostics": 137
+        },
+        {
+          "competition": "top14",
+          "season": "2021-2022",
+          "points": 1206,
+          "pronostics": 187
+        }
+      ],
+      "totalVictories": 3
+    },
+    {
+      "userId": 113,
+      "username": "servan roustand",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2020-2021",
+          "points": 582,
+          "pronostics": 125
+        },
+        {
+          "competition": "top14",
+          "season": "2011-2012",
+          "points": 1052,
+          "pronostics": 187
+        },
+        {
+          "competition": "top14",
+          "season": "2018-2019",
+          "points": 1221,
+          "pronostics": 187
+        }
+      ],
+      "totalVictories": 3
+    },
+    {
+      "userId": 119,
+      "username": "Viken",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2009-2010",
+          "points": 1106,
+          "pronostics": 380
+        },
+        {
+          "competition": "ligue1",
+          "season": "2011-2012",
+          "points": 1486,
+          "pronostics": 380
+        },
+        {
+          "competition": "international",
+          "season": "2011",
+          "points": 75,
+          "pronostics": 26
+        }
+      ],
+      "totalVictories": 3
+    },
+    {
+      "userId": 89,
+      "username": "loicot",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2010-2011",
+          "points": 378,
+          "pronostics": 123
+        },
+        {
+          "competition": "top14",
+          "season": "2012-2013",
+          "points": 1137,
+          "pronostics": 173
+        }
+      ],
+      "totalVictories": 2
+    },
+    {
+      "userId": 96,
+      "username": "Nico",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2010-2011",
+          "points": 1070,
+          "pronostics": 380
+        },
+        {
+          "competition": "ligue1",
+          "season": "2011-2012",
+          "points": 1486,
+          "pronostics": 379
+        }
+      ],
+      "totalVictories": 2
+    },
+    {
+      "userId": 165,
+      "username": "Extubator",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2022-2023",
+          "points": 570,
+          "pronostics": 125
+        },
+        {
+          "competition": "ldc",
+          "season": "2023-2024",
+          "points": 602,
+          "pronostics": 125
+        }
+      ],
+      "totalVictories": 2
+    },
+    {
+      "userId": 182,
+      "username": "Phantom",
+      "victories": [
+        {
+          "competition": "top14",
+          "season": "2014-2015",
+          "points": 1194,
+          "pronostics": 187
+        },
+        {
+          "competition": "top14",
+          "season": "2015-2016",
+          "points": 1164,
+          "pronostics": 187
+        }
+      ],
+      "totalVictories": 2
+    },
+    {
+      "userId": 270,
+      "username": "Schumacher",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2014-2015",
+          "points": 1664,
+          "pronostics": 378
+        },
+        {
+          "competition": "ldc",
+          "season": "2014-2015",
+          "points": 640,
+          "pronostics": 125
+        }
+      ],
+      "totalVictories": 2
+    },
+    {
+      "userId": 79,
+      "username": "Emeric63",
+      "victories": [
+        {
+          "competition": "international",
+          "season": "2009",
+          "points": 82,
+          "pronostics": 15
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 81,
+      "username": "Frederer",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2024-2025",
+          "points": 1278,
+          "pronostics": 306
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 83,
+      "username": "Jeje la cisaille",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2006-2007",
+          "points": 4170,
+          "pronostics": 360
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 105,
+      "username": "Regis",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2008-2009",
+          "points": 4710,
+          "pronostics": 373
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 111,
+      "username": "roniche",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2023-2024",
+          "points": 1129,
+          "pronostics": 300
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 126,
+      "username": "Guéguette",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2013-2014",
+          "points": 1590,
+          "pronostics": 380
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 146,
+      "username": "Neimad",
+      "victories": [
+        {
+          "competition": "international",
+          "season": "2012",
+          "points": 142,
+          "pronostics": 31
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 160,
+      "username": "Freddy",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2012-2013",
+          "points": 500,
+          "pronostics": 113
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 172,
+      "username": "Cantona63",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2016-2017",
+          "points": 580,
+          "pronostics": 125
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 174,
+      "username": "Puyol",
+      "victories": [
+        {
+          "competition": "international",
+          "season": "2021",
+          "points": 264,
+          "pronostics": 51
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 177,
+      "username": "Dalimoi",
+      "victories": [
+        {
+          "competition": "top14",
+          "season": "2017-2018",
+          "points": 1175,
+          "pronostics": 187
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 178,
+      "username": "Darkvero",
+      "victories": [
+        {
+          "competition": "top14",
+          "season": "2013-2014",
+          "points": 1270,
+          "pronostics": 187
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 185,
+      "username": "Pittam",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2021-2022",
+          "points": 534,
+          "pronostics": 125
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 196,
+      "username": "Momo56",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2012-2013",
+          "points": 1232,
+          "pronostics": 339
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 222,
+      "username": "Le General",
+      "victories": [
+        {
+          "competition": "international",
+          "season": "2016",
+          "points": 240,
+          "pronostics": 50
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 228,
+      "username": "Claudius56",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2017-2018",
+          "points": 540,
+          "pronostics": 125
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 265,
+      "username": "Fredy56",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2016-2017",
+          "points": 1802,
+          "pronostics": 376
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 267,
+      "username": "Zetoum44",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2017-2018",
+          "points": 1686,
+          "pronostics": 380
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 296,
+      "username": "MatalBZH56",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2018-2019",
+          "points": 588,
+          "pronostics": 125
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 305,
+      "username": "Gunners-21",
+      "victories": [
+        {
+          "competition": "ldc",
+          "season": "2019-2020",
+          "points": 576,
+          "pronostics": 119
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 862,
+      "username": "Tofpondi",
+      "victories": [
+        {
+          "competition": "ligue1",
+          "season": "2022-2023",
+          "points": 1678,
+          "pronostics": 380
+        }
+      ],
+      "totalVictories": 1
+    },
+    {
+      "userId": 880,
+      "username": "ScoubIsaac",
+      "victories": [
+        {
+          "competition": "international",
+          "season": "2024",
+          "points": 231,
+          "pronostics": 50
+        }
+      ],
+      "totalVictories": 1
+    }
+  ]
+}

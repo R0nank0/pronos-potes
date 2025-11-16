@@ -1,0 +1,320 @@
+{
+  "season": "international-2012",
+  "seasonId": "15",
+  "seasonName": "Euro 2012",
+  "totalMatches": 31,
+  "totalJournees": 4,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 11899,
+      "journee": 1,
+      "date": "2012-06-08 18:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Grèce",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11900,
+      "journee": 1,
+      "date": "2012-06-08 20:45:00",
+      "homeTeam": "Russie",
+      "awayTeam": "République Tchèque",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11901,
+      "journee": 1,
+      "date": "2012-06-09 18:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Danemark",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11902,
+      "journee": 1,
+      "date": "2012-06-09 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Portugal",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11903,
+      "journee": 1,
+      "date": "2012-06-10 18:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11904,
+      "journee": 1,
+      "date": "2012-06-10 20:45:00",
+      "homeTeam": "Irlande",
+      "awayTeam": "Croatie",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11905,
+      "journee": 1,
+      "date": "2012-06-11 18:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11906,
+      "journee": 1,
+      "date": "2012-06-11 20:45:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Suède",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11907,
+      "journee": 2,
+      "date": "2012-06-12 18:00:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "République Tchèque",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11908,
+      "journee": 2,
+      "date": "2012-06-12 20:45:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Russie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11909,
+      "journee": 2,
+      "date": "2012-06-13 20:45:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Allemagne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11910,
+      "journee": 2,
+      "date": "2012-06-13 18:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11911,
+      "journee": 2,
+      "date": "2012-06-14 20:45:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Irlande",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11912,
+      "journee": 2,
+      "date": "2012-06-14 18:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Croatie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11913,
+      "journee": 2,
+      "date": "2012-06-15 20:45:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Angleterre",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": 11914,
+      "journee": 2,
+      "date": "2012-06-15 18:00:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "France",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11915,
+      "journee": 3,
+      "date": "2012-06-16 20:45:00",
+      "homeTeam": "Grèce",
+      "awayTeam": "Russie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11916,
+      "journee": 3,
+      "date": "2012-06-16 20:45:00",
+      "homeTeam": "République Tchèque",
+      "awayTeam": "Pologne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11917,
+      "journee": 3,
+      "date": "2012-06-17 20:45:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11918,
+      "journee": 3,
+      "date": "2012-06-17 20:45:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Allemagne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 11919,
+      "journee": 3,
+      "date": "2012-06-18 20:45:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 11920,
+      "journee": 3,
+      "date": "2012-06-18 20:45:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Irlande",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11921,
+      "journee": 3,
+      "date": "2012-06-19 20:45:00",
+      "homeTeam": "Suède",
+      "awayTeam": "France",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 11922,
+      "journee": 3,
+      "date": "2012-06-19 20:45:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Ukraine",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12719,
+      "journee": 4,
+      "date": "2012-06-21 20:45:00",
+      "homeTeam": "République Tchèque",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": 12720,
+      "journee": 4,
+      "date": "2012-06-22 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Grèce",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12721,
+      "journee": 4,
+      "date": "2012-06-23 20:45:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "France",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12722,
+      "journee": 4,
+      "date": "2012-06-24 20:45:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Italie",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12723,
+      "journee": 4,
+      "date": "2012-06-27 20:45:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": 12724,
+      "journee": 4,
+      "date": "2012-06-28 20:45:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": 12725,
+      "journee": 4,
+      "date": "2012-07-01 20:45:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Italie",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "finished"
+    }
+  ]
+}

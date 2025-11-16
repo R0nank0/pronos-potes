@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vider le cache - Pronos Potes</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 600px;
+            margin: 100px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            background: #f5f5f5;
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2563eb;
+            margin-bottom: 20px;
+        }
+        .info {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: left;
+        }
+        button {
+            background: #dc2626;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            margin: 10px;
+        }
+        button:hover {
+            background: #b91c1c;
+        }
+        button.secondary {
+            background: #2563eb;
+        }
+        button.secondary:hover {
+            background: #1d4ed8;
+        }
+        .success {
+            background: #10b981;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: none;
+        }
+        .cache-info {
+            background: #fef3c7;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        code {
+            background: #1f2937;
+            color: #10b981;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🗑️ Gestion du Cache</h1>
+
+        <div class="cache-info">
+            <strong>Taille du cache actuel:</strong>
+            <div id="cacheSize" style="font-size: 24px; margin-top: 10px;">Calcul...</div>
+        </div>
+
+        <div class="info">
+            <h3>Que fait cette page ?</h3>
+            <p>Cette page vide le cache localStorage utilisé par le site pour stocker temporairement les données des classements.</p>
+            <p><strong>Quand vider le cache ?</strong></p>
+            <ul style="text-align: left; margin: 10px 0;">
+                <li>Après une mise à jour des données</li>
+                <li>Si vous voyez des données incorrectes</li>
+                <li>Si le site ne charge pas correctement</li>
+            </ul>
+        </div>
+
+        <button onclick="clearCache()">
+            🗑️ Vider le cache localStorage
+        </button>
+
+        <button class="secondary" onclick="location.reload()">
+            🔄 Recharger la page
+        </button>
+
+        <div class="success" id="successMessage">
+            ✅ Cache vidé avec succès ! Vous pouvez maintenant retourner au site.
+        </div>
+
+        <div style="margin-top: 30px;">
+            <a href="/" style="color: #2563eb;">← Retour à l'accueil</a>
+        </div>
+
+        <div class="info" style="margin-top: 30px; font-size: 14px;">
+            <h4>💡 Autres méthodes</h4>
+            <p><strong>Console navigateur:</strong> Appuyez sur F12, puis tapez <code>localStorage.clear()</code></p>
+            <p><strong>Rechargement forcé:</strong> <code>Ctrl+F5</code> ou <code>Ctrl+Maj+R</code></p>
+            <p><strong>Navigation privée:</strong> <code>Ctrl+Maj+N</code> (Chrome) ou <code>Ctrl+Maj+P</code> (Firefox)</p>
+        </div>
+    </div>
+
+    <script>
+        // Calculer la taille du cache
+        function getCacheSize() {
+            let total = 0;
+            for (let key in localStorage) {
+                if (localStorage.hasOwnProperty(key)) {
+                    total += localStorage[key].length + key.length;
+                }
+            }
+            return total;
+        }
+
+        function formatBytes(bytes) {
+            if (bytes === 0) return '0 octets';
+            const k = 1024;
+            const sizes = ['octets', 'Ko', 'Mo'];
+            const i = Math.floor(Math.log(bytes) / Math.log(k));
+            return Math.round(bytes / Math.pow(k, i) * 100) / 100 + ' ' + sizes[i];
+        }
+
+        function updateCacheSize() {
+            const size = getCacheSize();
+            const count = Object.keys(localStorage).length;
+            document.getElementById('cacheSize').innerHTML =
+                `${formatBytes(size)}<br><small style="font-size: 14px;">(${count} élément${count > 1 ? 's' : ''})</small>`;
+        }
+
+        function clearCache() {
+            if (confirm('Êtes-vous sûr de vouloir vider le cache ?\n\nCela supprimera toutes les données mises en cache.')) {
+                localStorage.clear();
+                document.getElementById('successMessage').style.display = 'block';
+                updateCacheSize();
+
+                // Masquer le message après 5 secondes
+                setTimeout(() => {
+                    document.getElementById('successMessage').style.display = 'none';
+                }, 5000);
+            }
+        }
+
+        // Mettre à jour la taille au chargement
+        updateCacheSize();
+
+        // Mettre à jour toutes les 2 secondes
+        setInterval(updateCacheSize, 2000);
+    </script>
+</body>
+</html>

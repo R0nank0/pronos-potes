@@ -1,0 +1,16 @@
+{
+  "id": "37",
+  "competition": "ldc",
+  "year": "2016-2017",
+  "name": "Ligue des Champions - 2016 / 2017",
+  "status": "ongoing",
+  "journees": 16,
+  "publishedJournees": 16,
+  "activeJournee": "16",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.561Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

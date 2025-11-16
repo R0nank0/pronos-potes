@@ -1,0 +1,520 @@
+{
+  "season": "international-2021",
+  "seasonId": "53",
+  "seasonName": "Euro 2021",
+  "totalMatches": 51,
+  "totalJournees": 6,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1004411,
+      "journee": 1,
+      "date": "2021-06-11 21:00:00",
+      "homeTeam": "Turquie",
+      "awayTeam": "Italie",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004412,
+      "journee": 1,
+      "date": "2021-06-12 15:00:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Suisse",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004413,
+      "journee": 1,
+      "date": "2021-06-12 18:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Finlande",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004414,
+      "journee": 1,
+      "date": "2021-06-12 21:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Russie",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004415,
+      "journee": 1,
+      "date": "2021-06-13 15:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Croatie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004416,
+      "journee": 1,
+      "date": "2021-06-13 18:00:00",
+      "homeTeam": "Autriche",
+      "awayTeam": "Macedoine du Nord",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004417,
+      "journee": 1,
+      "date": "2021-06-13 21:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Ukraine",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004418,
+      "journee": 1,
+      "date": "2021-06-14 15:00:00",
+      "homeTeam": "Ecosse",
+      "awayTeam": "République Tchèque",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004419,
+      "journee": 1,
+      "date": "2021-06-14 18:00:00",
+      "homeTeam": "Pologne",
+      "awayTeam": "Slovaquie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004420,
+      "journee": 2,
+      "date": "2021-06-14 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Suède",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004421,
+      "journee": 2,
+      "date": "2021-06-15 18:00:00",
+      "homeTeam": "Hongrie",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004422,
+      "journee": 2,
+      "date": "2021-06-15 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Allemagne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004423,
+      "journee": 2,
+      "date": "2021-06-16 15:00:00",
+      "homeTeam": "Finlande",
+      "awayTeam": "Russie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004424,
+      "journee": 2,
+      "date": "2021-06-16 18:00:00",
+      "homeTeam": "Turquie",
+      "awayTeam": "Galles",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004425,
+      "journee": 2,
+      "date": "2021-06-16 21:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Suisse",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004426,
+      "journee": 2,
+      "date": "2021-06-17 15:00:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Macedoine du Nord",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004427,
+      "journee": 2,
+      "date": "2021-06-17 18:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Belgique",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004428,
+      "journee": 2,
+      "date": "2021-06-17 21:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Autriche",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004429,
+      "journee": 3,
+      "date": "2021-06-18 15:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Slovaquie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004430,
+      "journee": 3,
+      "date": "2021-06-18 18:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "République Tchèque",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004431,
+      "journee": 3,
+      "date": "2021-06-18 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Ecosse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004432,
+      "journee": 3,
+      "date": "2021-06-19 15:00:00",
+      "homeTeam": "Hongrie",
+      "awayTeam": "France",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004433,
+      "journee": 3,
+      "date": "2021-06-19 18:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Allemagne",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004434,
+      "journee": 3,
+      "date": "2021-06-19 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Pologne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004435,
+      "journee": 3,
+      "date": "2021-06-20 18:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Galles",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004436,
+      "journee": 3,
+      "date": "2021-06-20 18:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Turquie",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004437,
+      "journee": 3,
+      "date": "2021-06-21 18:00:00",
+      "homeTeam": "Macedoine du Nord",
+      "awayTeam": "Pays-Bas",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004438,
+      "journee": 4,
+      "date": "2021-06-21 18:00:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Autriche",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004439,
+      "journee": 4,
+      "date": "2021-06-21 21:00:00",
+      "homeTeam": "Russie",
+      "awayTeam": "Danemark",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004440,
+      "journee": 4,
+      "date": "2021-06-21 21:00:00",
+      "homeTeam": "Finlande",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004441,
+      "journee": 4,
+      "date": "2021-06-22 21:00:00",
+      "homeTeam": "République Tchèque",
+      "awayTeam": "Angleterre",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004442,
+      "journee": 4,
+      "date": "2021-06-22 21:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Ecosse",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004443,
+      "journee": 4,
+      "date": "2021-06-23 18:00:00",
+      "homeTeam": "Slovaquie",
+      "awayTeam": "Espagne",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004444,
+      "journee": 4,
+      "date": "2021-06-23 18:00:00",
+      "homeTeam": "Suède",
+      "awayTeam": "Pologne",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004445,
+      "journee": 4,
+      "date": "2021-06-23 21:00:00",
+      "homeTeam": "Allemagne",
+      "awayTeam": "Hongrie",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004446,
+      "journee": 4,
+      "date": "2021-06-23 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "France",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004447,
+      "journee": 5,
+      "date": "2021-06-26 18:00:00",
+      "homeTeam": "Galles",
+      "awayTeam": "Danemark",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004448,
+      "journee": 5,
+      "date": "2021-06-26 21:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Autriche",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004449,
+      "journee": 5,
+      "date": "2021-06-27 18:00:00",
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "République Tchèque",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004450,
+      "journee": 5,
+      "date": "2021-06-27 21:00:00",
+      "homeTeam": "Portugal",
+      "awayTeam": "Belgique",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004451,
+      "journee": 5,
+      "date": "2021-06-28 18:00:00",
+      "homeTeam": "Croatie",
+      "awayTeam": "Espagne",
+      "homeScore": 3,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004452,
+      "journee": 5,
+      "date": "2021-06-28 21:00:00",
+      "homeTeam": "France",
+      "awayTeam": "Suisse",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004453,
+      "journee": 5,
+      "date": "2021-06-29 18:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Allemagne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004454,
+      "journee": 5,
+      "date": "2021-06-29 21:00:00",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Suède",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004455,
+      "journee": 6,
+      "date": "2021-07-02 18:00:00",
+      "homeTeam": "Suisse",
+      "awayTeam": "Espagne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004456,
+      "journee": 6,
+      "date": "2021-07-02 21:00:00",
+      "homeTeam": "Belgique",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004457,
+      "journee": 6,
+      "date": "2021-07-03 18:00:00",
+      "homeTeam": "République Tchèque",
+      "awayTeam": "Danemark",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004458,
+      "journee": 6,
+      "date": "2021-07-03 21:00:00",
+      "homeTeam": "Angleterre",
+      "awayTeam": "Ukraine",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004459,
+      "journee": 6,
+      "date": "2021-07-06 21:00:00",
+      "homeTeam": "Espagne",
+      "awayTeam": "Italie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004460,
+      "journee": 6,
+      "date": "2021-07-07 21:00:00",
+      "homeTeam": "Danemark",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1004461,
+      "journee": 6,
+      "date": "2021-07-11 21:00:00",
+      "homeTeam": "Italie",
+      "awayTeam": "Angleterre",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    }
+  ]
+}

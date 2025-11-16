@@ -1,0 +1,16 @@
+{
+  "id": "56",
+  "competition": "ldc",
+  "year": "2021-2022",
+  "name": "Ligue des Champions - 2021 / 2022",
+  "status": "ongoing",
+  "journees": 16,
+  "publishedJournees": 16,
+  "activeJournee": "16",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.564Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

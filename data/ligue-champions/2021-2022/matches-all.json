@@ -1,0 +1,1260 @@
+{
+  "season": "ldc-2021-2022",
+  "seasonId": "56",
+  "seasonName": "Ligue des Champions - 2021 / 2022",
+  "totalMatches": 125,
+  "totalJournees": 16,
+  "note": "Team IDs need to be mapped to team names",
+  "matches": [
+    {
+      "id": 1005409,
+      "journee": 1,
+      "date": "2021-09-14 21:00:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005410,
+      "journee": 1,
+      "date": "2021-09-14 21:00:00",
+      "homeTeam": "Dynamo Kiev",
+      "awayTeam": "Benfica",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005411,
+      "journee": 1,
+      "date": "2021-09-14 18:45:00",
+      "homeTeam": "Berne",
+      "awayTeam": "Manchester United",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005412,
+      "journee": 1,
+      "date": "2021-09-14 21:00:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Atalanta Bergame",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005413,
+      "journee": 1,
+      "date": "2021-09-14 18:45:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "RB Salzbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005414,
+      "journee": 1,
+      "date": "2021-09-14 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Wolfsburg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005415,
+      "journee": 1,
+      "date": "2021-09-14 21:00:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005416,
+      "journee": 1,
+      "date": "2021-09-14 21:00:00",
+      "homeTeam": "Malmö",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005417,
+      "journee": 2,
+      "date": "2021-09-15 21:00:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 6,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005418,
+      "journee": 2,
+      "date": "2021-09-15 21:00:00",
+      "homeTeam": "Club Bruges",
+      "awayTeam": "Paris-SG",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005419,
+      "journee": 2,
+      "date": "2021-09-15 21:00:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "FC Porto",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005420,
+      "journee": 2,
+      "date": "2021-09-15 21:00:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Milan AC",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005421,
+      "journee": 2,
+      "date": "2021-09-15 18:45:00",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005422,
+      "journee": 2,
+      "date": "2021-09-15 21:00:00",
+      "homeTeam": "Sporting Portugal",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005423,
+      "journee": 2,
+      "date": "2021-09-15 18:45:00",
+      "homeTeam": "Sheriff Tiraspol",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005424,
+      "journee": 2,
+      "date": "2021-09-15 21:00:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005425,
+      "journee": 3,
+      "date": "2021-09-28 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005426,
+      "journee": 3,
+      "date": "2021-09-28 21:00:00",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Club Bruges",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005427,
+      "journee": 3,
+      "date": "2021-09-28 21:00:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005428,
+      "journee": 3,
+      "date": "2021-09-28 21:00:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Liverpool",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005429,
+      "journee": 3,
+      "date": "2021-09-28 18:45:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Besiktas",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005430,
+      "journee": 3,
+      "date": "2021-09-28 21:00:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Sporting Portugal",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005431,
+      "journee": 3,
+      "date": "2021-09-28 18:45:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Inter Milan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005432,
+      "journee": 3,
+      "date": "2021-09-28 21:00:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Sheriff Tiraspol",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005433,
+      "journee": 4,
+      "date": "2021-09-29 21:00:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Dynamo Kiev",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005434,
+      "journee": 4,
+      "date": "2021-09-29 21:00:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005435,
+      "journee": 4,
+      "date": "2021-09-29 18:45:00",
+      "homeTeam": "Atalanta Bergame",
+      "awayTeam": "Berne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005436,
+      "journee": 4,
+      "date": "2021-09-29 21:00:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005437,
+      "journee": 4,
+      "date": "2021-09-29 21:00:00",
+      "homeTeam": "RB Salzbourg",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005438,
+      "journee": 4,
+      "date": "2021-09-29 21:00:00",
+      "homeTeam": "Wolfsburg",
+      "awayTeam": "Seville FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005439,
+      "journee": 4,
+      "date": "2021-09-29 18:45:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Malmö",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005440,
+      "journee": 4,
+      "date": "2021-09-29 21:00:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005441,
+      "journee": 5,
+      "date": "2021-10-19 18:45:00",
+      "homeTeam": "Club Bruges",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005442,
+      "journee": 5,
+      "date": "2021-10-19 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005443,
+      "journee": 5,
+      "date": "2021-10-19 21:00:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Liverpool",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005444,
+      "journee": 5,
+      "date": "2021-10-19 21:00:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Milan AC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005445,
+      "journee": 5,
+      "date": "2021-10-19 18:45:00",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Sporting Portugal",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005446,
+      "journee": 5,
+      "date": "2021-10-19 21:00:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005447,
+      "journee": 5,
+      "date": "2021-10-19 21:00:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005448,
+      "journee": 5,
+      "date": "2021-10-19 21:00:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Sheriff Tiraspol",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005449,
+      "journee": 6,
+      "date": "2021-10-20 18:45:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Dynamo Kiev",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005450,
+      "journee": 6,
+      "date": "2021-10-20 21:00:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005451,
+      "journee": 6,
+      "date": "2021-10-20 21:00:00",
+      "homeTeam": "Berne",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005452,
+      "journee": 6,
+      "date": "2021-10-20 21:00:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Atalanta Bergame",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005453,
+      "journee": 6,
+      "date": "2021-10-20 18:45:00",
+      "homeTeam": "RB Salzbourg",
+      "awayTeam": "Wolfsburg",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005454,
+      "journee": 6,
+      "date": "2021-10-20 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Seville FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005455,
+      "journee": 6,
+      "date": "2021-10-20 21:00:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Malmö",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005456,
+      "journee": 6,
+      "date": "2021-10-20 21:00:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005457,
+      "journee": 7,
+      "date": "2021-11-02 21:00:00",
+      "homeTeam": "Dynamo Kiev",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005458,
+      "journee": 7,
+      "date": "2021-11-02 21:00:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Benfica",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005459,
+      "journee": 7,
+      "date": "2021-11-02 21:00:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Berne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005460,
+      "journee": 7,
+      "date": "2021-11-02 21:00:00",
+      "homeTeam": "Atalanta Bergame",
+      "awayTeam": "Manchester United",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005461,
+      "journee": 7,
+      "date": "2021-11-02 18:45:00",
+      "homeTeam": "Wolfsburg",
+      "awayTeam": "RB Salzbourg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005462,
+      "journee": 7,
+      "date": "2021-11-02 21:00:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005463,
+      "journee": 7,
+      "date": "2021-11-02 18:45:00",
+      "homeTeam": "Malmö",
+      "awayTeam": "Chelsea",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005464,
+      "journee": 7,
+      "date": "2021-11-02 21:00:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005465,
+      "journee": 8,
+      "date": "2021-11-03 21:00:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Club Bruges",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005466,
+      "journee": 8,
+      "date": "2021-11-03 21:00:00",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005467,
+      "journee": 8,
+      "date": "2021-11-03 18:45:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "FC Porto",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005468,
+      "journee": 8,
+      "date": "2021-11-03 21:00:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005469,
+      "journee": 8,
+      "date": "2021-11-03 21:00:00",
+      "homeTeam": "Sporting Portugal",
+      "awayTeam": "Besiktas",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005470,
+      "journee": 8,
+      "date": "2021-11-03 21:00:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005471,
+      "journee": 8,
+      "date": "2021-11-03 18:45:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005472,
+      "journee": 8,
+      "date": "2021-11-03 21:00:00",
+      "homeTeam": "Sheriff Tiraspol",
+      "awayTeam": "Inter Milan",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005473,
+      "journee": 9,
+      "date": "2021-11-23 18:45:00",
+      "homeTeam": "Dynamo Kiev",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005474,
+      "journee": 9,
+      "date": "2021-11-23 21:00:00",
+      "homeTeam": "FC Barcelone",
+      "awayTeam": "Benfica",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005475,
+      "journee": 9,
+      "date": "2021-11-23 18:45:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Manchester United",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005476,
+      "journee": 9,
+      "date": "2021-11-23 21:00:00",
+      "homeTeam": "Berne",
+      "awayTeam": "Atalanta Bergame",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005477,
+      "journee": 9,
+      "date": "2021-11-23 21:00:00",
+      "homeTeam": "Seville FC",
+      "awayTeam": "Wolfsburg",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005478,
+      "journee": 9,
+      "date": "2021-11-23 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "RB Salzbourg",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005479,
+      "journee": 9,
+      "date": "2021-11-23 21:00:00",
+      "homeTeam": "Malmö",
+      "awayTeam": "Zénith St Petersbourg",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005480,
+      "journee": 9,
+      "date": "2021-11-23 21:00:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005481,
+      "journee": 10,
+      "date": "2021-11-24 21:00:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Paris-SG",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005482,
+      "journee": 10,
+      "date": "2021-11-24 21:00:00",
+      "homeTeam": "Club Bruges",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005483,
+      "journee": 10,
+      "date": "2021-11-24 21:00:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Milan AC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005484,
+      "journee": 10,
+      "date": "2021-11-24 21:00:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "FC Porto",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005485,
+      "journee": 10,
+      "date": "2021-11-24 18:45:00",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005486,
+      "journee": 10,
+      "date": "2021-11-24 21:00:00",
+      "homeTeam": "Sporting Portugal",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005487,
+      "journee": 10,
+      "date": "2021-11-24 18:45:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Shakhtar Donetsk",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005488,
+      "journee": 10,
+      "date": "2021-11-24 21:00:00",
+      "homeTeam": "Sheriff Tiraspol",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005489,
+      "journee": 11,
+      "date": "2021-12-07 18:45:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Club Bruges",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005490,
+      "journee": 11,
+      "date": "2021-12-07 18:45:00",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005491,
+      "journee": 11,
+      "date": "2021-12-07 21:00:00",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005492,
+      "journee": 11,
+      "date": "2021-12-07 21:00:00",
+      "homeTeam": "Milan AC",
+      "awayTeam": "Liverpool",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005493,
+      "journee": 11,
+      "date": "2021-12-07 21:00:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Besiktas",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005494,
+      "journee": 11,
+      "date": "2021-12-07 21:00:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Sporting Portugal",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005495,
+      "journee": 11,
+      "date": "2021-12-07 21:00:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Inter Milan",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005496,
+      "journee": 11,
+      "date": "2021-12-07 21:00:00",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Sheriff Tiraspol",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005497,
+      "journee": 12,
+      "date": "2021-12-08 21:00:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Dynamo Kiev",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005498,
+      "journee": 12,
+      "date": "2021-12-08 21:00:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "FC Barcelone",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005499,
+      "journee": 12,
+      "date": "2021-12-08 21:00:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Berne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005500,
+      "journee": 12,
+      "date": "2021-12-09 19:00:00",
+      "homeTeam": "Atalanta Bergame",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005501,
+      "journee": 12,
+      "date": "2021-12-08 21:00:00",
+      "homeTeam": "RB Salzbourg",
+      "awayTeam": "Seville FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005502,
+      "journee": 12,
+      "date": "2021-12-08 21:00:00",
+      "homeTeam": "Wolfsburg",
+      "awayTeam": "Lille",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005503,
+      "journee": 12,
+      "date": "2021-12-08 18:45:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Malmö",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005504,
+      "journee": 12,
+      "date": "2021-12-08 18:45:00",
+      "homeTeam": "Zénith St Petersbourg",
+      "awayTeam": "Chelsea",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005505,
+      "journee": 13,
+      "date": "2022-02-15 21:00:00",
+      "homeTeam": "Sporting Portugal",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005506,
+      "journee": 13,
+      "date": "2022-02-15 21:00:00",
+      "homeTeam": "Paris-SG",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005507,
+      "journee": 13,
+      "date": "2022-02-16 21:00:00",
+      "homeTeam": "RB Salzbourg",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005508,
+      "journee": 13,
+      "date": "2022-02-16 21:00:00",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Liverpool",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005509,
+      "journee": 13,
+      "date": "2022-02-22 21:00:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Lille",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005510,
+      "journee": 13,
+      "date": "2022-02-22 21:00:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Juventus Turin",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005511,
+      "journee": 13,
+      "date": "2022-02-23 21:00:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Ajax Amsterdam",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005512,
+      "journee": 13,
+      "date": "2022-02-23 21:00:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Manchester United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005513,
+      "journee": 14,
+      "date": "2022-03-08 21:00:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "RB Salzbourg",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005514,
+      "journee": 14,
+      "date": "2022-03-08 21:00:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Inter Milan",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005515,
+      "journee": 14,
+      "date": "2022-03-09 21:00:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Sporting Portugal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005516,
+      "journee": 14,
+      "date": "2022-03-09 21:00:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Paris-SG",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005517,
+      "journee": 14,
+      "date": "2022-03-15 21:00:00",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "Benfica",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005518,
+      "journee": 14,
+      "date": "2022-03-15 21:00:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005519,
+      "journee": 14,
+      "date": "2022-03-16 21:00:00",
+      "homeTeam": "Lille",
+      "awayTeam": "Chelsea",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005520,
+      "journee": 14,
+      "date": "2022-03-16 21:00:00",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005521,
+      "journee": 15,
+      "date": "2022-04-05 21:00:00",
+      "homeTeam": "Benfica",
+      "awayTeam": "Liverpool",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005522,
+      "journee": 15,
+      "date": "2022-04-05 21:00:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Atletico de Madrid",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005523,
+      "journee": 15,
+      "date": "2022-04-06 21:00:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Bayern Munich",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005524,
+      "journee": 15,
+      "date": "2022-04-06 21:00:00",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005525,
+      "journee": 15,
+      "date": "2022-04-12 21:00:00",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005526,
+      "journee": 15,
+      "date": "2022-04-12 21:00:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Chelsea",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005527,
+      "journee": 15,
+      "date": "2022-04-13 21:00:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Benfica",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005528,
+      "journee": 15,
+      "date": "2022-04-13 21:00:00",
+      "homeTeam": "Atletico de Madrid",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005529,
+      "journee": 16,
+      "date": "2022-04-26 21:00:00",
+      "homeTeam": "Manchester City FC ",
+      "awayTeam": "Real Madrid",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005530,
+      "journee": 16,
+      "date": "2022-04-27 21:00:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Villarreal CF ",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005531,
+      "journee": 16,
+      "date": "2022-05-03 21:00:00",
+      "homeTeam": "Villarreal CF ",
+      "awayTeam": "Liverpool",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005532,
+      "journee": 16,
+      "date": "2022-05-04 21:00:00",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Manchester City FC ",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "upcoming"
+    },
+    {
+      "id": 1005533,
+      "journee": 16,
+      "date": "2022-05-28 21:00:00",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Real Madrid",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "upcoming"
+    }
+  ]
+}

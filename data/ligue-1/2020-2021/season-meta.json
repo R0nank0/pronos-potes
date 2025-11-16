@@ -1,0 +1,16 @@
+{
+  "id": "50",
+  "competition": "ligue1",
+  "year": "2020-2021",
+  "name": "Ligue 1 - 2020 / 2021",
+  "status": "ongoing",
+  "journees": 38,
+  "publishedJournees": 38,
+  "activeJournee": "38",
+  "totalMatches": 0,
+  "activeUsers": 0,
+  "totalPronostics": 0,
+  "lastUpdate": "2025-11-02T15:03:55.563Z",
+  "notes": "Archive statique - données non mises à jour en temps réel",
+  "schema": "v2"
+}

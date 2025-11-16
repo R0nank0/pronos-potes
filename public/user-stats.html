@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistiques Utilisateur - Pronos Potes</title>
+    <meta name="description" content="Statistiques détaillées par joueur">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/user-stats.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="hero-background"></div>
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-logo">
+                    <a href="index.html">
+                        <img src="assets/logo.png" alt="Pronos Potes" class="logo-image" style="max-width: 400px;">
+                    </a>
+                </div>
+                <h1 class="hero-title">📊 Statistiques Utilisateur</h1>
+                <p class="hero-subtitle">Analysez les performances de chaque joueur sur toutes les saisons</p>
+            </div>
+        </div>
+    </section>
+
+    <main class="main">
+        <div class="container">
+
+            <!-- User Selection -->
+            <section class="user-selection-section">
+                <div class="selection-header">
+                    <h2>Sélectionner un joueur</h2>
+                    <div class="selection-controls">
+                        <input type="text"
+                               id="search-user"
+                               placeholder="Rechercher un joueur..."
+                               class="search-input">
+                        <select id="sort-users" class="sort-select">
+                            <option value="name">Par nom</option>
+                            <option value="victories">Par victoires</option>
+                            <option value="totalPoints">Par points totaux</option>
+                            <option value="participations">Par participations</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="users-grid" class="users-grid loading">
+                    <div class="loader">Chargement des joueurs...</div>
+                </div>
+            </section>
+
+            <!-- User Stats (hidden until user selected) -->
+            <section id="user-stats-section" style="display: none;">
+
+                <!-- User Header -->
+                <div class="user-header">
+                    <button id="back-to-selection" class="back-btn">← Retour à la sélection</button>
+                    <div class="user-info">
+                        <h2 id="user-name" class="user-name"></h2>
+                        <div id="user-stars" class="user-stars"></div>
+                    </div>
+                </div>
+
+                <!-- Global Stats -->
+                <div class="stats-cards">
+                    <div class="stat-card highlight">
+                        <div class="stat-icon">🏆</div>
+                        <div class="stat-value" id="total-victories">0</div>
+                        <div class="stat-label">Victoires</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">📊</div>
+                        <div class="stat-value" id="total-points">0</div>
+                        <div class="stat-label">Points totaux</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">🎯</div>
+                        <div class="stat-value" id="total-participations">0</div>
+                        <div class="stat-label">Participations</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">✅</div>
+                        <div class="stat-value" id="success-rate">0%</div>
+                        <div class="stat-label" title="Pourcentage de pronostics avec le bon résultat (victoire domicile, nul ou victoire extérieur)">Bons 1N2</div>
+                    </div>
+                </div>
+
+                <!-- Competition Stats -->
+                <div class="competition-stats-section">
+                    <h3>Performances par compétition</h3>
+                    <div class="competition-stats-grid" id="competition-stats-grid">
+                        <!-- Will be populated by JS -->
+                    </div>
+                </div>
+
+                <!-- Filters -->
+                <div class="filters-section">
+                    <h3>Filtrer les résultats</h3>
+                    <div class="filters-controls">
+                        <select id="filter-competition" class="filter-select">
+                            <option value="all">Toutes les compétitions</option>
+                            <option value="ligue1">Ligue 1</option>
+                            <option value="ldc">Ligue des Champions</option>
+                            <option value="ligaeuropa">Liga Europa</option>
+                            <option value="top14">TOP 14</option>
+                            <option value="international">International</option>
+                        </select>
+
+                        <select id="filter-season" class="filter-select">
+                            <option value="all">Toutes les saisons</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Seasons Table -->
+                <div class="seasons-table-section">
+                    <h3>Classements par saison</h3>
+                    <div id="seasons-table-container" class="table-container loading">
+                        <div class="loader">Chargement des données...</div>
+                    </div>
+                </div>
+
+            </section>
+
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2006-2025 Pronos Potes - Archive statique</p>
+        </div>
+    </footer>
+
+    <script src="js/utils.js"></script>
+    <script src="js/user-stats.js"></script>
+</body>
+</html>
