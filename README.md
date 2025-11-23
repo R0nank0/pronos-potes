@@ -196,7 +196,6 @@ Avec GZIP : **~5-7 MB**
 
 ## 📖 Documentation
 
-- [CLAUDE.md](CLAUDE.md) : Instructions complètes pour Claude Code
 - [Scripts SQL README](scripts/export-sql/README.md) : Documentation des exports
 - [Database Schema](scripts/export-sql/database-schema-example.sql) : Structure attendue
 
@@ -211,5 +210,5 @@ Données privées - Tous droits réservés
 ---
 
 **Version** : 2.0
-**Dernière mise à jour** : 2 novembre 2025
+**Dernière mise à jour** : 23 novembre 2025
 **Statut** : ✅ Phases 1-3 terminées - 🚀 Prêt pour le déploiement

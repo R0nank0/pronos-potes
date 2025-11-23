@@ -133,7 +133,6 @@ Historique des modifications du projet.
   - `README.md` - Vue d'ensemble
   - `QUICKSTART.md` - Démarrage rapide SQL
   - `GUIDE-COMPLET.md` - Guide détaillé
-  - `CLAUDE.md` - Architecture
   - `scripts/MOCK-DATA-README.md`
   - `scripts/export-sql/README.md`
 

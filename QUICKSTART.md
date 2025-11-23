@@ -185,7 +185,6 @@ SELECT COUNT(*) FROM jos_pronostics;
 ## 📚 Documentation complète
 
 - [README.md](README.md) : Vue d'ensemble du projet
-- [CLAUDE.md](CLAUDE.md) : Architecture détaillée
 - [scripts/export-sql/README.md](scripts/export-sql/README.md) : Documentation des scripts SQL
 
 ## 🎯 Prochaines étapes
