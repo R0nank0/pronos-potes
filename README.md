@@ -2,6 +2,8 @@
 
 Archive statique du site de pronostics sportifs **pronos-potes.fr** (19 années d'historique, ~500 000 pronostics).
 
+🌐 **Site en ligne** : [https://pronos-potes.fr](https://pronos-potes.fr)
+
 ## 📊 Données
 
 - **5 compétitions** : Ligue 1, Ligue des Champions, Liga Europa, TOP 14, International
@@ -188,11 +190,12 @@ Avec GZIP : **~5-7 MB**
 - [x] Responsive design mobile-first
 - [x] Serveur de développement local
 
-### ⏳ Phase 4 : Déploiement - EN COURS
-- [ ] GitHub Actions
-- [ ] Tests staging
-- [ ] Configuration DNS pronos-potes.fr
-- [ ] Mise en production
+### ✅ Phase 4 : Déploiement - TERMINÉE
+- [x] Repository GitHub créé et configuré
+- [x] GitHub Pages activé
+- [x] Configuration DNS pronos-potes.fr (Infomaniak)
+- [x] Certificat HTTPS activé (Let's Encrypt)
+- [x] Site en production : https://pronos-potes.fr
 
 ## 📖 Documentation
 
@@ -211,4 +214,4 @@ Données privées - Tous droits réservés
 
 **Version** : 2.0
 **Dernière mise à jour** : 23 novembre 2025
-**Statut** : ✅ Phases 1-3 terminées - 🚀 Prêt pour le déploiement
+**Statut** : ✅ Toutes phases terminées - 🌐 Site en production sur https://pronos-potes.fr
