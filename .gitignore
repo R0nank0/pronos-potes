@@ -11,8 +11,16 @@ test-output/
 CLAUDE.md
 DEPLOYMENT.md
 GUIDE-COMPLET.md
+QUICKSTART.md
+CHANGELOG.md
 TEAMS_BY_SEASON.txt
 TEAMS_TO_ADD.txt
+
+# Outils de développement (garder en local uniquement)
+package.json
+package-lock.json
+server.js
+scripts/
 
 # Backups des scripts SQL
 *.sql.bak
